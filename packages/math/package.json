@@ -1,0 +1,25 @@
+{
+  "name": "@apeiron/math",
+  "type": "module",
+  "scripts": {
+    "dev": "tsc --watch",
+    "build": "tsc"
+  },
+  "exports": {
+    "./add": {
+      "types": "./src/add.ts",
+      "default": "./dist/add.js"
+    },
+    "./subtract": {
+      "types": "./src/subtract.ts",
+      "default": "./dist/subtract.js"
+    }
+  },
+  "devDependencies": {
+    "@apeiron/typescript-config": "workspace:*",
+    "typescript": "latest"
+  },
+  "dependencies": {
+    "ts-pattern": "^5.7.0"
+  }
+}
