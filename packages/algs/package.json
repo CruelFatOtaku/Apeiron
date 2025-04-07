@@ -1,0 +1,29 @@
+{
+  "name": "@apeiron/algs",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsc --watch",
+    "build": "tsc",
+    "test": "NODE_OPTIONS=--experimental-vm-modules jest --no-cache"
+  },
+  "exports": {
+    "./*": "./src/*.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@apeiron/eslint-config": "workspace:*",
+    "@apeiron/typescript-config": "workspace:*",
+    "@jest/globals": "^29.7.0",
+    "@jest/types": "^29.6.3",
+    "@types/jest": "^29.5.14",
+    "eslint": "^9.23.0",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.0",
+    "typescript": "^5.8.3"
+  }
+}
