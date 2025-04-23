@@ -12,6 +12,7 @@ export const getWordsFromSentence = (
     if (wordMatches) {
       return wordMatches.filter((word) => word.trim() !== "");
     }
+
     return [];
   }
 };
