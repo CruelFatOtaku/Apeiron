@@ -3,7 +3,7 @@
   "compilerOptions": {
     "outDir": "dist"
   },
-  "include": ["src", "test/leetcode416.test.ts"],
+  "include": ["src", "test/leetcode416.test.ts", "test/getWordsFromSentence.test.ts"],
   "types": ["jest"],
   "exclude": ["node_modules", "dist"]
 }
