@@ -12,7 +12,7 @@ export default function EditUserPage() {
   const [user, setUser] = useState<{
     id: number;
     email: string;
-    name?: string;
+    name?: string | null;
   } | null>(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState("");
@@ -23,7 +23,7 @@ export default function EditUserPage() {
         const result = await GetUserById({ id: userId });
 
         if (result.success) {
-          setUser(result.user);
+          setUser(result.user || null);
           setError("");
         } else {
           setError(result.error || "加载用户信息失败");
@@ -74,7 +74,11 @@ export default function EditUserPage() {
 
       {user && (
         <UserForm
-          initialData={user}
+          initialData={{
+            id: user.id,
+            email: user.email,
+            name: user.name || undefined,
+          }}
           onSubmit={handleUpdate}
           submitButtonText="保存修改"
         />

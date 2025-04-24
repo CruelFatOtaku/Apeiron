@@ -4,13 +4,14 @@ import { useEffect, useState } from "react";
 import { GetUserById } from "../../../api/User";
 import { useParams, useRouter } from "next/navigation";
 import Link from "next/link";
+import { User } from "../../../../generated/prisma";
 
 export default function UserDetailsPage() {
   const params = useParams();
   const router = useRouter();
   const userId = Number(params.id);
 
-  const [user, setUser] = useState<any>(null);
+  const [user, setUser] = useState<User | undefined>(undefined);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState("");
 

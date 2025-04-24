@@ -1,16 +1,21 @@
 "use client";
 
-import { useState, useEffect } from "react";
+import { useState, useEffect, useRef } from "react";
 import { GetUsers, DeleteUser } from "../../api/User";
 import Link from "next/link";
-import { useRouter, useSearchParams } from "next/navigation";
+import { useSearchParams } from "next/navigation";
+
+interface User {
+  id: number;
+  email: string;
+  name: string | null;
+}
 
 export default function UsersPage() {
-  const router = useRouter();
   const searchParams = useSearchParams();
 
   // 状态管理
-  const [users, setUsers] = useState([]);
+  const [users, setUsers] = useState<User[]>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState("");
   const [totalCount, setTotalCount] = useState(0);
@@ -53,22 +58,27 @@ export default function UsersPage() {
     setLoading(true);
 
     try {
-      const orderBy = { [sortField]: sortOrder };
+      const orderBy =
+        sortField === "id"
+          ? { id: sortOrder }
+          : sortField === "email"
+            ? { email: sortOrder }
+            : { name: sortOrder };
       const skip = (currentPage - 1) * pageSize;
 
       const result = await GetUsers({
         skip,
         take: pageSize,
         orderBy,
-        filter: {
-          email: searchEmail || undefined,
-          name: searchName || undefined,
-        },
       });
+      if (result.success) {
+        setUsers(result.users || []);
+        setTotalCount(result.totalCount || 0);
+      }
 
       if (result.success) {
-        setUsers(result.users);
-        setTotalCount(result.totalCount);
+        setUsers(result.users || []);
+        setTotalCount(result.totalCount || 0);
         setError("");
       } else {
         setError(result.error || "加载用户列表失败");
@@ -81,9 +91,12 @@ export default function UsersPage() {
     }
   };
 
+  const loadUsersRef = useRef(loadUsers);
+  loadUsersRef.current = loadUsers;
+
   // 当依赖项变化时重新加载数据
   useEffect(() => {
-    loadUsers();
+    loadUsersRef.current();
 
     // 更新URL参数
     const params = new URLSearchParams();
@@ -98,7 +111,7 @@ export default function UsersPage() {
   }, [currentPage, searchEmail, searchName, sortField, sortOrder]);
 
   // 处理搜索表单提交
-  const handleSearch = (e) => {
+  const handleSearch = (e: { preventDefault: () => void }) => {
     e.preventDefault();
     setSearchEmail(tempSearchEmail);
     setSearchName(tempSearchName);
@@ -293,7 +306,7 @@ export default function UsersPage() {
                     </td>
                   </tr>
                 ) : (
-                  users.map((user: any) => (
+                  users.map((user: User) => (
                     <tr key={user.id}>
                       <td className="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900">
                         {user.id}
