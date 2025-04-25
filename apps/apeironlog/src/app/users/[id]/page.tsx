@@ -4,7 +4,9 @@ import { useEffect, useState } from "react";
 import { GetUserById } from "../../../api/User";
 import { useParams, useRouter } from "next/navigation";
 import Link from "next/link";
-import { User } from "../../../../generated/prisma";
+
+// 从GetUserById中推断出其返回值的promise中user字段的类型
+type User = Awaited<ReturnType<typeof GetUserById>>["user"];
 
 export default function UserDetailsPage() {
   const params = useParams();
@@ -120,7 +122,7 @@ export default function UserDetailsPage() {
               <div className="mt-8">
                 <h2 className="text-lg font-semibold mb-4">用户文章</h2>
                 <table className="min-w-full divide-y divide-gray-200">
-                  <thead className="bg-gray-50">
+                  <thead className="bg-black">
                     <tr>
                       <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
                         ID
@@ -161,7 +163,7 @@ export default function UserDetailsPage() {
             )}
           </div>
 
-          <div className="px-6 py-3 bg-gray-50 border-t flex justify-between">
+          <div className="px-6 py-3 bg-black border-t flex justify-between">
             <Link
               href="/users"
               className="px-4 py-2 bg-gray-300 text-gray-700 rounded hover:bg-gray-400"

@@ -1,21 +1,28 @@
 "use client";
 
 import { useState, useEffect, useRef } from "react";
-import { GetUsers, DeleteUser } from "../../api/User";
+import { GetPosts, DeletePost } from "../../api/Post";
 import Link from "next/link";
 import { useSearchParams } from "next/navigation";
 
-interface User {
+interface Post {
   id: number;
-  email: string;
-  name: string | null;
+  title: string;
+  content: string | null;
+  published: boolean;
+  authorId: number;
+  author?: {
+    id: number;
+    name: string | null;
+    email: string;
+  };
 }
 
-export default function UsersPage() {
+export default function PostsPage() {
   const searchParams = useSearchParams();
 
   // 状态管理
-  const [users, setUsers] = useState<User[]>([]);
+  const [posts, setPosts] = useState<Post[]>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState("");
   const [totalCount, setTotalCount] = useState(0);
@@ -23,134 +30,140 @@ export default function UsersPage() {
   const [pageSize] = useState(10);
 
   // 搜索过滤
-  const [searchEmail, setSearchEmail] = useState("");
-  const [searchName, setSearchName] = useState("");
-  const [tempSearchEmail, setTempSearchEmail] = useState("");
-  const [tempSearchName, setTempSearchName] = useState("");
+  const [searchTitle, setSearchTitle] = useState("");
+  const [tempSearchTitle, setTempSearchTitle] = useState("");
+  const [filterPublished, setFilterPublished] = useState<boolean | undefined>(
+    undefined
+  );
 
   // 排序
-  const [sortField, setSortField] = useState<"id" | "email" | "name">("id");
-  const [sortOrder, setSortOrder] = useState<"asc" | "desc">("asc");
+  const [sortField, setSortField] = useState<"id" | "title" | "published">(
+    "id"
+  );
+  const [sortOrder, setSortOrder] = useState<"asc" | "desc">("desc");
 
   // 从URL参数中获取初始状态
   useEffect(() => {
     const page = searchParams.get("page");
-    const email = searchParams.get("email");
-    const name = searchParams.get("name");
-    const sort = searchParams.get("sort") as "id" | "email" | "name" | null;
+    const title = searchParams.get("title");
+    const published = searchParams.get("published");
+    const sort = searchParams.get("sort") as
+      | "id"
+      | "title"
+      | "published"
+      | null;
     const order = searchParams.get("order") as "asc" | "desc" | null;
 
     if (page) setCurrentPage(parseInt(page));
-    if (email) {
-      setSearchEmail(email);
-      setTempSearchEmail(email);
+    if (title) {
+      setSearchTitle(title);
+      setTempSearchTitle(title);
     }
-    if (name) {
-      setSearchName(name);
-      setTempSearchName(name);
+    if (published !== null) {
+      setFilterPublished(published === "true");
     }
     if (sort) setSortField(sort);
     if (order) setSortOrder(order);
   }, [searchParams]);
 
-  // 加载用户数据
-  const loadUsers = async () => {
+  // 加载文章数据
+  const loadPosts = async () => {
     setLoading(true);
 
     try {
       const orderBy =
         sortField === "id"
           ? { id: sortOrder }
-          : sortField === "email"
-            ? { email: sortOrder }
-            : { name: sortOrder };
+          : sortField === "title"
+            ? { title: sortOrder }
+            : { published: sortOrder };
       const skip = (currentPage - 1) * pageSize;
 
-      const result = await GetUsers({
+      const result = await GetPosts({
         skip,
         take: pageSize,
         orderBy,
+        includeAuthor: true,
+        filter: {
+          title: searchTitle || undefined,
+          published: filterPublished,
+        },
       });
-      if (result.success) {
-        setUsers(result.users || []);
-        setTotalCount(result.totalCount || 0);
-      }
 
       if (result.success) {
-        setUsers(result.users || []);
+        setPosts(result.posts || []);
         setTotalCount(result.totalCount || 0);
         setError("");
       } else {
-        setError(result.error || "加载用户列表失败");
+        setError(result.error || "加载文章列表失败");
       }
     } catch (err) {
-      setError("获取用户数据时发生错误");
+      setError("获取文章数据时发生错误");
       console.error(err);
     } finally {
       setLoading(false);
     }
   };
 
-  const loadUsersRef = useRef(loadUsers);
-  loadUsersRef.current = loadUsers;
+  const loadPostsRef = useRef(loadPosts);
+  loadPostsRef.current = loadPosts;
 
   // 当依赖项变化时重新加载数据
   useEffect(() => {
-    loadUsersRef.current();
+    loadPostsRef.current();
 
     // 更新URL参数
     const params = new URLSearchParams();
     if (currentPage > 1) params.set("page", currentPage.toString());
-    if (searchEmail) params.set("email", searchEmail);
-    if (searchName) params.set("name", searchName);
+    if (searchTitle) params.set("title", searchTitle);
+    if (filterPublished !== undefined)
+      params.set("published", filterPublished.toString());
     if (sortField !== "id") params.set("sort", sortField);
-    if (sortOrder !== "asc") params.set("order", sortOrder);
+    if (sortOrder !== "desc") params.set("order", sortOrder);
 
     const newUrl = `${window.location.pathname}${params.toString() ? "?" + params.toString() : ""}`;
     window.history.pushState({}, "", newUrl);
-  }, [currentPage, searchEmail, searchName, sortField, sortOrder]);
+  }, [currentPage, searchTitle, filterPublished, sortField, sortOrder]);
 
   // 处理搜索表单提交
   const handleSearch = (e: { preventDefault: () => void }) => {
     e.preventDefault();
-    setSearchEmail(tempSearchEmail);
-    setSearchName(tempSearchName);
+    setSearchTitle(tempSearchTitle);
     setCurrentPage(1); // 重置到第一页
   };
 
   // 清除搜索条件
   const handleClearSearch = () => {
-    setTempSearchEmail("");
-    setTempSearchName("");
-    setSearchEmail("");
-    setSearchName("");
+    setTempSearchTitle("");
+    setSearchTitle("");
+    setFilterPublished(undefined);
     setCurrentPage(1);
   };
 
   // 处理排序
-  const handleSort = (field: "id" | "email" | "name") => {
+  const handleSort = (field: "id" | "title" | "published") => {
     if (field === sortField) {
       setSortOrder(sortOrder === "asc" ? "desc" : "asc");
     } else {
       setSortField(field);
-      setSortOrder("asc");
+      setSortOrder("desc");
     }
   };
 
-  // 处理删除用户
+  // 处理删除文章
   const handleDelete = async (id: number) => {
-    if (!window.confirm("确定要删除此用户吗？")) return;
+    if (!window.confirm("确定要删除此文章吗？")) return;
 
     try {
-      const result = await DeleteUser({ id });
+      const result = await DeletePost({ id });
 
       if (result.success) {
-        loadUsers(); // 重新加载数据
+        loadPosts(); // 重新加载数据
       } else {
-        setError(result.error || "删除用户失败");
+        setError(result.error || "删除文章失败");
       }
     } catch (err) {
-      setError("删除用户时发生错误");
+      setError("删除文章时发生错误");
       console.error(err);
     }
   };
@@ -188,7 +201,7 @@ export default function UsersPage() {
   };
 
   // 排序图标
-  const renderSortIcon = (field: "id" | "email" | "name") => {
+  const renderSortIcon = (field: "id" | "title" | "published") => {
     if (sortField !== field) return "↕";
     return sortOrder === "asc" ? "↑" : "↓";
   };
@@ -196,12 +209,12 @@ export default function UsersPage() {
   return (
     <div className="container mx-auto p-6">
       <div className="flex justify-between items-center mb-6">
-        <h1 className="text-2xl font-bold">用户管理</h1>
+        <h1 className="text-2xl font-bold">文章管理</h1>
         <Link
-          href="/users/create"
+          href="/posts/create"
           className="px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600"
         >
-          创建用户
+          创建文章
         </Link>
       </div>
 
@@ -209,31 +222,38 @@ export default function UsersPage() {
       <div className="bg-black p-4 rounded mb-6">
         <form onSubmit={handleSearch} className="flex flex-wrap gap-4">
           <div className="flex-1">
-            <label htmlFor="email" className="block text-sm mb-1">
-              邮箱
+            <label htmlFor="title" className="block text-sm mb-1">
+              标题
             </label>
             <input
               type="text"
-              id="email"
-              value={tempSearchEmail}
-              onChange={(e) => setTempSearchEmail(e.target.value)}
+              id="title"
+              value={tempSearchTitle}
+              onChange={(e) => setTempSearchTitle(e.target.value)}
               className="w-full p-2 border rounded"
-              placeholder="搜索邮箱..."
+              placeholder="搜索标题..."
             />
           </div>
 
-          <div className="flex-1">
-            <label htmlFor="name" className="block text-sm mb-1">
-              用户名
+          <div className="w-48">
+            <label htmlFor="published" className="block text-sm mb-1">
+              状态
             </label>
-            <input
-              type="text"
-              id="name"
-              value={tempSearchName}
-              onChange={(e) => setTempSearchName(e.target.value)}
+            <select
+              id="published"
+              value={
+                filterPublished === undefined ? "" : filterPublished.toString()
+              }
+              onChange={(e) => {
+                const val = e.target.value;
+                setFilterPublished(val === "" ? undefined : val === "true");
+              }}
               className="w-full p-2 border rounded"
-              placeholder="搜索用户名..."
-            />
+            >
+              <option value="">全部</option>
+              <option value="true">已发布</option>
+              <option value="false">未发布</option>
+            </select>
           </div>
 
           <div className="flex items-end gap-2">
@@ -260,8 +280,8 @@ export default function UsersPage() {
         <div className="bg-red-100 text-red-700 p-3 rounded mb-4">{error}</div>
       )}
 
-      {/* 用户列表 */}
-      <div className="bg-white shadow rounded overflow-hidden">
+      {/* 文章列表 */}
+      <div className="bg-black shadow rounded overflow-hidden">
         {loading ? (
           <div className="flex justify-center items-center p-10">
             <div className="animate-spin h-6 w-6 border-2 border-gray-500 border-t-transparent rounded-full"></div>
@@ -280,15 +300,18 @@ export default function UsersPage() {
                   </th>
                   <th
                     className="px-6 py-3 text-left text-xs font-medium text-white uppercase tracking-wider cursor-pointer"
-                    onClick={() => handleSort("email")}
+                    onClick={() => handleSort("title")}
                   >
-                    邮箱 {renderSortIcon("email")}
+                    标题 {renderSortIcon("title")}
+                  </th>
+                  <th className="px-6 py-3 text-left text-xs font-medium text-white uppercase tracking-wider">
+                    作者
                   </th>
                   <th
                     className="px-6 py-3 text-left text-xs font-medium text-white uppercase tracking-wider cursor-pointer"
-                    onClick={() => handleSort("name")}
+                    onClick={() => handleSort("published")}
                   >
-                    用户名 {renderSortIcon("name")}
+                    状态 {renderSortIcon("published")}
                   </th>
                   <th className="px-6 py-3 text-right text-xs font-medium text-white uppercase tracking-wider">
                     操作
@@ -296,36 +319,61 @@ export default function UsersPage() {
                 </tr>
               </thead>
               <tbody className="bg-gray-700 divide-y divide-gray-600">
-                {users.length === 0 ? (
+                {posts.length === 0 ? (
                   <tr>
                     <td
-                      colSpan={4}
+                      colSpan={5}
                       className="px-6 py-4 text-center text-white"
                     >
-                      没有找到用户数据
+                      没有找到文章数据
                     </td>
                   </tr>
                 ) : (
-                  users.map((user: User) => (
-                    <tr key={user.id}>
+                  posts.map((post) => (
+                    <tr key={post.id}>
                       <td className="px-6 py-4 whitespace-nowrap text-sm font-medium text-white">
-                        {user.id}
+                        {post.id}
+                      </td>
+                      <td className="px-6 py-4 text-sm text-white">
+                        <Link
+                          href={`/posts/${post.id}`}
+                          className="text-blue-300 hover:text-blue-100 hover:underline"
+                        >
+                          {post.title}
+                        </Link>
                       </td>
                       <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-300">
-                        {user.email}
+                        {post.author ? (
+                          <Link
+                            href={`/users/${post.authorId}`}
+                            className="text-blue-300 hover:text-blue-100 hover:underline"
+                          >
+                            {post.author.name || post.author.email}
+                          </Link>
+                        ) : (
+                          `用户 #${post.authorId}`
+                        )}
                       </td>
-                      <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-300">
-                        {user.name || "-"}
+                      <td className="px-6 py-4 whitespace-nowrap">
+                        <span
+                          className={`px-2 inline-flex text-xs leading-5 font-semibold rounded-full ${
+                            post.published
+                              ? "bg-green-500 text-white"
+                              : "bg-yellow-500 text-white"
+                          }`}
+                        >
+                          {post.published ? "已发布" : "草稿"}
+                        </span>
                       </td>
                       <td className="px-6 py-4 whitespace-nowrap text-right text-sm font-medium">
                         <Link
-                          href={`/users/${user.id}/edit`}
+                          href={`/posts/${post.id}/edit`}
                           className="text-blue-300 hover:text-blue-100 mr-4"
                         >
                           编辑
                         </Link>
                         <button
-                          onClick={() => handleDelete(user.id)}
+                          onClick={() => handleDelete(post.id)}
                           className="text-red-400 hover:text-red-200"
                         >
                           删除

@@ -1,26 +1,57 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: #f8f9fa;
+  --foreground: #1a1a1a; /* 更深的前景色，提高可读性 */
+  --primary: #4834d4; /* 更深的紫色，增强对比度 */
+  --secondary: #6c5ce7;
 }
 
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
+  --color-primary: var(--primary);
+  --color-secondary: var(--secondary);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
 }
 
-@media (prefers-color-scheme: dark) {
+/* @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+    --background: #1a1a2e;
+    --foreground: #ffffff; 
+    --primary: #a29bfe; 
+    --secondary: #d6d1fe;
   }
-}
+} */
 
 body {
   background: var(--background);
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
+  font-weight: 400; /* 确保默认字体粗细适中 */
+}
+
+/* 为链接和按钮等元素添加主色调 */
+a, button {
+  color: var(--primary);
+  font-weight: 500; /* 稍微加粗链接和按钮文字 */
+}
+
+/* 为次要元素添加次色调 */
+.secondary-element {
+  color: var(--secondary);
+  font-weight: 500; /* 加粗次要元素文字 */
+}
+
+/* 确保标题文字足够清晰 */
+h1, h2, h3, h4, h5, h6 {
+  color: var(--foreground);
+  font-weight: 600;
+}
+
+/* 为段落文本增加清晰度 */
+p {
+  color: var(--foreground);
+  line-height: 1.6;
 }

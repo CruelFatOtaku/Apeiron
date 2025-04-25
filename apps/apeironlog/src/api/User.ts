@@ -1,7 +1,5 @@
 "use server";
-import { PrismaClient } from "../../generated/prisma";
-
-const prisma = new PrismaClient();
+import prisma from "../../lib/prisma";
 
 /**
  * 创建新用户
@@ -9,7 +7,13 @@ const prisma = new PrismaClient();
  * @param name 用户名称（可选）
  * @returns 新创建的用户对象
  */
-export async function CreateUser({ email, name }: { email: string, name?: string }) {
+export async function CreateUser({
+  email,
+  name,
+}: {
+  email: string;
+  name?: string;
+}) {
   try {
     const newUser = await prisma.user.create({
       data: {
@@ -17,7 +21,7 @@ export async function CreateUser({ email, name }: { email: string, name?: string
         name,
       },
     });
-    
+
     return {
       success: true,
       user: newUser,
@@ -44,13 +48,16 @@ export async function CreateUser({ email, name }: { email: string, name?: string
 export async function GetUsers({
   skip = 0,
   take = 10,
-  orderBy = { id: 'asc' } as const,
+  orderBy = { id: "asc" } as const,
   includePost = false,
   filter = {},
 }: {
   skip?: number;
   take?: number;
-  orderBy?: { id: 'asc' | 'desc' } | { email: 'asc' | 'desc' } | { name: 'asc' | 'desc' };
+  orderBy?:
+    | { id: "asc" | "desc" }
+    | { email: "asc" | "desc" }
+    | { name: "asc" | "desc" };
   includePost?: boolean;
   filter?: {
     email?: string;
@@ -64,12 +71,26 @@ export async function GetUsers({
     };
 
     const [users, totalCount] = await Promise.all([
-      prisma.user.findMany({
+      prisma.user.findMany<{
+        skip: number;
+        take: number;
+        where: {
+          email?: { contains: string };
+          name?: { contains: string };
+        };
+        orderBy:
+          | { id: "asc" | "desc" }
+          | { email: "asc" | "desc" }
+          | { name: "asc" | "desc" };
+        include: {
+          posts?: true;
+        };
+      }>({
         skip,
         take,
         where,
         orderBy,
-        include: includePost ? { posts: true } : undefined,
+        include: includePost ? { posts: true } : { posts: undefined },
       }),
       prisma.user.count({ where }),
     ]);
@@ -99,11 +120,20 @@ export async function GetUsers({
  * @param includePost 是否包含文章
  * @returns 用户详情
  */
-export async function GetUserById({ id, includePost = false }: { id: number, includePost?: boolean }) {
+export async function GetUserById({
+  id,
+  includePost = false,
+}: {
+  id: number;
+  includePost?: boolean;
+}) {
   try {
-    const user = await prisma.user.findUnique({
+    const user = await prisma.user.findUnique<{
+      where: { id: number };
+      include: { posts?: true };
+    }>({
       where: { id },
-      include: includePost ? { posts: true } : undefined,
+      include: includePost ? { posts: true } : { posts: undefined },
     });
 
     if (!user) {
@@ -132,7 +162,13 @@ export async function GetUserById({ id, includePost = false }: { id: number, inc
  * @param data 要更新的数据
  * @returns 更新后的用户信息
  */
-export async function UpdateUser({ id, data }: { id: number, data: { email?: string, name?: string } }) {
+export async function UpdateUser({
+  id,
+  data,
+}: {
+  id: number;
+  data: { email?: string; name?: string };
+}) {
   try {
     const user = await prisma.user.update({
       where: { id },
@@ -174,4 +210,3 @@ export async function DeleteUser({ id }: { id: number }) {
     };
   }
 }
-
