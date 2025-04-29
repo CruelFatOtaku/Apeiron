@@ -1,0 +1,27 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# Project Structure Guide
+
+This is a monorepo using Turborepo with pnpm as the package manager. The project consists of multiple applications and shared packages.
+
+## Applications
+The applications are located in the `apps` directory:
+- [apps/web](mdc:apps/web) - Main web application
+- [apps/apeironlog](mdc:apps/apeironlog) - Apeiron logging application
+- [apps/docs](mdc:apps/docs) - Documentation site
+
+## Shared Packages
+The shared packages are located in the `packages` directory:
+- [packages/ui](mdc:packages/ui) - Shared UI components
+- [packages/algs](mdc:packages/algs) - Shared algorithms
+- [packages/math](mdc:packages/math) - Mathematical utilities
+- [packages/eslint-config](mdc:packages/eslint-config) - Shared ESLint configuration
+- [packages/typescript-config](mdc:packages/typescript-config) - Shared TypeScript configuration
+
+## Key Configuration Files
+- [turbo.json](mdc:turbo.json) - Turborepo configuration
+- [package.json](mdc:package.json) - Root package configuration
+- [pnpm-workspace.yaml](mdc:pnpm-workspace.yaml) - PNPM workspace configuration

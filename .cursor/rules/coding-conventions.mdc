@@ -1,0 +1,46 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# Coding Conventions and Best Practices
+
+## TypeScript
+- Use TypeScript for all new code
+- Enable strict mode in TypeScript configuration
+- Use explicit type annotations for function parameters and return types
+- Prefer interfaces over type aliases for object types
+- Use enums for fixed sets of values
+
+## React Components
+- Use functional components with hooks
+- Follow the component-per-file pattern
+- Place components in appropriate feature directories
+- Use proper prop typing with TypeScript interfaces
+- Implement error boundaries where necessary
+
+## Package Management
+- Use pnpm for package management
+- Add new dependencies at the appropriate workspace level (root vs app vs package)
+- Keep shared dependencies in root package.json
+- Use workspace references for internal dependencies
+
+## Code Organization
+- Group related functionality into packages under `packages/`
+- Keep application-specific code in respective app directories
+- Use barrel exports (index.ts files) for clean imports
+- Follow feature-based folder structure within apps
+
+## Testing
+- Write unit tests for utility functions and hooks
+- Write integration tests for complex features
+- Place test files next to the code they test with `.test.ts` or `.test.tsx` extension
+- Use meaningful test descriptions that explain the expected behavior
+
+## Style Guide
+- Use ESLint with the shared configuration in [packages/eslint-config](mdc:packages/eslint-config)
+- Follow TypeScript configuration from [packages/typescript-config](mdc:packages/typescript-config)
+- Use consistent naming conventions:
+  - PascalCase for components and types
+  - camelCase for variables and functions
+  - UPPER_CASE for constants

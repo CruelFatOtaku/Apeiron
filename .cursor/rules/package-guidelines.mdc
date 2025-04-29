@@ -1,0 +1,39 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# Package-Specific Guidelines
+
+## UI Package
+The [packages/ui](mdc:packages/ui) package contains shared UI components:
+- Components should be atomic and reusable
+- Each component should have its own directory with:
+  - Component file
+  - Stories file for Storybook
+  - Test file
+  - Style file (if needed)
+- Export all components through the package's index file
+
+## Algorithms Package
+The [packages/algs](mdc:packages/algs) package contains shared algorithms:
+- Each algorithm should be well-documented with:
+  - Time and space complexity analysis
+  - Input/output specifications
+  - Usage examples
+- Include comprehensive test coverage
+- Optimize for performance where critical
+
+## Math Package
+The [packages/math](mdc:packages/math) package contains mathematical utilities:
+- Follow mathematical naming conventions
+- Include detailed documentation with formulas and references
+- Provide type safety for all operations
+- Include unit tests with edge cases
+
+## Configuration Packages
+The configuration packages ([packages/eslint-config](mdc:packages/eslint-config) and [packages/typescript-config](mdc:packages/typescript-config)):
+- Should be kept minimal and focused
+- Must maintain backward compatibility
+- Should include documentation for any custom rules or configurations
+- Should be consistent across all applications
