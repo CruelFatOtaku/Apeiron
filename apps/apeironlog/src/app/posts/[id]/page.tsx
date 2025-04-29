@@ -54,7 +54,7 @@ export default function PostDetailsPage() {
       <div className="container mx-auto p-6">
         <div className="flex justify-center items-center p-10">
           <div className="animate-spin h-6 w-6 border-2 border-gray-500 border-t-transparent rounded-full"></div>
-          <span className="ml-2">加载中...</span>
+          <span className="ml-2 text-gray-600">加载中...</span>
         </div>
       </div>
     );
@@ -63,13 +63,11 @@ export default function PostDetailsPage() {
   if (error || !post) {
     return (
       <div className="container mx-auto p-6">
-        <div className="bg-red-100 text-red-700 p-4 rounded">
-          {error || "文章不存在"}
-        </div>
-        <div className="mt-4">
+        <div className="bg-white rounded-lg shadow-sm p-6">
+          <div className="text-red-600 mb-4">{error || "文章不存在"}</div>
           <button
             onClick={() => router.push("/posts")}
-            className="px-4 py-2 bg-gray-300 text-gray-700 rounded hover:bg-gray-400"
+            className="px-4 py-2 bg-gray-100 text-gray-700 rounded-lg hover:bg-gray-200 transition-colors"
           >
             返回文章列表
           </button>
@@ -80,62 +78,65 @@ export default function PostDetailsPage() {
 
   return (
     <div className="container mx-auto p-6">
-      <div className="mb-6">
-        <h1 className="text-2xl font-bold">{post.title}</h1>
-        <div className="flex items-center text-gray-500 mt-2">
+      <div className="bg-white rounded-lg shadow-sm p-6 mb-6">
+        <div className="flex items-center justify-between mb-4">
+          <h1 className="text-2xl font-bold text-gray-900">{post.title}</h1>
           <span
-            className={`px-2 py-1 text-xs rounded-full mr-4 ${
+            className={`px-3 py-1 text-sm rounded-full ${
               post.published
-                ? "bg-green-100 text-green-800"
-                : "bg-yellow-100 text-yellow-800"
+                ? "bg-green-50 text-green-700"
+                : "bg-yellow-50 text-yellow-700"
             }`}
           >
             {post.published ? "已发布" : "草稿"}
           </span>
-          {post.author && (
-            <span>
-              作者：
-              <Link
-                href={`/users/${post.authorId}`}
-                className="hover:text-blue-600 hover:underline"
-              >
-                {post.author.name || post.author.email}
-              </Link>
-            </span>
-          )}
         </div>
+
+        {post.author && (
+          <div className="flex items-center space-x-2 text-gray-600 mb-4">
+            <span>作者：</span>
+            <Link
+              href={`/users/${post.authorId}`}
+              className="text-indigo-600 hover:text-indigo-700 hover:underline"
+            >
+              {post.author.name || post.author.email}
+            </Link>
+          </div>
+        )}
       </div>
 
-      <div className="bg-blue-500 shadow rounded overflow-hidden">
+      <div className="bg-white rounded-lg shadow-sm overflow-hidden">
         <div className="p-6">
           <div className="prose max-w-none">
             {post.content ? (
-              <div className="whitespace-pre-wrap">{post.content}</div>
+              <div className="text-gray-700 whitespace-pre-wrap leading-relaxed">
+                {post.content}
+              </div>
             ) : (
               <p className="text-gray-500 italic">暂无内容</p>
             )}
           </div>
         </div>
 
-        <div className="px-6 py-3 bg-gray-50 border-t flex justify-between">
+        <div className="px-6 py-4 bg-gray-50 border-t flex justify-between items-center">
           <Link
             href="/posts"
-            className="px-4 py-2 bg-gray-300 text-gray-700 rounded hover:bg-gray-400"
+            className="px-4 py-2 bg-gray-100 text-gray-700 rounded-lg hover:bg-gray-200 transition-colors"
           >
             返回列表
           </Link>
 
-          <div className="flex gap-2">
+          <div className="flex gap-3">
             <Link
               href={`/posts/${post.id}/edit`}
-              className="px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600"
+              className="px-4 py-2 bg-indigo-600 text-white rounded-lg hover:bg-indigo-700 transition-colors"
             >
               编辑文章
             </Link>
             {!post.published && (
               <Link
                 href={`/posts/${post.id}/edit?publish=true`}
-                className="px-4 py-2 bg-green-500 text-white rounded hover:bg-green-600"
+                className="px-4 py-2 bg-green-600 text-white rounded-lg hover:bg-green-700 transition-colors"
               >
                 发布文章
               </Link>

@@ -209,20 +209,20 @@ export default function PostsPage() {
   return (
     <div className="container mx-auto p-6">
       <div className="flex justify-between items-center mb-6">
-        <h1 className="text-2xl font-bold">文章管理</h1>
+        <h1 className="text-2xl font-bold text-gray-900">文章管理</h1>
         <Link
           href="/posts/create"
-          className="px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600"
+          className="px-4 py-2 bg-indigo-700 text-white rounded-lg hover:bg-indigo-800 transition-colors font-medium"
         >
           创建文章
         </Link>
       </div>
 
       {/* 搜索表单 */}
-      <div className="bg-black p-4 rounded mb-6">
+      <div className="bg-white rounded-lg shadow-sm p-6 mb-6">
         <form onSubmit={handleSearch} className="flex flex-wrap gap-4">
           <div className="flex-1">
-            <label htmlFor="title" className="block text-sm mb-1">
+            <label htmlFor="title" className="block text-sm text-gray-700 mb-1">
               标题
             </label>
             <input
@@ -230,13 +230,16 @@ export default function PostsPage() {
               id="title"
               value={tempSearchTitle}
               onChange={(e) => setTempSearchTitle(e.target.value)}
-              className="w-full p-2 border rounded"
+              className="w-full p-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500"
               placeholder="搜索标题..."
             />
           </div>
 
           <div className="w-48">
-            <label htmlFor="published" className="block text-sm mb-1">
+            <label
+              htmlFor="published"
+              className="block text-sm text-gray-700 mb-1"
+            >
               状态
             </label>
             <select
@@ -248,7 +251,7 @@ export default function PostsPage() {
                 const val = e.target.value;
                 setFilterPublished(val === "" ? undefined : val === "true");
               }}
-              className="w-full p-2 border rounded"
+              className="w-full p-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500"
             >
               <option value="">全部</option>
               <option value="true">已发布</option>
@@ -259,7 +262,7 @@ export default function PostsPage() {
           <div className="flex items-end gap-2">
             <button
               type="submit"
-              className="px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600"
+              className="px-4 py-2 bg-indigo-700 text-white rounded-lg hover:bg-indigo-800 transition-colors font-medium"
             >
               搜索
             </button>
@@ -267,7 +270,7 @@ export default function PostsPage() {
             <button
               type="button"
               onClick={handleClearSearch}
-              className="px-4 py-2 bg-gray-300 text-gray-700 rounded hover:bg-gray-400"
+              className="px-4 py-2 bg-gray-200 text-gray-800 rounded-lg hover:bg-gray-300 transition-colors font-medium"
             >
               清除
             </button>
@@ -277,76 +280,78 @@ export default function PostsPage() {
 
       {/* 错误信息 */}
       {error && (
-        <div className="bg-red-100 text-red-700 p-3 rounded mb-4">{error}</div>
+        <div className="bg-white rounded-lg shadow-sm p-6 mb-6">
+          <div className="text-red-600">{error}</div>
+        </div>
       )}
 
       {/* 文章列表 */}
-      <div className="bg-black shadow rounded overflow-hidden">
+      <div className="bg-white rounded-lg shadow-sm overflow-hidden">
         {loading ? (
           <div className="flex justify-center items-center p-10">
             <div className="animate-spin h-6 w-6 border-2 border-gray-500 border-t-transparent rounded-full"></div>
-            <span className="ml-2">加载中...</span>
+            <span className="ml-2 text-gray-600">加载中...</span>
           </div>
         ) : (
           <>
             <table className="min-w-full divide-y divide-gray-200">
-              <thead className="bg-gray-800">
+              <thead className="bg-gray-50">
                 <tr>
                   <th
-                    className="px-6 py-3 text-left text-xs font-medium text-white uppercase tracking-wider cursor-pointer"
+                    className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider cursor-pointer hover:text-gray-700"
                     onClick={() => handleSort("id")}
                   >
                     ID {renderSortIcon("id")}
                   </th>
                   <th
-                    className="px-6 py-3 text-left text-xs font-medium text-white uppercase tracking-wider cursor-pointer"
+                    className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider cursor-pointer hover:text-gray-700"
                     onClick={() => handleSort("title")}
                   >
                     标题 {renderSortIcon("title")}
                   </th>
-                  <th className="px-6 py-3 text-left text-xs font-medium text-white uppercase tracking-wider">
+                  <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
                     作者
                   </th>
                   <th
-                    className="px-6 py-3 text-left text-xs font-medium text-white uppercase tracking-wider cursor-pointer"
+                    className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider cursor-pointer hover:text-gray-700"
                     onClick={() => handleSort("published")}
                   >
                     状态 {renderSortIcon("published")}
                   </th>
-                  <th className="px-6 py-3 text-right text-xs font-medium text-white uppercase tracking-wider">
+                  <th className="px-6 py-3 text-right text-xs font-medium text-gray-500 uppercase tracking-wider">
                     操作
                   </th>
                 </tr>
               </thead>
-              <tbody className="bg-gray-700 divide-y divide-gray-600">
+              <tbody className="bg-white divide-y divide-gray-200">
                 {posts.length === 0 ? (
                   <tr>
                     <td
                       colSpan={5}
-                      className="px-6 py-4 text-center text-white"
+                      className="px-6 py-4 text-center text-gray-500"
                     >
                       没有找到文章数据
                     </td>
                   </tr>
                 ) : (
                   posts.map((post) => (
-                    <tr key={post.id}>
-                      <td className="px-6 py-4 whitespace-nowrap text-sm font-medium text-white">
+                    <tr key={post.id} className="hover:bg-gray-50">
+                      <td className="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900">
                         {post.id}
                       </td>
-                      <td className="px-6 py-4 text-sm text-white">
+                      <td className="px-6 py-4 text-sm text-gray-900">
                         <Link
                           href={`/posts/${post.id}`}
-                          className="text-blue-300 hover:text-blue-100 hover:underline"
+                          className="text-indigo-600 hover:text-indigo-700 hover:underline"
                         >
                           {post.title}
                         </Link>
                       </td>
-                      <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-300">
+                      <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-500">
                         {post.author ? (
                           <Link
                             href={`/users/${post.authorId}`}
-                            className="text-blue-300 hover:text-blue-100 hover:underline"
+                            className="text-indigo-600 hover:text-indigo-700 hover:underline"
                           >
                             {post.author.name || post.author.email}
                           </Link>
@@ -356,10 +361,10 @@ export default function PostsPage() {
                       </td>
                       <td className="px-6 py-4 whitespace-nowrap">
                         <span
-                          className={`px-2 inline-flex text-xs leading-5 font-semibold rounded-full ${
+                          className={`px-3 py-1 text-xs rounded-full ${
                             post.published
-                              ? "bg-green-500 text-white"
-                              : "bg-yellow-500 text-white"
+                              ? "bg-green-50 text-green-700"
+                              : "bg-yellow-50 text-yellow-700"
                           }`}
                         >
                           {post.published ? "已发布" : "草稿"}
@@ -368,13 +373,13 @@ export default function PostsPage() {
                       <td className="px-6 py-4 whitespace-nowrap text-right text-sm font-medium">
                         <Link
                           href={`/posts/${post.id}/edit`}
-                          className="text-blue-300 hover:text-blue-100 mr-4"
+                          className="text-indigo-700 hover:text-indigo-800 font-medium mr-4"
                         >
                           编辑
                         </Link>
                         <button
                           onClick={() => handleDelete(post.id)}
-                          className="text-red-400 hover:text-red-200"
+                          className="text-red-700 hover:text-red-800 font-medium"
                         >
                           删除
                         </button>
@@ -385,7 +390,9 @@ export default function PostsPage() {
               </tbody>
             </table>
 
-            <div className="px-6 py-4 border-t">{renderPagination()}</div>
+            <div className="px-6 py-4 bg-gray-50 border-t">
+              {renderPagination()}
+            </div>
           </>
         )}
       </div>
