@@ -34,14 +34,7 @@ async function logout() {
 
 export default function UserNav() {
   // 用 swr 获取用户信息
-  const {
-    data: user,
-    isLoading,
-    mutate,
-  } = useSWR<{
-    name?: string;
-    email: string;
-  }>("/api/user", fetcher);
+  const { data: user, isLoading, mutate } = useSWR("/api/user", fetcher);
   const [showPopover, setShowPopover] = useState(false);
   const [showLogoutModal, setShowLogoutModal] = useState(false);
   const router = useRouter();
@@ -64,12 +57,12 @@ export default function UserNav() {
   const confirmLogout = () => {
     logout().then((success) => {
       if (success) {
-        mutate(); // 清空 swr 缓存
+        mutate(null, false); // 清空 swr 缓存
         router.replace("/login");
       }
     });
     setShowLogoutModal(false);
-    mutate();
+    mutate(null, false);
     router.replace("/login");
   };
   const cancelLogout = () => setShowLogoutModal(false);
