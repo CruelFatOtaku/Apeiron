@@ -246,8 +246,12 @@ export async function loginUser({
     // 登录成功，生成 token
     const token = signToken({ userId: user.id, email: user.email });
     // 设置 token 到 cookie
-    cookies().set("token", token, { path: "/", httpOnly: false });
+    (
+      await // 设置 token 到 cookie
+      cookies()
+    ).set("token", token, { path: "/", httpOnly: false });
     const { password: _, ...userWithoutPassword } = user;
+    console.log(_);
     return { success: true, user: userWithoutPassword, token };
   } catch (error) {
     console.error("用户登录失败:", error);
