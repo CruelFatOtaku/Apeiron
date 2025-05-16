@@ -26,10 +26,10 @@ export default function EditPostPage() {
       try {
         const result = await GetPostById({ id: postId });
 
-        if (result.success) {
+        if (result.success && result.post) {
           const loadedPost = result.post;
           // 如果URL中包含publish=true参数，则默认设置为发布状态
-          if (shouldPublish && !loadedPost.published) {
+          if (shouldPublish && !loadedPost?.published) {
             loadedPost.published = true;
           }
           setPost(loadedPost);

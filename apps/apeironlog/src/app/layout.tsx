@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import Link from "next/link";
 import "./globals.css";
+import UserNav from "./components/UserNav";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -33,7 +34,7 @@ export default function RootLayout({
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
             <div className="flex justify-between items-center">
               <h1 className="text-3xl font-bold text-gray-900">Apeiron Blog</h1>
-              <nav className="flex space-x-4">
+              <nav className="flex space-x-4 items-center">
                 <Link href="/" className="text-gray-600 hover:text-gray-900">
                   Home
                 </Link>
@@ -49,6 +50,7 @@ export default function RootLayout({
                 >
                   Users
                 </Link>
+                <UserNav />
               </nav>
             </div>
           </div>
@@ -57,7 +59,6 @@ export default function RootLayout({
         <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
           {children}
         </main>
-
         {/* Footer */}
         <footer className="bg-white border-t mt-12">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">

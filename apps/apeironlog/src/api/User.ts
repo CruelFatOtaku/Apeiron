@@ -1,30 +1,40 @@
 "use server";
 import prisma from "../../lib/prisma";
+import bcrypt from "bcryptjs";
+import { signToken } from "../../lib/jwt";
+import { cookies } from "next/headers";
 
 /**
- * 创建新用户
+ * 创建新用户（注册）
  * @param email 用户邮箱（必填且唯一）
  * @param name 用户名称（可选）
+ * @param password 明文密码（必填）
  * @returns 新创建的用户对象
  */
 export async function CreateUser({
   email,
   name,
+  password,
 }: {
   email: string;
   name?: string;
+  password: string;
 }) {
   try {
+    const hash = await bcrypt.hash(password, 10);
     const newUser = await prisma.user.create({
       data: {
         email,
         name,
+        password: hash,
       },
     });
-
+    // 返回不含密码的用户信息
+    const { password: _, ...userWithoutPassword } = newUser;
+    console.log(_);
     return {
       success: true,
-      user: newUser,
+      user: userWithoutPassword,
     };
   } catch (error) {
     console.error("创建用户失败:", error);
@@ -204,6 +214,43 @@ export async function DeleteUser({ id }: { id: number }) {
     };
   } catch (error) {
     console.error("删除用户失败:", error);
+    return {
+      success: false,
+      error: error instanceof Error ? error.message : "未知错误",
+    };
+  }
+}
+
+/**
+ * 用户登录
+ * @param email 用户邮箱
+ * @param password 明文密码
+ * @returns 登录结果
+ */
+export async function loginUser({
+  email,
+  password,
+}: {
+  email: string;
+  password: string;
+}) {
+  try {
+    const user = await prisma.user.findUnique({ where: { email } });
+    if (!user || !user.password) {
+      return { success: false, error: "用户不存在或未设置密码" };
+    }
+    const isMatch = await bcrypt.compare(password, user.password);
+    if (!isMatch) {
+      return { success: false, error: "密码错误" };
+    }
+    // 登录成功，生成 token
+    const token = signToken({ userId: user.id, email: user.email });
+    // 设置 token 到 cookie
+    cookies().set("token", token, { path: "/", httpOnly: false });
+    const { password: _, ...userWithoutPassword } = user;
+    return { success: true, user: userWithoutPassword, token };
+  } catch (error) {
+    console.error("用户登录失败:", error);
     return {
       success: false,
       error: error instanceof Error ? error.message : "未知错误",
