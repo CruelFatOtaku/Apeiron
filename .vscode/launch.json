@@ -1,0 +1,11 @@
+{
+  "configurations": [
+    {
+      "type": "chrome",
+      "name": "apeironlog",
+      "request": "launch",
+      "url": "http://localhost:3000",
+      "webRoot": "${workspaceFolder}/apps/apeironlog",
+    }
+  ]
+}

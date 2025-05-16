@@ -199,14 +199,14 @@ export default function UsersPage() {
         <h1 className="text-2xl font-bold">用户管理</h1>
         <Link
           href="/users/create"
-          className="px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600"
+          className="px-4 py-2 bg-blue-500  rounded hover:bg-blue-600"
         >
           创建用户
         </Link>
       </div>
 
       {/* 搜索表单 */}
-      <div className="bg-black p-4 rounded mb-6">
+      <div className="bg-gray-200 p-4 rounded mb-6">
         <form onSubmit={handleSearch} className="flex flex-wrap gap-4">
           <div className="flex-1">
             <label htmlFor="email" className="block text-sm mb-1">
@@ -239,7 +239,7 @@ export default function UsersPage() {
           <div className="flex items-end gap-2">
             <button
               type="submit"
-              className="px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600"
+              className="px-4 py-2 bg-blue-500  rounded hover:bg-blue-600"
             >
               搜索
             </button>
@@ -270,63 +270,60 @@ export default function UsersPage() {
         ) : (
           <>
             <table className="min-w-full divide-y divide-gray-200">
-              <thead className="bg-gray-800">
+              <thead className="bg-gray-300">
                 <tr>
                   <th
-                    className="px-6 py-3 text-left text-xs font-medium text-white uppercase tracking-wider cursor-pointer"
+                    className="px-6 py-3 text-left text-xs font-medium  uppercase tracking-wider cursor-pointer"
                     onClick={() => handleSort("id")}
                   >
                     ID {renderSortIcon("id")}
                   </th>
                   <th
-                    className="px-6 py-3 text-left text-xs font-medium text-white uppercase tracking-wider cursor-pointer"
+                    className="px-6 py-3 text-left text-xs font-medium  uppercase tracking-wider cursor-pointer"
                     onClick={() => handleSort("email")}
                   >
                     邮箱 {renderSortIcon("email")}
                   </th>
                   <th
-                    className="px-6 py-3 text-left text-xs font-medium text-white uppercase tracking-wider cursor-pointer"
+                    className="px-6 py-3 text-left text-xs font-medium  uppercase tracking-wider cursor-pointer"
                     onClick={() => handleSort("name")}
                   >
                     用户名 {renderSortIcon("name")}
                   </th>
-                  <th className="px-6 py-3 text-right text-xs font-medium text-white uppercase tracking-wider">
+                  <th className="px-6 py-3 text-right text-xs font-medium  uppercase tracking-wider">
                     操作
                   </th>
                 </tr>
               </thead>
-              <tbody className="bg-gray-700 divide-y divide-gray-600">
+              <tbody className=" divide-y divide-black">
                 {users.length === 0 ? (
                   <tr>
-                    <td
-                      colSpan={4}
-                      className="px-6 py-4 text-center text-white"
-                    >
+                    <td colSpan={4} className="px-6 py-4 text-center ">
                       没有找到用户数据
                     </td>
                   </tr>
                 ) : (
                   users.map((user: User) => (
                     <tr key={user.id}>
-                      <td className="px-6 py-4 whitespace-nowrap text-sm font-medium text-white">
+                      <td className="px-6 py-4 whitespace-nowrap text-sm font-medium ">
                         {user.id}
                       </td>
-                      <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-300">
+                      <td className="px-6 py-4 whitespace-nowrap text-sm ">
                         {user.email}
                       </td>
-                      <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-300">
+                      <td className="px-6 py-4 whitespace-nowrap text-sm ">
                         {user.name || "-"}
                       </td>
                       <td className="px-6 py-4 whitespace-nowrap text-right text-sm font-medium">
                         <Link
                           href={`/users/${user.id}/edit`}
-                          className="text-blue-300 hover:text-blue-100 mr-4"
+                          className="text-blue-500 hover:text-blue-100 mr-4"
                         >
                           编辑
                         </Link>
                         <button
                           onClick={() => handleDelete(user.id)}
-                          className="text-red-400 hover:text-red-200"
+                          className="text-red-500 hover:text-red-200"
                         >
                           删除
                         </button>

@@ -1,62 +1,49 @@
+"use client";
 import Link from "next/link";
+import { useEffect, useState } from "react";
+import { GetUsers } from "../api/User";
+import { GetPosts } from "../api/Post";
 
-// Mock data for demonstration
-const users = [
-  {
-    id: 1,
-    name: "John Doe",
-    avatar: "/avatars/user1.jpg",
-    role: "Writer",
-    posts: 12,
-  },
-  {
-    id: 2,
-    name: "Jane Smith",
-    avatar: "/avatars/user2.jpg",
-    role: "Editor",
-    posts: 8,
-  },
-  {
-    id: 3,
-    name: "Mike Johnson",
-    avatar: "/avatars/user3.jpg",
-    role: "Contributor",
-    posts: 5,
-  },
-];
+type Users = Awaited<ReturnType<typeof GetUsers>>["users"];
+type Posts = Awaited<ReturnType<typeof GetPosts>>["posts"];
 
-const posts = [
-  {
-    id: 1,
-    title: "Getting Started with Next.js",
-    excerpt: "Learn how to build modern web applications with Next.js...",
-    author: "John Doe",
-    date: "2024-04-28",
-    readTime: "5 min read",
-    category: "Development",
-  },
-  {
-    id: 2,
-    title: "The Future of Web Development",
-    excerpt:
-      "Exploring the latest trends and technologies in web development...",
-    author: "Jane Smith",
-    date: "2024-04-27",
-    readTime: "8 min read",
-    category: "Technology",
-  },
-  {
-    id: 3,
-    title: "Best Practices for React Development",
-    excerpt: "Essential tips and tricks for writing better React code...",
-    author: "Mike Johnson",
-    date: "2024-04-26",
-    readTime: "6 min read",
-    category: "Development",
-  },
-];
+// infer Item type from array
+type PickItem<T> = T extends (infer Item)[] ? Item : never;
+type UserItem = PickItem<Users>;
+type PostItem = PickItem<Posts>;
 
 export default function Home() {
+  const [users, setUsers] = useState<UserItem[]>([]);
+  const [posts, setPosts] = useState<PostItem[]>([]);
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+    const fetchData = async () => {
+      setLoading(true);
+      try {
+        const usersRes = await GetUsers({ includePost: true });
+        const postsRes = await GetPosts();
+        setUsers(usersRes.users || []);
+        setPosts(postsRes.posts || []);
+      } catch (error) {
+        console.error("Error fetching data:", error);
+        setUsers([]);
+        setPosts([]);
+      } finally {
+        setLoading(false);
+      }
+    };
+    fetchData();
+  }, []);
+
+  if (loading) {
+    return (
+      <div className="flex justify-center items-center h-40">
+        <span>加载中...</span>
+      </div>
+    );
+  }
+
   return (
     <div>
       {/* Featured Users Section */}
@@ -65,7 +52,7 @@ export default function Home() {
           Featured Writers
         </h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-          {users.map((user) => (
+          {users?.map((user) => (
             <Link
               href={`/users/${user.id}`}
               key={user.id}
@@ -74,15 +61,17 @@ export default function Home() {
               <div className="flex items-center space-x-4">
                 <div className="w-16 h-16 rounded-full bg-gray-200 flex items-center justify-center">
                   <span className="text-xl font-bold text-gray-600">
-                    {user.name.charAt(0)}
+                    {user.name?.charAt(0) || user.email?.charAt(0) || "U"}
                   </span>
                 </div>
                 <div>
                   <h3 className="text-lg font-semibold text-gray-900">
-                    {user.name}
+                    {user.name || user.email}
                   </h3>
-                  <p className="text-gray-600">{user.role}</p>
-                  <p className="text-sm text-gray-500">{user.posts} posts</p>
+                  <p className="text-gray-600">{user.name || "用户"}</p>
+                  <p className="text-sm text-gray-500">
+                    {(user.posts?.length ?? 0) + " posts"}
+                  </p>
                 </div>
               </div>
             </Link>
@@ -94,7 +83,7 @@ export default function Home() {
       <section>
         <h2 className="text-2xl font-bold text-gray-900 mb-6">Latest Posts</h2>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-          {posts.map((post) => (
+          {posts?.map((post) => (
             <Link
               href={`/posts/${post.id}`}
               key={post.id}
@@ -103,18 +92,19 @@ export default function Home() {
               <div className="p-6">
                 <div className="flex items-center justify-between mb-4">
                   <span className="text-sm font-medium text-indigo-600">
-                    {post.category}
+                    {post.title || "无标题"}
                   </span>
-                  <span className="text-sm text-gray-500">{post.readTime}</span>
+                  <span className="text-sm text-gray-500">
+                    {post.published || "未发布"}
+                  </span>
                 </div>
                 <h3 className="text-xl font-bold text-gray-900 mb-2">
                   {post.title}
                 </h3>
-                <p className="text-gray-600 mb-4">{post.excerpt}</p>
-                <div className="flex items-center justify-between">
-                  <span className="text-sm text-gray-500">{post.author}</span>
-                  <span className="text-sm text-gray-500">{post.date}</span>
-                </div>
+                <p className="text-gray-600 mb-4">
+                  {post.content?.slice(0, 60) + "..."}
+                </p>
+                <div className="flex items-center justify-between"></div>
               </div>
             </Link>
           ))}
