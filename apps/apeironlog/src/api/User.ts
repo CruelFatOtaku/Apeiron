@@ -244,7 +244,11 @@ export async function loginUser({
       return { success: false, error: "密码错误" };
     }
     // 登录成功，生成 token
-    const token = signToken({ userId: user.id, email: user.email });
+    const token = await signToken({
+      userId: user.id,
+      email: user.email,
+      name: user.name,
+    });
     // 设置 token 到 cookie
     (
       await // 设置 token 到 cookie

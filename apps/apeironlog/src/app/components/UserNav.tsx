@@ -1,36 +1,75 @@
 "use client";
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import { useRouter } from "next/navigation";
+import {
+  useFloating,
+  offset,
+  flip,
+  shift,
+  useHover,
+  useDismiss,
+  useInteractions,
+  safePolygon,
+} from "@floating-ui/react-dom-interactions";
+import useSWR from "swr";
+
+const fetcher = async (url: string) => {
+  const res = await fetch(url, { credentials: "include" });
+  if (!res.ok) throw new Error("Not logged in");
+  return res.json();
+};
+
+async function logout() {
+  try {
+    const res = await fetch("/api/logout", {
+      credentials: "include",
+    });
+    if (!res.ok) throw new Error("Logout failed");
+    return true;
+  } catch (error) {
+    console.error("Logout error:", error);
+    return false;
+  }
+}
 
 export default function UserNav() {
-  const [user, setUser] = useState<{ name?: string; email: string } | null>(
-    null
-  );
+  // 用 swr 获取用户信息
+  const {
+    data: user,
+    isLoading,
+    mutate,
+  } = useSWR<{
+    name?: string;
+    email: string;
+  }>("/api/user", fetcher);
   const [showPopover, setShowPopover] = useState(false);
   const [showLogoutModal, setShowLogoutModal] = useState(false);
   const router = useRouter();
 
-  useEffect(() => {
-    if (typeof window !== "undefined") {
-      const token = localStorage.getItem("token");
-      if (token) {
-        try {
-          const payload = JSON.parse(atob(token.split(".")[1]));
-          setUser({ name: payload.name, email: payload.email });
-        } catch {
-          setUser(null);
-        }
-      } else {
-        setUser(null);
-      }
-    }
-  }, []);
+  // floating-ui hooks
+  const { x, y, reference, floating, strategy, context } = useFloating({
+    open: showPopover,
+    onOpenChange: setShowPopover,
+    middleware: [offset(8), flip(), shift()],
+    placement: "bottom-end",
+  });
+  const hover = useHover(context, { handleClose: safePolygon() });
+  const dismiss = useDismiss(context);
+  const { getReferenceProps, getFloatingProps } = useInteractions([
+    hover,
+    dismiss,
+  ]);
 
   const handleLogout = () => setShowLogoutModal(true);
   const confirmLogout = () => {
-    localStorage.removeItem("token");
+    logout().then((success) => {
+      if (success) {
+        mutate(); // 清空 swr 缓存
+        router.replace("/login");
+      }
+    });
     setShowLogoutModal(false);
-    setUser(null);
+    mutate();
     router.replace("/login");
   };
   const cancelLogout = () => setShowLogoutModal(false);
@@ -40,10 +79,12 @@ export default function UserNav() {
       {user ? (
         <div className="relative ml-6">
           <button
-            className="flex items-center space-x-2 px-3 py-2 rounded hover:bg-gray-100 focus:outline-none"
-            onMouseEnter={() => setShowPopover(true)}
-            onMouseLeave={() => setShowPopover(false)}
-            onClick={() => setShowPopover((v) => !v)}
+            ref={reference}
+            {...getReferenceProps({
+              className:
+                "flex items-center space-x-2 px-3 py-2 rounded hover:bg-gray-100 focus:outline-none",
+              onClick: () => setShowPopover((v) => !v),
+            })}
           >
             <span className="font-semibold text-gray-800">
               {user.name || user.email}
@@ -64,9 +105,17 @@ export default function UserNav() {
           </button>
           {showPopover && (
             <div
-              className="absolute right-0 mt-2 w-56 bg-white border rounded-lg shadow-lg z-50 p-4"
-              onMouseEnter={() => setShowPopover(true)}
-              onMouseLeave={() => setShowPopover(false)}
+              ref={floating}
+              style={{
+                position: strategy,
+                top: y ?? 0,
+                left: x ?? 0,
+                zIndex: 50,
+                width: 224, // w-56
+              }}
+              {...getFloatingProps({
+                className: "bg-white border rounded-lg shadow-lg p-4",
+              })}
             >
               <div className="mb-2">
                 <div className="font-bold text-lg">
@@ -83,7 +132,7 @@ export default function UserNav() {
             </div>
           )}
         </div>
-      ) : (
+      ) : isLoading ? null : (
         <a
           href="/login"
           className="ml-6 text-indigo-600 font-semibold hover:underline"
