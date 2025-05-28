@@ -1,0 +1,4732 @@
+[
+  {
+    "word": "à l'improviste",
+    "partOfSpeech": "loc.adv.",
+    "translation": "即兴；突然，出其不意地 unexpectedly"
+  },
+  {
+    "word": "à part",
+    "partOfSpeech": "loc.adv.",
+    "translation": "单独地，分开地 apart"
+  },
+  {
+    "word": "a priori",
+    "partOfSpeech": "n.m.inv.",
+    "translation": "成见，先验的推理，演绎的推论 a priori"
+  },
+  {
+    "word": "à travers",
+    "partOfSpeech": "loc.prép.",
+    "translation": "通过，经过，穿过 by"
+  },
+  {
+    "word": "abandon",
+    "partOfSpeech": "n.m.",
+    "translation": "放弃，抛弃 abandon"
+  },
+  {
+    "word": "abandonner",
+    "partOfSpeech": "v.t.",
+    "translation": "抛弃，舍弃 to abandon"
+  },
+  {
+    "word": "abattre (s')",
+    "partOfSpeech": "v.pr.",
+    "translation": "(大雨)倾泻；袭击；猛扑 to swoop down"
+  },
+  {
+    "word": "aborder",
+    "partOfSpeech": "v.t.",
+    "translation": "上前同交谈 to accost"
+  },
+  {
+    "word": "s'aborder",
+    "partOfSpeech": "v.pr.",
+    "translation": "互相接近，互相攀谈 to accost"
+  },
+  {
+    "word": "abouti,e",
+    "partOfSpeech": "adj.",
+    "translation": "获得成功的 accomplished"
+  },
+  {
+    "word": "accessible",
+    "partOfSpeech": "adj.",
+    "translation": "可达到的，可进入的；可得到的 accessible"
+  },
+  {
+    "word": "accordéon",
+    "partOfSpeech": "n.m.",
+    "translation": "手风琴 accordion"
+  },
+  {
+    "word": "accrocher (s')",
+    "partOfSpeech": "v.pr.",
+    "translation": "被钩住，紧紧抓住；(在困境中)坚持，纠缠 to hang on, to cling (on)"
+  },
+  {
+    "word": "acquérir",
+    "partOfSpeech": "v.t.",
+    "translation": "获得 to acquire"
+  },
+  {
+    "word": "acquisition",
+    "partOfSpeech": "n.f.",
+    "translation": "获得 acquisition"
+  },
+  {
+    "word": "adapter",
+    "partOfSpeech": "v.t.",
+    "translation": "改编；使适应，使适合 to adapt"
+  },
+  {
+    "word": "adieu",
+    "partOfSpeech": "interj./n.m.",
+    "translation": "再见!永别了! farewell, goodbye"
+  },
+  {
+    "word": "administratif,ve",
+    "partOfSpeech": "adj.",
+    "translation": "行政的 administrative"
+  },
+  {
+    "word": "admis,e",
+    "partOfSpeech": "adj.",
+    "translation": "被接纳的，被录取的 admitted"
+  },
+  {
+    "word": "adolescent,e",
+    "partOfSpeech": "n.",
+    "translation": "青少年 youth, adolescent"
+  },
+  {
+    "word": "adoption",
+    "partOfSpeech": "n.f.",
+    "translation": "采用 adoption"
+  },
+  {
+    "word": "adresser (s')",
+    "partOfSpeech": "v.pr.",
+    "translation": "针对某人，向某人说话，求助于某人 to speak to"
+  },
+  {
+    "word": "affaler (s')",
+    "partOfSpeech": "v.pr.",
+    "translation": "〈引，俗>重重倒下，瘫软 to slump"
+  },
+  {
+    "word": "affirmer",
+    "partOfSpeech": "v.t.",
+    "translation": "肯定，断定 to assert, to affirm"
+  },
+  {
+    "word": "agglutiner (s')",
+    "partOfSpeech": "v.pr.",
+    "translation": "聚集，汇集 to assemble, to gather"
+  },
+  {
+    "word": "agité,e",
+    "partOfSpeech": "adj.",
+    "translation": "激动的，不安的 agitated"
+  },
+  {
+    "word": "ainé,e",
+    "partOfSpeech": "adj.",
+    "translation": "年长的 elder"
+  },
+  {
+    "word": "ainé,e",
+    "partOfSpeech": "n.",
+    "translation": "长子，长女 elder son/daughter; 较年长者 elder; <引>前辈 elder"
+  },
+  {
+    "word": "air",
+    "partOfSpeech": "n.m.",
+    "translation": "样子，举止，神态 look, aspect"
+  },
+  {
+    "word": "ajouter",
+    "partOfSpeech": "v.t.",
+    "translation": "添加，补充 to add"
+  },
+  {
+    "word": "alimentaire",
+    "partOfSpeech": "adj.",
+    "translation": "饮食的，食物的 alimental"
+  },
+  {
+    "word": "allegement",
+    "partOfSpeech": "n.m.",
+    "translation": "减轻，减轻负担 relief"
+  },
+  {
+    "word": "allier",
+    "partOfSpeech": "v.t.",
+    "translation": "使……结合，使联姻，使结盟 to ally"
+  },
+  {
+    "word": "allongement",
+    "partOfSpeech": "n.m.",
+    "translation": "延长，加长 prolongation, extension, lengthening"
+  },
+  {
+    "word": "alors que",
+    "partOfSpeech": "loc.conj.",
+    "translation": "而，却 whereas"
+  },
+  {
+    "word": "amateur,trice",
+    "partOfSpeech": "n.f.",
+    "translation": "爱好者，业余爱好者 amateur"
+  },
+  {
+    "word": "Amazonie",
+    "partOfSpeech": "n.f.",
+    "translation": "亚马孙平原(位于南美，大部分在巴西"
+  }
+,
+  {
+    "word": "ambiance",
+    "partOfSpeech": "n.f.",
+    "translation": "气氛 atmosphere,ambiance"
+  },
+  {
+    "word": "ambitieux,se",
+    "partOfSpeech": "adj.",
+    "translation": "野心勃勃的 ambitious"
+  },
+  {
+    "word": "ame sceur",
+    "partOfSpeech": "n.",
+    "translation": "知己 soul mate"
+  },
+  {
+    "word": "améliorer",
+    "partOfSpeech": "v.t.",
+    "translation": "改善，完善 to improve"
+  },
+  {
+    "word": "amende",
+    "partOfSpeech": "n.f.",
+    "translation": "罚款，罚金 fine"
+  },
+  {
+    "word": "ancrer",
+    "partOfSpeech": "v.t.",
+    "translation": "〈转〉使根深蒂固，使扎根(思想、观点等) to take root"
+  },
+  {
+    "word": "annuel,le",
+    "partOfSpeech": "adj.",
+    "translation": "每年的，年度的 annual"
+  },
+  {
+    "word": "anticiper",
+    "partOfSpeech": "v.t.",
+    "translation": "提前，提早 to anticipate"
+  },
+  {
+    "word": "apercevoir(s')",
+    "partOfSpeech": "v.pr.",
+    "translation": "发觉，意识到 to realize"
+  },
+  {
+    "word": "apparition",
+    "partOfSpeech": "n.f.",
+    "translation": "出现，显现，出场 appearance"
+  },
+  {
+    "word": "appartenir(à)",
+    "partOfSpeech": "v.t.ind.",
+    "translation": "属于，归……所有 to belong to"
+  },
+  {
+    "word": "appel",
+    "partOfSpeech": "n.m.",
+    "translation": "呼叫；召唤 call;appeal,plea"
+  },
+  {
+    "word": "appliqué,e",
+    "partOfSpeech": "adj.",
+    "translation": "应用的 applied"
+  },
+  {
+    "word": "apporter",
+    "partOfSpeech": "v.t.",
+    "translation": "带来；提供，给予 to bring,to give"
+  },
+  {
+    "word": "apprécier(s')",
+    "partOfSpeech": "v.pr.",
+    "translation": "互相重视，互相赏识，相爱 to like one another"
+  },
+  {
+    "word": "apprentissage",
+    "partOfSpeech": "n.m.",
+    "translation": "学习，学手艺，学徒 apprenticeship"
+  },
+  {
+    "word": "après tout",
+    "partOfSpeech": "loc.adv.",
+    "translation": "毕竟，总之 after all"
+  },
+  {
+    "word": "arboré,e",
+    "partOfSpeech": "adj.",
+    "translation": "栽有树木的 covered with trees"
+  },
+  {
+    "word": "arroser",
+    "partOfSpeech": "v.t.",
+    "translation": "浇，洒 to water"
+  },
+  {
+    "word": "article",
+    "partOfSpeech": "n.m.",
+    "translation": "条文，条款 article"
+  },
+  {
+    "word": "artisanal,e",
+    "partOfSpeech": "adj.",
+    "translation": "手工操作的，手工制作的 handmade"
+  },
+  {
+    "word": "asiatique",
+    "partOfSpeech": "adj.",
+    "translation": "亚洲的 Asian"
+  },
+  {
+    "word": "aspirer(à)",
+    "partOfSpeech": "v.t.ind.",
+    "translation": "向往，憧憬，渴望 to aspire to"
+  },
+  {
+    "word": "assaut",
+    "partOfSpeech": "n.m.",
+    "translation": "攻击，突击，冲击 assault"
+  },
+  {
+    "word": "assis,e",
+    "partOfSpeech": "adj.",
+    "translation": "坐着的，坐姿的 seated"
+  },
+  {
+    "word": "assumer",
+    "partOfSpeech": "v.t.",
+    "translation": "担当，承担，承受 to assume,to take on"
+  },
+  {
+    "word": "assurance",
+    "partOfSpeech": "n.f.",
+    "translation": "保险，担保，确信 insurance,certainty"
+  },
+  {
+    "word": "assurer (que)",
+    "partOfSpeech": "v.t.",
+    "translation": "肯定……,保证…… to assure (that)"
+  },
+  {
+    "word": "atomique",
+    "partOfSpeech": "adj.",
+    "translation": "原子的 atomic"
+  },
+  {
+    "word": "attaché,e",
+    "partOfSpeech": "adj.",
+    "translation": "喜爱的，爱慕的，依恋的 attached"
+  },
+  {
+    "word": "attaquer(s')",
+    "partOfSpeech": "v.pr.",
+    "translation": "攻击，谋求解决 to attack,to tackle"
+  },
+  {
+    "word": "attendre(s')",
+    "partOfSpeech": "v.pr.",
+    "translation": "预料 to expect"
+  },
+  {
+    "word": "attractif,ve",
+    "partOfSpeech": "adj.",
+    "translation": "吸引的，有吸引力的 attractive"
+  },
+  {
+    "word": "atypique",
+    "partOfSpeech": "adj.",
+    "translation": "非典型的，不规则的 atypical"
+  },
+  {
+    "word": "au-delà de",
+    "partOfSpeech": "loc.prép.",
+    "translation": "超出……以外，更远些 beyond"
+  }
+,
+  {
+    "word": "auparavant",
+    "partOfSpeech": "adv.",
+    "translation": "以前，从前 before"
+  },
+  {
+    "word": "aupres de",
+    "partOfSpeech": "loc.prép.",
+    "translation": "向……,对……from; 在……近 旁 close to"
+  },
+  {
+    "word": "autrement",
+    "partOfSpeech": "adv.",
+    "translation": "不同地，另样地；不然 differently"
+  },
+  {
+    "word": "avancée",
+    "partOfSpeech": "n.f.",
+    "translation": "增长，进展 advanced"
+  },
+  {
+    "word": "avantageux,se",
+    "partOfSpeech": "adj.",
+    "translation": "有利的，有好处的，合算的 advantageous"
+  },
+  {
+    "word": "avouer",
+    "partOfSpeech": "v.t.",
+    "translation": "承认，公开表明，表露 to avow,to admit"
+  }
+,
+  {
+    "word": "baby-sitter",
+    "partOfSpeech": "n.",
+    "translation": "〈英〉照看婴儿的临时保姆"
+  },
+  {
+    "word": "bachelier,ere",
+    "partOfSpeech": "n.",
+    "translation": "法国高中毕业会考及格者，业士"
+  },
+  {
+    "word": "background",
+    "partOfSpeech": "n.m.",
+    "translation": "后台，背景"
+  },
+  {
+    "word": "baguette",
+    "partOfSpeech": "n.f.",
+    "translation": "鼓槌"
+  },
+  {
+    "word": "Bahamas",
+    "partOfSpeech": "n.",
+    "translation": "巴哈马(北美洲国家名)"
+  },
+  {
+    "word": "balayer",
+    "partOfSpeech": "v.t.",
+    "translation": "打扫，扫除，冲掉"
+  },
+  {
+    "word": "ballon",
+    "partOfSpeech": "n.m.",
+    "translation": "气球；大皮球"
+  },
+  {
+    "word": "bande",
+    "partOfSpeech": "n.f.",
+    "translation": "乐队"
+  },
+  {
+    "word": "batiment",
+    "partOfSpeech": "n.m.",
+    "translation": "建筑业，建筑物"
+  },
+  {
+    "word": "batteur,euse",
+    "partOfSpeech": "n.",
+    "translation": "架子鼓鼓手"
+  },
+  {
+    "word": "battre",
+    "partOfSpeech": "v.t.",
+    "translation": "打，拍打，搅，拌"
+  },
+  {
+    "word": "battre les blancs en neige",
+    "partOfSpeech": "",
+    "translation": "把蛋白打成泡沫状"
+  },
+  {
+    "word": "battre(se)",
+    "partOfSpeech": "v.pr.",
+    "translation": "互殴，交战，争吵，斗争"
+  },
+  {
+    "word": "Beaujeu",
+    "partOfSpeech": "",
+    "translation": "博若(法国城市名)"
+  },
+  {
+    "word": "beaujolais",
+    "partOfSpeech": "n.m.",
+    "translation": "法国博若莱地区(Beaujolais)出产的葡萄酒"
+  },
+  {
+    "word": "bénévolement",
+    "partOfSpeech": "adv.",
+    "translation": "自愿地，无报酬地"
+  },
+  {
+    "word": "beurrer",
+    "partOfSpeech": "v.t.",
+    "translation": "涂以黄油"
+  },
+  {
+    "word": "bien",
+    "partOfSpeech": "n.m.",
+    "translation": "(常用复数形式)财产，产业"
+  },
+  {
+    "word": "bilan",
+    "partOfSpeech": "n.m.",
+    "translation": "总结，小结；(检查)结果"
+  },
+  {
+    "word": "biologique",
+    "partOfSpeech": "adj.",
+    "translation": "生物学的，生物的；天然的"
+  },
+  {
+    "word": "blanc",
+    "partOfSpeech": "n.m.",
+    "translation": "白色；某些东西的白色部分"
+  },
+  {
+    "word": "blanchatre",
+    "partOfSpeech": "adj.",
+    "translation": "近白色的，微白的"
+  },
+  {
+    "word": "bloc",
+    "partOfSpeech": "n.m.",
+    "translation": "大块，楼群街区"
+  },
+  {
+    "word": "boite",
+    "partOfSpeech": "n.f.",
+    "translation": "〈俗>公司，企业"
+  },
+  {
+    "word": "bombe",
+    "partOfSpeech": "n.f.",
+    "translation": "炸弹"
+  },
+  {
+    "word": "bordeaux",
+    "partOfSpeech": "n.m.",
+    "translation": "波尔多葡萄酒"
+  },
+  {
+    "word": "Bordelais,en",
+    "partOfSpeech": "n.",
+    "translation": "波尔多人"
+  },
+  {
+    "word": "bosser",
+    "partOfSpeech": "v.i.",
+    "translation": "〈俗>工作，干活"
+  },
+  {
+    "word": "bougon,ne",
+    "partOfSpeech": "adj.",
+    "translation": "惯于咕哝的，爱发牢骚的"
+  },
+  {
+    "word": "bougon,ne",
+    "partOfSpeech": "n.",
+    "translation": "惯于咕哝的(人), 爱发牢骚的(人)"
+  }
+,
+  {
+    "word": "boule",
+    "partOfSpeech": "n.f.",
+    "translation": "球，游戏用球 ball"
+  },
+  {
+    "word": "bouleversé,e",
+    "partOfSpeech": "adj.",
+    "translation": "被打翻的，被打乱的，被震撼的 upside-down"
+  },
+  {
+    "word": "bourgogne",
+    "partOfSpeech": "n.m.",
+    "translation": "勃艮第葡萄酒 Burgundy"
+  },
+  {
+    "word": "branché,e",
+    "partOfSpeech": "adj.",
+    "translation": "爱时髦的，赶潮流的 trendy"
+  },
+  {
+    "word": "bras",
+    "partOfSpeech": "n.m.",
+    "translation": "臂，胳膊；臂状物 arm"
+  },
+  {
+    "word": "brasserie",
+    "partOfSpeech": "n.f.",
+    "translation": "(提供啤酒的)餐馆 brewery"
+  },
+  {
+    "word": "brume",
+    "partOfSpeech": "n.f.",
+    "translation": "轻雾，雾 haze"
+  },
+  {
+    "word": "bureaucratie",
+    "partOfSpeech": "n.f.",
+    "translation": "官僚主义 bureaucracy"
+  },
+  {
+    "word": "cafard",
+    "partOfSpeech": "n.m.",
+    "translation": "蟑螂 cockroach"
+  },
+  {
+    "word": "caisse",
+    "partOfSpeech": "n.f.",
+    "translation": "鼓身，鼓 drum; 箱子 crate"
+  },
+  {
+    "word": "calculer",
+    "partOfSpeech": "v.i.",
+    "translation": "计算 to calculate"
+  },
+  {
+    "word": "campagnard,e",
+    "partOfSpeech": "n.",
+    "translation": "农村人，乡下人 yokel"
+  },
+  {
+    "word": "camper",
+    "partOfSpeech": "v.i.",
+    "translation": "暂时居住，扎营，安营 to camp"
+  },
+  {
+    "word": "camping",
+    "partOfSpeech": "n.m.",
+    "translation": "〈英>野营，露营 camping"
+  },
+  {
+    "word": "candidature",
+    "partOfSpeech": "n.f.",
+    "translation": "候选人资格 candidature"
+  },
+  {
+    "word": "cantine",
+    "partOfSpeech": "n.f.",
+    "translation": "食堂，餐厅 canteen"
+  },
+  {
+    "word": "cap",
+    "partOfSpeech": "n.m.",
+    "translation": "海角 cape;〈转〉关，大关 mark"
+  },
+  {
+    "word": "capable",
+    "partOfSpeech": "adj.",
+    "translation": "有能力的，能干的 capable"
+  },
+  {
+    "word": "captif,ve",
+    "partOfSpeech": "adj.",
+    "translation": "俘虏的，被俘的 captive"
+  },
+  {
+    "word": "carnet",
+    "partOfSpeech": "n.m.",
+    "translation": "记事本，小本；票簿 notebook"
+  },
+  {
+    "word": "carrelage",
+    "partOfSpeech": "n.m.",
+    "translation": "瓷砖贴面 tiling"
+  },
+  {
+    "word": "casser",
+    "partOfSpeech": "v.t.",
+    "translation": "打碎，弄断 to break, to crack"
+  },
+  {
+    "word": "casser",
+    "partOfSpeech": "v.i.",
+    "translation": "变得粉碎 to break, to snap"
+  },
+  {
+    "word": "casserole",
+    "partOfSpeech": "n.f.",
+    "translation": "有柄平底锅 casserole"
+  },
+  {
+    "word": "catalogue",
+    "partOfSpeech": "n.m.",
+    "translation": "目录，商品一览表 catalog"
+  },
+  {
+    "word": "caution",
+    "partOfSpeech": "n.f.",
+    "translation": "担保 deposit"
+  },
+  {
+    "word": "se porte caution pour qn",
+    "partOfSpeech": "n.f.",
+    "translation": "为某人作保 to stand guaranty for sb, to put up bail for sb"
+  },
+  {
+    "word": "célébrer",
+    "partOfSpeech": "v.t.",
+    "translation": "庆祝 to celebrate"
+  },
+  {
+    "word": "célibat",
+    "partOfSpeech": "n.m.",
+    "translation": "独身，不婚 single status"
+  },
+  {
+    "word": "cependant",
+    "partOfSpeech": "adv.",
+    "translation": "然而，但是 however; 其间 mean- while"
+  },
+  {
+    "word": "cérémonie",
+    "partOfSpeech": "n.f.",
+    "translation": "仪式，典礼 ceremony"
+  },
+  {
+    "word": "certes",
+    "partOfSpeech": "adv.",
+    "translation": "的确，诚然 indeed"
+  },
+  {
+    "word": "cesse",
+    "partOfSpeech": "n.f.",
+    "translation": "停止，中断 break, cessation"
+  },
+  {
+    "word": "chaleur",
+    "partOfSpeech": "n.f.",
+    "translation": "热，高温，炎热 heat"
+  },
+  {
+    "word": "chantier",
+    "partOfSpeech": "n.m.",
+    "translation": "工地 building-site"
+  },
+  {
+    "word": "charge",
+    "partOfSpeech": "n.f.",
+    "translation": "负担，费用 charge"
+  },
+  {
+    "word": "chef",
+    "partOfSpeech": "n.m.",
+    "translation": "大厨，厨师长 chef; 元首，领袖，主任 leader, superior, head"
+  },
+  {
+    "word": "chéri,e",
+    "partOfSpeech": "n.",
+    "translation": "亲爱的(人), 心爱的(人) darling"
+  },
+  {
+    "word": "chic",
+    "partOfSpeech": "adj.inv.",
+    "translation": "漂亮的，优雅的，上档次的 chic"
+  },
+  {
+    "word": "chirurgie",
+    "partOfSpeech": "n.f.",
+    "translation": "外科 surgery"
+  },
+  {
+    "word": "chrono",
+    "partOfSpeech": "n.m.",
+    "translation": "秒表 (chronomètre 的缩写) stopwatch"
+  }
+,
+  {
+    "word": "ciment",
+    "partOfSpeech": "n.m.",
+    "translation": "水泥 cement"
+  },
+  {
+    "word": "cinquantenaire",
+    "partOfSpeech": "n.m.",
+    "translation": "五十周年 fiftieth anniversary, semicentennial"
+  },
+  {
+    "word": "circulation",
+    "partOfSpeech": "n.f",
+    "translation": "交通，循环 circulation"
+  },
+  {
+    "word": "citoyen,ne",
+    "partOfSpeech": "n.",
+    "translation": "公民 citizen"
+  },
+  {
+    "word": "civil,e",
+    "partOfSpeech": "adj.",
+    "translation": "公民的，民事的 civil"
+  },
+  {
+    "word": "clarinette",
+    "partOfSpeech": "n.f.",
+    "translation": "单簧管 clarinet"
+  },
+  {
+    "word": "clash",
+    "partOfSpeech": "n.m.",
+    "translation": "〈英>抵触，冲突 clash"
+  },
+  {
+    "word": "clé/clef",
+    "partOfSpeech": "n.f.",
+    "translation": "钥匙；关键，秘诀，线索 key"
+  },
+  {
+    "word": "cliché",
+    "partOfSpeech": "n.m.",
+    "translation": "底片 negative, snapshot; <转，贬>陈词滥调 cliché"
+  },
+  {
+    "word": "clientèle",
+    "partOfSpeech": "n.f.",
+    "translation": "【集】顾客，客户 clientele"
+  },
+  {
+    "word": "clin",
+    "partOfSpeech": "n.m.d'ceil",
+    "translation": "眨眼 wink, twinkling"
+  },
+  {
+    "word": "cceur",
+    "partOfSpeech": "n.m.",
+    "translation": "心脏；内心；中心 heart"
+  },
+  {
+    "word": "collaboration",
+    "partOfSpeech": "n.f.",
+    "translation": "合作，协作 collaboration"
+  },
+  {
+    "word": "collaborer (à)",
+    "partOfSpeech": "v.t.ind.",
+    "translation": "与……合作 to collaborate"
+  },
+  {
+    "word": "collective",
+    "partOfSpeech": "n.f.",
+    "translation": "集体企业 collective; 合作社 cooperative"
+  },
+  {
+    "word": "colline",
+    "partOfSpeech": "n.f.",
+    "translation": "丘陵，山冈 hill"
+  },
+  {
+    "word": "colocataire",
+    "partOfSpeech": "n.",
+    "translation": "合租人 cotenant, roommate/flatmate"
+  },
+  {
+    "word": "colocation",
+    "partOfSpeech": "n.f.",
+    "translation": "合租 flat-share"
+  },
+  {
+    "word": "co-louer",
+    "partOfSpeech": "v.t.",
+    "translation": "合租 to share a rented apartment or a house together"
+  },
+  {
+    "word": "commission",
+    "partOfSpeech": "n.f.",
+    "translation": "委员会 commission"
+  },
+  {
+    "word": "compagnon",
+    "partOfSpeech": "n.m.",
+    "translation": "男伴，男伴侣 companion"
+  },
+  {
+    "word": "comparable",
+    "partOfSpeech": "adj.",
+    "translation": "可比较的 comparable"
+  },
+  {
+    "word": "comparé,e à",
+    "partOfSpeech": "loc.adj.",
+    "translation": "与……相比的 compared to"
+  },
+  {
+    "word": "compétence",
+    "partOfSpeech": "n.f.",
+    "translation": "能力，技能 ability, competence, skill"
+  },
+  {
+    "word": "compétent,e",
+    "partOfSpeech": "adj.",
+    "translation": "有能力的，能胜任的 competent"
+  },
+  {
+    "word": "complètement",
+    "partOfSpeech": "adv.",
+    "translation": "完全地，彻底地 completely"
+  },
+  {
+    "word": "complicité",
+    "partOfSpeech": "n.f.",
+    "translation": "默契，融洽 bond"
+  },
+  {
+    "word": "comporter (se)",
+    "partOfSpeech": "v.pr:",
+    "translation": "举止，行为 to behave"
+  },
+  {
+    "word": "composer",
+    "partOfSpeech": "v.t.",
+    "translation": "组合，组成，构成 to compound, to compose"
+  },
+  {
+    "word": "comprendre",
+    "partOfSpeech": "v.t.",
+    "translation": "包括，包含 to include"
+  },
+  {
+    "word": "compter",
+    "partOfSpeech": "v.i.",
+    "translation": "具有重要性，算得上 to count"
+  },
+  {
+    "word": "comptoir",
+    "partOfSpeech": "n.m.",
+    "translation": "柜台，酒店柜台 counter"
+  },
+  {
+    "word": "conception",
+    "partOfSpeech": "n.f.",
+    "translation": "设计 conception, design"
+  },
+  {
+    "word": "concerner",
+    "partOfSpeech": "v.t.",
+    "translation": "涉及，关系到 to concern"
+  },
+  {
+    "word": "concilier",
+    "partOfSpeech": "v.t.",
+    "translation": "使调和，使一致，调解 to reconcile"
+  },
+  {
+    "word": "conclusion",
+    "partOfSpeech": "n.f.",
+    "translation": "结论 conclusion"
+  },
+  {
+    "word": "concours",
+    "partOfSpeech": "n.m.",
+    "translation": "竞争，竞赛，比赛 contest"
+  },
+  {
+    "word": "concu,e",
+    "partOfSpeech": "p.p.",
+    "translation": "被设想的，被设计的 conceived"
+  },
+  {
+    "word": "conduire",
+    "partOfSpeech": "v.t.",
+    "translation": "驾驶，领导，引领 to drive, to lead"
+  },
+  {
+    "word": "confession",
+    "partOfSpeech": "n.f.",
+    "translation": "忏悔，坦白 confession"
+  },
+  {
+    "word": "confier",
+    "partOfSpeech": "v.t.",
+    "translation": "吐露(隐情等), 说出(心里话) to confide"
+  }
+,
+  {
+    "word": "confirmation",
+    "partOfSpeech": "n.f.",
+    "translation": "确认，确认函 confirmation"
+  },
+  {
+    "word": "confirmer",
+    "partOfSpeech": "v.t.",
+    "translation": "证实，证明，进一步肯定 to confirm"
+  },
+  {
+    "word": "confondre",
+    "partOfSpeech": "v.t.",
+    "translation": "混淆，搞错 to mix up,to confuse"
+  },
+  {
+    "word": "confondu,e",
+    "partOfSpeech": "adj.",
+    "translation": "混乱的，混在一起的 jumbled"
+  },
+  {
+    "word": "conforme",
+    "partOfSpeech": "(à)adj",
+    "translation": "与……相一致的，与……相符的 conforming to"
+  },
+  {
+    "word": "confort",
+    "partOfSpeech": "n.m.",
+    "translation": "舒适，安逸 comfort"
+  },
+  {
+    "word": "confronter",
+    "partOfSpeech": "v.t.",
+    "translation": "使……面对 to confront"
+  },
+  {
+    "word": "conjuguer",
+    "partOfSpeech": "v.t.",
+    "translation": "结合，联合 to conjugate"
+  },
+  {
+    "word": "conquérir",
+    "partOfSpeech": "v.t.",
+    "translation": "夺得，获得，赢得，征服 to conquer"
+  },
+  {
+    "word": "consacré,e",
+    "partOfSpeech": "adj.",
+    "translation": "被用于 … … 的，被献给 … … 的 devoted"
+  },
+  {
+    "word": "consacrer",
+    "partOfSpeech": "v.t.",
+    "translation": "献，给，用 to devote"
+  },
+  {
+    "word": "se consacrer(à)",
+    "partOfSpeech": "v.pr.",
+    "translation": "献身(于 … … ),致力 (于……) to devote oneself(to)"
+  },
+  {
+    "word": "consécutif,ve",
+    "partOfSpeech": "adj.",
+    "translation": "连续的，接连的 consecutive"
+  },
+  {
+    "word": "conséquent,e",
+    "partOfSpeech": "adj.",
+    "translation": "〈 俗>重要的，重大的 important"
+  },
+  {
+    "word": "conservatoire",
+    "partOfSpeech": "n.m.",
+    "translation": "音乐学院 conservatory"
+  },
+  {
+    "word": "conserver",
+    "partOfSpeech": "v.t.",
+    "translation": "保持，保留；保存，贮藏 to conserve,to preserve"
+  },
+  {
+    "word": "considerer",
+    "partOfSpeech": "v.t",
+    "translation": "comme... 把……看作…… to consider..to be..."
+  },
+  {
+    "word": "consigne",
+    "partOfSpeech": "n.f.",
+    "translation": "行李寄存处 left-luggage office"
+  },
+  {
+    "word": "consommateur,trice",
+    "partOfSpeech": "n.",
+    "translation": "消费者 consumer"
+  },
+  {
+    "word": "constater",
+    "partOfSpeech": "v.t.",
+    "translation": "看到，观察到 to notice"
+  },
+  {
+    "word": "construire",
+    "partOfSpeech": "v.t.",
+    "translation": "建造；构造，创立 to build"
+  },
+  {
+    "word": "consultable",
+    "partOfSpeech": "adj.",
+    "translation": "可查阅的，可查看的，可咨询的 consultable"
+  },
+  {
+    "word": "consultant,e",
+    "partOfSpeech": "n.",
+    "translation": "咨询师 consultant"
+  },
+  {
+    "word": "contact",
+    "partOfSpeech": "n.m.",
+    "translation": "接触，联系 contact"
+  },
+  {
+    "word": "contenir",
+    "partOfSpeech": "v.t.",
+    "translation": "包含，含有 to contain"
+  },
+  {
+    "word": "contradictoire",
+    "partOfSpeech": "adj.",
+    "translation": "对立的，矛盾的 contradictory"
+  },
+  {
+    "word": "contraire",
+    "partOfSpeech": "n.m.",
+    "translation": "对立面，对立物，反义词 contrary"
+  },
+  {
+    "word": "au contraire",
+    "partOfSpeech": "loc.adv.",
+    "translation": "相反 on the contrary"
+  },
+  {
+    "word": "contribuer (à)",
+    "partOfSpeech": "v.t.ind.",
+    "translation": "为……出力，为……做贡献 to contribute to"
+  },
+  {
+    "word": "convenir(à)",
+    "partOfSpeech": "v.t.ind.",
+    "translation": "适合，适宜，合某人意 to suit,to be suitable for"
+  },
+  {
+    "word": "convivial,e",
+    "partOfSpeech": "adj.",
+    "translation": "宴饮交际的，好交际的 convivial"
+  },
+  {
+    "word": "convoiter",
+    "partOfSpeech": "v.t.",
+    "translation": "觊觎，垂涎 to covet"
+  },
+  {
+    "word": "coordinateur,trice",
+    "partOfSpeech": "n.",
+    "translation": "协调人，调配者 coordinator"
+  },
+  {
+    "word": "coordonnées",
+    "partOfSpeech": "n.fpl.",
+    "translation": "联系方式 contact information"
+  },
+  {
+    "word": "cordialement",
+    "partOfSpeech": "adv.",
+    "translation": "真诚地，衷心地 cordially"
+  },
+  {
+    "word": "coréaliser",
+    "partOfSpeech": "v.t.",
+    "translation": "共同完成 to realise together"
+  },
+  {
+    "word": "cosy",
+    "partOfSpeech": "adj.",
+    "translation": "〈 英〉温馨舒适的 cosy,warm and comfortable"
+  },
+  {
+    "word": "côtoyer",
+    "partOfSpeech": "v.t.",
+    "translation": "接近，触及 to border on,to rub"
+  }
+,
+  {
+    "word": "shoulders with (someone)",
+    "partOfSpeech": "",
+    "translation": "10"
+  },
+  {
+    "word": "couche",
+    "partOfSpeech": "n.f.",
+    "translation": "(社会)阶层 stratum"
+  },
+  {
+    "word": "couler",
+    "partOfSpeech": "v.i.",
+    "translation": "流，流动 to flow"
+  },
+  {
+    "word": "coupe",
+    "partOfSpeech": "n.f.",
+    "translation": "发型 haircut; 裁剪式样 cut"
+  },
+  {
+    "word": "courir",
+    "partOfSpeech": "v.i.",
+    "translation": "奔跑，赛跑 to run"
+  },
+  {
+    "word": "cours",
+    "partOfSpeech": "n.m.",
+    "translation": "水流；过程，期间 course, flow"
+  },
+  {
+    "word": "au cours de",
+    "partOfSpeech": "n.loc.prép.",
+    "translation": "在……期间 in the course of, during"
+  },
+  {
+    "word": "course",
+    "partOfSpeech": "n.f",
+    "translation": "速度竞赛(赛跑，赛车，赛马等) race"
+  },
+  {
+    "word": "co-voiturage",
+    "partOfSpeech": "n.m.",
+    "translation": "拼车 car sharing"
+  },
+  {
+    "word": "cracher",
+    "partOfSpeech": "v.t.",
+    "translation": "吐痰，喷吐 to spit"
+  },
+  {
+    "word": "craquant,e",
+    "partOfSpeech": "adj.",
+    "translation": "〈口>迷人的，可爱至极的 lovely"
+  },
+  {
+    "word": "crier",
+    "partOfSpeech": "v.i./v.t.",
+    "translation": "喊，叫，疾呼 to scream, to yelp"
+  },
+  {
+    "word": "critere",
+    "partOfSpeech": "n.m.",
+    "translation": "标准，准则 criterion"
+  },
+  {
+    "word": "critique",
+    "partOfSpeech": "n.",
+    "translation": "评论家，批评家 critic"
+  },
+  {
+    "word": "croiser",
+    "partOfSpeech": "v.t.",
+    "translation": "与某人交错而过 to pass, to meet, to cross"
+  },
+  {
+    "word": "se croiser",
+    "partOfSpeech": "v.pr.",
+    "translation": "相互交叉，交错而过 to cross"
+  },
+  {
+    "word": "cru",
+    "partOfSpeech": "n.m.",
+    "translation": "特定地方酿造的葡萄酒 vintage, cru"
+  },
+  {
+    "word": "cube",
+    "partOfSpeech": "n.m.",
+    "translation": "立方体 cube"
+  },
+  {
+    "word": "cuisson",
+    "partOfSpeech": "n.f.",
+    "translation": "烧煮时间 cooking"
+  },
+  {
+    "word": "culinaire",
+    "partOfSpeech": "adj.",
+    "translation": "烹饪的，烹调的 culinary"
+  },
+  {
+    "word": "curieux,se",
+    "partOfSpeech": "adj.",
+    "translation": "好奇的 curious; 奇特的 strange, curious, odd"
+  }
+,
+  {
+    "word": "davantage",
+    "partOfSpeech": "adv.",
+    "translation": "更多地 more"
+  },
+  {
+    "word": "début",
+    "partOfSpeech": "n.m.",
+    "translation": "初始，开头 beginning"
+  },
+  {
+    "word": "déchet",
+    "partOfSpeech": "n.m.",
+    "translation": "垃圾，废物 waste"
+  },
+  {
+    "word": "décoiffer",
+    "partOfSpeech": "v.t.",
+    "translation": "弄乱头发 to ruffle"
+  },
+  {
+    "word": "décorer",
+    "partOfSpeech": "v.t.",
+    "translation": "装饰，装潢 to decorate"
+  },
+  {
+    "word": "défini,e",
+    "partOfSpeech": "adj.",
+    "translation": "被确定的，被界定的 defined"
+  },
+  {
+    "word": "délivrer (se)",
+    "partOfSpeech": "v.pr.",
+    "translation": "摆脱 to free oneself"
+  },
+  {
+    "word": "demande",
+    "partOfSpeech": "n.f.",
+    "translation": "要求，申请，提问，需求 demand"
+  },
+  {
+    "word": "démarche",
+    "partOfSpeech": "n.f.",
+    "translation": "手续，步骤，措施 step"
+  },
+  {
+    "word": "démarrer",
+    "partOfSpeech": "v.i.",
+    "translation": "启动，开动 to start"
+  },
+  {
+    "word": "déménagement",
+    "partOfSpeech": "n.m.",
+    "translation": "搬家，迁居 move"
+  },
+  {
+    "word": "départemental",
+    "partOfSpeech": "adj.",
+    "translation": "(法国)省级的 departmental"
+  },
+  {
+    "word": "dépasser",
+    "partOfSpeech": "v.t.",
+    "translation": "超出，超过，高出 to surpass"
+  },
+  {
+    "word": "dépendre (de)",
+    "partOfSpeech": "v.t.ind.",
+    "translation": "取决于，依存于；隶属于 to depend on"
+  },
+  {
+    "word": "déplorer",
+    "partOfSpeech": "v.t.",
+    "translation": "叹惜，为……感到遗憾 to deplore"
+  },
+  {
+    "word": "des",
+    "partOfSpeech": "prép.",
+    "translation": "从某时或某处起就…… from"
+  },
+  {
+    "word": "désirer",
+    "partOfSpeech": "v.t.",
+    "translation": "欲望，想要，意愿 to desire"
+  },
+  {
+    "word": "désormais",
+    "partOfSpeech": "adv.",
+    "translation": "从今以后，往后 from now on"
+  },
+  {
+    "word": "dessiner",
+    "partOfSpeech": "v.t.",
+    "translation": "构思，布局，绘画 to draw"
+  },
+  {
+    "word": "dessus",
+    "partOfSpeech": "adv.",
+    "translation": "上面，那上面 above"
+  },
+  {
+    "word": "deux-pieces",
+    "partOfSpeech": "n.m.",
+    "translation": "两居室 two bedroom units"
+  }
+,
+  {
+    "word": "développement",
+    "partOfSpeech": "n.m.",
+    "translation": "发展 development"
+  },
+  {
+    "word": "diapason",
+    "partOfSpeech": "n.m.【乐】",
+    "translation": "音域，调子；程度，步伐"
+  },
+  {
+    "word": "diapason",
+    "partOfSpeech": "",
+    "translation": "17"
+  },
+  {
+    "word": "discipline",
+    "partOfSpeech": "n.f.",
+    "translation": "纪律 discipline"
+  },
+  {
+    "word": "discrimination",
+    "partOfSpeech": "n.f.",
+    "translation": "区分；歧视，不同等对待"
+  },
+  {
+    "word": "discrimination",
+    "partOfSpeech": "",
+    "translation": "7"
+  },
+  {
+    "word": "discriminer",
+    "partOfSpeech": "v.t.",
+    "translation": "歧视；区别 to discriminate"
+  },
+  {
+    "word": "distinguer",
+    "partOfSpeech": "v.t.",
+    "translation": "区别，辨别 to distinguish"
+  },
+  {
+    "word": "divers,e",
+    "partOfSpeech": "adj.",
+    "translation": "各种各样的，不同的 diverse"
+  },
+  {
+    "word": "doigt",
+    "partOfSpeech": "n.m.",
+    "translation": "手指，脚趾 finger"
+  },
+  {
+    "word": "domicile",
+    "partOfSpeech": "n.m.",
+    "translation": "住所，住宅 place of residence, domicile"
+  },
+  {
+    "word": "à domicile",
+    "partOfSpeech": "loc.adv.",
+    "translation": "在家，上门(送货，服务) at home"
+  },
+  {
+    "word": "don",
+    "partOfSpeech": "n.m.",
+    "translation": "天赋，天资 gift"
+  },
+  {
+    "word": "donner (se)",
+    "partOfSpeech": "v.pr.",
+    "translation": "献身 to devote oneself to; 给自己 to give to oneself"
+  },
+  {
+    "word": "dose",
+    "partOfSpeech": "n.f.",
+    "translation": "含量，比例，数量，程度 dose, amount"
+  },
+  {
+    "word": "dossier",
+    "partOfSpeech": "n.m.",
+    "translation": "卷宗，档案材料 dossier"
+  },
+  {
+    "word": "doucement",
+    "partOfSpeech": "adv.",
+    "translation": "缓慢地；轻柔地 gently, softly"
+  },
+  {
+    "word": "draguer",
+    "partOfSpeech": "n.m.",
+    "translation": "<俗>勾引，追(女人) chat up"
+  },
+  {
+    "word": "dresser (se)",
+    "partOfSpeech": "v.pr.",
+    "translation": "耸起，矗立 to rise"
+  },
+  {
+    "word": "droit",
+    "partOfSpeech": "n.m.",
+    "translation": "权利 right"
+  },
+  {
+    "word": "dů,due",
+    "partOfSpeech": "adj.",
+    "translation": "归功于，起因于 due; 应付给的，欠下的 owed, due"
+  },
+  {
+    "word": "duo",
+    "partOfSpeech": "n.m.",
+    "translation": "二重唱，二重奏 duo"
+  },
+  {
+    "word": "durable",
+    "partOfSpeech": "adj.",
+    "translation": "持久的，耐久的，长期的 durable"
+  },
+  {
+    "word": "durant",
+    "partOfSpeech": "prép.",
+    "translation": "在期间 during"
+  },
+  {
+    "word": "durer",
+    "partOfSpeech": "vi.",
+    "translation": "持续，延续；经久 to last"
+  }
+,
+  {
+    "word": "éblouissant,e",
+    "partOfSpeech": "adj.",
+    "translation": "耀眼的，炫目的，极美的，奇妙的 dazzling"
+  },
+  {
+    "word": "échapper (à)",
+    "partOfSpeech": "v.t.ind.",
+    "translation": "逃脱，避开 to escape"
+  },
+  {
+    "word": "écho",
+    "partOfSpeech": "n.m.",
+    "translation": "回音，回声 echo"
+  },
+  {
+    "word": "éclat",
+    "partOfSpeech": "n.m.",
+    "translation": "碎片，碎渣 splinter"
+  },
+  {
+    "word": "éco",
+    "partOfSpeech": "n.f.",
+    "translation": "〈口>生态学(écologie的缩写) ecology"
+  },
+  {
+    "word": "effectivement",
+    "partOfSpeech": "adv.",
+    "translation": "事实上，实际上 actually, really"
+  },
+  {
+    "word": "effectuer (s')",
+    "partOfSpeech": "v.pr.",
+    "translation": "被实施，被执行，被实行 to be carried out"
+  },
+  {
+    "word": "égalité",
+    "partOfSpeech": "n.f.",
+    "translation": "平等 equality"
+  },
+  {
+    "word": "égérie",
+    "partOfSpeech": "n.f.",
+    "translation": "〈书〉 (艺术家的启发灵感的)女伴 muse"
+  },
+  {
+    "word": "église",
+    "partOfSpeech": "n.f.",
+    "translation": "教堂 church"
+  },
+  {
+    "word": "élaboration",
+    "partOfSpeech": "n.f.",
+    "translation": "创建，制作 elaboration"
+  },
+  {
+    "word": "éloignement",
+    "partOfSpeech": "n.m.",
+    "translation": "离开，远离，疏远 remoteness"
+  },
+  {
+    "word": "éloigner(s)",
+    "partOfSpeech": "v.pr.",
+    "translation": "远离，离开 to move away"
+  },
+  {
+    "word": "émailler",
+    "partOfSpeech": "v.t.",
+    "translation": "装饰，点缀 to enamel"
+  }
+,
+  {
+    "word": "embouteillage",
+    "partOfSpeech": "n.m.",
+    "translation": "交通堵塞；装瓶 traffic jam"
+  },
+  {
+    "word": "éméché,e",
+    "partOfSpeech": "adj.",
+    "translation": "〈口>微醉的，略有醉意的 tipsy"
+  },
+  {
+    "word": "emparer(s')",
+    "partOfSpeech": "v.pr.",
+    "translation": "夺取，占领 to seize"
+  },
+  {
+    "word": "emplacement",
+    "partOfSpeech": "n.m.",
+    "translation": "所占位置 site, place"
+  },
+  {
+    "word": "emporter",
+    "partOfSpeech": "v.t.",
+    "translation": "带离，带走 to carry away, to take away"
+  },
+  {
+    "word": "en effet",
+    "partOfSpeech": "adv.",
+    "translation": "的确，果然，事实上 effectively"
+  },
+  {
+    "word": "en particulier",
+    "partOfSpeech": "loc.adv.",
+    "translation": "尤其，特别 particularly, in particular; 单独地，个别地 individually"
+  },
+  {
+    "word": "en priorité",
+    "partOfSpeech": "loc.adv.",
+    "translation": "优先地 preferentially"
+  },
+  {
+    "word": "en revanche",
+    "partOfSpeech": "loc.adv.",
+    "translation": "作为抵偿，相反，可是 on the other hand"
+  },
+  {
+    "word": "encadrer",
+    "partOfSpeech": "v.t.",
+    "translation": "装以框子 to frame; <转〉统率，指挥 to supervise"
+  },
+  {
+    "word": "enchainer",
+    "partOfSpeech": "v.t.",
+    "translation": "用链子系住，使连接，使连贯 to enchain, to link up"
+  },
+  {
+    "word": "encombrer(s')",
+    "partOfSpeech": "v.pr.",
+    "translation": "使自己感到困扰，使自己被缠住，被阻塞 to burden oneself"
+  },
+  {
+    "word": "encourager",
+    "partOfSpeech": "v.t.",
+    "translation": "鼓励，鼓舞 to encourage"
+  },
+  {
+    "word": "enrichir(s')",
+    "partOfSpeech": "v.pr.",
+    "translation": "变富 to become/grow rich; 丰富，充实 to be enriched"
+  },
+  {
+    "word": "enrichissant,e",
+    "partOfSpeech": "adj.",
+    "translation": "使丰富的 rewarding"
+  },
+  {
+    "word": "enseigne",
+    "partOfSpeech": "n.f.",
+    "translation": "招牌，旗号 sign-board"
+  },
+  {
+    "word": "enseignement",
+    "partOfSpeech": "n.m.",
+    "translation": "教育，教学 teaching, education"
+  },
+  {
+    "word": "entendre(s')(avec qn)",
+    "partOfSpeech": "v.pr.",
+    "translation": "和某人融洽相处 to get on/along with sb"
+  },
+  {
+    "word": "enthousiaste",
+    "partOfSpeech": "adj.",
+    "translation": "兴奋的，热情的 enthusiastic"
+  },
+  {
+    "word": "entourer",
+    "partOfSpeech": "v.t.",
+    "translation": "围绕，环绕 to surround"
+  },
+  {
+    "word": "entreprendre",
+    "partOfSpeech": "v.t.",
+    "translation": "着手进行，从事 to undertake"
+  },
+  {
+    "word": "envers",
+    "partOfSpeech": "prép.",
+    "translation": "对于，朝向 towards, to"
+  },
+  {
+    "word": "environs",
+    "partOfSpeech": "n.m.pl.",
+    "translation": "周围，附近，近郊 surroundings"
+  },
+  {
+    "word": "aux environs de",
+    "partOfSpeech": "loc.prép.",
+    "translation": "(空间、时间及数量上的)接近，将近 about, towards"
+  },
+  {
+    "word": "épanouir(s')",
+    "partOfSpeech": "v.pr.",
+    "translation": "变得喜悦，变得快乐 to light up; 充分发展 to blossom, to flourish"
+  },
+  {
+    "word": "épatant,e",
+    "partOfSpeech": "adj.",
+    "translation": "<俗>出色的，了不起的 great"
+  },
+  {
+    "word": "épluchage",
+    "partOfSpeech": "n.m.",
+    "translation": "择菜，削皮，剥皮 paring"
+  },
+  {
+    "word": "épouvantable",
+    "partOfSpeech": "adj.",
+    "translation": "可怕的，糟糕的 horrible"
+  },
+  {
+    "word": "épreuve",
+    "partOfSpeech": "n.f.",
+    "translation": "考试，测验 test"
+  },
+  {
+    "word": "équilibré,e",
+    "partOfSpeech": "adj.",
+    "translation": "平衡的 balanced"
+  },
+  {
+    "word": "équipage",
+    "partOfSpeech": "n.m.",
+    "translation": "船、飞机等的全体乘务员，机组 aircrew"
+  },
+  {
+    "word": "équipement",
+    "partOfSpeech": "n.m.",
+    "translation": "装备，设备 equipment"
+  },
+  {
+    "word": "équiper",
+    "partOfSpeech": "v.t.",
+    "translation": "给配备，给配置 to equip"
+  },
+  {
+    "word": "équipier,ère",
+    "partOfSpeech": "n.f.",
+    "translation": "队员，组员 crew member"
+  },
+  {
+    "word": "espérance",
+    "partOfSpeech": "n.f.",
+    "translation": "希望，期望 hope"
+  },
+  {
+    "word": "esplanade",
+    "partOfSpeech": "n.f.",
+    "translation": "前广场，空地 esplanade"
+  }
+,
+  {
+    "word": "espoir",
+    "partOfSpeech": "n.m.",
+    "translation": "希望 hope"
+  },
+  {
+    "word": "esprit",
+    "partOfSpeech": "n.m.",
+    "translation": "精神，思维 spirit"
+  },
+  {
+    "word": "essuie-glace",
+    "partOfSpeech": "n.m.",
+    "translation": "汽车挡风玻璃上的刮水器 windscreen wiper"
+  },
+  {
+    "word": "esthétique",
+    "partOfSpeech": "adj.",
+    "translation": "美的，美学的 aesthetic"
+  },
+  {
+    "word": "estival,e",
+    "partOfSpeech": "adj.",
+    "translation": "夏季的 estival, summery"
+  },
+  {
+    "word": "établir",
+    "partOfSpeech": "v.t.",
+    "translation": "建立，确立；证实，判定 to establish"
+  },
+  {
+    "word": "Etat",
+    "partOfSpeech": "n.m.",
+    "translation": "国家；州，邦 state"
+  },
+  {
+    "word": "état",
+    "partOfSpeech": "n.m.",
+    "translation": "状态，状况 state"
+  },
+  {
+    "word": "étoile",
+    "partOfSpeech": "n.f.",
+    "translation": "星，恒星 star"
+  },
+  {
+    "word": "étonner",
+    "partOfSpeech": "v.t.",
+    "translation": "使惊讶，令人不解 to astonish, to amaze"
+  },
+  {
+    "word": "etre toujours fourré chez qn",
+    "partOfSpeech": "",
+    "translation": "总是呆在某人家里 to be always hanging at someone's home"
+  },
+  {
+    "word": "Eve",
+    "partOfSpeech": "",
+    "translation": "(《圣经》中的)夏娃；《引>女人 Eve"
+  },
+  {
+    "word": "éveillé,e",
+    "partOfSpeech": "adj.",
+    "translation": "醒着的 awake"
+  },
+  {
+    "word": "éventuel, le",
+    "partOfSpeech": "adj.",
+    "translation": "可能的，万一的，可能发生的 eventual"
+  },
+  {
+    "word": "évidemment",
+    "partOfSpeech": "adj.",
+    "translation": "当然，显然 apparently, obviously"
+  },
+  {
+    "word": "évidence",
+    "partOfSpeech": "n.f.",
+    "translation": "明显性，显著性 evidence"
+  },
+  {
+    "word": "exceller",
+    "partOfSpeech": "vi.",
+    "translation": "出众，擅长 to excel"
+  },
+  {
+    "word": "exceptionnel,le",
+    "partOfSpeech": "adj.",
+    "translation": "特殊的，例外的；非凡卓越的 exceptional"
+  },
+  {
+    "word": "exclamer(s')",
+    "partOfSpeech": "v.pr.",
+    "translation": "欢呼，惊呼，叫喊 to exclaim"
+  },
+  {
+    "word": "exhaustif,ve",
+    "partOfSpeech": "adj.",
+    "translation": "(论述等)透彻的，彻底的，详尽无遗的 exhaustive"
+  },
+  {
+    "word": "exorbitant,e",
+    "partOfSpeech": "adj.",
+    "translation": "过分的，过度的 exorbitant"
+  },
+  {
+    "word": "expédier",
+    "partOfSpeech": "v.t.",
+    "translation": "寄送 to send, to post; 打发走 to send, to dispatch; 匆匆完成，草草了事 to polish off"
+  },
+  {
+    "word": "express",
+    "partOfSpeech": "adj.inv.",
+    "translation": "快速的，高速的 express, quick n.m <英〉快车 express"
+  },
+  {
+    "word": "expressement",
+    "partOfSpeech": "adv.",
+    "translation": "明确地，明文规定地 expressly"
+  }
+,
+  {
+    "word": "faciliter",
+    "partOfSpeech": "v.t.",
+    "translation": "使容易，使方便 to facilitate"
+  },
+  {
+    "word": "facteur",
+    "partOfSpeech": "n.m.",
+    "translation": "因素，要素 factor"
+  },
+  {
+    "word": "facultatif,ve",
+    "partOfSpeech": "adj.",
+    "translation": "可选择的 optional"
+  },
+  {
+    "word": "faisabilité",
+    "partOfSpeech": "n.f.",
+    "translation": "可行性 feasibility"
+  },
+  {
+    "word": "fantasme",
+    "partOfSpeech": "n.m.",
+    "translation": "幻觉，幻影 phantasm"
+  },
+  {
+    "word": "farniente",
+    "partOfSpeech": "n.m.",
+    "translation": "〈俗>闲逸，悠闲 idleness"
+  },
+  {
+    "word": "faveur",
+    "partOfSpeech": "n.f.",
+    "translation": "厚爱，关照，优待 favour"
+  },
+  {
+    "word": "feeling",
+    "partOfSpeech": "n.m.",
+    "translation": "【乐】感受；<俗>感觉，感受 feeling"
+  },
+  {
+    "word": "fidèle",
+    "partOfSpeech": "adj.",
+    "translation": "忠心的，忠实的，忠诚的 faithful"
+  },
+  {
+    "word": "figurer",
+    "partOfSpeech": "v.i.",
+    "translation": "列入，出现在 to appear"
+  },
+  {
+    "word": "fil",
+    "partOfSpeech": "n.m.",
+    "translation": "线，丝 thread"
+  },
+  {
+    "word": "au fil de",
+    "partOfSpeech": "loc.prép.",
+    "translation": "沿着，随着；在整个……期间 over, in"
+  },
+  {
+    "word": "fin",
+    "partOfSpeech": "n.f.",
+    "translation": "结束，完结；尾声，最后 end"
+  }
+,
+  {
+    "word": "fnancier",
+    "partOfSpeech": "n.m.",
+    "translation": "金融家 financier"
+  },
+  {
+    "word": "flamenco",
+    "partOfSpeech": "n.m.",
+    "translation": "弗拉门戈舞 flamenco"
+  },
+  {
+    "word": "fleurir",
+    "partOfSpeech": "v.i.",
+    "translation": "大量出现，开花 to flourish"
+  },
+  {
+    "word": "fleurissement",
+    "partOfSpeech": "n.m.",
+    "translation": "开花，开花期 florescence"
+  },
+  {
+    "word": "flexible",
+    "partOfSpeech": "adj.",
+    "translation": "灵活的，柔韧的 flexible"
+  },
+  {
+    "word": "folie",
+    "partOfSpeech": "n.f.",
+    "translation": "疯癫，发狂，荒唐 madness"
+  },
+  {
+    "word": "follement",
+    "partOfSpeech": "adv.",
+    "translation": "疯狂地，狂热地，及其，非常 madly"
+  },
+  {
+    "word": "fonction",
+    "partOfSpeech": "n.f.",
+    "translation": "功能，职能，职位，【数】函数 function"
+  },
+  {
+    "word": "en fonction de",
+    "partOfSpeech": "loc.prép.",
+    "translation": "根据，按照 according to"
+  },
+  {
+    "word": "fondation",
+    "partOfSpeech": "n.f.",
+    "translation": "基金，基金会 foundation"
+  },
+  {
+    "word": "fondre",
+    "partOfSpeech": "v.i.",
+    "translation": "融化，熔化 to fuse, to melt"
+  },
+  {
+    "word": "forcément",
+    "partOfSpeech": "adv.",
+    "translation": "必然地，不可避免地，注定地 necessarily, inevitably"
+  },
+  {
+    "word": "forfait",
+    "partOfSpeech": "n.m.",
+    "translation": "套餐价 tariff, fixed rate"
+  },
+  {
+    "word": "formation",
+    "partOfSpeech": "n.f.",
+    "translation": "培训，培养，教育 training, formation"
+  },
+  {
+    "word": "forme",
+    "partOfSpeech": "n.f.",
+    "translation": "形状，形式 shape, form; 身体或精神状态 form"
+  },
+  {
+    "word": "formulaire",
+    "partOfSpeech": "n.m.",
+    "translation": "表格 form"
+  },
+  {
+    "word": "formule",
+    "partOfSpeech": "n.f.",
+    "translation": "方式，方法 option"
+  },
+  {
+    "word": "forum",
+    "partOfSpeech": "n.m.",
+    "translation": "论坛 forum"
+  },
+  {
+    "word": "four",
+    "partOfSpeech": "n.m.",
+    "translation": "烤箱 oven"
+  },
+  {
+    "word": "fournir",
+    "partOfSpeech": "v.t.",
+    "translation": "提供 to provide"
+  },
+  {
+    "word": "frais, fraiche",
+    "partOfSpeech": "adj.",
+    "translation": "清凉的，凉爽的 cool; 新鲜的 fresh"
+  },
+  {
+    "word": "framboise",
+    "partOfSpeech": "n.f.",
+    "translation": "覆盆子 raspberry"
+  },
+  {
+    "word": "fuir",
+    "partOfSpeech": "v.t.",
+    "translation": "逃避，避开 to evade, to flee, to avoid"
+  }
+,
+  {
+    "word": "gacher",
+    "partOfSpeech": "v.t.",
+    "translation": "浪费，糟蹋 to bungle"
+  },
+  {
+    "word": "gagnant,e",
+    "partOfSpeech": "n.",
+    "translation": "中奖者，获胜者 winner"
+  },
+  {
+    "word": "gaieté",
+    "partOfSpeech": "n.f.",
+    "translation": "愉快，快乐 gaiety"
+  },
+  {
+    "word": "galerie",
+    "partOfSpeech": "n.f.",
+    "translation": "画廊，长廊 gallery"
+  },
+  {
+    "word": "Galles(pays de)",
+    "partOfSpeech": "",
+    "translation": "威尔士(地区) Wales"
+  },
+  {
+    "word": "gallois",
+    "partOfSpeech": "n.m.",
+    "translation": "威尔士语 Welsh"
+  },
+  {
+    "word": "gallois,e",
+    "partOfSpeech": "adj.",
+    "translation": "威尔士的 Welsh"
+  },
+  {
+    "word": "Gallois,e",
+    "partOfSpeech": "n.",
+    "translation": "威尔士人 the Welsh"
+  },
+  {
+    "word": "gamme",
+    "partOfSpeech": "n.f.",
+    "translation": "系列，等级，档次 range;音阶 scale"
+  },
+  {
+    "word": "garde",
+    "partOfSpeech": "n.f.",
+    "translation": "保管，看管，守卫 care,minding"
+  },
+  {
+    "word": "gastronomique",
+    "partOfSpeech": "adj.",
+    "translation": "美食的 gastronomic"
+  },
+  {
+    "word": "gazelle",
+    "partOfSpeech": "n.f.",
+    "translation": "小羚羊 gazelle"
+  },
+  {
+    "word": "gémissement",
+    "partOfSpeech": "n.m.",
+    "translation": "呻吟，呻吟般的声音 moan, groan"
+  },
+  {
+    "word": "généraliser (se)",
+    "partOfSpeech": "v.pr.",
+    "translation": "推广，普及 to spread"
+  },
+  {
+    "word": "génération",
+    "partOfSpeech": "n.f.",
+    "translation": "一代(人) generation"
+  },
+  {
+    "word": "genre",
+    "partOfSpeech": "n.m.",
+    "translation": "种类，类型 sort,type,kind"
+  },
+  {
+    "word": "gite",
+    "partOfSpeech": "n.m.",
+    "translation": "住处，乡村旅店 inn"
+  },
+  {
+    "word": "GPS",
+    "partOfSpeech": "",
+    "translation": "全球定位系统(英文Global Position System的缩略语) GPS"
+  }
+,
+  {
+    "word": "grand-chose",
+    "partOfSpeech": "n.m.inv.",
+    "translation": "大事，重要的事 a great deal"
+  },
+  {
+    "word": "pas grand-chose",
+    "partOfSpeech": "",
+    "translation": "不多的东西，几乎什么都不 no great deal"
+  },
+  {
+    "word": "gratte-ciel",
+    "partOfSpeech": "n.m.inv.",
+    "translation": "摩天大楼 skyscraper"
+  },
+  {
+    "word": "grève",
+    "partOfSpeech": "n.f.",
+    "translation": "罢工，罢课 strike"
+  },
+  {
+    "word": "grisaille",
+    "partOfSpeech": "n.f.",
+    "translation": "暗淡，阴沉 grayness"
+  },
+  {
+    "word": "grouillant,e",
+    "partOfSpeech": "adj.",
+    "translation": "拥挤的，挤满人的 teeming"
+  },
+  {
+    "word": "guadeloupéen,ne",
+    "partOfSpeech": "adj.",
+    "translation": "瓜德罗普岛的 Guadeloupian"
+  },
+  {
+    "word": "guidé,e",
+    "partOfSpeech": "p.p.",
+    "translation": "被引导的，有导游的 guided"
+  },
+  {
+    "word": "guinguette",
+    "partOfSpeech": "n.f.",
+    "translation": "(城郊多为露天的)可供跳舞的小咖啡馆 small restaurant with music and dancing"
+  },
+  {
+    "word": "guitariste",
+    "partOfSpeech": "n.",
+    "translation": "吉他弹奏者 guitarist"
+  },
+  {
+    "word": "handicape,e",
+    "partOfSpeech": "adj.",
+    "translation": "残疾的(人) handicapped"
+  },
+  {
+    "word": "harmonie",
+    "partOfSpeech": "n.f.",
+    "translation": "和谐 harmony"
+  },
+  {
+    "word": "haut",
+    "partOfSpeech": "n.m.",
+    "translation": "高度，上端，顶部，上半身 high, top"
+  },
+  {
+    "word": "hébergement",
+    "partOfSpeech": "n.m.",
+    "translation": "留宿，收容 accommodation"
+  },
+  {
+    "word": "hésiter",
+    "partOfSpeech": "v.i.",
+    "translation": "犹豫，迟疑 to hesitate"
+  },
+  {
+    "word": "hiérarchie",
+    "partOfSpeech": "n.f.",
+    "translation": "等级，等级制度 hierarchy"
+  },
+  {
+    "word": "hip-hop",
+    "partOfSpeech": "n.m.inv.",
+    "translation": "(以说唱乐、涂鸦、快板音乐、霹雳舞等为主要特征的)嘻哈音乐 hip-hop"
+  },
+  {
+    "word": "hommage",
+    "partOfSpeech": "n.m.",
+    "translation": "尊敬，敬意 homage, tribute"
+  },
+  {
+    "word": "Honfleur",
+    "partOfSpeech": "",
+    "translation": "翁弗勒尔(法国城市名) Honfleur"
+  },
+  {
+    "word": "honneur",
+    "partOfSpeech": "n.m.",
+    "translation": "名誉，荣耀，尊严 honour"
+  },
+  {
+    "word": "hors",
+    "partOfSpeech": "prep.",
+    "translation": "在……之外 out of"
+  },
+  {
+    "word": "hostile(à)",
+    "partOfSpeech": "adj.",
+    "translation": "对立的，反对的 hostile (to)"
+  },
+  {
+    "word": "hote,hotesse",
+    "partOfSpeech": "n.",
+    "translation": "客人，主人 host, hostess"
+  },
+  {
+    "word": "huile",
+    "partOfSpeech": "n.f.",
+    "translation": "油 oil"
+  },
+  {
+    "word": "huilé,e",
+    "partOfSpeech": "adj.",
+    "translation": "运行良好的，涂过油的 well-oiled"
+  },
+  {
+    "word": "humain,e",
+    "partOfSpeech": "adj.",
+    "translation": "人的，人类的 human"
+  },
+  {
+    "word": "humainement",
+    "partOfSpeech": "adv.",
+    "translation": "从人的角度，在人情方面，人道地 humanely"
+  },
+  {
+    "word": "humanitaire",
+    "partOfSpeech": "adj.",
+    "translation": "人道主义的 humanitarian"
+  },
+  {
+    "word": "humanitaire",
+    "partOfSpeech": "n.",
+    "translation": "人道主义者 humanitarian"
+  },
+  {
+    "word": "humanitaire",
+    "partOfSpeech": "n.m.",
+    "translation": "人道主义行动 humanitarian work"
+  },
+  {
+    "word": "humanité",
+    "partOfSpeech": "n.f.",
+    "translation": "人类，人性 humanity"
+  },
+  {
+    "word": "hygiene",
+    "partOfSpeech": "n.f.",
+    "translation": "卫生，卫生学 hygiene"
+  },
+  {
+    "word": "hyper-",
+    "partOfSpeech": "préf.",
+    "translation": "超，高，过 hyper-"
+  },
+  {
+    "word": "idole",
+    "partOfSpeech": "n.f.",
+    "translation": "偶像 idol"
+  }
+,
+  {
+    "word": "ile de la Cité",
+    "partOfSpeech": "",
+    "translation": "西岱岛，位于巴黎市中心塞纳河中间"
+  },
+  {
+    "word": "ile Saint-Louis",
+    "partOfSpeech": "",
+    "translation": "圣路易岛，位于巴黎市中心塞纳河中间"
+  }
+,
+  {
+    "word": "illustration",
+    "partOfSpeech": "nf",
+    "translation": "声誉，名声；插图；《书>说明"
+  },
+  {
+    "word": "immense",
+    "partOfSpeech": "adj.",
+    "translation": "辽阔无边的，巨大的"
+  },
+  {
+    "word": "impact",
+    "partOfSpeech": "n.m.",
+    "translation": "影响"
+  },
+  {
+    "word": "impitoyable",
+    "partOfSpeech": "adj.",
+    "translation": "严厉的，毫不宽容的，无情的"
+  },
+  {
+    "word": "incessant,e",
+    "partOfSpeech": "adj.",
+    "translation": "不停的，不断的"
+  },
+  {
+    "word": "inconnu,e",
+    "partOfSpeech": "adj.",
+    "translation": "不认识的，陌生的"
+  },
+  {
+    "word": "incontournable",
+    "partOfSpeech": "adj.",
+    "translation": "不得不考虑的，无法回避的"
+  },
+  {
+    "word": "incorporer",
+    "partOfSpeech": "v.t.",
+    "translation": "混合，掺和，使并入"
+  },
+  {
+    "word": "incroyable",
+    "partOfSpeech": "adj.",
+    "translation": "不可相信的，难以置信的"
+  },
+  {
+    "word": "individu",
+    "partOfSpeech": "n.m.",
+    "translation": "个人，个体"
+  },
+  {
+    "word": "individualiste",
+    "partOfSpeech": "adj.",
+    "translation": "个人主义的"
+  },
+  {
+    "word": "individualiste",
+    "partOfSpeech": "n.",
+    "translation": "个人主义者"
+  },
+  {
+    "word": "individuel,le",
+    "partOfSpeech": "adj.",
+    "translation": "个人的"
+  },
+  {
+    "word": "inexpérimenté,e",
+    "partOfSpeech": "adj.",
+    "translation": "没有经验的，缺乏经验的"
+  },
+  {
+    "word": "inextinguible",
+    "partOfSpeech": "adj.",
+    "translation": "无法熄灭的；不可平息的"
+  },
+  {
+    "word": "infrastructure",
+    "partOfSpeech": "n.f.",
+    "translation": "基础建设"
+  },
+  {
+    "word": "initial,e",
+    "partOfSpeech": "adj.",
+    "translation": "开始的，最初的"
+  },
+  {
+    "word": "initialement",
+    "partOfSpeech": "adv.",
+    "translation": "最初，开始时"
+  },
+  {
+    "word": "initiative",
+    "partOfSpeech": "n.f.",
+    "translation": "首创，创举"
+  },
+  {
+    "word": "initier",
+    "partOfSpeech": "v.t.",
+    "translation": "使入门，启蒙，把……传授与，告诉"
+  },
+  {
+    "word": "inlassablement",
+    "partOfSpeech": "adv.",
+    "translation": "不知疲倦地，坚持不懈地"
+  },
+  {
+    "word": "innovant,e",
+    "partOfSpeech": "adj.",
+    "translation": "创新的，革新的"
+  },
+  {
+    "word": "inopiné,e",
+    "partOfSpeech": "adj.",
+    "translation": "意外的，未料到的"
+  },
+  {
+    "word": "inoubliable",
+    "partOfSpeech": "adj.",
+    "translation": "难忘的"
+  },
+  {
+    "word": "inscrire",
+    "partOfSpeech": "v.t.",
+    "translation": "登记，记入"
+  },
+  {
+    "word": "insecte",
+    "partOfSpeech": "n.m.",
+    "translation": "昆虫"
+  },
+  {
+    "word": "insérer(s')",
+    "partOfSpeech": "v.pr.",
+    "translation": "融入(社会)"
+  },
+  {
+    "word": "insertion",
+    "partOfSpeech": "n.f",
+    "translation": "融入(群体)"
+  },
+  {
+    "word": "inspirer (s)",
+    "partOfSpeech": "v.pr:",
+    "translation": "获得灵感"
+  },
+  {
+    "word": "instant",
+    "partOfSpeech": "n.m.",
+    "translation": "时刻，片刻"
+  },
+  {
+    "word": "instrument",
+    "partOfSpeech": "n.m.",
+    "translation": "乐器；工具，器具"
+  },
+  {
+    "word": "intégral,e",
+    "partOfSpeech": "adj.",
+    "translation": "完整的，全部的"
+  },
+  {
+    "word": "intégration",
+    "partOfSpeech": "n.f",
+    "translation": "整合，一体化，合并"
+  },
+  {
+    "word": "intégré,e",
+    "partOfSpeech": "adj.",
+    "translation": "融入整体的，被纳入的"
+  },
+  {
+    "word": "intérét",
+    "partOfSpeech": "n.m.",
+    "translation": "利益，好处；意义，重要性"
+  },
+  {
+    "word": "intermédiaire",
+    "partOfSpeech": "adj.",
+    "translation": "中间的"
+  },
+  {
+    "word": "intermédiaire",
+    "partOfSpeech": "n.m.",
+    "translation": "中间阶段，中间状态"
+  },
+  {
+    "word": "intermédiaire",
+    "partOfSpeech": "n.",
+    "translation": "中间人"
+  },
+  {
+    "word": "international,e",
+    "partOfSpeech": "adj.",
+    "translation": "国际的，国家间的"
+  },
+  {
+    "word": "interprète",
+    "partOfSpeech": "n.",
+    "translation": "演奏者"
+  }
+,
+  {
+    "word": "intervention",
+    "partOfSpeech": "n.f",
+    "translation": "介入，参与，干涉"
+  },
+  {
+    "word": "intime",
+    "partOfSpeech": "adj.",
+    "translation": "内心的，内在的"
+  },
+  {
+    "word": "inventif,ve",
+    "partOfSpeech": "adj.",
+    "translation": "有发明才能的，有创造性的，有办法的"
+  },
+  {
+    "word": "invention",
+    "partOfSpeech": "n.f",
+    "translation": "发明，创造"
+  },
+  {
+    "word": "investir (s)(dans)",
+    "partOfSpeech": "v.pr",
+    "translation": "集中精力在……上，全身心投入 在……上"
+  }
+,
+  {
+    "word": "jackpot",
+    "partOfSpeech": "n.m.",
+    "translation": "〈英〉老虎机一次吐出的全部硬币；<转〉(一下子得到的)大笔钱"
+  },
+  {
+    "word": "jaune",
+    "partOfSpeech": "n.m.",
+    "translation": "蛋黄 yolk"
+  },
+  {
+    "word": "jeu",
+    "partOfSpeech": "n.m.",
+    "translation": "游戏，游戏规则，表演技法 game"
+  },
+  {
+    "word": "Johannesburg",
+    "partOfSpeech": "",
+    "translation": "约翰内斯堡(南非首都) Johannesburg"
+  },
+  {
+    "word": "jouer",
+    "partOfSpeech": "v.t.",
+    "translation": "给……下注；拿……冒险 to play, to stake"
+  },
+  {
+    "word": "jouir (de)",
+    "partOfSpeech": "v.1.ind.",
+    "translation": "享有，拥有 to enjoy"
+  },
+  {
+    "word": "journalisme",
+    "partOfSpeech": "n.m.",
+    "translation": "新闻工作，新闻业 journalism"
+  },
+  {
+    "word": "juger",
+    "partOfSpeech": "v.t.",
+    "translation": "评价，评论，判断 to judge"
+  },
+  {
+    "word": "jury",
+    "partOfSpeech": "n.m.",
+    "translation": "审查委员会，评委会 jury"
+  },
+  {
+    "word": "jutice",
+    "partOfSpeech": "n.f.",
+    "translation": "公道，正义，司法 justice"
+  }
+,
+  {
+    "word": "labelliser",
+    "partOfSpeech": "v.t.",
+    "translation": "加标签于，用标签标明 to label"
+  },
+  {
+    "word": "lacher",
+    "partOfSpeech": "v.t.",
+    "translation": "放开，放弃 to let go of"
+  },
+  {
+    "word": "lancer",
+    "partOfSpeech": "v.t.",
+    "translation": "发动，开动，掀起，发起 to launch"
+  },
+  {
+    "word": "se lancer",
+    "partOfSpeech": "v.pr.",
+    "translation": "投入，冲向，勇敢地参加，大胆从事 to launch into"
+  },
+  {
+    "word": "laureat,e",
+    "partOfSpeech": "adj./n.",
+    "translation": "获得桂冠的(人), 得奖的(人) laureate"
+  },
+  {
+    "word": "lave-mains",
+    "partOfSpeech": "n.m.inv.",
+    "translation": "洗手池 hand basin"
+  },
+  {
+    "word": "laverie",
+    "partOfSpeech": "n.f",
+    "translation": "厨房旁边的洗涤间 launderette"
+  },
+  {
+    "word": "léger,ère",
+    "partOfSpeech": "adj.",
+    "translation": "轻微的，轻便的，轻薄的；清淡的 light"
+  },
+  {
+    "word": "légèrement",
+    "partOfSpeech": "adv.",
+    "translation": "轻微地，轻轻地 lightly"
+  },
+  {
+    "word": "lendemain",
+    "partOfSpeech": "n.m.",
+    "translation": "第二天 the next day"
+  },
+  {
+    "word": "lever",
+    "partOfSpeech": "v.t.",
+    "translation": "抬起，举起，撩起，解除 to raise"
+  },
+  {
+    "word": "levure",
+    "partOfSpeech": "n.f.",
+    "translation": "酵母，发酵粉 yeast"
+  },
+  {
+    "word": "ligne",
+    "partOfSpeech": "n.f",
+    "translation": "通信线路 line"
+  },
+  {
+    "word": "en ligne",
+    "partOfSpeech": "loc.adv.",
+    "translation": "网上，在线 on line"
+  },
+  {
+    "word": "littéraire",
+    "partOfSpeech": "adj.",
+    "translation": "文学的 literary"
+  },
+  {
+    "word": "local",
+    "partOfSpeech": "n.m.",
+    "translation": "(专用)房间，场所 room, bureau"
+  },
+  {
+    "word": "local,e",
+    "partOfSpeech": "adj.",
+    "translation": "地方的，局部的 local"
+  },
+  {
+    "word": "localisation",
+    "partOfSpeech": "n.f",
+    "translation": "地址 location; 定位 localization"
+  },
+  {
+    "word": "lors de",
+    "partOfSpeech": "prép.",
+    "translation": "当时 during"
+  },
+  {
+    "word": "loto",
+    "partOfSpeech": "n.m.",
+    "translation": "自选号码博彩，六合彩 lotto"
+  }
+,
+  {
+    "word": "lourd,e",
+    "partOfSpeech": "adj.",
+    "translation": "重的，沉重的heavy"
+  },
+  {
+    "word": "lourdement",
+    "partOfSpeech": "adv.",
+    "translation": "重重地，沉重地 heavily"
+  },
+  {
+    "word": "lutter",
+    "partOfSpeech": "v.i.",
+    "translation": "与……做斗争to fight"
+  }
+,
+  {
+    "word": "ma foi",
+    "partOfSpeech": "",
+    "translation": "我保证，我肯定(用于加强肯定或否定的语气) on my oath"
+  },
+  {
+    "word": "main d'œuvre",
+    "partOfSpeech": "n.f.",
+    "translation": "劳动力 labour force"
+  },
+  {
+    "word": "majeur,e",
+    "partOfSpeech": "adj.",
+    "translation": "重大的，重要的 major"
+  },
+  {
+    "word": "majorité",
+    "partOfSpeech": "n.f.",
+    "translation": "大多数 majority; 成年，法定成年年龄 majority"
+  },
+  {
+    "word": "mal",
+    "partOfSpeech": "n.m.",
+    "translation": "恶，祸害，病痛 evil"
+  },
+  {
+    "word": "malheureux",
+    "partOfSpeech": "adj.",
+    "translation": "不幸的，悲惨的 unhappy, miserable; 运气不佳的，倒霉的 unlucky, unfortunate"
+  },
+  {
+    "word": "management",
+    "partOfSpeech": "n.m.",
+    "translation": "管理 management"
+  },
+  {
+    "word": "mandarin",
+    "partOfSpeech": "n.m.",
+    "translation": "(中国)普通话 mandarin"
+  },
+  {
+    "word": "manipulation",
+    "partOfSpeech": "n.f.",
+    "translation": "操作，配制，调制 manipulation"
+  },
+  {
+    "word": "manouche",
+    "partOfSpeech": "adj.",
+    "translation": "茨冈人的 gypsy"
+  },
+  {
+    "word": "marocain,e",
+    "partOfSpeech": "adj.",
+    "translation": "摩洛哥的 Moroccan"
+  },
+  {
+    "word": "masser",
+    "partOfSpeech": "v.t.",
+    "translation": "聚集，集合 to mass"
+  },
+  {
+    "word": "matérialiste",
+    "partOfSpeech": "adj.",
+    "translation": "追求物质享受的 materialistic"
+  },
+  {
+    "word": "matérialiste",
+    "partOfSpeech": "n.",
+    "translation": "追求物质享受者 materialist"
+  },
+  {
+    "word": "matériel,le",
+    "partOfSpeech": "adj.",
+    "translation": "物质的 material"
+  },
+  {
+    "word": "matrimonial,e",
+    "partOfSpeech": "adj.",
+    "translation": "婚姻的，夫妻的 matrimonial, marriage"
+  },
+  {
+    "word": "maximum",
+    "partOfSpeech": "n.m.",
+    "translation": "最大量，最大限度 maximum"
+  },
+  {
+    "word": "au maximum",
+    "partOfSpeech": "loc.adv.",
+    "translation": "最大限度地，最高，至多 to the maximum, as much as possible"
+  },
+  {
+    "word": "mec",
+    "partOfSpeech": "n.m.",
+    "translation": "〈民>硬汉，男子汉 man"
+  },
+  {
+    "word": "Melbourne",
+    "partOfSpeech": "",
+    "translation": "墨尔本(澳大利亚城市) Melbourne"
+  },
+  {
+    "word": "meler (se)",
+    "partOfSpeech": "v.pr.",
+    "translation": "被混合 to mix with"
+  },
+  {
+    "word": "membre",
+    "partOfSpeech": "n.m.",
+    "translation": "成员，一分子 member"
+  },
+  {
+    "word": "meme si",
+    "partOfSpeech": "loc.conj.",
+    "translation": "即使，即便 even if"
+  },
+  {
+    "word": "Memphis",
+    "partOfSpeech": "",
+    "translation": "孟菲斯(美国城市名) Memphis"
+  },
+  {
+    "word": "ménager,ere",
+    "partOfSpeech": "adj.",
+    "translation": "家务的 domestic"
+  },
+  {
+    "word": "mensuel,le",
+    "partOfSpeech": "adj.",
+    "translation": "每月的 mensual, monthly"
+  },
+  {
+    "word": "mention",
+    "partOfSpeech": "n.f.",
+    "translation": "评语 valuation"
+  },
+  {
+    "word": "mérite",
+    "partOfSpeech": "n.m.",
+    "translation": "功绩，成就 merit"
+  },
+  {
+    "word": "mesure",
+    "partOfSpeech": "n.f.",
+    "translation": "测量，尺寸，估价 measure"
+  },
+  {
+    "word": "méthode",
+    "partOfSpeech": "n.f.",
+    "translation": "方法 method"
+  },
+  {
+    "word": "métropole",
+    "partOfSpeech": "n.f.",
+    "translation": "宗主国，本土 mother country"
+  },
+  {
+    "word": "milieu",
+    "partOfSpeech": "n.m.",
+    "translation": "社会环境，阶层，业界 background, milieu, circle; 中间，中部 middle"
+  },
+  {
+    "word": "mineur,e",
+    "partOfSpeech": "adj.",
+    "translation": "未成年的 under 18"
+  },
+  {
+    "word": "mineur,e",
+    "partOfSpeech": "n.",
+    "translation": "未成年人 person under 18, minor"
+  },
+  {
+    "word": "minimum",
+    "partOfSpeech": "n.m.",
+    "translation": "最小量，最低值，最低限"
+  }
+,
+  {
+    "word": "au minimum",
+    "partOfSpeech": "loc.adv.",
+    "translation": "至最低程度，到最低限度， 最少，至少 at least"
+  },
+  {
+    "word": "mise en place",
+    "partOfSpeech": "n.f.",
+    "translation": "安装，就位，准备 setting"
+  },
+  {
+    "word": "mobilité",
+    "partOfSpeech": "n.f.",
+    "translation": "活动性，可动性 mobility"
+  },
+  {
+    "word": "modifer",
+    "partOfSpeech": "v.t.",
+    "translation": "修改 to modify"
+  },
+  {
+    "word": "monnaie",
+    "partOfSpeech": "n.f.",
+    "translation": "货币 currency"
+  },
+  {
+    "word": "monotone",
+    "partOfSpeech": "adj.",
+    "translation": "单调的，无变化的 monotone"
+  },
+  {
+    "word": "monter",
+    "partOfSpeech": "v.t.",
+    "translation": "装，安装 to assemble, to put up, to set, to install"
+  },
+  {
+    "word": "mort,e",
+    "partOfSpeech": "n.",
+    "translation": "死者，死人 dead"
+  },
+  {
+    "word": "moteur",
+    "partOfSpeech": "n.m.",
+    "translation": "发动机，动力 motor"
+  },
+  {
+    "word": "motivation",
+    "partOfSpeech": "n.f",
+    "translation": "动机 motive"
+  },
+  {
+    "word": "motivé,e",
+    "partOfSpeech": "adj.",
+    "translation": "有明确动机的，有积极性的 motivated"
+  },
+  {
+    "word": "moule",
+    "partOfSpeech": "n.m.",
+    "translation": "模子，模型 mold"
+  },
+  {
+    "word": "mousse",
+    "partOfSpeech": "n.f.",
+    "translation": "泡沫，摩丝，慕斯 mousse"
+  },
+  {
+    "word": "mouvement",
+    "partOfSpeech": "n.m.",
+    "translation": "运动，移动，演变，波动 movement"
+  },
+  {
+    "word": "muer",
+    "partOfSpeech": "v.i.",
+    "translation": "变声 to break"
+  },
+  {
+    "word": "musical,e",
+    "partOfSpeech": "adj.",
+    "translation": "音乐的 musical"
+  },
+  {
+    "word": "musique soul",
+    "partOfSpeech": "n.f.",
+    "translation": "灵魂乐(由节奏布鲁斯和黑人福音歌混合而成的美国黑人流行音乐) soul music"
+  },
+  {
+    "word": "mystere",
+    "partOfSpeech": "n.m.",
+    "translation": "奥秘，神奇，秘密，神秘 mystery"
+  },
+  {
+    "word": "mystérieux,se",
+    "partOfSpeech": "adj.",
+    "translation": "神秘的 mysterious"
+  },
+  {
+    "word": "n'importe",
+    "partOfSpeech": "adv.",
+    "translation": "不论(后接疑问词) no matter"
+  },
+  {
+    "word": "nantais,e",
+    "partOfSpeech": "adj.",
+    "translation": "南特的 of Nantes"
+  },
+  {
+    "word": "nature",
+    "partOfSpeech": "n.f.",
+    "translation": "本性，性格 nature"
+  },
+  {
+    "word": "nausee",
+    "partOfSpeech": "n.f",
+    "translation": "恶心，作呕 nausea"
+  },
+  {
+    "word": "navigation",
+    "partOfSpeech": "n.f.",
+    "translation": "航行，航海 navigation"
+  },
+  {
+    "word": "nécessiter",
+    "partOfSpeech": "v.t.",
+    "translation": "使成为必要，需要 to necessitate"
+  },
+  {
+    "word": "nettement",
+    "partOfSpeech": "adv.",
+    "translation": "清楚地，清晰地，明确地 clearly"
+  },
+  {
+    "word": "nettoyable",
+    "partOfSpeech": "adj.",
+    "translation": "可清洗的 washable"
+  },
+  {
+    "word": "nid",
+    "partOfSpeech": "n.m.",
+    "translation": "巢，窝，孵化器 nest"
+  },
+  {
+    "word": "nier",
+    "partOfSpeech": "v.t.",
+    "translation": "否定，否认 to deny"
+  },
+  {
+    "word": "nominatif,ve",
+    "partOfSpeech": "adj.",
+    "translation": "记名的 nominative"
+  },
+  {
+    "word": "Normandie",
+    "partOfSpeech": "n.f.",
+    "translation": "诺曼底(法国大区名) Normandy"
+  },
+  {
+    "word": "norme",
+    "partOfSpeech": "n.f.",
+    "translation": "规范，标准 norm"
+  },
+  {
+    "word": "notamment",
+    "partOfSpeech": "adv.",
+    "translation": "特别是，尤其是 especially"
+  },
+  {
+    "word": "noter",
+    "partOfSpeech": "v.t.",
+    "translation": "注意到，记下，标记出 to note"
+  },
+  {
+    "word": "nourrir",
+    "partOfSpeech": "v.t",
+    "translation": "喂食，喂养 to feed"
+  },
+  {
+    "word": "nuire(à)",
+    "partOfSpeech": "v.t.ind.",
+    "translation": "损害，危害 to harm"
+  }
+,
+  {
+    "word": "obstacle",
+    "partOfSpeech": "n.m.",
+    "translation": "障碍"
+  },
+  {
+    "word": "obstination",
+    "partOfSpeech": "n.f",
+    "translation": "固执，执拗"
+  },
+  {
+    "word": "occasion",
+    "partOfSpeech": "n.f.",
+    "translation": "机会"
+  }
+,
+  {
+    "word": "offre",
+    "partOfSpeech": "n.f.",
+    "translation": "(服务、岗位等的)提供 offer"
+  },
+  {
+    "word": "option",
+    "partOfSpeech": "n.f.",
+    "translation": "选择，取舍 option"
+  },
+  {
+    "word": "ordre",
+    "partOfSpeech": "n.m.",
+    "translation": "等级，类别 order; 秩序 order"
+  },
+  {
+    "word": "organisateur,trice",
+    "partOfSpeech": "n.",
+    "translation": "组织者 organizer"
+  },
+  {
+    "word": "organisme",
+    "partOfSpeech": "n.m.",
+    "translation": "机体，人体，有机体 organism"
+  },
+  {
+    "word": "organiser",
+    "partOfSpeech": "(s')v.pr.",
+    "translation": "安排自己的活动 to organize oneself; 组织起来 to get organized"
+  },
+  {
+    "word": "originalité",
+    "partOfSpeech": "n.f.",
+    "translation": "独到性，新颖性 originality"
+  },
+  {
+    "word": "oser",
+    "partOfSpeech": "v.t.",
+    "translation": "敢，敢于 to dare"
+  },
+  {
+    "word": "Oulan-Bator",
+    "partOfSpeech": "",
+    "translation": "乌兰巴托(蒙古首都) Ulan Bator"
+  },
+  {
+    "word": "outre-mer",
+    "partOfSpeech": "loc.adv.",
+    "translation": "海外 overseas"
+  },
+  {
+    "word": "ouvrir",
+    "partOfSpeech": "(s) v.pr.",
+    "translation": "敞开自我 to open oneself up"
+  }
+,
+  {
+    "word": "pack",
+    "partOfSpeech": "n.m.",
+    "translation": "<英>打包，箱 pack"
+  },
+  {
+    "word": "palier",
+    "partOfSpeech": "n.m.",
+    "translation": "阶段，水平，楼梯平台 stage"
+  },
+  {
+    "word": "panneau",
+    "partOfSpeech": "n.m.",
+    "translation": "面板，木牌 board"
+  },
+  {
+    "word": "par contre",
+    "partOfSpeech": "loc.adv.",
+    "translation": "相反地 on the contrary"
+  },
+  {
+    "word": "parexcellence",
+    "partOfSpeech": "loc.adv.",
+    "translation": "杰出地，特别地 parexcellence"
+  },
+  {
+    "word": "parfum",
+    "partOfSpeech": "n.m.",
+    "translation": "香味，芳香 fragrance; 香料，香水； perfume"
+  },
+  {
+    "word": "pari",
+    "partOfSpeech": "n.m.",
+    "translation": "打赌，赌注 gamble"
+  },
+  {
+    "word": "part",
+    "partOfSpeech": "n.f.",
+    "translation": "份，份额，部分 part, share"
+  },
+  {
+    "word": "particulier",
+    "partOfSpeech": "n.m.",
+    "translation": "个人 private individual"
+  },
+  {
+    "word": "particulierement",
+    "partOfSpeech": "adv.",
+    "translation": "特别地，尤其 particularly"
+  },
+  {
+    "word": "passe",
+    "partOfSpeech": "n.m.",
+    "translation": "过去，往事 past"
+  },
+  {
+    "word": "passionner (se)",
+    "partOfSpeech": "v.pr.",
+    "translation": "醉心于，热衷于 to have a passion for"
+  },
+  {
+    "word": "patrimoine",
+    "partOfSpeech": "n.m.",
+    "translation": "遗产，财富，家产 patrimony"
+  },
+  {
+    "word": "patriotique",
+    "partOfSpeech": "adj.",
+    "translation": "爱国的 patriotic"
+  },
+  {
+    "word": "pavé",
+    "partOfSpeech": "n.m.",
+    "translation": "石砖 cobblestone, sett; 用石砖铺成的路面 pavement"
+  },
+  {
+    "word": "payant,e",
+    "partOfSpeech": "adj.",
+    "translation": "须付费的 paying"
+  },
+  {
+    "word": "paysagiste",
+    "partOfSpeech": "n.",
+    "translation": "风景画家，景观设计师 landscape architect, landscapist"
+  },
+  {
+    "word": "pédagogique",
+    "partOfSpeech": "adj.",
+    "translation": "教学的，符合教学法的，合乎教学原理的 pedagogical"
+  },
+  {
+    "word": "pencher (se)",
+    "partOfSpeech": "v.pr.",
+    "translation": "关心，对……感兴趣 to look into"
+  },
+  {
+    "word": "pensée",
+    "partOfSpeech": "n.f.",
+    "translation": "思想，思维；观点，见解 thought"
+  },
+  {
+    "word": "percu,e",
+    "partOfSpeech": "adj.",
+    "translation": "被觉察的，感知到的 perceived"
+  },
+  {
+    "word": "perdre (se)",
+    "partOfSpeech": "v.pr.",
+    "translation": "消失，不存在 to disappear"
+  },
+  {
+    "word": "permis",
+    "partOfSpeech": "n.m.",
+    "translation": "许可证，执照 permit, license"
+  },
+  {
+    "word": "persister",
+    "partOfSpeech": "v.i.",
+    "translation": "持续，持久，坚持 to persist"
+  },
+  {
+    "word": "perso",
+    "partOfSpeech": "adj.",
+    "translation": "(personnel 的缩写)个人的 personal"
+  },
+  {
+    "word": "perturber",
+    "partOfSpeech": "v.",
+    "translation": "扰乱，干扰 to disrupt"
+  },
+  {
+    "word": "peser",
+    "partOfSpeech": "v.i.",
+    "translation": "重压，有分量，使感到压力 to hang over"
+  },
+  {
+    "word": "phénomene",
+    "partOfSpeech": "n.m.",
+    "translation": "现象 phenomenon"
+  }
+,
+  {
+    "word": "piege",
+    "partOfSpeech": "n.m.",
+    "translation": "陷阱 trap"
+  },
+  {
+    "word": "pile",
+    "partOfSpeech": "n.f.",
+    "translation": "叠，堆，垛 pile"
+  },
+  {
+    "word": "pile-poil",
+    "partOfSpeech": "adv.",
+    "translation": "《俗>精准地，适时地 just"
+  },
+  {
+    "word": "pique-niquer",
+    "partOfSpeech": "v.i.",
+    "translation": "野餐，郊游 to have a picnic"
+  },
+  {
+    "word": "place",
+    "partOfSpeech": "n.f.",
+    "translation": "【商】商界，金融界 market"
+  },
+  {
+    "word": "plan",
+    "partOfSpeech": "n.m.",
+    "translation": "方面，角度 aspect; 规划，方案，提纲， plan"
+  },
+  {
+    "word": "plancher(sur)",
+    "partOfSpeech": "v.i.",
+    "translation": "<俗>在……方面用功 to work hard (on)"
+  },
+  {
+    "word": "plateau",
+    "partOfSpeech": "n.m.",
+    "translation": "托盘 tray, salver"
+  },
+  {
+    "word": "Poitiers",
+    "partOfSpeech": "",
+    "translation": "普瓦提埃(法国中部城市) Poitiers"
+  },
+  {
+    "word": "Polonais,e",
+    "partOfSpeech": "",
+    "translation": "波兰人 Pole"
+  },
+  {
+    "word": "polyphonie",
+    "partOfSpeech": "n.f.",
+    "translation": "复调音乐 polyphony"
+  },
+  {
+    "word": "pont Neuf (le)",
+    "partOfSpeech": "",
+    "translation": "新桥(巴黎塞纳河上) the Pont Neuf"
+  },
+  {
+    "word": "populaire",
+    "partOfSpeech": "adj.",
+    "translation": "百姓的，民间的，大众化的 popular"
+  },
+  {
+    "word": "poser",
+    "partOfSpeech": "v.t.",
+    "translation": "放下，置于，摆放 to put, to put down, to lay down"
+  },
+  {
+    "word": "posseder",
+    "partOfSpeech": "v.t.",
+    "translation": "拥有，具有，掌握 to own, to possess"
+  },
+  {
+    "word": "poster",
+    "partOfSpeech": "v.t.",
+    "translation": "投寄，邮寄 to post, to mail"
+  },
+  {
+    "word": "pote",
+    "partOfSpeech": "n.m.",
+    "translation": "〈口>伙伴，朋友 pal"
+  },
+  {
+    "word": "poubelle",
+    "partOfSpeech": "n.f.",
+    "translation": "垃圾桶 garbage can"
+  },
+  {
+    "word": "poursuivre",
+    "partOfSpeech": "v.t.",
+    "translation": "追逐，追求 to pursue, to chase; 继续 to continue"
+  },
+  {
+    "word": "préchauffer",
+    "partOfSpeech": "v.t.",
+    "translation": "对进行预热 to preheat"
+  },
+  {
+    "word": "précipiter (se)",
+    "partOfSpeech": "v.pr.",
+    "translation": "冲向 to rush"
+  },
+  {
+    "word": "précisément",
+    "partOfSpeech": "adv.",
+    "translation": "确切地，明确地，确切地说 precisely"
+  },
+  {
+    "word": "préférable",
+    "partOfSpeech": "adj.",
+    "translation": "更好的，更可取的 preferable"
+  },
+  {
+    "word": "préparation",
+    "partOfSpeech": "n.f.",
+    "translation": "备料；准备，筹备 preparation"
+  },
+  {
+    "word": "prétendre",
+    "partOfSpeech": "v.t.",
+    "translation": "认为，声称 to claim, to assert; 想要，企图 to expect"
+  },
+  {
+    "word": "prétentieux,se",
+    "partOfSpeech": "adj.",
+    "translation": "自负的，自大的 pretentious"
+  },
+  {
+    "word": "prétention",
+    "partOfSpeech": "n.f.",
+    "translation": "自负；要求，企图 pretension"
+  },
+  {
+    "word": "prévenir",
+    "partOfSpeech": "v.t.",
+    "translation": "告知，通知 to inform; 预防 to prevent"
+  },
+  {
+    "word": "prevention",
+    "partOfSpeech": "n.f.",
+    "translation": "预防 prevention"
+  },
+  {
+    "word": "prévoir",
+    "partOfSpeech": "v.t.",
+    "translation": "预见，预料 to foresee, to predict; 考虑到，规定 to provide for; 预备，准备 to provide"
+  },
+  {
+    "word": "primordial,e",
+    "partOfSpeech": "adj.",
+    "translation": "首要的，极重要的 essential"
+  },
+  {
+    "word": "privilégié,e",
+    "partOfSpeech": "adj.",
+    "translation": "享有特权的 privileged"
+  },
+  {
+    "word": "producteur,trice",
+    "partOfSpeech": "n.",
+    "translation": "制片人；生产者 producer"
+  },
+  {
+    "word": "produire",
+    "partOfSpeech": "v.t.",
+    "translation": "制片，拍(电影); 生产 to produce"
+  },
+  {
+    "word": "profil",
+    "partOfSpeech": "n.m.",
+    "translation": "个人条件 profile"
+  },
+  {
+    "word": "profondeur",
+    "partOfSpeech": "n.f.",
+    "translation": "深，深度，深处 depth, deepness"
+  },
+  {
+    "word": "projeter",
+    "partOfSpeech": "v.t.",
+    "translation": "打算，设想 to plan"
+  },
+  {
+    "word": "promo",
+    "partOfSpeech": "n.f.",
+    "translation": "〈俗>同届学生(promotion 的缩写) year (group of students admitted to higher education institutes), class"
+  },
+  {
+    "word": "proportion",
+    "partOfSpeech": "n.f.",
+    "translation": "比例，规模，重大程度 proportion"
+  }
+,
+  {
+    "word": "propre",
+    "partOfSpeech": "adj.",
+    "translation": "干净的，清洁的 clean"
+  },
+  {
+    "word": "propriété",
+    "partOfSpeech": "n.f.",
+    "translation": "所有权 ownership,property; 产业 property"
+  },
+  {
+    "word": "prospérité",
+    "partOfSpeech": "n.f.",
+    "translation": "繁荣，昌盛 prosperity"
+  },
+  {
+    "word": "protection",
+    "partOfSpeech": "n.f.",
+    "translation": "保护，防护 protection"
+  },
+  {
+    "word": "prouesse",
+    "partOfSpeech": "n.f.",
+    "translation": "了不起的行为 prowess"
+  },
+  {
+    "word": "prouver",
+    "partOfSpeech": "v.t.",
+    "translation": "证实，表明 to prove"
+  },
+  {
+    "word": "proviseur",
+    "partOfSpeech": "n.",
+    "translation": "(法国)高中校长 headmaster,principal"
+  },
+  {
+    "word": "provisoire",
+    "partOfSpeech": "adj.",
+    "translation": "暂时的，临时的 provisonal,temporary"
+  },
+  {
+    "word": "proximité",
+    "partOfSpeech": "n.f.",
+    "translation": "附近，邻近 proximity"
+  },
+  {
+    "word": "psychologue",
+    "partOfSpeech": "n.",
+    "translation": "心理学家 psychologist"
+  },
+  {
+    "word": "public,publique",
+    "partOfSpeech": "adj.",
+    "translation": "公众的，公共的，公立的，国有的 public"
+  },
+  {
+    "word": "public",
+    "partOfSpeech": "n.m.",
+    "translation": "公众，大众；观众，听众 public"
+  }
+,
+  {
+    "word": "quadragénaire",
+    "partOfSpeech": "n./adj.",
+    "translation": "四十几岁的(人)"
+  },
+  {
+    "word": "quadragenarian",
+    "partOfSpeech": "",
+    "translation": ""
+  },
+  {
+    "word": "quand meme",
+    "partOfSpeech": "loc.adv.",
+    "translation": "尽管如此仍…, 毕竟"
+  },
+  {
+    "word": "even so",
+    "partOfSpeech": "",
+    "translation": ""
+  },
+  {
+    "word": "quarantaine",
+    "partOfSpeech": "n.f",
+    "translation": "四十几个"
+  },
+  {
+    "word": "about forty",
+    "partOfSpeech": "",
+    "translation": ""
+  },
+  {
+    "word": "quinquagénaire",
+    "partOfSpeech": "n./adj.",
+    "translation": "五十几岁的(人)"
+  },
+  {
+    "word": "quinquagenarian",
+    "partOfSpeech": "",
+    "translation": ""
+  }
+,
+  {
+    "word": "radical,e",
+    "partOfSpeech": "adj.",
+    "translation": "彻底的 radical"
+  },
+  {
+    "word": "radieux,se",
+    "partOfSpeech": "adj.",
+    "translation": "喜悦的，洋溢着幸福的 radiant"
+  },
+  {
+    "word": "raffiné,e",
+    "partOfSpeech": "adj.",
+    "translation": "精炼的，高雅的，精细的 refined"
+  },
+  {
+    "word": "raid",
+    "partOfSpeech": "n.m.",
+    "translation": "拉力赛 rally"
+  },
+  {
+    "word": "rail",
+    "partOfSpeech": "n.m.",
+    "translation": "〈英>轨道，铁轨 rail"
+  },
+  {
+    "word": "rajeunissement",
+    "partOfSpeech": "n.m.",
+    "translation": "年轻化 rejuvenation"
+  },
+  {
+    "word": "rallye",
+    "partOfSpeech": "n.m.",
+    "translation": "长距离耐力竞赛，拉力赛 rally"
+  },
+  {
+    "word": "rangée",
+    "partOfSpeech": "n.f.",
+    "translation": "排，列 row,line"
+  },
+  {
+    "word": "rapport",
+    "partOfSpeech": "n.m.",
+    "translation": "关系，联系 relation"
+  },
+  {
+    "word": "rapprochement",
+    "partOfSpeech": "n.m.",
+    "translation": "拉近，关系靠近，调解 rapprochement"
+  },
+  {
+    "word": "rare",
+    "partOfSpeech": "adj.",
+    "translation": "稀有的，罕见的 rare"
+  },
+  {
+    "word": "rareté",
+    "partOfSpeech": "n.f.",
+    "translation": "稀有，罕见，珍贵 rarity"
+  },
+  {
+    "word": "rassembler",
+    "partOfSpeech": "v.t.",
+    "translation": "集中，集结，收集 to gather,to assemble"
+  },
+  {
+    "word": "rater",
+    "partOfSpeech": "v.t.",
+    "translation": "失败，没有成功 to fail"
+  },
+  {
+    "word": "rattrapage",
+    "partOfSpeech": "n.m.",
+    "translation": "弥补，补考，补课 make-up exam"
+  },
+  {
+    "word": "réalisable",
+    "partOfSpeech": "adj.",
+    "translation": "可实现的 realisable,feasible"
+  },
+  {
+    "word": "réalité",
+    "partOfSpeech": "n.f.",
+    "translation": "现实，事实 reality"
+  },
+  {
+    "word": "recaler",
+    "partOfSpeech": "v.t.",
+    "translation": "取消某人考试资格，使挂科 to fail(sb)"
+  },
+  {
+    "word": "recenser",
+    "partOfSpeech": "v.t.",
+    "translation": "清点，清查，统计 to take a census of"
+  },
+  {
+    "word": "recette",
+    "partOfSpeech": "n.f.",
+    "translation": "烹饪法，菜谱 recipe"
+  },
+  {
+    "word": "recevable",
+    "partOfSpeech": "adj.",
+    "translation": "可被接受的 acceptable,admissible"
+  }
+,
+  {
+    "word": "réclamer",
+    "partOfSpeech": "v.t.",
+    "translation": "to claim"
+  },
+  {
+    "word": "recommandation",
+    "partOfSpeech": "n.f.",
+    "translation": "recommendation"
+  },
+  {
+    "word": "recomposé,e",
+    "partOfSpeech": "adj.",
+    "translation": "recomposed"
+  },
+  {
+    "word": "reconnaissant,e",
+    "partOfSpeech": "adj.",
+    "translation": "grateful"
+  },
+  {
+    "word": "reconvertir(se)",
+    "partOfSpeech": "v.pr.",
+    "translation": "to reconvert"
+  },
+  {
+    "word": "recul",
+    "partOfSpeech": "nm.",
+    "translation": "distance"
+  },
+  {
+    "word": "redevenir",
+    "partOfSpeech": "v.i.",
+    "translation": "to become..again"
+  },
+  {
+    "word": "redouter",
+    "partOfSpeech": "v.t.",
+    "translation": "to fear,to dread,to be afraid of"
+  },
+  {
+    "word": "réduire (se)",
+    "partOfSpeech": "v.pr.",
+    "translation": "to be reduced/cut"
+  },
+  {
+    "word": "réduit,e",
+    "partOfSpeech": "adj.",
+    "translation": "reduced"
+  },
+  {
+    "word": "référence",
+    "partOfSpeech": "n.f.",
+    "translation": "reference"
+  },
+  {
+    "word": "référer(se)",
+    "partOfSpeech": "v.pr.",
+    "translation": "to refer to"
+  },
+  {
+    "word": "refus",
+    "partOfSpeech": "n.m.",
+    "translation": "refusal"
+  },
+  {
+    "word": "régaler (se)",
+    "partOfSpeech": "v.pr.",
+    "translation": "to enjoy oneself"
+  },
+  {
+    "word": "régional,e",
+    "partOfSpeech": "adj.",
+    "translation": "regional"
+  },
+  {
+    "word": "règlement",
+    "partOfSpeech": "n.m.",
+    "translation": "regulations"
+  },
+  {
+    "word": "regret",
+    "partOfSpeech": "n.m.",
+    "translation": "regret"
+  },
+  {
+    "word": "regretter",
+    "partOfSpeech": "v.t.",
+    "translation": "to regret"
+  },
+  {
+    "word": "rejoindre",
+    "partOfSpeech": "v.t.",
+    "translation": "to rejoin; to catch up with"
+  },
+  {
+    "word": "relatif,ve",
+    "partOfSpeech": "adj.",
+    "translation": "relative"
+  },
+  {
+    "word": "relation",
+    "partOfSpeech": "n.f",
+    "translation": "relationship"
+  },
+  {
+    "word": "relationnel",
+    "partOfSpeech": "adj.",
+    "translation": "relational"
+  },
+  {
+    "word": "remboursement",
+    "partOfSpeech": "n.m.",
+    "translation": "repayment"
+  },
+  {
+    "word": "remise",
+    "partOfSpeech": "n.f.",
+    "translation": "restoration"
+  },
+  {
+    "word": "remporter",
+    "partOfSpeech": "v.t.",
+    "translation": "to win"
+  },
+  {
+    "word": "Renaissance",
+    "partOfSpeech": "n.f.",
+    "translation": "Renaissance"
+  },
+  {
+    "word": "renaissant,e",
+    "partOfSpeech": "adj.",
+    "translation": "resurgent"
+  },
+  {
+    "word": "rendre(se)",
+    "partOfSpeech": "v.pr.",
+    "translation": "to go to"
+  },
+  {
+    "word": "renommée",
+    "partOfSpeech": "n.f",
+    "translation": "reputation,fame"
+  },
+  {
+    "word": "renseigner",
+    "partOfSpeech": "v.t.",
+    "translation": "to inform"
+  },
+  {
+    "word": "se renseigner",
+    "partOfSpeech": "v.pr.",
+    "translation": "to find out,to inquire"
+  },
+  {
+    "word": "rentabilité",
+    "partOfSpeech": "n.f.",
+    "translation": "profitability"
+  },
+  {
+    "word": "rentrée",
+    "partOfSpeech": "n.f.",
+    "translation": "beginning of the new school year"
+  },
+  {
+    "word": "renvoyer",
+    "partOfSpeech": "v.t.",
+    "translation": "to send back"
+  },
+  {
+    "word": "repeindre",
+    "partOfSpeech": "v.t.",
+    "translation": "to repaint"
+  },
+  {
+    "word": "répéter",
+    "partOfSpeech": "v.t.",
+    "translation": "to repeat,to rehearse"
+  },
+  {
+    "word": "repousser",
+    "partOfSpeech": "v.t.",
+    "translation": "to reject"
+  },
+  {
+    "word": "reprise",
+    "partOfSpeech": "n.f.",
+    "translation": "cover"
+  },
+  {
+    "word": "réputation",
+    "partOfSpeech": "n.f.",
+    "translation": "reputation"
+  },
+  {
+    "word": "requiem",
+    "partOfSpeech": "n.m.inv.",
+    "translation": "requiem"
+  },
+  {
+    "word": "réservation",
+    "partOfSpeech": "n.f.",
+    "translation": "reservation"
+  }
+,
+  {
+    "word": "réservé,e",
+    "partOfSpeech": "adj.",
+    "translation": "reserved"
+  },
+  {
+    "word": "résident,e",
+    "partOfSpeech": "n.",
+    "translation": "resident"
+  },
+  {
+    "word": "résider",
+    "partOfSpeech": "v.i.",
+    "translation": "to reside,to live"
+  },
+  {
+    "word": "respect",
+    "partOfSpeech": "n.m.",
+    "translation": "respect"
+  },
+  {
+    "word": "respectable",
+    "partOfSpeech": "adj.",
+    "translation": "respectable"
+  },
+  {
+    "word": "ressortir",
+    "partOfSpeech": "v.i.",
+    "translation": "to go out again"
+  },
+  {
+    "word": "restructuration",
+    "partOfSpeech": "n.f.",
+    "translation": "restructuring"
+  },
+  {
+    "word": "résumer",
+    "partOfSpeech": "v.t.",
+    "translation": "to summarize"
+  },
+  {
+    "word": "retenu,e",
+    "partOfSpeech": "adj.",
+    "translation": "chosen"
+  },
+  {
+    "word": "retirer",
+    "partOfSpeech": "v.t.",
+    "translation": "to get,to derive"
+  },
+  {
+    "word": "revanche",
+    "partOfSpeech": "n.f.",
+    "translation": "revenge"
+  },
+  {
+    "word": "revé,e",
+    "partOfSpeech": "adj.",
+    "translation": "ideal"
+  },
+  {
+    "word": "révéler",
+    "partOfSpeech": "v.t.",
+    "translation": "to reveal"
+  },
+  {
+    "word": "revenu",
+    "partOfSpeech": "n.m.",
+    "translation": "income"
+  },
+  {
+    "word": "rieur,se",
+    "partOfSpeech": "adj.",
+    "translation": "cheerful,laughing"
+  },
+  {
+    "word": "rieur,se",
+    "partOfSpeech": "n.",
+    "translation": "cheerful person"
+  },
+  {
+    "word": "risqué,e",
+    "partOfSpeech": "adj.",
+    "translation": "risky"
+  },
+  {
+    "word": "rive",
+    "partOfSpeech": "n.f.",
+    "translation": "bank"
+  },
+  {
+    "word": "rubrique",
+    "partOfSpeech": "n.f.",
+    "translation": "column, section"
+  },
+  {
+    "word": "rythme",
+    "partOfSpeech": "n.m.",
+    "translation": "rhythm"
+  }
+,
+  {
+    "word": "sabbatique",
+    "partOfSpeech": "adj.",
+    "translation": "安息日的 sabbatical"
+  },
+  {
+    "word": "sable",
+    "partOfSpeech": "n.m.",
+    "translation": "沙子 sand"
+  },
+  {
+    "word": "sachet",
+    "partOfSpeech": "n.m.",
+    "translation": "小袋 small bag"
+  },
+  {
+    "word": "saisir",
+    "partOfSpeech": "v.t.",
+    "translation": "【法律】向……提交审理 to submit, to refer"
+  },
+  {
+    "word": "salarié,e",
+    "partOfSpeech": "adj.",
+    "translation": "领取工资的，被雇佣的 salaried"
+  },
+  {
+    "word": "salarié,e",
+    "partOfSpeech": "n.",
+    "translation": "领取工资者 wage earner, salaried employee"
+  },
+  {
+    "word": "sale",
+    "partOfSpeech": "adj.",
+    "translation": "脏的，肮脏的 dirty"
+  },
+  {
+    "word": "sandwich",
+    "partOfSpeech": "n.m.",
+    "translation": "三明治，夹心面包 sandwich"
+  },
+  {
+    "word": "sanitaire",
+    "partOfSpeech": "adj.",
+    "translation": "卫生的 sanitary"
+  },
+  {
+    "word": "sanitaire",
+    "partOfSpeech": "n.m.pl.",
+    "translation": "卫生设备 sanitary fittings"
+  },
+  {
+    "word": "sauce",
+    "partOfSpeech": "n.f.",
+    "translation": "调味汁，沙司 sauce"
+  },
+  {
+    "word": "sauf",
+    "partOfSpeech": "prép.",
+    "translation": "除了 except, but"
+  },
+  {
+    "word": "sauf que",
+    "partOfSpeech": "〈俗>",
+    "translation": "除……以外，只是 except that"
+  },
+  {
+    "word": "saveur",
+    "partOfSpeech": "n.f.",
+    "translation": "滋味，味道 savour"
+  },
+  {
+    "word": "scandale",
+    "partOfSpeech": "n.m.",
+    "translation": "丑闻，轰动 scandal"
+  },
+  {
+    "word": "scene",
+    "partOfSpeech": "n.f",
+    "translation": "舞台 scene"
+  },
+  {
+    "word": "scolaire",
+    "partOfSpeech": "adj.",
+    "translation": "学校的，学校生活的，学校教育的 school, educational, academic"
+  },
+  {
+    "word": "scolaire",
+    "partOfSpeech": "n〈俗〉",
+    "translation": "上学的儿童 schoolchild"
+  },
+  {
+    "word": "score",
+    "partOfSpeech": "n.m.",
+    "translation": "得分，分数 score"
+  },
+  {
+    "word": "se rendre compte (de/que)",
+    "partOfSpeech": "",
+    "translation": "体会到，了解，明白 to"
+  }
+,
+  {
+    "word": "realize",
+    "partOfSpeech": "",
+    "translation": "to notice"
+  },
+  {
+    "word": "secteur",
+    "partOfSpeech": "n.m.",
+    "translation": "区域，地段，领域sector"
+  },
+  {
+    "word": "seduire",
+    "partOfSpeech": "v.t.",
+    "translation": "诱惑，迷惑，引诱 to appeal to,to be appealing,to attract"
+  },
+  {
+    "word": "séduisant,e",
+    "partOfSpeech": "adj.",
+    "translation": "迷人的，吸引人的seductive"
+  },
+  {
+    "word": "seigneur",
+    "partOfSpeech": "n.m.",
+    "translation": "爵爷，贵人，领主lord"
+  },
+  {
+    "word": "sel",
+    "partOfSpeech": "n.m.",
+    "translation": "风趣，妙趣；刺激 savour,piquancy"
+  },
+  {
+    "word": "senior",
+    "partOfSpeech": "n.",
+    "translation": "50岁以上的人；提早退休者 senior citizen"
+  },
+  {
+    "word": "sens",
+    "partOfSpeech": "n.m.",
+    "translation": "观念，意识，辨别力 sense"
+  },
+  {
+    "word": "sentir",
+    "partOfSpeech": "v.t",
+    "translation": "感觉to feel"
+  },
+  {
+    "word": "séparer",
+    "partOfSpeech": "v.t.",
+    "translation": "分开，分离 to separate"
+  },
+  {
+    "word": "sépulcre",
+    "partOfSpeech": "n.m.",
+    "translation": "坟墓 sepulchre"
+  },
+  {
+    "word": "serein,e",
+    "partOfSpeech": "adj.",
+    "translation": "平静的，宁静的serene"
+  },
+  {
+    "word": "service",
+    "partOfSpeech": "n.m.",
+    "translation": "服务，服务行业 service"
+  },
+  {
+    "word": "service",
+    "partOfSpeech": "n.m.",
+    "translation": "服务处， 管理处service"
+  },
+  {
+    "word": "sexagénaire",
+    "partOfSpeech": "n.",
+    "translation": "六十几岁的人sexagenarian"
+  },
+  {
+    "word": "short",
+    "partOfSpeech": "n.m.",
+    "translation": "〈英>短运动裤short"
+  },
+  {
+    "word": "show",
+    "partOfSpeech": "n.m.",
+    "translation": "〈英〉秀show"
+  },
+  {
+    "word": "si jamais",
+    "partOfSpeech": "loc.conj.",
+    "translation": "万一 in case that"
+  },
+  {
+    "word": "signaler(se)",
+    "partOfSpeech": "v.pr.",
+    "translation": "告知自己的到来或存在，引起注意 to draw attention to oneself"
+  },
+  {
+    "word": "signer",
+    "partOfSpeech": "v.t.",
+    "translation": "签名，签字 to sign"
+  },
+  {
+    "word": "significatif,ve",
+    "partOfSpeech": "adj.",
+    "translation": "有意义的，说明问题的significant"
+  },
+  {
+    "word": "signifier",
+    "partOfSpeech": "v.t.",
+    "translation": "表示，意味着，意即 to signify"
+  },
+  {
+    "word": "simplicité",
+    "partOfSpeech": "n.f.",
+    "translation": "简朴，简单，单纯 simplicity"
+  },
+  {
+    "word": "sociologue",
+    "partOfSpeech": "n.",
+    "translation": "社会学家 sociologist"
+  },
+  {
+    "word": "soif",
+    "partOfSpeech": "n.f.",
+    "translation": "渴，口渴；渴望thirst"
+  },
+  {
+    "word": "solidaire",
+    "partOfSpeech": "adj.",
+    "translation": "团结一致的，相互依赖的 united"
+  },
+  {
+    "word": "solo",
+    "partOfSpeech": "n.m.",
+    "translation": "独奏，独唱，(芭蕾舞中的)独舞 solo"
+  },
+  {
+    "word": "somme",
+    "partOfSpeech": "n.f.",
+    "translation": "一宗款项，一笔钱；【数】和，总和 sum"
+  },
+  {
+    "word": "sommelier",
+    "partOfSpeech": "n.m.",
+    "translation": "饭店的酒务总管 wine steward, sommelier"
+  },
+  {
+    "word": "sommet",
+    "partOfSpeech": "n.m.",
+    "translation": "顶，顶峰，最高点peak,summit"
+  },
+  {
+    "word": "sonorité",
+    "partOfSpeech": "n.f.",
+    "translation": "响度，音色 sonority"
+  },
+  {
+    "word": "sortie",
+    "partOfSpeech": "n.f.",
+    "translation": "出口 exit"
+  },
+  {
+    "word": "soul",
+    "partOfSpeech": "adj.inv.",
+    "translation": "灵歌的，灵歌风格的 soul"
+  },
+  {
+    "word": "soulagé,e",
+    "partOfSpeech": "adj.",
+    "translation": "松了口气的，轻松的 relieved"
+  },
+  {
+    "word": "source",
+    "partOfSpeech": "n.f",
+    "translation": "泉 spring;源头，来源 source"
+  },
+  {
+    "word": "sourd,e",
+    "partOfSpeech": "adj.",
+    "translation": "耳聋的，无动于衷的deaf;喑哑的，无声的dull,muffled"
+  },
+  {
+    "word": "soutenir",
+    "partOfSpeech": "v.t.",
+    "translation": "认定；支撑；支持to support"
+  },
+  {
+    "word": "spécial,e",
+    "partOfSpeech": "adj.",
+    "translation": "专属的，专门的special"
+  },
+  {
+    "word": "spontané,e",
+    "partOfSpeech": "adj.",
+    "translation": "自发的，自动的 spontaneous"
+  },
+  {
+    "word": "square",
+    "partOfSpeech": "n.m.",
+    "translation": "〈英>广场中心的小公园 square"
+  },
+  {
+    "word": "stabilité",
+    "partOfSpeech": "n.f.",
+    "translation": "稳定性stability"
+  },
+  {
+    "word": "stable",
+    "partOfSpeech": "adj.",
+    "translation": "稳定的stable"
+  }
+,
+  {
+    "word": "stocker",
+    "partOfSpeech": "v.t.",
+    "translation": "贮存 to stock"
+  },
+  {
+    "word": "stressé,e",
+    "partOfSpeech": "adj.",
+    "translation": "压力大的 stressed"
+  },
+  {
+    "word": "subir",
+    "partOfSpeech": "v.t.",
+    "translation": "忍受，遭受 to suffer"
+  },
+  {
+    "word": "subvenir",
+    "partOfSpeech": "v.t.ind.",
+    "translation": "供给，提供 to provide for"
+  },
+  {
+    "word": "subvention",
+    "partOfSpeech": "n.f.",
+    "translation": "国家、团体等提供的补助金、津贴 subsidy"
+  },
+  {
+    "word": "sucre",
+    "partOfSpeech": "n.m.",
+    "translation": "glace 糖霜，糖粉 icing sugar, powdered sugar"
+  },
+  {
+    "word": "suffisamment",
+    "partOfSpeech": "adv.",
+    "translation": "足够量地 sufficiently"
+  },
+  {
+    "word": "suivant",
+    "partOfSpeech": "prép.",
+    "translation": "按照，根据 according to"
+  },
+  {
+    "word": "supérieur,e",
+    "partOfSpeech": "adj.",
+    "translation": "高等的 superior"
+  },
+  {
+    "word": "surpeuplé,e",
+    "partOfSpeech": "adj.",
+    "translation": "人口过剩的，挤满人的 overpeopled"
+  },
+  {
+    "word": "susciter",
+    "partOfSpeech": "v.t.",
+    "translation": "引起，挑起 to stir"
+  },
+  {
+    "word": "syndrome",
+    "partOfSpeech": "n.m.",
+    "translation": "综合病症，症候群 syndrome"
+  },
+  {
+    "word": "systématiquement",
+    "partOfSpeech": "adv.",
+    "translation": "系统地，合法地，按规定地 systematically"
+  }
+,
+  {
+    "word": "tabagisme",
+    "partOfSpeech": "n.m.",
+    "translation": "烟瘾 tobacco addiction;烟草中毒 nicotine poisoning"
+  },
+  {
+    "word": "tablette",
+    "partOfSpeech": "n.f.",
+    "translation": "长方薄片 tablet"
+  },
+  {
+    "word": "tache",
+    "partOfSpeech": "n.f.",
+    "translation": "任务 task, job"
+  },
+  {
+    "word": "tango",
+    "partOfSpeech": "n.m.",
+    "translation": "〈西〉探戈舞 tango"
+  },
+  {
+    "word": "tardif,ve",
+    "partOfSpeech": "adj.",
+    "translation": "迟的，晚的 late"
+  },
+  {
+    "word": "tellement (de)",
+    "partOfSpeech": "adv.",
+    "translation": "如此地，那么多 so many, so much"
+  },
+  {
+    "word": "témoigner",
+    "partOfSpeech": "v.i.",
+    "translation": "作证，讲述亲身经历 to give evidence, to testify"
+  },
+  {
+    "word": "témoin",
+    "partOfSpeech": "n.m.",
+    "translation": "见证人，目击者，亲历者 witness"
+  },
+  {
+    "word": "tendance",
+    "partOfSpeech": "n.f.",
+    "translation": "趋向，趋势 tendency"
+  },
+  {
+    "word": "tenir(se)",
+    "partOfSpeech": "v.pr.",
+    "translation": "呆在(某处),保持(某种姿势) to stand, to keep, to remain"
+  },
+  {
+    "word": "tente",
+    "partOfSpeech": "n.f",
+    "translation": "帐篷 tent"
+  },
+  {
+    "word": "tenter",
+    "partOfSpeech": "v.t.",
+    "translation": "试图，尝试 to tempt"
+  },
+  {
+    "word": "terme",
+    "partOfSpeech": "n.m.",
+    "translation": "字眼，术语 term"
+  },
+  {
+    "word": "terminale",
+    "partOfSpeech": "n.f.",
+    "translation": "中学的最后一个学年，毕业班 final year"
+  },
+  {
+    "word": "terrain",
+    "partOfSpeech": "n.m.",
+    "translation": "场地 terrain, ground"
+  },
+  {
+    "word": "terrestre",
+    "partOfSpeech": "adj.",
+    "translation": "地球的，陆地的，陆上的 terrestrial"
+  },
+  {
+    "word": "terrible",
+    "partOfSpeech": "adj.",
+    "translation": "<俗>了不起的 great"
+  },
+  {
+    "word": "tete-a-tete",
+    "partOfSpeech": "n.m.inv.",
+    "translation": "(两人之间的)单独会面，单独谈话 tete-a-tete, private meeting"
+  },
+  {
+    "word": "tirage",
+    "partOfSpeech": "n.m.",
+    "translation": "抽签，摸彩 draw"
+  },
+  {
+    "word": "titre",
+    "partOfSpeech": "n.m.",
+    "translation": "de transport 乘车凭证 ticket"
+  },
+  {
+    "word": "titulaire",
+    "partOfSpeech": "adj.",
+    "translation": "(依法)持有的 who holds"
+  },
+  {
+    "word": "titulaire",
+    "partOfSpeech": "n.",
+    "translation": "(依法)持有者 holder"
+  },
+  {
+    "word": "toit",
+    "partOfSpeech": "n.m.",
+    "translation": "屋顶；<引>房屋，住处，家 roof"
+  },
+  {
+    "word": "tomber",
+    "partOfSpeech": "v.i.",
+    "translation": "适逢，碰上，突然出现，突然来到 to come"
+  }
+,
+  {
+    "word": "tongs",
+    "partOfSpeech": "n.f.pl.",
+    "translation": "塑料平底人字拖鞋fip-flops,thongs"
+  },
+  {
+    "word": "torse",
+    "partOfSpeech": "n.m.",
+    "translation": "上半身torso,chest"
+  },
+  {
+    "word": "tournée",
+    "partOfSpeech": "n.f.",
+    "translation": "巡回演出 tour"
+  },
+  {
+    "word": "tourner",
+    "partOfSpeech": "v.t.",
+    "translation": "拍摄，摄制(电影) to shoot"
+  },
+  {
+    "word": "se tourner",
+    "partOfSpeech": "v.pr.",
+    "translation": "转身，翻身 to turn"
+  },
+  {
+    "word": "tout a coup",
+    "partOfSpeech": "loc.adv.",
+    "translation": "突然，一下子all of a sudden"
+  },
+  {
+    "word": "tout de meme",
+    "partOfSpeech": "loc.adv.",
+    "translation": "仍然，还是，不管怎样allthe same"
+  },
+  {
+    "word": "trace",
+    "partOfSpeech": "n.f.",
+    "translation": "痕迹，踪迹 trace"
+  },
+  {
+    "word": "transformation",
+    "partOfSpeech": "n.f.",
+    "translation": "改编，转变transformation"
+  },
+  {
+    "word": "transition",
+    "partOfSpeech": "n.f.",
+    "translation": "过渡，过渡阶段，承上启下 transition"
+  },
+  {
+    "word": "transparent,e",
+    "partOfSpeech": "adj.",
+    "translation": "透明的，明显的transparent"
+  },
+  {
+    "word": "trembler",
+    "partOfSpeech": "v.i.",
+    "translation": "震颤，发抖 to tremble"
+  },
+  {
+    "word": "tremper",
+    "partOfSpeech": "v.t.",
+    "translation": "把……浸入 to soak"
+  },
+  {
+    "word": "trentaine",
+    "partOfSpeech": "n.f.",
+    "translation": "三十，三十左右about thirty"
+  },
+  {
+    "word": "trentenaire",
+    "partOfSpeech": "n.",
+    "translation": "三十几岁的人 person in his/her thirties"
+  },
+  {
+    "word": "tribunal",
+    "partOfSpeech": "n.m.",
+    "translation": "法庭 court"
+  },
+  {
+    "word": "truffe",
+    "partOfSpeech": "n.f.",
+    "translation": "【植】块荪，松露truffle"
+  },
+  {
+    "word": "tutoiement",
+    "partOfSpeech": "n.m.",
+    "translation": "以“你”相称use of the form tu"
+  },
+  {
+    "word": "typiquement",
+    "partOfSpeech": "adv.",
+    "translation": "典型地 typically"
+  },
+  {
+    "word": "tzigane [tsigan]",
+    "partOfSpeech": "adj.",
+    "translation": "茨冈人的(吉普赛人或波西米亚 人 ) gypsy"
+  },
+  {
+    "word": "uniforme",
+    "partOfSpeech": "adj.",
+    "translation": "同一形式的，不变的 uniform"
+  },
+  {
+    "word": "union",
+    "partOfSpeech": "n.f.",
+    "translation": "协会association; 联盟，联邦union"
+  },
+  {
+    "word": "unique",
+    "partOfSpeech": "adj.",
+    "translation": "(放在名词的前或后)单一的，唯一的only,single;(放在名词后)独特的unique"
+  },
+  {
+    "word": "universel,le",
+    "partOfSpeech": "adj.",
+    "translation": "宇宙的，全球的，普遍的universal"
+  },
+  {
+    "word": "vaguement",
+    "partOfSpeech": "adv.",
+    "translation": "略微地，含糊地，模模糊糊地vaguely"
+  },
+  {
+    "word": "vaincre",
+    "partOfSpeech": "v.t.",
+    "translation": "战胜，克服 to overcome,to conquer"
+  },
+  {
+    "word": "valable",
+    "partOfSpeech": "adj.",
+    "translation": "有效的，有法律效力的 valid"
+  },
+  {
+    "word": "validité",
+    "partOfSpeech": "n.f.",
+    "translation": "有效，有效性 validity"
+  },
+  {
+    "word": "Vancouver",
+    "partOfSpeech": "",
+    "translation": "温哥华(加拿大城市名) Vancouver"
+  },
+  {
+    "word": "vecteur",
+    "partOfSpeech": "n.m.",
+    "translation": "媒介 vehicle,vector"
+  },
+  {
+    "word": "véhicule",
+    "partOfSpeech": "n.m.",
+    "translation": "车辆 vehicle"
+  },
+  {
+    "word": "vent",
+    "partOfSpeech": "n.m.",
+    "translation": "风 wind"
+  },
+  {
+    "word": "venue",
+    "partOfSpeech": "n.f.",
+    "translation": "到来，来临 arrival"
+  },
+  {
+    "word": "vérifier",
+    "partOfSpeech": "v.t.",
+    "translation": "检查，核对to verify,to check"
+  },
+  {
+    "word": "véritable",
+    "partOfSpeech": "adj.",
+    "translation": "真正的，名副其实的 real,veritable"
+  },
+  {
+    "word": "verser",
+    "partOfSpeech": "v.t.",
+    "translation": "倒，洒，斟，注入to pour"
+  },
+  {
+    "word": "vétérinaire",
+    "partOfSpeech": "adj.",
+    "translation": "兽医的veterinary"
+  },
+  {
+    "word": "via",
+    "partOfSpeech": "prép.",
+    "translation": "经由，通过 via"
+  }
+,
+  {
+    "word": "vieillisement",
+    "partOfSpeech": "n.m.",
+    "translation": "老化过程，酒变陈的过程 ageing"
+  },
+  {
+    "word": "violoniste",
+    "partOfSpeech": "n.",
+    "translation": "小提琴演奏者 violinist"
+  },
+  {
+    "word": "visage",
+    "partOfSpeech": "n.m.",
+    "translation": "脸，面孔，面容 face"
+  },
+  {
+    "word": "vis-à-vis de",
+    "partOfSpeech": "prép.",
+    "translation": "关于，对于 towards, face-to-face with"
+  },
+  {
+    "word": "visiblement",
+    "partOfSpeech": "adv.",
+    "translation": "明显地 visibly, obviously"
+  }
+,
+  {
+    "word": "vision",
+    "partOfSpeech": "n.f.",
+    "translation": "看法，设想；观看"
+  },
+  {
+    "word": "vitesse",
+    "partOfSpeech": "n.f.",
+    "translation": "快，迅速"
+  },
+  {
+    "word": "voile",
+    "partOfSpeech": "n.m.",
+    "translation": "面纱"
+  },
+  {
+    "word": "voix",
+    "partOfSpeech": "n.f.",
+    "translation": "声音，嗓音"
+  },
+  {
+    "word": "vouloir(se)",
+    "partOfSpeech": "v.pr.",
+    "translation": "谋求，力图，倾向于"
+  }
+]

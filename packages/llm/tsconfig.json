@@ -1,0 +1,9 @@
+{
+  "extends": "@apeiron/typescript-config/base.json",
+  "compilerOptions": {
+    "outDir": "dist"
+  },
+  "include": ["src", "test"],
+  "types": ["jest"],
+  "exclude": ["node_modules", "dist"]
+}

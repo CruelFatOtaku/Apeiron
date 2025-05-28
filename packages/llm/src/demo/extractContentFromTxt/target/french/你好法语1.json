@@ -1,0 +1,4861 @@
+[
+  {
+    "word": "à",
+    "partOfSpeech": "prép.",
+    "translation": "在 at,in;向，到to; 给 … … to"
+  },
+  {
+    "word": "à partir de",
+    "partOfSpeech": "loc.prép.",
+    "translation": "从……起(表示时间或空间的起 点 )from"
+  },
+  {
+    "word": "accident",
+    "partOfSpeech": "n.m.",
+    "translation": "事故 accident"
+  },
+  {
+    "word": "acheter",
+    "partOfSpeech": "v.t.",
+    "translation": "买 to buy"
+  },
+  {
+    "word": "acteur(trice)",
+    "partOfSpeech": "n.",
+    "translation": "演员 actor/actress"
+  },
+  {
+    "word": "activité",
+    "partOfSpeech": "n.f.",
+    "translation": "活动 activity"
+  },
+  {
+    "word": "actuel(le)",
+    "partOfSpeech": "adj.",
+    "translation": "目前的，现实的，当前的 current,present"
+  },
+  {
+    "word": "adorer",
+    "partOfSpeech": "v.t.",
+    "translation": "热爱，爱慕，宠爱，〈俗>喜爱 to adore,to love"
+  },
+  {
+    "word": "adresse",
+    "partOfSpeech": "n.f.",
+    "translation": "地址，住址 address"
+  },
+  {
+    "word": "aéroport",
+    "partOfSpeech": "n.m.",
+    "translation": "飞机场 airport"
+  },
+  {
+    "word": "afche",
+    "partOfSpeech": "n.f.",
+    "translation": "海报，布告，广告，通告 poster,notice"
+  },
+  {
+    "word": "age",
+    "partOfSpeech": "n.m.",
+    "translation": "年龄，年纪 age"
+  },
+  {
+    "word": "agence",
+    "partOfSpeech": "n.f.",
+    "translation": "代理处，代办处 agency"
+  },
+  {
+    "word": "agence immobiliere",
+    "partOfSpeech": "",
+    "translation": "房 产 代 理 公 司 estate agent's (office),real-estate agency"
+  },
+  {
+    "word": "agenda",
+    "partOfSpeech": "n.m.",
+    "translation": "日程；记事表 agenda;diary"
+  },
+  {
+    "word": "ah",
+    "partOfSpeech": "interj.",
+    "translation": "啊!唉! oh"
+  },
+  {
+    "word": "aimer",
+    "partOfSpeech": "v.t.",
+    "translation": "爱，热爱 to love,to like"
+  },
+  {
+    "word": "air",
+    "partOfSpeech": "n.m.",
+    "translation": "空气 air"
+  },
+  {
+    "word": "air conditionné",
+    "partOfSpeech": "",
+    "translation": "空调 air conditioning"
+  },
+  {
+    "word": "Albi",
+    "partOfSpeech": "",
+    "translation": "阿尔比(法国城镇，位于塔恩省)"
+  },
+  {
+    "word": "album",
+    "partOfSpeech": "n.m.",
+    "translation": "影集，集邮册，纪念册；唱片集 album"
+  },
+  {
+    "word": "allemand",
+    "partOfSpeech": "n.m.",
+    "translation": "德语 German"
+  },
+  {
+    "word": "aller",
+    "partOfSpeech": "vi.",
+    "translation": "去，走 to go; 处于 … … 的健康状况 to be well; 运转，进行，进展 to go"
+  },
+  {
+    "word": "alle",
+    "partOfSpeech": "n.m.",
+    "translation": "去程(的火车、飞机)票 single ticket,one-way ticket"
+  },
+  {
+    "word": "aller-retour",
+    "partOfSpeech": "n.m.",
+    "translation": "往返票 return ticket"
+  },
+  {
+    "word": "allo",
+    "partOfSpeech": "interj.",
+    "translation": "喂!(打电话用语) hello"
+  },
+  {
+    "word": "allumer",
+    "partOfSpeech": "v.t.",
+    "translation": "点亮 to light;<俗>打开(暖气、收音机、电视、电脑等) to turn on"
+  },
+  {
+    "word": "alors",
+    "partOfSpeech": "adv.",
+    "translation": "那么,在这种情况下 then"
+  },
+  {
+    "word": "ami(e)",
+    "partOfSpeech": "n.",
+    "translation": "朋友 friend"
+  },
+  {
+    "word": "petit ami",
+    "partOfSpeech": "",
+    "translation": "男朋友 boy friend"
+  },
+  {
+    "word": "amour",
+    "partOfSpeech": "n.m.",
+    "translation": "爱，爱情 love"
+  },
+  {
+    "word": "amoureux(euse)",
+    "partOfSpeech": "adj.",
+    "translation": "恋爱中的 in love; 爱情的 of love"
+  },
+  {
+    "word": "amuser(s')",
+    "partOfSpeech": "v.pr.",
+    "translation": "玩耍 to play; 游乐，自娱 to have a good time,to enjoy yourself"
+  },
+  {
+    "word": "an",
+    "partOfSpeech": "n.m.",
+    "translation": "年；岁 year"
+  }
+,
+  {
+    "word": "ancien(ne)",
+    "partOfSpeech": "adj.",
+    "translation": "旧的，先前的 old"
+  },
+  {
+    "word": "année",
+    "partOfSpeech": "n.f.",
+    "translation": "年 year"
+  },
+  {
+    "word": "Bonne année!",
+    "partOfSpeech": "",
+    "translation": "新年好! Happy new year!"
+  },
+  {
+    "word": "anniversaire",
+    "partOfSpeech": "n.m.",
+    "translation": "生日 birthday"
+  },
+  {
+    "word": "annonce",
+    "partOfSpeech": "n.f.",
+    "translation": "启事，告示，布告，公告 advertisement"
+  },
+  {
+    "word": "petite annonce",
+    "partOfSpeech": "n.f.",
+    "translation": "(报纸上的)启事(栏),广告(栏) classified ad"
+  },
+  {
+    "word": "aout",
+    "partOfSpeech": "n.m.",
+    "translation": "八月 August"
+  },
+  {
+    "word": "appartement",
+    "partOfSpeech": "n.m.",
+    "translation": "公寓套房 flat, apartment"
+  },
+  {
+    "word": "appeler",
+    "partOfSpeech": "v.t.",
+    "translation": "称呼……为 to call; 给(某人)打电话 to phone, to call"
+  },
+  {
+    "word": "s'appeler",
+    "partOfSpeech": "v.pr.",
+    "translation": "名叫 to be called; 互相通电话 to call each other"
+  },
+  {
+    "word": "apprendre",
+    "partOfSpeech": "v.t.",
+    "translation": "学习 to learn"
+  },
+  {
+    "word": "apres",
+    "partOfSpeech": "adv.",
+    "translation": "然后 after"
+  },
+  {
+    "word": "apres-midi",
+    "partOfSpeech": "n.inv.",
+    "translation": "下午 afternoon"
+  },
+  {
+    "word": "aquarium",
+    "partOfSpeech": "n.m.",
+    "translation": "水族馆 aquarium"
+  },
+  {
+    "word": "arc",
+    "partOfSpeech": "n.m.",
+    "translation": "(建筑术语)拱，法圈 arch"
+  },
+  {
+    "word": "arc de triomphe",
+    "partOfSpeech": "",
+    "translation": "凯旋门 triumphal arch"
+  },
+  {
+    "word": "Arcachon",
+    "partOfSpeech": "",
+    "translation": "阿卡雄(法国城市，位于吉伦特省)"
+  },
+  {
+    "word": "archéologie",
+    "partOfSpeech": "n.f.",
+    "translation": "考古学 archaeology"
+  },
+  {
+    "word": "argent",
+    "partOfSpeech": "n.m.",
+    "translation": "银，白银 silver; 钱 money"
+  },
+  {
+    "word": "arreter",
+    "partOfSpeech": "v.t.",
+    "translation": "停止 to stop"
+  },
+  {
+    "word": "arreter de faire qch.",
+    "partOfSpeech": "",
+    "translation": "停止做某事 to give up doing sth."
+  },
+  {
+    "word": "arrivée",
+    "partOfSpeech": "n.f.",
+    "translation": "到达 arrival"
+  },
+  {
+    "word": "arriver",
+    "partOfSpeech": "v.i.",
+    "translation": "到达，抵达 to arrive; 来临，来到 to come; 发生 to happen"
+  },
+  {
+    "word": "art",
+    "partOfSpeech": "n.m.",
+    "translation": "艺术；美术 art"
+  },
+  {
+    "word": "article",
+    "partOfSpeech": "n.m.",
+    "translation": "(报刊)文章 article"
+  },
+  {
+    "word": "artiste",
+    "partOfSpeech": "n.",
+    "translation": "艺术家 artist"
+  },
+  {
+    "word": "ascenseur",
+    "partOfSpeech": "n.m.",
+    "translation": "电梯 lift, elevator"
+  },
+  {
+    "word": "assez",
+    "partOfSpeech": "adv.",
+    "translation": "足够地 enough"
+  },
+  {
+    "word": "assiette",
+    "partOfSpeech": "n.f.",
+    "translation": "盘子 plate"
+  },
+  {
+    "word": "assistant(e)",
+    "partOfSpeech": "n.",
+    "translation": "助理，助手，副手 assistant"
+  },
+  {
+    "word": "athlétisme",
+    "partOfSpeech": "n.m.",
+    "translation": "田径运动 athletics"
+  },
+  {
+    "word": "attendre",
+    "partOfSpeech": "v.t.",
+    "translation": "等待 to wait for"
+  },
+  {
+    "word": "attention",
+    "partOfSpeech": "n.f.",
+    "translation": "注意，专心 attention, care"
+  },
+  {
+    "word": "faire attention a...",
+    "partOfSpeech": "",
+    "translation": "注意 … … , 当心 … … to take care of"
+  },
+  {
+    "word": "au-dessous",
+    "partOfSpeech": "loc.adv.",
+    "translation": "在下面 below"
+  },
+  {
+    "word": "au-dessus",
+    "partOfSpeech": "loc.adv.",
+    "translation": "在上面，以上 above"
+  },
+  {
+    "word": "au-dessus de",
+    "partOfSpeech": "loc.prép.",
+    "translation": "在…… 的上面，在……之上 above"
+  }
+,
+  {
+    "word": "aujourd'hui",
+    "partOfSpeech": "adv.",
+    "translation": "今天 today"
+  },
+  {
+    "word": "au revoir",
+    "partOfSpeech": "loc.",
+    "translation": "再见，再会 goodbye, bye"
+  },
+  {
+    "word": "aussi",
+    "partOfSpeech": "adv.",
+    "translation": "也 … … too, as well, also"
+  },
+  {
+    "word": "autoroute",
+    "partOfSpeech": "n.f.",
+    "translation": "高速公路 motorway, freeway"
+  },
+  {
+    "word": "autour de",
+    "partOfSpeech": "loc.prép.",
+    "translation": "在 四周，在……周围 around"
+  },
+  {
+    "word": "autre",
+    "partOfSpeech": "adj.",
+    "translation": "另一个的，别的，另外的 other, another"
+  },
+  {
+    "word": "avant",
+    "partOfSpeech": "prép.",
+    "translation": "在……之前 before"
+  },
+  {
+    "word": "avantage",
+    "partOfSpeech": "n.m.",
+    "translation": "好处，利处，优点 advantage"
+  },
+  {
+    "word": "avec",
+    "partOfSpeech": "prép.",
+    "translation": "和……一起 with"
+  },
+  {
+    "word": "avenir",
+    "partOfSpeech": "n.m.",
+    "translation": "未来 future"
+  },
+  {
+    "word": "avenue",
+    "partOfSpeech": "n.f.",
+    "translation": "(城市中通常栽有树木的)大街 avenue"
+  },
+  {
+    "word": "avion",
+    "partOfSpeech": "n.m.",
+    "translation": "飞机 (aero)plane, airplane"
+  },
+  {
+    "word": "avoir",
+    "partOfSpeech": "v.t.",
+    "translation": "有，拥有，具有，享有，带有 to have"
+  }
+,
+  {
+    "word": "bac",
+    "partOfSpeech": "n.m.",
+    "translation": "(法国)中学毕业会考，中学毕业证书和业士学位(baccalauréat的简称) high school diploma/ A-levels"
+  },
+  {
+    "word": "badge",
+    "partOfSpeech": "n.m.",
+    "translation": "圆形徽章，证章，胸卡 badge"
+  },
+  {
+    "word": "baguette",
+    "partOfSpeech": "n.f.",
+    "translation": "法国长棍面包，法棍 French stick"
+  },
+  {
+    "word": "baigner(se)",
+    "partOfSpeech": "v.pr",
+    "translation": "游泳 to have a swim; 洗澡，沐浴 to have/take a bath"
+  },
+  {
+    "word": "banque",
+    "partOfSpeech": "n.f.",
+    "translation": "银行 bank"
+  },
+  {
+    "word": "bar",
+    "partOfSpeech": "n.m.",
+    "translation": "酒吧 bar"
+  },
+  {
+    "word": "Barcelone",
+    "partOfSpeech": "",
+    "translation": "巴塞罗那(西班牙海港城市) Barcelona"
+  },
+  {
+    "word": "basket",
+    "partOfSpeech": "n.f.",
+    "translation": "篮球鞋，运动鞋(一般用复数) trainers"
+  },
+  {
+    "word": "basket",
+    "partOfSpeech": "n.m.",
+    "translation": "篮球；篮球运动(basket-ball的缩写形式) basketball"
+  },
+  {
+    "word": "bateau",
+    "partOfSpeech": "n.m.",
+    "translation": "船 boat"
+  },
+  {
+    "word": "beau",
+    "partOfSpeech": "adj.",
+    "translation": "美丽的，漂亮的；优美的 handsome, beautiful"
+  },
+  {
+    "word": "beau",
+    "partOfSpeech": "n.m.",
+    "translation": "(天气)晴"
+  },
+  {
+    "word": "beaucoup",
+    "partOfSpeech": "adv.",
+    "translation": "很，非常 much, far; 很多 a lot, much"
+  },
+  {
+    "word": "bébé",
+    "partOfSpeech": "n.m.",
+    "translation": "婴儿；孩子，宝宝 baby"
+  },
+  {
+    "word": "belge",
+    "partOfSpeech": "adj.",
+    "translation": "比利时的 Belgian"
+  },
+  {
+    "word": "Belge",
+    "partOfSpeech": "n.",
+    "translation": "比利时人 Belgian"
+  },
+  {
+    "word": "Belgique",
+    "partOfSpeech": "n.f.",
+    "translation": "比利时 Belgium"
+  },
+  {
+    "word": "ben",
+    "partOfSpeech": "interj.",
+    "translation": "[回答时表示犹豫的语气词]"
+  },
+  {
+    "word": "beurre",
+    "partOfSpeech": "n.m.",
+    "translation": "黄油 butter"
+  },
+  {
+    "word": "bien",
+    "partOfSpeech": "adv.",
+    "translation": "好 well"
+  },
+  {
+    "word": "bien",
+    "partOfSpeech": "adv.",
+    "translation": "许多，很，非常，完全，十分 thoroughly, completely"
+  },
+  {
+    "word": "bien sür",
+    "partOfSpeech": "loc.",
+    "translation": "当然(语气词) of course"
+  },
+  {
+    "word": "bientot",
+    "partOfSpeech": "adv.",
+    "translation": "不久，马上 soon"
+  }
+,
+  {
+    "word": "à bientot",
+    "partOfSpeech": "loc.adv.",
+    "translation": "一会儿见，回头见 see you soon"
+  },
+  {
+    "word": "bienvenue",
+    "partOfSpeech": "n.f.",
+    "translation": "欢迎 welcome"
+  },
+  {
+    "word": "billet",
+    "partOfSpeech": "n.m.",
+    "translation": "票 ticket"
+  },
+  {
+    "word": "bise",
+    "partOfSpeech": "n.f.",
+    "translation": "吻 kiss"
+  },
+  {
+    "word": "bisou",
+    "partOfSpeech": "n.m.",
+    "translation": "<俗〉(在脸颊上的)亲吻 kisses"
+  },
+  {
+    "word": "blanc(che)",
+    "partOfSpeech": "adj.",
+    "translation": "白的，白色的 white"
+  },
+  {
+    "word": "blessé(e)",
+    "partOfSpeech": "adj.",
+    "translation": "受伤的 injured"
+  },
+  {
+    "word": "blessé(e)",
+    "partOfSpeech": "n.",
+    "translation": "伤者 injured person, casualty"
+  },
+  {
+    "word": "bleu(e)",
+    "partOfSpeech": "adj.",
+    "translation": "蓝色的，青的 blue"
+  },
+  {
+    "word": "blond(e)",
+    "partOfSpeech": "adj.",
+    "translation": "金色的；有金色头发的 blond"
+  },
+  {
+    "word": "blouson",
+    "partOfSpeech": "n.m.",
+    "translation": "夹克衫 jacket"
+  },
+  {
+    "word": "boire",
+    "partOfSpeech": "v.t.",
+    "translation": "喝 to drink"
+  },
+  {
+    "word": "boite",
+    "partOfSpeech": "n.f.",
+    "translation": "盒子 box; 夜总会 night club"
+  },
+  {
+    "word": "bon(ne)",
+    "partOfSpeech": "adj.",
+    "translation": "好的，良好的 good; 恰当的，正确的 right"
+  },
+  {
+    "word": "bon(ne)",
+    "partOfSpeech": "adj.",
+    "translation": "[用作感叹词，表示赞成、不满、惊奇、厌恶等]"
+  },
+  {
+    "word": "bonjour",
+    "partOfSpeech": "n.m.",
+    "translation": "您好，早上好 hello"
+  },
+  {
+    "word": "bord",
+    "partOfSpeech": "n.m.",
+    "translation": "边，边缘 side; 岸边 bank"
+  },
+  {
+    "word": "Bordeaux",
+    "partOfSpeech": "",
+    "translation": "波尔多(法国西南部城市)"
+  },
+  {
+    "word": "bouche",
+    "partOfSpeech": "n.f.",
+    "translation": "嘴 mouth"
+  },
+  {
+    "word": "boulanger(ere)",
+    "partOfSpeech": "n.",
+    "translation": "面包师，面包商 baker"
+  },
+  {
+    "word": "boulangerie",
+    "partOfSpeech": "n.f.",
+    "translation": "面包店 bakery"
+  },
+  {
+    "word": "boulot",
+    "partOfSpeech": "n.m.",
+    "translation": "〈俗〉工作，活儿 job"
+  },
+  {
+    "word": "bout",
+    "partOfSpeech": "n.m.",
+    "translation": "末端，尽头 end"
+  },
+  {
+    "word": "bouteille",
+    "partOfSpeech": "n.f.",
+    "translation": "瓶子 bottle"
+  },
+  {
+    "word": "boutique",
+    "partOfSpeech": "n.f.",
+    "translation": "店铺 shop, store, boutique"
+  },
+  {
+    "word": "bravo",
+    "partOfSpeech": "interj.",
+    "translation": "〈意〉好!妙!(尤用于向演员等喝彩) well done!"
+  },
+  {
+    "word": "bref",
+    "partOfSpeech": "adv.",
+    "translation": "总而言之，简而言之 in short"
+  },
+  {
+    "word": "Brest",
+    "partOfSpeech": "",
+    "translation": "布雷斯特(法国西部城市，位于布列塔尼半岛西端)"
+  },
+  {
+    "word": "Bretagne",
+    "partOfSpeech": "n.f.",
+    "translation": "布列塔尼(法国西部省份，首府为雷恩 Rennes) Brittany"
+  },
+  {
+    "word": "briller",
+    "partOfSpeech": "vi.",
+    "translation": "发光，闪耀 to shine"
+  },
+  {
+    "word": "brun(e)",
+    "partOfSpeech": "adj.",
+    "translation": "棕色的；有棕色头发的 brown"
+  },
+  {
+    "word": "Bruxelles",
+    "partOfSpeech": "",
+    "translation": "布鲁塞尔(比利时首都) Brussels"
+  },
+  {
+    "word": "bruyant(e)",
+    "partOfSpeech": "adj.",
+    "translation": "吵闹的 noisy"
+  },
+  {
+    "word": "bureau",
+    "partOfSpeech": "n.m.",
+    "translation": "办公桌，写字台 desk; 办公室 office"
+  },
+  {
+    "word": "bus",
+    "partOfSpeech": "n.m.",
+    "translation": "公交车 bus"
+  },
+  {
+    "word": "ca",
+    "partOfSpeech": "pron.dém.",
+    "translation": "〈俗〉这个，那个 this, that"
+  },
+  {
+    "word": "cabinet",
+    "partOfSpeech": "n.m.",
+    "translation": "事务所 office, surgery"
+  },
+  {
+    "word": "cadeau(pl. cadeaux)",
+    "partOfSpeech": "n.m.",
+    "translation": "礼物 present, gift"
+  },
+  {
+    "word": "café",
+    "partOfSpeech": "n.m.",
+    "translation": "咖啡 coffee; 咖啡馆 café"
+  },
+  {
+    "word": "calme",
+    "partOfSpeech": "adj.",
+    "translation": "平静的，安静的 calm, quiet"
+  },
+  {
+    "word": "calme",
+    "partOfSpeech": "adj.",
+    "translation": "冷静的，镇静的 calm"
+  }
+,
+  {
+    "word": "calmer(se)",
+    "partOfSpeech": "v.p",
+    "translation": "冷静下来，镇定下来 to calm down"
+  },
+  {
+    "word": "camembert",
+    "partOfSpeech": "n.m.",
+    "translation": "卡芒贝尔奶酪"
+  },
+  {
+    "word": "camion",
+    "partOfSpeech": "n.m.",
+    "translation": "卡车 truck, lorry"
+  },
+  {
+    "word": "campagne",
+    "partOfSpeech": "n.f.",
+    "translation": "乡村 country"
+  },
+  {
+    "word": "camping",
+    "partOfSpeech": "n.m.",
+    "translation": "野营 camping"
+  },
+  {
+    "word": "faire du camping",
+    "partOfSpeech": "",
+    "translation": "露营 to go camping"
+  },
+  {
+    "word": "Canada",
+    "partOfSpeech": "n.m.",
+    "translation": "加拿大"
+  },
+  {
+    "word": "candidat(e)",
+    "partOfSpeech": "n.",
+    "translation": "应聘者，求职者 applicant; 候选人 candidate"
+  },
+  {
+    "word": "Cantal",
+    "partOfSpeech": "n.m.",
+    "translation": "康塔尔 (法国中南部大区省份)"
+  },
+  {
+    "word": "carte",
+    "partOfSpeech": "nf.",
+    "translation": "卡片 card; 地图 map; 明信片 card"
+  },
+  {
+    "word": "carte de visite",
+    "partOfSpeech": "",
+    "translation": "名片 visiting/calling card, business card"
+  },
+  {
+    "word": "carte postale",
+    "partOfSpeech": "",
+    "translation": "明信片 postcard"
+  },
+  {
+    "word": "casting",
+    "partOfSpeech": "n.m.",
+    "translation": "试镜，角色分配，挑选演员 casting"
+  },
+  {
+    "word": "Cayenne",
+    "partOfSpeech": "",
+    "translation": "卡宴 (法属圭亚那的首府)"
+  },
+  {
+    "word": "CD",
+    "partOfSpeech": "n.m.",
+    "translation": "激光唱片；光盘 (英文 Compact Disc 的缩写)"
+  },
+  {
+    "word": "célebre",
+    "partOfSpeech": "adj.",
+    "translation": "有名的，著名的 famous"
+  },
+  {
+    "word": "centre",
+    "partOfSpeech": "n.m.",
+    "translation": "中心；中部 centre, center"
+  },
+  {
+    "word": "céréales",
+    "partOfSpeech": "n.pl.",
+    "translation": "谷物食品 (指麦片、玉米片等) cereals"
+  },
+  {
+    "word": "certain(e)",
+    "partOfSpeech": "adj.",
+    "translation": "肯定的，一定的；确信无疑的 certain"
+  },
+  {
+    "word": "certainement",
+    "partOfSpeech": "adv.",
+    "translation": "肯定地，一定地；确实地，当然 certainly"
+  },
+  {
+    "word": "chaise",
+    "partOfSpeech": "n.f.",
+    "translation": "椅子 chair"
+  },
+  {
+    "word": "chambre",
+    "partOfSpeech": "n.f.",
+    "translation": "房间，卧室 bedroom"
+  },
+  {
+    "word": "champagne",
+    "partOfSpeech": "n.m.",
+    "translation": "香槟酒 champagne"
+  },
+  {
+    "word": "champion(ne)",
+    "partOfSpeech": "n.",
+    "translation": "冠军，优胜者，第一名 champion"
+  },
+  {
+    "word": "chance",
+    "partOfSpeech": "n.f.",
+    "translation": "运气 chance, luck"
+  },
+  {
+    "word": "Chandeleur",
+    "partOfSpeech": "n.f.",
+    "translation": "圣蜡节 (天主教节日) Candlemas"
+  },
+  {
+    "word": "changement",
+    "partOfSpeech": "n.m.",
+    "translation": "变化 change"
+  },
+  {
+    "word": "changer",
+    "partOfSpeech": "v.t.dir",
+    "translation": "改变，改动 to change; 更换 to exchange"
+  },
+  {
+    "word": "changer",
+    "partOfSpeech": "v.t.ind.(~de)",
+    "translation": "换，调换 to change"
+  },
+  {
+    "word": "chanson",
+    "partOfSpeech": "n.f.",
+    "translation": "歌曲 song"
+  },
+  {
+    "word": "chapeau",
+    "partOfSpeech": "n.m.",
+    "translation": "帽子 hat"
+  },
+  {
+    "word": "chat(te)",
+    "partOfSpeech": "n.",
+    "translation": "猫 cat"
+  },
+  {
+    "word": "chateau",
+    "partOfSpeech": "n.m.",
+    "translation": "城堡 castle"
+  },
+  {
+    "word": "chaton",
+    "partOfSpeech": "n.m.",
+    "translation": "小猫 kitten"
+  },
+  {
+    "word": "chaud(e)",
+    "partOfSpeech": "adj.",
+    "translation": "热的，暖的，烫的；暖和的，保暖的 warm, hot"
+  },
+  {
+    "word": "chaussure",
+    "partOfSpeech": "n.f.",
+    "translation": "鞋，靴 shoes"
+  },
+  {
+    "word": "cheminée",
+    "partOfSpeech": "n.f.",
+    "translation": "壁炉 fireplace; 烟囱 chimney"
+  },
+  {
+    "word": "chemise",
+    "partOfSpeech": "n.f.",
+    "translation": "男式衬衫 shirt"
+  },
+  {
+    "word": "cher(ere)",
+    "partOfSpeech": "adj.",
+    "translation": "高价的，昂贵的 expensive"
+  },
+  {
+    "word": "chercher",
+    "partOfSpeech": "v.t.",
+    "translation": "找，寻找，寻觅 to search for"
+  }
+,
+  {
+    "word": "cheval (pl. chevaux)",
+    "partOfSpeech": "n.m.",
+    "translation": "马 horse; [ 机 ] 马 力 horse- power"
+  },
+  {
+    "word": "cheveux",
+    "partOfSpeech": "n.m.pl.",
+    "translation": "头发 hair"
+  },
+  {
+    "word": "chez",
+    "partOfSpeech": "prép.",
+    "translation": "在 … … 家 ； 在 … … 那 里at  (someone's  place)"
+  },
+  {
+    "word": "chien(ne)",
+    "partOfSpeech": "n.",
+    "translation": "狗 dog"
+  },
+  {
+    "word": "chiffre",
+    "partOfSpeech": "n.m.",
+    "translation": "数 字number"
+  },
+  {
+    "word": "chinois(e)",
+    "partOfSpeech": "adj.",
+    "translation": "中国的Chinese"
+  },
+  {
+    "word": "Chinois(e)",
+    "partOfSpeech": "n.",
+    "translation": "中国人 Chinese"
+  },
+  {
+    "word": "chocolat",
+    "partOfSpeech": "n.m.",
+    "translation": "巧克力 chocolate"
+  },
+  {
+    "word": "choisir",
+    "partOfSpeech": "v.t.",
+    "translation": "选择 to choose"
+  },
+  {
+    "word": "chose",
+    "partOfSpeech": "n.f.",
+    "translation": "事情，事物 thing"
+  },
+  {
+    "word": "cidre",
+    "partOfSpeech": "n.m.",
+    "translation": "苹果酒cider"
+  },
+  {
+    "word": "cinéma",
+    "partOfSpeech": "n.m.",
+    "translation": "电 影 ， 电 影 艺 术 cinema; 电 影 院cinema, movie theater"
+  },
+  {
+    "word": "circonstance",
+    "partOfSpeech": "n.f.",
+    "translation": "情形，环境circumstance"
+  },
+  {
+    "word": "circuit",
+    "partOfSpeech": "n.m.",
+    "translation": "旅游线路tour,trip"
+  },
+  {
+    "word": "clair(e)",
+    "partOfSpeech": "adj.",
+    "translation": "明 亮 的 bright; 清 晰 的 ， 清 楚 的clear"
+  },
+  {
+    "word": "classe",
+    "partOfSpeech": "n.f.",
+    "translation": "等 级 ， 级 别class; 班 级 class; 教 室 classroom"
+  },
+  {
+    "word": "classique",
+    "partOfSpeech": "adj.",
+    "translation": "古典的 classical"
+  },
+  {
+    "word": "client(e)",
+    "partOfSpeech": "n.",
+    "translation": "顾客，客户customer,client"
+  },
+  {
+    "word": "club [kleb]",
+    "partOfSpeech": "n.m.",
+    "translation": "〈 英〉俱乐部，会，社club"
+  },
+  {
+    "word": "coca",
+    "partOfSpeech": "n.m.",
+    "translation": "可乐 coca"
+  },
+  {
+    "word": "coiffure",
+    "partOfSpeech": "n.f.",
+    "translation": "发型 hairstyle"
+  },
+  {
+    "word": "coin",
+    "partOfSpeech": "n.m.",
+    "translation": "角，角落；街角处 corner"
+  },
+  {
+    "word": "collegue",
+    "partOfSpeech": "n.",
+    "translation": "同事 colleague"
+  },
+  {
+    "word": "combien",
+    "partOfSpeech": "adv.interr",
+    "translation": "多 少 ( 用 于 疑 问 句 中 )how many, how much"
+  },
+  {
+    "word": "comme",
+    "partOfSpeech": "conj.",
+    "translation": "作为，以……身份as; 当 做as; 如同，好 像like,as(well as)"
+  },
+  {
+    "word": "commencer",
+    "partOfSpeech": "v.",
+    "translation": "开始 to begin,to start"
+  },
+  {
+    "word": "commencer",
+    "partOfSpeech": "v.t.ind.",
+    "translation": "a faire qch.开 始 做 某 事 to begin/start to do sth."
+  },
+  {
+    "word": "comment",
+    "partOfSpeech": "adv.interr",
+    "translation": "如 何 ， 怎 么 , 怎 样how; 怎么![表示惊讶，愤怒、谴责]"
+  },
+  {
+    "word": "commerce",
+    "partOfSpeech": "n.m.",
+    "translation": "买 卖 ， 交 易 ； 商 业 ， 贸 易 trade, business;商店，店铺shop,store"
+  },
+  {
+    "word": "complet(ete)",
+    "partOfSpeech": "adj.",
+    "translation": "满 员 的full;完 全 的 complete,total"
+  },
+  {
+    "word": "comprendre",
+    "partOfSpeech": "v.t.",
+    "translation": "理 解 ， 懂 得 to understand"
+  },
+  {
+    "word": "conditionné(e)",
+    "partOfSpeech": "adj.",
+    "translation": "有 条 件 的 ， 受 条 件 限 制 的 conditioned"
+  },
+  {
+    "word": "confiture",
+    "partOfSpeech": "n.f.",
+    "translation": "果酱jam"
+  },
+  {
+    "word": "connaitre",
+    "partOfSpeech": "v.t.",
+    "translation": "了解；认识to know"
+  },
+  {
+    "word": "conseil",
+    "partOfSpeech": "n.m.",
+    "translation": "建议 advice"
+  },
+  {
+    "word": "construction",
+    "partOfSpeech": "n.f.",
+    "translation": "建造，建筑construction; 建 筑 物 building"
+  }
+,
+  {
+    "word": "contacter",
+    "partOfSpeech": "vt.",
+    "translation": "联系 to contact"
+  },
+  {
+    "word": "contemporain(e)",
+    "partOfSpeech": "adj.",
+    "translation": "当代的，同时代的 contemporary"
+  },
+  {
+    "word": "continuer",
+    "partOfSpeech": "v.",
+    "translation": "继续 ( 做 ) to continue"
+  },
+  {
+    "word": "contre",
+    "partOfSpeech": "n.m.",
+    "translation": "反对；不利"
+  },
+  {
+    "word": "contre",
+    "partOfSpeech": "prép.",
+    "translation": "靠，挨 against"
+  },
+  {
+    "word": "copain(copine)",
+    "partOfSpeech": "n.",
+    "translation": "<俗〉朋友，伙伴，同伴 friend"
+  },
+  {
+    "word": "coq",
+    "partOfSpeech": "n.m.",
+    "translation": "公鸡，雄鸡 cock"
+  },
+  {
+    "word": "corps",
+    "partOfSpeech": "n.m.",
+    "translation": "身体 body"
+  },
+  {
+    "word": "correctement",
+    "partOfSpeech": "adv.",
+    "translation": "正确地 correctly; 合适地 properly; 合乎礼仪地 decently"
+  },
+  {
+    "word": "correspondance",
+    "partOfSpeech": "n.f.",
+    "translation": "通信，通信联系 correspondence; 〈集〉书信，信件 letters"
+  },
+  {
+    "word": "correspondant(e)",
+    "partOfSpeech": "n.",
+    "translation": "通信者，有信件来往者 correspondent, pen-friend"
+  },
+  {
+    "word": "Corse(la)",
+    "partOfSpeech": "",
+    "translation": "科西嘉(岛)(法国岛屿，位于地中海) Corsica"
+  },
+  {
+    "word": "coté",
+    "partOfSpeech": "n.m.",
+    "translation": "旁 ， 侧 side"
+  },
+  {
+    "word": "à coté(de)",
+    "partOfSpeech": "",
+    "translation": "在( … … 的)旁边 nearby, next to"
+  },
+  {
+    "word": "coucher(se)",
+    "partOfSpeech": "v.pr",
+    "translation": "躺下 to lie down; 上床，睡觉去 to go to bed"
+  },
+  {
+    "word": "couleur",
+    "partOfSpeech": "n.f.",
+    "translation": "色，颜色 colour"
+  },
+  {
+    "word": "couloir",
+    "partOfSpeech": "n.m.",
+    "translation": "走廊 corridor, hallway"
+  },
+  {
+    "word": "couple",
+    "partOfSpeech": "n.m.",
+    "translation": "一对夫妇；一对情侣 couple"
+  },
+  {
+    "word": "cours",
+    "partOfSpeech": "n.m.",
+    "translation": "课，课程 lesson, class, course"
+  },
+  {
+    "word": "course",
+    "partOfSpeech": "n.f.",
+    "translation": "跑，奔跑 running; 〈引〉购物(多用复数 ) shopping"
+  },
+  {
+    "word": "faire des/les courses",
+    "partOfSpeech": "",
+    "translation": "购物 to go shopping"
+  },
+  {
+    "word": "court(e)",
+    "partOfSpeech": "adj.",
+    "translation": "短的 short"
+  },
+  {
+    "word": "couter",
+    "partOfSpeech": "vi.",
+    "translation": "价值(多少钱); 花费，花钱 to cost"
+  },
+  {
+    "word": "couture",
+    "partOfSpeech": "n.f.",
+    "translation": "服装业，时装业 dressmaking"
+  },
+  {
+    "word": "haute couture",
+    "partOfSpeech": "",
+    "translation": "高档时装业 haute couture"
+  },
+  {
+    "word": "crepe",
+    "partOfSpeech": "n.f.",
+    "translation": "可丽饼(一种以鸡蛋、面粉为原料的油煎薄饼) pancake, crepe"
+  },
+  {
+    "word": "creperie",
+    "partOfSpeech": "n.f.",
+    "translation": "薄饼店，可丽饼店 creperie"
+  },
+  {
+    "word": "croire",
+    "partOfSpeech": "v.t.",
+    "translation": "相信 to believe"
+  },
+  {
+    "word": "croissant",
+    "partOfSpeech": "n.m.",
+    "translation": "羊角面包 croissant; 月牙 crescent"
+  },
+  {
+    "word": "cuillere",
+    "partOfSpeech": "n.f.",
+    "translation": "匙，勺 spoon"
+  },
+  {
+    "word": "cuisine",
+    "partOfSpeech": "n.f.",
+    "translation": "厨房 kitchen; 烹调，烹饪法 cooking; 菜肴 food"
+  },
+  {
+    "word": "culturel(le)",
+    "partOfSpeech": "adj.",
+    "translation": "文化的 cultural"
+  },
+  {
+    "word": "d'abord",
+    "partOfSpeech": "loc.adv.",
+    "translation": "首先 first of all"
+  },
+  {
+    "word": "d'accord",
+    "partOfSpeech": "loc.adv.",
+    "translation": "同意，赞同 alright, OK"
+  },
+  {
+    "word": "Dakar",
+    "partOfSpeech": "",
+    "translation": "达喀尔(塞内加尔首都)"
+  }
+,
+  {
+    "word": "dans",
+    "partOfSpeech": "prép.",
+    "translation": "在……里；处于……in,inside"
+  },
+  {
+    "word": "danse",
+    "partOfSpeech": "n.f.",
+    "translation": "舞蹈 dancing,dance"
+  },
+  {
+    "word": "de",
+    "partOfSpeech": "prép.",
+    "translation": "(表示动作的起点、来源、由来)从，自from;(表示所属、所有)of"
+  },
+  {
+    "word": "degré",
+    "partOfSpeech": "n.m.",
+    "translation": "程度，度degree"
+  },
+  {
+    "word": "déjà",
+    "partOfSpeech": "adv.",
+    "translation": "已经already"
+  },
+  {
+    "word": "déjeuner",
+    "partOfSpeech": "n.m.",
+    "translation": "午饭lunch"
+  },
+  {
+    "word": "déjeuner",
+    "partOfSpeech": "vi.",
+    "translation": "吃午饭 to have lunch"
+  },
+  {
+    "word": "demain",
+    "partOfSpeech": "adv.",
+    "translation": "明天tomorrow"
+  },
+  {
+    "word": "demander",
+    "partOfSpeech": "v.t.",
+    "translation": "请求，要求to ask for"
+  },
+  {
+    "word": "demander à qn de faire qch.",
+    "partOfSpeech": "",
+    "translation": "要求某人做某事to ask sb.to do sth."
+  },
+  {
+    "word": "dentiste",
+    "partOfSpeech": "n.",
+    "translation": "牙医dentist"
+  },
+  {
+    "word": "départ",
+    "partOfSpeech": "n.m.",
+    "translation": "出发departure"
+  },
+  {
+    "word": "dépense",
+    "partOfSpeech": "n.f.",
+    "translation": "开销expense"
+  },
+  {
+    "word": "dernier(ere)",
+    "partOfSpeech": "adj.",
+    "translation": "最近的，最新的latest;最后的last"
+  },
+  {
+    "word": "descendre",
+    "partOfSpeech": "vi.",
+    "translation": "下来to go down"
+  },
+  {
+    "word": "désolé(e)",
+    "partOfSpeech": "adj.",
+    "translation": "感到遗憾的，感到抱歉的 sorry"
+  },
+  {
+    "word": "dessert",
+    "partOfSpeech": "n.m.",
+    "translation": "甜点dessert"
+  },
+  {
+    "word": "destination",
+    "partOfSpeech": "n.f.",
+    "translation": "目的地 destination"
+  },
+  {
+    "word": "détendre(se)",
+    "partOfSpeech": "v.pr",
+    "translation": "放松 to relax"
+  },
+  {
+    "word": "détester",
+    "partOfSpeech": "vt.",
+    "translation": "厌恶，憎恨to hate"
+  },
+  {
+    "word": "deux-chevaux",
+    "partOfSpeech": "n.f.",
+    "translation": "两马力的小汽车"
+  },
+  {
+    "word": "deuxième",
+    "partOfSpeech": "adj.num.ord.",
+    "translation": "第二的second"
+  },
+  {
+    "word": "devant",
+    "partOfSpeech": "prep.",
+    "translation": "在……前面in front of"
+  },
+  {
+    "word": "différence",
+    "partOfSpeech": "n.f.",
+    "translation": "差异，不同 difference"
+  },
+  {
+    "word": "difficile",
+    "partOfSpeech": "adj.",
+    "translation": "困难的 difficult"
+  },
+  {
+    "word": "dimanche",
+    "partOfSpeech": "n.m.",
+    "translation": "周日 Sunday"
+  },
+  {
+    "word": "dîner",
+    "partOfSpeech": "n.m.",
+    "translation": "晚餐dinner"
+  },
+  {
+    "word": "dîner",
+    "partOfSpeech": "vi.",
+    "translation": "吃晚餐 to have dinner"
+  },
+  {
+    "word": "dire",
+    "partOfSpeech": "v.t.",
+    "translation": "说，说出 to say"
+  },
+  {
+    "word": "direct(e)",
+    "partOfSpeech": "adj.",
+    "translation": "直的；直接的direct"
+  },
+  {
+    "word": "directeur(trice)",
+    "partOfSpeech": "n.",
+    "translation": "经理director,manager/manageress"
+  },
+  {
+    "word": "discothèque",
+    "partOfSpeech": "n.f.",
+    "translation": "迪斯科舞厅disco"
+  },
+  {
+    "word": "docteur",
+    "partOfSpeech": "n.m.",
+    "translation": "医生doctor"
+  },
+  {
+    "word": "document",
+    "partOfSpeech": "n.m.",
+    "translation": "材料，文件document"
+  },
+  {
+    "word": "donc",
+    "partOfSpeech": "conj.",
+    "translation": "嗯，好吧(用来引出被岔开的话题);因此，所以so"
+  },
+  {
+    "word": "donner",
+    "partOfSpeech": "v.t.",
+    "translation": "给to give"
+  },
+  {
+    "word": "dormir",
+    "partOfSpeech": "vi.",
+    "translation": "睡觉 to sleep"
+  },
+  {
+    "word": "douche",
+    "partOfSpeech": "n.f.",
+    "translation": "淋浴；淋浴设备，莲蓬头shower"
+  },
+  {
+    "word": "droit",
+    "partOfSpeech": "adv.",
+    "translation": "笔直地straight"
+  },
+  {
+    "word": "droite",
+    "partOfSpeech": "n.f.",
+    "translation": "右面，右边，右方 the right"
+  },
+  {
+    "word": "à droite (de)",
+    "partOfSpeech": "",
+    "translation": "在 ( … … 的 ) 右 边on the right,to the right of"
+  },
+  {
+    "word": "dynamique",
+    "partOfSpeech": "adj.",
+    "translation": "有活力的dynamic"
+  }
+,
+  {
+    "word": "eau",
+    "partOfSpeech": "n.f.",
+    "translation": "水 water"
+  },
+  {
+    "word": "école",
+    "partOfSpeech": "n.f.",
+    "translation": "小 学 school"
+  },
+  {
+    "word": "écouter",
+    "partOfSpeech": "v.t.",
+    "translation": "听 to listen(to)"
+  },
+  {
+    "word": "écrire",
+    "partOfSpeech": "v.t.",
+    "translation": "写 to write"
+  },
+  {
+    "word": "écrivain",
+    "partOfSpeech": "n.m.",
+    "translation": "作 家 writer"
+  },
+  {
+    "word": "e-mail",
+    "partOfSpeech": "n.m.",
+    "translation": "电子邮件 email"
+  },
+  {
+    "word": "embrasser",
+    "partOfSpeech": "v.t.",
+    "translation": "拥 抱 to embrace,to hug; 亲 吻 to kiss"
+  },
+  {
+    "word": "employé(e)",
+    "partOfSpeech": "n.",
+    "translation": "雇员 employee"
+  },
+  {
+    "word": "en",
+    "partOfSpeech": "prép.",
+    "translation": "在 … … ( 指 地 点 ) in,to,into,at; 在 … … (状态、处境);在 … … 时候(多为月份、年份、 季 节 等 ) in; 以 … … (方式、形式) by"
+  },
+  {
+    "word": "endormir(s')",
+    "partOfSpeech": "v.pr:",
+    "translation": "睡着 to fall asleep"
+  },
+  {
+    "word": "enfance",
+    "partOfSpeech": "n.f.",
+    "translation": "童 年 childhood"
+  },
+  {
+    "word": "enfant",
+    "partOfSpeech": "n.m.",
+    "translation": "孩 子 child"
+  },
+  {
+    "word": "enfin",
+    "partOfSpeech": "adv.",
+    "translation": "最后，终于 finally,at last; 总 之 in short,in other words;(表示更正前面的话)其实，至少，不 过 well,at least"
+  },
+  {
+    "word": "ennuyer(s)",
+    "partOfSpeech": "v.pr:",
+    "translation": "感到厌倦；感到烦恼 to get bored"
+  },
+  {
+    "word": "en plus [plys]",
+    "partOfSpeech": "loc.adv.",
+    "translation": "并且，而且 what's more"
+  },
+  {
+    "word": "enquete",
+    "partOfSpeech": "n.f.",
+    "translation": "调查 inquiry"
+  },
+  {
+    "word": "ensemble",
+    "partOfSpeech": "adv.",
+    "translation": "一起 together"
+  },
+  {
+    "word": "ensuite",
+    "partOfSpeech": "adv.",
+    "translation": "然后，接下来 then,next"
+  },
+  {
+    "word": "entrainement",
+    "partOfSpeech": "n.m.",
+    "translation": "训练 training"
+  },
+  {
+    "word": "entrainer(s)",
+    "partOfSpeech": "v.pr:",
+    "translation": "训练 to train"
+  },
+  {
+    "word": "entre",
+    "partOfSpeech": "prép.",
+    "translation": "在 之间 between"
+  },
+  {
+    "word": "entrée",
+    "partOfSpeech": "n.f.",
+    "translation": "入口 entrance; 门 厅 hall"
+  },
+  {
+    "word": "entreprise",
+    "partOfSpeech": "n.f.",
+    "translation": "企业 company"
+  },
+  {
+    "word": "entrer",
+    "partOfSpeech": "vi.",
+    "translation": "进入 to enter,go in"
+  },
+  {
+    "word": "entretien",
+    "partOfSpeech": "n.m.",
+    "translation": "面试，会面 interview"
+  },
+  {
+    "word": "envie",
+    "partOfSpeech": "n.f.",
+    "translation": "欲望，强烈的愿望 desire,wish"
+  },
+  {
+    "word": "avoir envie de qch./faire qch.",
+    "partOfSpeech": "",
+    "translation": "想要……,意欲 …… to want (to),to feel like doing sth."
+  },
+  {
+    "word": "époque",
+    "partOfSpeech": "n.f.",
+    "translation": "时代；时期 era"
+  },
+  {
+    "word": "erreur",
+    "partOfSpeech": "n.f.",
+    "translation": "错误 mistake"
+  },
+  {
+    "word": "espace",
+    "partOfSpeech": "n.m.",
+    "translation": "空间 space; 场地，场所 area"
+  },
+  {
+    "word": "espace vert",
+    "partOfSpeech": "",
+    "translation": "绿地 park"
+  },
+  {
+    "word": "espagnol(e)",
+    "partOfSpeech": "adj.",
+    "translation": "西班牙的 Spanish"
+  },
+  {
+    "word": "Espagnol(e)",
+    "partOfSpeech": "n.",
+    "translation": "西班牙人 Spanish,Spaniard"
+  },
+  {
+    "word": "espagnol",
+    "partOfSpeech": "n.m.",
+    "translation": "西班牙语 Spanish"
+  },
+  {
+    "word": "essayer",
+    "partOfSpeech": "v.t.ind.",
+    "translation": "力争，力图 to try"
+  },
+  {
+    "word": "essayer de faire qch.",
+    "partOfSpeech": "",
+    "translation": "力争做某事 to try to do sth."
+  },
+  {
+    "word": "est",
+    "partOfSpeech": "n.m.",
+    "translation": "东，东边，东方 east"
+  },
+  {
+    "word": "et",
+    "partOfSpeech": "conj.",
+    "translation": "和，而，且 and;(表示数量的相加)加，又 and"
+  }
+,
+  {
+    "word": "étage",
+    "partOfSpeech": "n.m.",
+    "translation": "楼层floor"
+  },
+  {
+    "word": "étagère",
+    "partOfSpeech": "n.f.",
+    "translation": "(固定在墙上的)格，隔板，架子；多层架子 shelf"
+  },
+  {
+    "word": "été",
+    "partOfSpeech": "n.m.",
+    "translation": "夏天summer"
+  },
+  {
+    "word": "étranger",
+    "partOfSpeech": "n.m.",
+    "translation": "外国，异国foreign countries"
+  },
+  {
+    "word": "étranger(ere)",
+    "partOfSpeech": "adj.",
+    "translation": "外国的foreign"
+  },
+  {
+    "word": "etre",
+    "partOfSpeech": "vi.",
+    "translation": "是 to be"
+  },
+  {
+    "word": "étudiant(e)",
+    "partOfSpeech": "n.",
+    "translation": "大学生student"
+  },
+  {
+    "word": "euro",
+    "partOfSpeech": "n.m.",
+    "translation": "欧元euro"
+  },
+  {
+    "word": "Europe",
+    "partOfSpeech": "n.f.",
+    "translation": "欧洲 Europe"
+  },
+  {
+    "word": "éviter",
+    "partOfSpeech": "v.t.",
+    "translation": "避免 to avoid"
+  },
+  {
+    "word": "exactement",
+    "partOfSpeech": "adv.",
+    "translation": "准确地 exactly"
+  },
+  {
+    "word": "excellent(e)",
+    "partOfSpeech": "adj.",
+    "translation": "特别好的excellent"
+  },
+  {
+    "word": "excuser",
+    "partOfSpeech": "v.t.",
+    "translation": "原谅，宽恕 to forgive"
+  },
+  {
+    "word": "exister",
+    "partOfSpeech": "vi.",
+    "translation": "存在to exist"
+  },
+  {
+    "word": "expérience",
+    "partOfSpeech": "n.f.",
+    "translation": "经验；经历experience"
+  }
+,
+  {
+    "word": "fabriquer",
+    "partOfSpeech": "v.t.",
+    "translation": "制造，生产 to make,to manufacture"
+  },
+  {
+    "word": "fac",
+    "partOfSpeech": "n.f",
+    "translation": "<俗>大学 (faculté的缩写) faculty,university"
+  },
+  {
+    "word": "face",
+    "partOfSpeech": "n.f.",
+    "translation": "(物体的)面 side"
+  },
+  {
+    "word": "facile",
+    "partOfSpeech": "adj.",
+    "translation": "容易的 easy"
+  },
+  {
+    "word": "facilement",
+    "partOfSpeech": "adv.",
+    "translation": "容易地，轻易地 easily"
+  },
+  {
+    "word": "faible",
+    "partOfSpeech": "adj.",
+    "translation": "(瘦)弱的；弱小的；能力差的 weak"
+  },
+  {
+    "word": "faire",
+    "partOfSpeech": "vt.",
+    "translation": "做，从事 to do;〈俗〉价值(价格)为……;尺寸为……;容量为…… to make"
+  },
+  {
+    "word": "fait",
+    "partOfSpeech": "n.m",
+    "translation": "事情，事件，情况，轶闻 fact,event"
+  },
+  {
+    "word": "fait divers",
+    "partOfSpeech": "",
+    "translation": "杂闻，社会新闻 short news item,news in brief"
+  },
+  {
+    "word": "familier(ère)",
+    "partOfSpeech": "adj.",
+    "translation": "通俗的 informal,colloquial"
+  },
+  {
+    "word": "famille",
+    "partOfSpeech": "n.f.",
+    "translation": "亲属，家人；家庭 family"
+  },
+  {
+    "word": "fan",
+    "partOfSpeech": "n.",
+    "translation": "粉丝，歌迷，影迷 fan"
+  },
+  {
+    "word": "fantastique",
+    "partOfSpeech": "adj.",
+    "translation": "神奇；幻想的；奇特的 fantastic"
+  },
+  {
+    "word": "farine",
+    "partOfSpeech": "n.f.",
+    "translation": "面粉 flour"
+  },
+  {
+    "word": "fatigué(e)",
+    "partOfSpeech": "adj.",
+    "translation": "疲倦的 tired"
+  },
+  {
+    "word": "fauteuil",
+    "partOfSpeech": "n.m.",
+    "translation": "扶手椅 armchair"
+  },
+  {
+    "word": "felicitations",
+    "partOfSpeech": "n.f.pl.",
+    "translation": "祝词，贺词；称赞，赞扬 congratulations"
+  },
+  {
+    "word": "femme",
+    "partOfSpeech": "n.f.",
+    "translation": "女人 woman;妻子 wife"
+  },
+  {
+    "word": "fenetre",
+    "partOfSpeech": "n.f.",
+    "translation": "窗，窗子，窗户，玻璃窗 window"
+  },
+  {
+    "word": "fete",
+    "partOfSpeech": "n.f",
+    "translation": "节日 celebration;晚会 party"
+  },
+  {
+    "word": "feter",
+    "partOfSpeech": "v.t.",
+    "translation": "庆祝，纪念 to celebrate"
+  },
+  {
+    "word": "feu",
+    "partOfSpeech": "n.m.",
+    "translation": "火；焰火 fire"
+  },
+  {
+    "word": "feu d'artifice",
+    "partOfSpeech": "",
+    "translation": "焰火 fireworks"
+  },
+  {
+    "word": "fille",
+    "partOfSpeech": "n.f.",
+    "translation": "女孩，姑娘 girl;女儿 daughter"
+  }
+,
+  {
+    "word": "flm",
+    "partOfSpeech": "n.m.",
+    "translation": "电影，影片"
+  },
+  {
+    "word": "fls[fis]",
+    "partOfSpeech": "n.m.",
+    "translation": "儿子son"
+  },
+  {
+    "word": "finalement",
+    "partOfSpeech": "adv.",
+    "translation": "最终，终于finally"
+  },
+  {
+    "word": "fini(e)",
+    "partOfSpeech": "adj.",
+    "translation": "完成的，结束的 finished"
+  },
+  {
+    "word": "Finlande",
+    "partOfSpeech": "n.f.",
+    "translation": "芬兰 Finland"
+  },
+  {
+    "word": "fixe",
+    "partOfSpeech": "adj.",
+    "translation": "固定的fixed; 长久的，持久的 fixed, permanent"
+  },
+  {
+    "word": "beau fixe",
+    "partOfSpeech": "",
+    "translation": "持续晴天，连续晴天"
+  },
+  {
+    "word": "fleur",
+    "partOfSpeech": "n.f.",
+    "translation": "花 flower"
+  },
+  {
+    "word": "fois",
+    "partOfSpeech": "n.f.",
+    "translation": "次 time"
+  },
+  {
+    "word": "foot",
+    "partOfSpeech": "n.m.",
+    "translation": "〈俗〉足球(football 的缩写形式)football"
+  },
+  {
+    "word": "football",
+    "partOfSpeech": "n.m.",
+    "translation": "足球football"
+  },
+  {
+    "word": "footing",
+    "partOfSpeech": "n.m.",
+    "translation": "慢跑jogging"
+  },
+  {
+    "word": "fort(e)",
+    "partOfSpeech": "adj.",
+    "translation": "强壮的；精通的，擅长的strong"
+  },
+  {
+    "word": "francais(e)",
+    "partOfSpeech": "adj.",
+    "translation": "法国的 French"
+  },
+  {
+    "word": "Francais(e)",
+    "partOfSpeech": "n.",
+    "translation": "法国人 Frenchman,Frenchwoman"
+  },
+  {
+    "word": "francais",
+    "partOfSpeech": "n.m.",
+    "translation": "法语 French"
+  },
+  {
+    "word": "France",
+    "partOfSpeech": "n.f.",
+    "translation": "法国France"
+  },
+  {
+    "word": "frere",
+    "partOfSpeech": "n.m.",
+    "translation": "兄弟 brother"
+  },
+  {
+    "word": "fromage",
+    "partOfSpeech": "n.m.",
+    "translation": "奶酪 cheese"
+  },
+  {
+    "word": "fruit",
+    "partOfSpeech": "n.m.",
+    "translation": "水果fruit"
+  },
+  {
+    "word": "fumer",
+    "partOfSpeech": "vi.",
+    "translation": "吸烟to smoke"
+  },
+  {
+    "word": "gagner",
+    "partOfSpeech": "vt.",
+    "translation": "赚取，挣得，赚，挣(钱)to earn;(抽奖中)赢得，获得to win;(战斗、比赛)赢，战胜 to win"
+  },
+  {
+    "word": "garcon",
+    "partOfSpeech": "n.m.",
+    "translation": "男孩；小伙子 boy"
+  },
+  {
+    "word": "gare",
+    "partOfSpeech": "n.f.",
+    "translation": "车站station"
+  },
+  {
+    "word": "gateau",
+    "partOfSpeech": "n.m.",
+    "translation": "蛋糕 cake"
+  },
+  {
+    "word": "gauche",
+    "partOfSpeech": "n.f.",
+    "translation": "左，左边，左面(the)left"
+  },
+  {
+    "word": "à gauche(de)",
+    "partOfSpeech": "",
+    "translation": "在(……的)左边on the left,to the left of"
+  },
+  {
+    "word": "général(e), m.pl. généraux",
+    "partOfSpeech": "adj.",
+    "translation": "一般的，普遍的 general"
+  },
+  {
+    "word": "en général",
+    "partOfSpeech": "loc.adv.",
+    "translation": "一般而言；通常 generally,in general"
+  },
+  {
+    "word": "Geneve",
+    "partOfSpeech": "",
+    "translation": "日内瓦(瑞士城市)Geneva"
+  },
+  {
+    "word": "gens",
+    "partOfSpeech": "n.pl.",
+    "translation": "人，人们people"
+  },
+  {
+    "word": "glace",
+    "partOfSpeech": "n.f.",
+    "translation": "冰ice; 冰淇淋 ice cream"
+  },
+  {
+    "word": "glissant(e)",
+    "partOfSpeech": "adj.",
+    "translation": "滑的slippery"
+  },
+  {
+    "word": "golf",
+    "partOfSpeech": "n.m.",
+    "translation": "高尔夫球运动golf"
+  },
+  {
+    "word": "gout",
+    "partOfSpeech": "n.m.",
+    "translation": "爱好，兴趣liking; 品位taste;味道 taste"
+  },
+  {
+    "word": "gramme",
+    "partOfSpeech": "n.m.",
+    "translation": "克 gram"
+  }
+,
+  {
+    "word": "grand(e)",
+    "partOfSpeech": "adj.",
+    "translation": "高大的 tall,big"
+  },
+  {
+    "word": "grand-mere (pl.grands-mères)",
+    "partOfSpeech": "n.f.",
+    "translation": "( 外 ) 祖 母 grand- mother"
+  },
+  {
+    "word": "grand-pere (pl. grands-peres)",
+    "partOfSpeech": "n.m.",
+    "translation": "( 外 ) 祖 父 grand- father"
+  },
+  {
+    "word": "gratuit(e)",
+    "partOfSpeech": "adj.",
+    "translation": "免费的 free"
+  },
+  {
+    "word": "gris(e)",
+    "partOfSpeech": "adj.",
+    "translation": "灰色的 grey"
+  },
+  {
+    "word": "groupe",
+    "partOfSpeech": "n.m",
+    "translation": "合 唱 队 ( 团 ) , 演 奏 乐 团 ， 小 乐 队 group"
+  },
+  {
+    "word": "guerre",
+    "partOfSpeech": "n.f.",
+    "translation": "战争 war"
+  },
+  {
+    "word": "guitare",
+    "partOfSpeech": "n.f",
+    "translation": "吉 他 guitar"
+  },
+  {
+    "word": "guyanais(e)",
+    "partOfSpeech": "n.",
+    "translation": "圭亚那的 Guyanese"
+  },
+  {
+    "word": "gymnastique",
+    "partOfSpeech": "n.f.",
+    "translation": "体操 gymnastics"
+  }
+,
+  {
+    "word": "habiller(s')",
+    "partOfSpeech": "v.pr",
+    "translation": "穿衣服 to dress,to get dressed"
+  },
+  {
+    "word": "habiter",
+    "partOfSpeech": "v.",
+    "translation": "居住(在) to live(in,at)"
+  },
+  {
+    "word": "habitude",
+    "partOfSpeech": "n.f.",
+    "translation": "习惯 habit"
+  },
+  {
+    "word": "habituel(le)",
+    "partOfSpeech": "adj.",
+    "translation": "习惯的 usual"
+  },
+  {
+    "word": "haut(e)",
+    "partOfSpeech": "adj.",
+    "translation": "高的 tall,high; 高等的 high"
+  },
+  {
+    "word": "hélicoptere",
+    "partOfSpeech": "n.m.",
+    "translation": "直升机 helicopter"
+  },
+  {
+    "word": "heure",
+    "partOfSpeech": "n.f.",
+    "translation": "时间 time; 小时 hour"
+  },
+  {
+    "word": "heurter",
+    "partOfSpeech": "v.t.",
+    "translation": "碰撞 to hit"
+  },
+  {
+    "word": "heureux(euse)",
+    "partOfSpeech": "adj.",
+    "translation": "快乐的 happy"
+  },
+  {
+    "word": "hier",
+    "partOfSpeech": "adv.",
+    "translation": "昨天 yesterday"
+  },
+  {
+    "word": "histoire",
+    "partOfSpeech": "n.f.",
+    "translation": "故事 story"
+  },
+  {
+    "word": "Hollande",
+    "partOfSpeech": "n.f",
+    "translation": "荷兰(非官方称谓) the Netherlands"
+  },
+  {
+    "word": "homme",
+    "partOfSpeech": "n.m.",
+    "translation": "人，男人，男子 man"
+  },
+  {
+    "word": "horaire",
+    "partOfSpeech": "n.m.",
+    "translation": "时刻表 timetable"
+  },
+  {
+    "word": "hotel",
+    "partOfSpeech": "n.m.",
+    "translation": "宾馆，大饭店 hotel; (行政机关)办公大楼，官邸，大厦 hall"
+  },
+  {
+    "word": "hotel de ville",
+    "partOfSpeech": "",
+    "translation": "市政府大楼 town hall"
+  },
+  {
+    "word": "hum",
+    "partOfSpeech": "interj.",
+    "translation": "嗯!(表示怀疑、不耐烦或持保留意见) hm"
+  }
+,
+  {
+    "word": "ici",
+    "partOfSpeech": "adv.",
+    "translation": "这里 here"
+  },
+  {
+    "word": "ideal(e)",
+    "partOfSpeech": "adj.",
+    "translation": "理想的 ideal"
+  },
+  {
+    "word": "idée",
+    "partOfSpeech": "n.f.",
+    "translation": "主意 idea"
+  },
+  {
+    "word": "il faut",
+    "partOfSpeech": "v.impers.",
+    "translation": "需要；必须，应该，应当 (原形动词为 falloir) it is necessary, must"
+  },
+  {
+    "word": "il y a",
+    "partOfSpeech": "v.impers.",
+    "translation": "有…… there is/are"
+  },
+  {
+    "word": "île",
+    "partOfSpeech": "n.f",
+    "translation": "岛 island"
+  },
+  {
+    "word": "imaginer",
+    "partOfSpeech": "v.t.",
+    "translation": "想象 to imagine"
+  },
+  {
+    "word": "s'imaginer",
+    "partOfSpeech": "v.pr",
+    "translation": "想象 to imagine, to picture; 自以为 to think"
+  }
+,
+  {
+    "word": "immeuble",
+    "partOfSpeech": "n.m.",
+    "translation": "房屋，大楼building"
+  },
+  {
+    "word": "immobilier(ere)",
+    "partOfSpeech": "adj.",
+    "translation": "不动产的 property,real-estate"
+  },
+  {
+    "word": "important(e)",
+    "partOfSpeech": "adj.",
+    "translation": "重要的important"
+  },
+  {
+    "word": "inconvénient",
+    "partOfSpeech": "n.m.",
+    "translation": "弊端，不便之处 disadvantage"
+  },
+  {
+    "word": "indispensable",
+    "partOfSpeech": "adj.",
+    "translation": "不可或缺的 essential,vital"
+  },
+  {
+    "word": "informaticien(ne)",
+    "partOfSpeech": "n.",
+    "translation": "计算机工程师 computer analyst/scientist"
+  },
+  {
+    "word": "informatique",
+    "partOfSpeech": "adj.",
+    "translation": "机算机的 computer"
+  },
+  {
+    "word": "inquiéter(s)",
+    "partOfSpeech": "v.pr:",
+    "translation": "担心to worry"
+  },
+  {
+    "word": "inspecteur(trice)",
+    "partOfSpeech": "n.",
+    "translation": "检察员，视察员 inspector"
+  },
+  {
+    "word": "inspecteur de police",
+    "partOfSpeech": "",
+    "translation": "便衣警察detective constable"
+  },
+  {
+    "word": "installer",
+    "partOfSpeech": "vt.",
+    "translation": "安置，放置to install,to put in"
+  },
+  {
+    "word": "institut",
+    "partOfSpeech": "n.m.",
+    "translation": "机构；学院 institute"
+  },
+  {
+    "word": "interdit(e)",
+    "partOfSpeech": "adj.",
+    "translation": "被禁止的 prohibited,forbidden"
+  },
+  {
+    "word": "intéressant(e)",
+    "partOfSpeech": "adj.",
+    "translation": "有趣的，有意义的 interesting"
+  },
+  {
+    "word": "Internet",
+    "partOfSpeech": "n.m.",
+    "translation": "因特网 Internet"
+  },
+  {
+    "word": "interview",
+    "partOfSpeech": "n.f.",
+    "translation": "采访，访谈 interview"
+  },
+  {
+    "word": "invité(e)",
+    "partOfSpeech": "n.",
+    "translation": "来宾guest"
+  },
+  {
+    "word": "inviter",
+    "partOfSpeech": "vt.",
+    "translation": "邀请to invite"
+  },
+  {
+    "word": "Irlande",
+    "partOfSpeech": "n.f.",
+    "translation": "爱尔兰Ireland"
+  },
+  {
+    "word": "italien(ne)",
+    "partOfSpeech": "adj.",
+    "translation": "意大利的Italian"
+  },
+  {
+    "word": "Italien(ne)",
+    "partOfSpeech": "n.",
+    "translation": "意大利人 Italian"
+  },
+  {
+    "word": "italien",
+    "partOfSpeech": "n.m.",
+    "translation": "意大利语 Italian"
+  }
+,
+  {
+    "word": "janvier",
+    "partOfSpeech": "n.m.",
+    "translation": "一月January"
+  },
+  {
+    "word": "Japon",
+    "partOfSpeech": "n.m.",
+    "translation": "日本Japan"
+  },
+  {
+    "word": "japonais(e)",
+    "partOfSpeech": "adj.",
+    "translation": "日本的Japanese"
+  },
+  {
+    "word": "Japonais(e)",
+    "partOfSpeech": "n",
+    "translation": "日本人Japanese"
+  },
+  {
+    "word": "jardin",
+    "partOfSpeech": "n.m.",
+    "translation": "公园，花园garden"
+  },
+  {
+    "word": "jaune",
+    "partOfSpeech": "adj.",
+    "translation": "黄色的yellow"
+  },
+  {
+    "word": "jean",
+    "partOfSpeech": "n.m.",
+    "translation": "牛仔裤(pair of)jeans"
+  },
+  {
+    "word": "jeudi",
+    "partOfSpeech": "n.m.",
+    "translation": "周四 Thursday"
+  },
+  {
+    "word": "joli(e)",
+    "partOfSpeech": "adj.",
+    "translation": "漂亮的，好看的pretty"
+  },
+  {
+    "word": "jouer",
+    "partOfSpeech": "vi.",
+    "translation": "玩；演奏to play"
+  },
+  {
+    "word": "jouet",
+    "partOfSpeech": "n.m.",
+    "translation": "玩具toy"
+  },
+  {
+    "word": "jour",
+    "partOfSpeech": "n.m.",
+    "translation": "日子，天day"
+  },
+  {
+    "word": "du jour",
+    "partOfSpeech": "",
+    "translation": "当天的，当日的latest"
+  },
+  {
+    "word": "journal",
+    "partOfSpeech": "n.m.",
+    "translation": "报纸newspaper"
+  },
+  {
+    "word": "journaliste",
+    "partOfSpeech": "n.",
+    "translation": "新闻工作者，新闻记者journalist"
+  },
+  {
+    "word": "journee",
+    "partOfSpeech": "n.f.",
+    "translation": "一天，一昼夜；白天，白昼day"
+  },
+  {
+    "word": "juillet",
+    "partOfSpeech": "n.m.",
+    "translation": "七月July"
+  },
+  {
+    "word": "juin",
+    "partOfSpeech": "n.m.",
+    "translation": "六月June"
+  },
+  {
+    "word": "jupe",
+    "partOfSpeech": "n.f.",
+    "translation": "裙子skirt"
+  },
+  {
+    "word": "jus",
+    "partOfSpeech": "n.m.",
+    "translation": "果汁 juice"
+  },
+  {
+    "word": "jusque",
+    "partOfSpeech": "prép.",
+    "translation": "直到，直至until"
+  }
+,
+  {
+    "word": "juste",
+    "partOfSpeech": "adv.",
+    "translation": "正好，恰巧just"
+  }
+,
+  {
+    "word": "kilo",
+    "partOfSpeech": "n.m.",
+    "translation": "公斤，千克(kilogramme的缩写)kilogram"
+  },
+  {
+    "word": "kilometre",
+    "partOfSpeech": "n.m.",
+    "translation": "千米 kilometre"
+  }
+,
+  {
+    "word": "là",
+    "partOfSpeech": "adv.",
+    "translation": "那儿，那里there 10; 这儿，这里 here 14"
+  },
+  {
+    "word": "là",
+    "partOfSpeech": "interj.",
+    "translation": "得啦，好啦，哟；瞧there!5"
+  },
+  {
+    "word": "là-bas",
+    "partOfSpeech": "adv.",
+    "translation": "那里，那边over there 19"
+  },
+  {
+    "word": "La Baule",
+    "partOfSpeech": "",
+    "translation": "拉波尔(法国西南部城市)1"
+  },
+  {
+    "word": "laisser",
+    "partOfSpeech": "vt.",
+    "translation": "放开，使得to leave 23"
+  },
+  {
+    "word": "lait",
+    "partOfSpeech": "n.m.",
+    "translation": "牛奶 milk 17"
+  },
+  {
+    "word": "langue",
+    "partOfSpeech": "n.f.",
+    "translation": "语言；舌头language 22"
+  },
+  {
+    "word": "Lausanne",
+    "partOfSpeech": "",
+    "translation": "洛桑(瑞士城市)4"
+  },
+  {
+    "word": "laver(se)",
+    "partOfSpeech": "v.pr",
+    "translation": "洗漱to wash,to be/get washed 15"
+  },
+  {
+    "word": "lecture",
+    "partOfSpeech": "n.f.",
+    "translation": "阅读 reading 4"
+  },
+  {
+    "word": "légumes",
+    "partOfSpeech": "n.m.pl.",
+    "translation": "蔬菜vegetables 17"
+  },
+  {
+    "word": "lettre",
+    "partOfSpeech": "n.f.",
+    "translation": "信；字母letter 22"
+  },
+  {
+    "word": "lever(se)",
+    "partOfSpeech": "v.pr",
+    "translation": "起床to get up;起身，站起to stand up 15"
+  },
+  {
+    "word": "libre",
+    "partOfSpeech": "adj.",
+    "translation": "空闲的free 16"
+  },
+  {
+    "word": "lieu",
+    "partOfSpeech": "n.m.",
+    "translation": "地点，地方place 23"
+  },
+  {
+    "word": "ligne",
+    "partOfSpeech": "n.f.",
+    "translation": "线；运输线路 line 10"
+  },
+  {
+    "word": "Lille",
+    "partOfSpeech": "",
+    "translation": "里尔(法国城市，北部加来海峡大区首府，北部省省会)Lille 33"
+  },
+  {
+    "word": "lire",
+    "partOfSpeech": "v.t.",
+    "translation": "读 to read 15"
+  },
+  {
+    "word": "liste",
+    "partOfSpeech": "n.f.",
+    "translation": "单子，清单 list 17"
+  },
+  {
+    "word": "lit",
+    "partOfSpeech": "n.m.",
+    "translation": "床 bed 5"
+  },
+  {
+    "word": "litre",
+    "partOfSpeech": "n.m.",
+    "translation": "升litre 17"
+  },
+  {
+    "word": "littérature",
+    "partOfSpeech": "n.f.",
+    "translation": "文学 literature 4"
+  },
+  {
+    "word": "livre",
+    "partOfSpeech": "n.m.",
+    "translation": "书，书本，书籍 book 5"
+  },
+  {
+    "word": "livre",
+    "partOfSpeech": "n.f.",
+    "translation": "半公斤；镑pound 17"
+  },
+  {
+    "word": "location",
+    "partOfSpeech": "n.f",
+    "translation": "租赁 rented accommodation 28"
+  },
+  {
+    "word": "loin",
+    "partOfSpeech": "adv.",
+    "translation": "远 far 10"
+  },
+  {
+    "word": "Londres",
+    "partOfSpeech": "",
+    "translation": "伦敦(英国首都)London 14"
+  },
+  {
+    "word": "long(ue)",
+    "partOfSpeech": "adj.",
+    "translation": "长的long 16"
+  },
+  {
+    "word": "longtemps",
+    "partOfSpeech": "adv.",
+    "translation": "长时间地(fora)long time 34"
+  },
+  {
+    "word": "louer",
+    "partOfSpeech": "vt.",
+    "translation": "出租；租用to rent 9"
+  },
+  {
+    "word": "lundi",
+    "partOfSpeech": "n.m.",
+    "translation": "周一 Monday 13"
+  },
+  {
+    "word": "lunettes",
+    "partOfSpeech": "n.f.pl.",
+    "translation": "眼镜glasses 6"
+  }
+,
+  {
+    "word": "madame",
+    "partOfSpeech": "n.f.",
+    "translation": "夫人 madam"
+  },
+  {
+    "word": "mesdames",
+    "partOfSpeech": "pl.",
+    "translation": ""
+  },
+  {
+    "word": "magasin",
+    "partOfSpeech": "n.m.",
+    "translation": "商店 shop"
+  }
+,
+  {
+    "word": "magazine",
+    "partOfSpeech": "n.m.",
+    "translation": "杂志 magazine"
+  },
+  {
+    "word": "magnifique",
+    "partOfSpeech": "adj.",
+    "translation": "壮丽的；豪华的；极美的，极好的；非凡的 magnificent"
+  },
+  {
+    "word": "mai",
+    "partOfSpeech": "n.m.",
+    "translation": "五月 May"
+  },
+  {
+    "word": "maintenant",
+    "partOfSpeech": "adv.",
+    "translation": "现在，目前 now"
+  },
+  {
+    "word": "mais",
+    "partOfSpeech": "conj.",
+    "translation": "可是，但是，然而 but; [在某些惊叹句或疑问句中，表示惊讶、怀疑、愤慨等情绪]"
+  },
+  {
+    "word": "maison",
+    "partOfSpeech": "n.f.",
+    "translation": "房子 house; 家 home"
+  },
+  {
+    "word": "malade",
+    "partOfSpeech": "adj.",
+    "translation": "生病的 ill, sick"
+  },
+  {
+    "word": "maman",
+    "partOfSpeech": "n.f.",
+    "translation": "妈妈(儿语，对母亲的爱称) mum, mom, mummy, mommy"
+  },
+  {
+    "word": "manger",
+    "partOfSpeech": "v.t.",
+    "translation": "吃 to eat"
+  },
+  {
+    "word": "manteau",
+    "partOfSpeech": "n.m.",
+    "translation": "大衣，外套 coat"
+  },
+  {
+    "word": "marché",
+    "partOfSpeech": "n.m.",
+    "translation": "市场；集市 market"
+  },
+  {
+    "word": "marcher",
+    "partOfSpeech": "vi.",
+    "translation": "走，行走 to walk"
+  },
+  {
+    "word": "mardi",
+    "partOfSpeech": "n.m.",
+    "translation": "周二 Tuesday"
+  },
+  {
+    "word": "mari",
+    "partOfSpeech": "nm.",
+    "translation": "丈夫 husband"
+  },
+  {
+    "word": "mariage",
+    "partOfSpeech": "n.m.",
+    "translation": "结婚 marriage"
+  },
+  {
+    "word": "Marianne",
+    "partOfSpeech": "",
+    "translation": "玛利亚娜，法国的别称，“共和国”的象征"
+  },
+  {
+    "word": "marier(se)",
+    "partOfSpeech": "v.pr:",
+    "translation": "结婚 to get married"
+  },
+  {
+    "word": "Maroc",
+    "partOfSpeech": "n.m.",
+    "translation": "摩洛哥 Morocco"
+  },
+  {
+    "word": "Marseille",
+    "partOfSpeech": "",
+    "translation": "马赛(法国南部港口城市，位于罗纳河口省，濒地中海) Marseilles"
+  },
+  {
+    "word": "match",
+    "partOfSpeech": "n.m.",
+    "translation": "比赛 match"
+  },
+  {
+    "word": "matériel",
+    "partOfSpeech": "n.m.",
+    "translation": "设备，器材 equipment"
+  },
+  {
+    "word": "matin",
+    "partOfSpeech": "n.m.",
+    "translation": "早晨 morning"
+  },
+  {
+    "word": "mauvais(e)",
+    "partOfSpeech": "adj.",
+    "translation": "坏的，不好的 bad"
+  },
+  {
+    "word": "médecin",
+    "partOfSpeech": "n.m.",
+    "translation": "医生 doctor"
+  },
+  {
+    "word": "méditerranéen(ne)",
+    "partOfSpeech": "adj.",
+    "translation": "地中海的 Mediterranean"
+  },
+  {
+    "word": "meme",
+    "partOfSpeech": "adj.",
+    "translation": "同样的 same"
+  },
+  {
+    "word": "ménage",
+    "partOfSpeech": "n.m.",
+    "translation": "家务 housework"
+  },
+  {
+    "word": "faire le ménage",
+    "partOfSpeech": "",
+    "translation": "做清洁，打扫屋子 to do the housework"
+  },
+  {
+    "word": "mer",
+    "partOfSpeech": "n.f.",
+    "translation": "大海 sea"
+  },
+  {
+    "word": "merci",
+    "partOfSpeech": "interj.",
+    "translation": "谢谢! thank you"
+  },
+  {
+    "word": "mercredi",
+    "partOfSpeech": "n.m.",
+    "translation": "周三 Wednesday"
+  },
+  {
+    "word": "mere",
+    "partOfSpeech": "n.f.",
+    "translation": "母亲，妈妈 mother"
+  },
+  {
+    "word": "météo",
+    "partOfSpeech": "n.f.",
+    "translation": "气象预报 (météorologie 的缩写) weather forecast"
+  },
+  {
+    "word": "bulletin",
+    "partOfSpeech": "n.m.",
+    "translation": "météo 天气预报 weather forecast"
+  },
+  {
+    "word": "metre",
+    "partOfSpeech": "n.m.",
+    "translation": "米 metre"
+  },
+  {
+    "word": "mètre carré",
+    "partOfSpeech": "",
+    "translation": "平方米 square metre"
+  },
+  {
+    "word": "métro",
+    "partOfSpeech": "n.m.",
+    "translation": "地铁 metro, underground, subway"
+  },
+  {
+    "word": "mettre",
+    "partOfSpeech": "vt.",
+    "translation": "放置，摆放 to put"
+  },
+  {
+    "word": "meuble",
+    "partOfSpeech": "n.m.",
+    "translation": "家具 (piece of) furniture"
+  },
+  {
+    "word": "midi",
+    "partOfSpeech": "n.m.",
+    "translation": "中午，正午 midday, noon"
+  }
+,
+  {
+    "word": "minéral(e)",
+    "partOfSpeech": "adj.",
+    "translation": "矿物质的；含矿物质的 mineral"
+  },
+  {
+    "word": "eau minérale",
+    "partOfSpeech": "",
+    "translation": "矿泉水 mineral water"
+  },
+  {
+    "word": "ministere",
+    "partOfSpeech": "n.m.",
+    "translation": "内阁；(政府的)部委 ministry"
+  },
+  {
+    "word": "minute",
+    "partOfSpeech": "n.f",
+    "translation": "分 钟 minute"
+  },
+  {
+    "word": "mois",
+    "partOfSpeech": "n.m.",
+    "translation": "月，月份 month"
+  },
+  {
+    "word": "móme",
+    "partOfSpeech": "n.",
+    "translation": "<俗〉小孩，小家伙 kid"
+  },
+  {
+    "word": "moment",
+    "partOfSpeech": "n.m.",
+    "translation": "时 刻 moment"
+  },
+  {
+    "word": "monde",
+    "partOfSpeech": "n.m.",
+    "translation": "世 界 world; 人 们 people"
+  },
+  {
+    "word": "monsieur",
+    "partOfSpeech": "n.m.",
+    "translation": "先 生 sir, mister"
+  },
+  {
+    "word": "montagne",
+    "partOfSpeech": "n.f.",
+    "translation": "山 mountain"
+  },
+  {
+    "word": "monter",
+    "partOfSpeech": "v.i.",
+    "translation": "登上，上升 to go up"
+  },
+  {
+    "word": "Montréal",
+    "partOfSpeech": "",
+    "translation": "蒙特利尔(加拿大城市) Montreal"
+  },
+  {
+    "word": "mot",
+    "partOfSpeech": "n.m.",
+    "translation": "词 语 word"
+  },
+  {
+    "word": "moto",
+    "partOfSpeech": "n.f.",
+    "translation": "摩托车 motorcycle"
+  },
+  {
+    "word": "moyenne",
+    "partOfSpeech": "n.f",
+    "translation": "中等；平均数，平均值 average"
+  },
+  {
+    "word": "en moyenne",
+    "partOfSpeech": "",
+    "translation": "平均 on average"
+  },
+  {
+    "word": "muguet",
+    "partOfSpeech": "n.m.",
+    "translation": "铃兰 lily of the valley"
+  },
+  {
+    "word": "mur",
+    "partOfSpeech": "n.m.",
+    "translation": "墙，壁 wall"
+  },
+  {
+    "word": "musculation",
+    "partOfSpeech": "n.f.",
+    "translation": "肌肉锻炼 body building"
+  },
+  {
+    "word": "musée",
+    "partOfSpeech": "n.m.",
+    "translation": "博物馆 museum"
+  },
+  {
+    "word": "musicien(ne)",
+    "partOfSpeech": "n.",
+    "translation": "音乐家，作曲家，演奏家 musician"
+  },
+  {
+    "word": "musique",
+    "partOfSpeech": "n.f.",
+    "translation": "音乐，乐曲 music"
+  },
+  {
+    "word": "nager",
+    "partOfSpeech": "vt.",
+    "translation": "游泳 to swim"
+  },
+  {
+    "word": "natation",
+    "partOfSpeech": "n.f.",
+    "translation": "游泳 swimming"
+  },
+  {
+    "word": "nationalité",
+    "partOfSpeech": "n.f.",
+    "translation": "国籍 nationality"
+  },
+  {
+    "word": "nature",
+    "partOfSpeech": "n.f.",
+    "translation": "自然(界),大自然 nature"
+  },
+  {
+    "word": "Nice",
+    "partOfSpeech": "",
+    "translation": "尼斯(法国城市，位于滨海阿尔卑斯省)"
+  },
+  {
+    "word": "Nimes",
+    "partOfSpeech": "",
+    "translation": "尼姆(法国城市，位于加尔省)"
+  },
+  {
+    "word": "Noel",
+    "partOfSpeech": "n.m.",
+    "translation": "圣诞节 Christmas"
+  },
+  {
+    "word": "noir(e)",
+    "partOfSpeech": "adj.",
+    "translation": "黑的，黑色的 black"
+  },
+  {
+    "word": "nom",
+    "partOfSpeech": "n.m.",
+    "translation": "姓氏 name"
+  },
+  {
+    "word": "nombre",
+    "partOfSpeech": "n.m.",
+    "translation": "数；数目，数量 number"
+  },
+  {
+    "word": "non",
+    "partOfSpeech": "adv.",
+    "translation": "不 no"
+  },
+  {
+    "word": "nord",
+    "partOfSpeech": "n.m.",
+    "translation": "北，北边，北方 north"
+  },
+  {
+    "word": "Notre-Dame",
+    "partOfSpeech": "n.f.inv.",
+    "translation": "圣母院 the chapel of Our Lady"
+  },
+  {
+    "word": "nounours",
+    "partOfSpeech": "n.m.",
+    "translation": "小 熊 毛 绒 玩 偶 ( 儿 语 ) teddy bear"
+  },
+  {
+    "word": "nouveau(nouvel,nouvelle)",
+    "partOfSpeech": "adj.",
+    "translation": "新的 new"
+  },
+  {
+    "word": "nouvel an",
+    "partOfSpeech": "",
+    "translation": "新年 New Year"
+  },
+  {
+    "word": "nouvelle",
+    "partOfSpeech": "n.f.",
+    "translation": "新闻，消息 news"
+  },
+  {
+    "word": "nuage",
+    "partOfSpeech": "n.m.",
+    "translation": "云 cloud"
+  },
+  {
+    "word": "nuit",
+    "partOfSpeech": "n.f.",
+    "translation": "夜，夜晚，夜间 night"
+  },
+  {
+    "word": "Bonne nuit !",
+    "partOfSpeech": "",
+    "translation": "晚安 Good night!"
+  },
+  {
+    "word": "numéro",
+    "partOfSpeech": "n.m.",
+    "translation": "号，号数，号码 number"
+  }
+,
+  {
+    "word": "objet",
+    "partOfSpeech": "n.m",
+    "translation": "物，物体；物品，东西object"
+  },
+  {
+    "word": "océan",
+    "partOfSpeech": "n.m",
+    "translation": "海洋ocean"
+  },
+  {
+    "word": "octobre",
+    "partOfSpeech": "n.m",
+    "translation": "十月October"
+  },
+  {
+    "word": "ceil",
+    "partOfSpeech": "n.m",
+    "translation": "眼睛 eye"
+  },
+  {
+    "word": "ceuf",
+    "partOfSpeech": "n.m",
+    "translation": "鸡蛋egg"
+  },
+  {
+    "word": "office",
+    "partOfSpeech": "n.m",
+    "translation": "事务所，营业所 office"
+  },
+  {
+    "word": "offrir",
+    "partOfSpeech": "v.t",
+    "translation": "赠送，提供 to offer"
+  },
+  {
+    "word": "oh",
+    "partOfSpeech": "interj",
+    "translation": "啊!哦!呦!哎呀! Oh"
+  },
+  {
+    "word": "opéra",
+    "partOfSpeech": "n.m",
+    "translation": "歌剧opera; 歌剧院opera house"
+  },
+  {
+    "word": "orange",
+    "partOfSpeech": "n.f",
+    "translation": "柑，橘，橙orange"
+  },
+  {
+    "word": "ordinateur",
+    "partOfSpeech": "n.m",
+    "translation": "电脑computer"
+  },
+  {
+    "word": "organisé(e)",
+    "partOfSpeech": "adj",
+    "translation": "有组织的organized"
+  },
+  {
+    "word": "original(e)",
+    "partOfSpeech": "adj",
+    "translation": "独到的，新颖的original"
+  },
+  {
+    "word": "ou",
+    "partOfSpeech": "conj",
+    "translation": "或，或者，还是(表示选择)or"
+  },
+  {
+    "word": "où",
+    "partOfSpeech": "adv.inter",
+    "translation": "在哪儿，去哪里where"
+  },
+  {
+    "word": "ouais",
+    "partOfSpeech": "interj",
+    "translation": "<俗〉哦! yeah"
+  },
+  {
+    "word": "ouest",
+    "partOfSpeech": "n.m",
+    "translation": "西，西边，西方west"
+  },
+  {
+    "word": "oui",
+    "partOfSpeech": "adv",
+    "translation": "对，是的yes"
+  },
+  {
+    "word": "ouvert(e)",
+    "partOfSpeech": "adj",
+    "translation": "打开的；开放的，开门营业的open"
+  },
+  {
+    "word": "ouvrir",
+    "partOfSpeech": "v.t",
+    "translation": "开，打开；开办，创立 to open"
+  },
+  {
+    "word": "page",
+    "partOfSpeech": "n.f",
+    "translation": "页page"
+  },
+  {
+    "word": "pain",
+    "partOfSpeech": "n.m",
+    "translation": "面包 bread"
+  },
+  {
+    "word": "palais",
+    "partOfSpeech": "n.m",
+    "translation": "宫殿，王宫；高大华丽的建筑物 palace"
+  },
+  {
+    "word": "pantalon",
+    "partOfSpeech": "n.m",
+    "translation": "长裤(pair of)trousers"
+  },
+  {
+    "word": "papa",
+    "partOfSpeech": "n.m",
+    "translation": "爸爸daddy"
+  },
+  {
+    "word": "par",
+    "partOfSpeech": "prép",
+    "translation": "经过，通过，从(表示地点)through,by"
+  },
+  {
+    "word": "parapluie",
+    "partOfSpeech": "n.m",
+    "translation": "雨伞umbrella"
+  },
+  {
+    "word": "parc",
+    "partOfSpeech": "n.m",
+    "translation": "公园 park"
+  },
+  {
+    "word": "parce que",
+    "partOfSpeech": "conj",
+    "translation": "因为 because"
+  },
+  {
+    "word": "pardon",
+    "partOfSpeech": "n.m",
+    "translation": "原谅，饶恕，宽恕 forgiveness"
+  },
+  {
+    "word": "parents",
+    "partOfSpeech": "n.m.pl",
+    "translation": "父母 parents"
+  },
+  {
+    "word": "parfait(e)",
+    "partOfSpeech": "adj",
+    "translation": "完美的 perfect"
+  },
+  {
+    "word": "parfois",
+    "partOfSpeech": "adv",
+    "translation": "有时 sometimes"
+  },
+  {
+    "word": "Paris",
+    "partOfSpeech": "",
+    "translation": "巴黎(法国首都)"
+  },
+  {
+    "word": "parking",
+    "partOfSpeech": "n.m",
+    "translation": "停车场 parking space"
+  },
+  {
+    "word": "parler",
+    "partOfSpeech": "vi",
+    "translation": "说话，讲话；交谈to talk"
+  },
+  {
+    "word": "parler",
+    "partOfSpeech": "v.t.dir",
+    "translation": "讲(某种语言)to speak"
+  },
+  {
+    "word": "parler",
+    "partOfSpeech": "v.t.ind",
+    "translation": "谈，谈论，议论 to talk"
+  },
+  {
+    "word": "parler de qn/qch.",
+    "partOfSpeech": "",
+    "translation": "谈到某人/某事，议论某人/某事 to talk about sb./sth."
+  },
+  {
+    "word": "parler à qn",
+    "partOfSpeech": "",
+    "translation": "对某人说话 to talk/speak to sb."
+  },
+  {
+    "word": "parler de...a qn",
+    "partOfSpeech": "",
+    "translation": "同某人谈……to talk abou...to sb."
+  }
+,
+  {
+    "word": "particulier(ere)",
+    "partOfSpeech": "adj.",
+    "translation": "特殊的 special;私人的 private;独特的 specific"
+  },
+  {
+    "word": "partir",
+    "partOfSpeech": "vi.",
+    "translation": "出发，离开 to leave"
+  },
+  {
+    "word": "passer",
+    "partOfSpeech": "vi.",
+    "translation": "经过 to cross,to go through"
+  },
+  {
+    "word": "passer",
+    "partOfSpeech": "v.t.",
+    "translation": "度过 to spend"
+  },
+  {
+    "word": "se passer",
+    "partOfSpeech": "v.pr",
+    "translation": "发生，经过 (主语多为事件) to happen"
+  },
+  {
+    "word": "pates",
+    "partOfSpeech": "n.f.pl.",
+    "translation": "面条 pasta,noodles"
+  },
+  {
+    "word": "patisserie",
+    "partOfSpeech": "n.f.",
+    "translation": "糕点店 cake shop"
+  },
+  {
+    "word": "pause",
+    "partOfSpeech": "n.f.",
+    "translation": "暂停，间断，休息 break"
+  },
+  {
+    "word": "pause-café",
+    "partOfSpeech": "n.f.",
+    "translation": "<俗>喝咖啡的休息时间 coffee break"
+  },
+  {
+    "word": "pays",
+    "partOfSpeech": "n.m.",
+    "translation": "国家 country"
+  },
+  {
+    "word": "peintre",
+    "partOfSpeech": "n.",
+    "translation": "画家，画师 painter"
+  },
+  {
+    "word": "peinture",
+    "partOfSpeech": "n.f.",
+    "translation": "绘画；油画 painting;油漆，涂料 paint"
+  },
+  {
+    "word": "pendant",
+    "partOfSpeech": "prép.",
+    "translation": "在……期间 during"
+  },
+  {
+    "word": "pendule",
+    "partOfSpeech": "n.f.",
+    "translation": "挂钟，座钟；钟摆 clock"
+  },
+  {
+    "word": "penser",
+    "partOfSpeech": "v.t.",
+    "translation": "认为，以为 to think"
+  },
+  {
+    "word": "pere",
+    "partOfSpeech": "n.m.",
+    "translation": "父亲，爸爸 father"
+  },
+  {
+    "word": "permis(e)",
+    "partOfSpeech": "adj.",
+    "translation": "被容许的 permitted"
+  },
+  {
+    "word": "personne",
+    "partOfSpeech": "n.f.",
+    "translation": "人 person"
+  },
+  {
+    "word": "petit(e)",
+    "partOfSpeech": "adj.",
+    "translation": "矮小的 small"
+  },
+  {
+    "word": "petit(-dejeuner",
+    "partOfSpeech": "n.m.",
+    "translation": "早餐 breakfast"
+  },
+  {
+    "word": "peu",
+    "partOfSpeech": "adv.",
+    "translation": "少，不多 not much;不大，不太 not very"
+  },
+  {
+    "word": "un peu",
+    "partOfSpeech": "loc.adv.",
+    "translation": "一点儿，一下，少许，稍微 a little,a bit"
+  },
+  {
+    "word": "peut-etre",
+    "partOfSpeech": "adv.",
+    "translation": "也许 perhaps"
+  },
+  {
+    "word": "photo",
+    "partOfSpeech": "n.f.",
+    "translation": "摄影；照片 photo"
+  },
+  {
+    "word": "photographe",
+    "partOfSpeech": "n.",
+    "translation": "摄影师 photographer"
+  },
+  {
+    "word": "phrase",
+    "partOfSpeech": "n.f.",
+    "translation": "句子，词句，语句 sentence"
+  },
+  {
+    "word": "piece",
+    "partOfSpeech": "n.f.",
+    "translation": "房间 room"
+  },
+  {
+    "word": "pied",
+    "partOfSpeech": "n.m.",
+    "translation": "脚，足 foot"
+  },
+  {
+    "word": "piscine",
+    "partOfSpeech": "n.f.",
+    "translation": "游泳池 swimming pool"
+  },
+  {
+    "word": "pizza",
+    "partOfSpeech": "n.f.",
+    "translation": "比萨饼 pizza"
+  },
+  {
+    "word": "placard",
+    "partOfSpeech": "n.m.",
+    "translation": "壁橱 cupboard"
+  },
+  {
+    "word": "place",
+    "partOfSpeech": "n.f.",
+    "translation": "地方，位置 room,space;(演出场地的) 座位 seat;广场 square"
+  },
+  {
+    "word": "sur place",
+    "partOfSpeech": "loc.adv.",
+    "translation": "就地，原地，现场 to the scene,on the scene,on the spot"
+  },
+  {
+    "word": "plage",
+    "partOfSpeech": "n.f.",
+    "translation": "沙滩 beach"
+  },
+  {
+    "word": "plaisir",
+    "partOfSpeech": "n.m.",
+    "translation": "愉快，高兴，快乐 pleasure"
+  },
+  {
+    "word": "avec plaisir",
+    "partOfSpeech": "loc.adv.",
+    "translation": "乐意地，高兴地(独立使用，表示接受对方的提议或邀请) with pleasure"
+  },
+  {
+    "word": "plan",
+    "partOfSpeech": "n.m.",
+    "translation": "平面图 plan"
+  },
+  {
+    "word": "plat",
+    "partOfSpeech": "n.m.",
+    "translation": "菜肴 dish"
+  }
+,
+  {
+    "word": "pleuvoir",
+    "partOfSpeech": "v.impers.",
+    "translation": "下雨 to rain"
+  },
+  {
+    "word": "pluie",
+    "partOfSpeech": "n.f",
+    "translation": "雨 rain"
+  },
+  {
+    "word": "plusieurs",
+    "partOfSpeech": "adj.indéf.",
+    "translation": "几个，好几个 several"
+  },
+  {
+    "word": "poeme",
+    "partOfSpeech": "n.m.",
+    "translation": "诗歌 poem"
+  },
+  {
+    "word": "poete",
+    "partOfSpeech": "n.m.",
+    "translation": "诗人 poet"
+  },
+  {
+    "word": "point",
+    "partOfSpeech": "n.m.",
+    "translation": "点；(人的)特点，素质 point"
+  },
+  {
+    "word": "point de vue",
+    "partOfSpeech": "",
+    "translation": "观点，视角 point of view"
+  },
+  {
+    "word": "point faible",
+    "partOfSpeech": "",
+    "translation": "缺点 weakness"
+  },
+  {
+    "word": "point fort",
+    "partOfSpeech": "",
+    "translation": "优点 strength"
+  },
+  {
+    "word": "poisson",
+    "partOfSpeech": "n.m.",
+    "translation": "鱼 fish"
+  },
+  {
+    "word": "pollution",
+    "partOfSpeech": "n.f.",
+    "translation": "污染 pollution"
+  },
+  {
+    "word": "pomme",
+    "partOfSpeech": "n.f.",
+    "translation": "苹果 apple"
+  },
+  {
+    "word": "pomme de terre",
+    "partOfSpeech": "",
+    "translation": "土豆 potato"
+  },
+  {
+    "word": "pont",
+    "partOfSpeech": "n.m.",
+    "translation": "桥 bridge"
+  },
+  {
+    "word": "port",
+    "partOfSpeech": "n.m.",
+    "translation": "港口 port"
+  },
+  {
+    "word": "portable",
+    "partOfSpeech": "adj.",
+    "translation": "便携式的，手提式的 portable"
+  },
+  {
+    "word": "portable",
+    "partOfSpeech": "n.m.",
+    "translation": "手机 mobile phone; 笔记本电脑 laptop"
+  },
+  {
+    "word": "téléphone portable",
+    "partOfSpeech": "",
+    "translation": "手机 mobile phone"
+  },
+  {
+    "word": "porte",
+    "partOfSpeech": "n.f.",
+    "translation": "门 door, gate"
+  },
+  {
+    "word": "porter",
+    "partOfSpeech": "v.t.",
+    "translation": "穿戴，佩戴 to wear"
+  },
+  {
+    "word": "portrait-robot",
+    "partOfSpeech": "n.m.",
+    "translation": "(警方综合搜捕对象的特征所制的) 模拟画像 photofit"
+  },
+  {
+    "word": "poser",
+    "partOfSpeech": "v.t.",
+    "translation": "提出(问题) to ask"
+  },
+  {
+    "word": "possible",
+    "partOfSpeech": "adj.",
+    "translation": "可能的 possible"
+  },
+  {
+    "word": "postal(e)",
+    "partOfSpeech": "adj.",
+    "translation": "邮政的，邮务的 postal"
+  },
+  {
+    "word": "poste",
+    "partOfSpeech": "n.f.",
+    "translation": "邮局 post office"
+  },
+  {
+    "word": "pour",
+    "partOfSpeech": "n.m.",
+    "translation": "赞成；有利的方面；肯定的方面"
+  },
+  {
+    "word": "pour",
+    "partOfSpeech": "prép.",
+    "translation": "对于，适合于(表示对象、用途) to, for"
+  },
+  {
+    "word": "pourcentage",
+    "partOfSpeech": "n.m.",
+    "translation": "百分比，百分率 percentage"
+  },
+  {
+    "word": "pourquoi",
+    "partOfSpeech": "adv.",
+    "translation": "为什么 why"
+  },
+  {
+    "word": "pouvoir",
+    "partOfSpeech": "v.t.",
+    "translation": "能，会 to be able to; 可以 to be allowed to"
+  },
+  {
+    "word": "pratique",
+    "partOfSpeech": "adj.",
+    "translation": "好用的，方便的 practical"
+  },
+  {
+    "word": "préféré(e)",
+    "partOfSpeech": "adj.",
+    "translation": "最受人喜爱的 favourite"
+  },
+  {
+    "word": "préferer",
+    "partOfSpeech": "v.t.",
+    "translation": "更喜欢，偏爱 to prefer"
+  },
+  {
+    "word": "premier(ere)",
+    "partOfSpeech": "adj.",
+    "translation": "第一的 first"
+  },
+  {
+    "word": "prendre",
+    "partOfSpeech": "v.t.",
+    "translation": "搭乘；选取(道路，路线);拿 to take"
+  },
+  {
+    "word": "prendre",
+    "partOfSpeech": "v.t.",
+    "translation": "吃 ， 喝，服用 to have, to take"
+  },
+  {
+    "word": "prénom",
+    "partOfSpeech": "n.m.",
+    "translation": "名字 first name"
+  },
+  {
+    "word": "préparer",
+    "partOfSpeech": "v.t.",
+    "translation": "(~qn) 使……做好准备；(～qch.) 准备…… to prepare"
+  },
+  {
+    "word": "présentation",
+    "partOfSpeech": "n.f.",
+    "translation": "外表，仪表 appearance"
+  },
+  {
+    "word": "présenter",
+    "partOfSpeech": "vt.",
+    "translation": "展示 to show; 介绍 to introduce, to present"
+  },
+  {
+    "word": "principalement",
+    "partOfSpeech": "adv.",
+    "translation": "主要地 mainly"
+  },
+  {
+    "word": "prison",
+    "partOfSpeech": "n.f.",
+    "translation": "监狱 prison"
+  }
+,
+  {
+    "word": "privé(e)",
+    "partOfSpeech": "adj.",
+    "translation": "私人的 private"
+  },
+  {
+    "word": "prix",
+    "partOfSpeech": "n.m.",
+    "translation": "价格，价钱 price"
+  },
+  {
+    "word": "probable",
+    "partOfSpeech": "adj.",
+    "translation": "很有可能的 probable"
+  },
+  {
+    "word": "probleme",
+    "partOfSpeech": "n.m.",
+    "translation": "问题 problem"
+  },
+  {
+    "word": "prochain(e)",
+    "partOfSpeech": "adj.",
+    "translation": "下一个的 next"
+  },
+  {
+    "word": "prof",
+    "partOfSpeech": "n.",
+    "translation": "<俗> (professeur的缩写形式)教师 teacher; 教授 professor"
+  },
+  {
+    "word": "professeur",
+    "partOfSpeech": "n.m.",
+    "translation": "中学教师 teacher, professor; 大学教授 professor; 教员，教练 teacher, lecturer, professor"
+  },
+  {
+    "word": "profession",
+    "partOfSpeech": "n.f",
+    "translation": "职业 profession"
+  },
+  {
+    "word": "projet",
+    "partOfSpeech": "n.m.",
+    "translation": "计划 plan"
+  },
+  {
+    "word": "promenade",
+    "partOfSpeech": "n.f.",
+    "translation": "散步 walk; 散步场所，散步大道 walkway, promenade"
+  },
+  {
+    "word": "promener(se)",
+    "partOfSpeech": "v.pr",
+    "translation": "散步 to go for a walk"
+  },
+  {
+    "word": "publicité",
+    "partOfSpeech": "n.f.",
+    "translation": "广告 advert, advertisement, ad"
+  },
+  {
+    "word": "puis",
+    "partOfSpeech": "adv.",
+    "translation": "然后 then"
+  },
+  {
+    "word": "pull",
+    "partOfSpeech": "n.m.",
+    "translation": "<俗> 羊毛套衫 (pull-over 的缩写形式) pullover"
+  }
+,
+  {
+    "word": "quai",
+    "partOfSpeech": "n.m.",
+    "translation": "站台 platform; 堤岸 bank"
+  },
+  {
+    "word": "qualité",
+    "partOfSpeech": "n.f.",
+    "translation": "品质，质量 quality"
+  },
+  {
+    "word": "quand",
+    "partOfSpeech": "adv.interr",
+    "translation": "什么时候，何时 when"
+  },
+  {
+    "word": "quand",
+    "partOfSpeech": "conj.",
+    "translation": "当 时 when"
+  },
+  {
+    "word": "quantité",
+    "partOfSpeech": "n.f.",
+    "translation": "量，数量 quantity, amount"
+  },
+  {
+    "word": "quartier",
+    "partOfSpeech": "n.m.",
+    "translation": "街区 area, neighbourhood"
+  },
+  {
+    "word": "québécois(e)",
+    "partOfSpeech": "adj.",
+    "translation": "魁北克的 from Quebec"
+  },
+  {
+    "word": "quelque chose(=qch.)",
+    "partOfSpeech": "pron.",
+    "translation": "某个东西，某物 something"
+  },
+  {
+    "word": "question",
+    "partOfSpeech": "n.f.",
+    "translation": "问题 question"
+  },
+  {
+    "word": "questionnaire",
+    "partOfSpeech": "n.m.",
+    "translation": "调查问卷 questionnaire"
+  },
+  {
+    "word": "quitter",
+    "partOfSpeech": "v.t.",
+    "translation": "离开 to leave"
+  }
+,
+  {
+    "word": "raconter",
+    "partOfSpeech": "v.t.",
+    "translation": "讲述 to tell"
+  },
+  {
+    "word": "radio",
+    "partOfSpeech": "n.f.",
+    "translation": "无线电广播；无线电广播电台 radio"
+  },
+  {
+    "word": "raison",
+    "partOfSpeech": "n.f.",
+    "translation": "理智，理性；道理 reason"
+  },
+  {
+    "word": "avoir raison",
+    "partOfSpeech": "",
+    "translation": "有理，正确 to be right"
+  },
+  {
+    "word": "rappeler",
+    "partOfSpeech": "v.t.",
+    "translation": "再打电话给某人 to call back"
+  },
+  {
+    "word": "se rappeler",
+    "partOfSpeech": "v.pr.",
+    "translation": "再次互通电话"
+  },
+  {
+    "word": "récent(e)",
+    "partOfSpeech": "adj.",
+    "translation": "最近的，新近的 recent"
+  },
+  {
+    "word": "réception",
+    "partOfSpeech": "n.f.",
+    "translation": "接待处 reception"
+  },
+  {
+    "word": "réceptionniste",
+    "partOfSpeech": "n",
+    "translation": "(旅馆、商店等的)接待员 receptionist"
+  },
+  {
+    "word": "rechercher",
+    "partOfSpeech": "vt.",
+    "translation": "研究，探索 to research"
+  },
+  {
+    "word": "recommencer",
+    "partOfSpeech": "v.",
+    "translation": "重新开始 to start again"
+  },
+  {
+    "word": "regarder",
+    "partOfSpeech": "v.t.",
+    "translation": "看 to look at,to watch"
+  }
+,
+  {
+    "word": "remercier",
+    "partOfSpeech": "v.t.",
+    "translation": "感谢 to thank"
+  },
+  {
+    "word": "rencontrer",
+    "partOfSpeech": "v.t.",
+    "translation": "碰见，遇见，结识 to meet"
+  },
+  {
+    "word": "rendez-vous",
+    "partOfSpeech": "n.m.",
+    "translation": "约会，预约 appointment"
+  },
+  {
+    "word": "sur rendez-vous",
+    "partOfSpeech": "",
+    "translation": "(医生接待)预约就诊(的病人) by appointment"
+  },
+  {
+    "word": "renseignement",
+    "partOfSpeech": "n.m.",
+    "translation": "有关资料，情况，消息 (piece of) information"
+  },
+  {
+    "word": "rentrer",
+    "partOfSpeech": "vi.",
+    "translation": "回来，回到 to get back, to come back, to return; 回家 to go home"
+  },
+  {
+    "word": "repas",
+    "partOfSpeech": "n.m.",
+    "translation": "餐；进餐 meal"
+  },
+  {
+    "word": "répondre(à)",
+    "partOfSpeech": "v.t.ind.",
+    "translation": "回答，答复 to answer, to reply"
+  },
+  {
+    "word": "réponse",
+    "partOfSpeech": "n.f.",
+    "translation": "回答，答复；回信；答案 answer, reply"
+  },
+  {
+    "word": "reportage",
+    "partOfSpeech": "n.m.",
+    "translation": "报道 report"
+  },
+  {
+    "word": "reposer(se)",
+    "partOfSpeech": "v.pr.",
+    "translation": "休息 to have a rest"
+  },
+  {
+    "word": "reprendre",
+    "partOfSpeech": "vt.",
+    "translation": "重新从事 to resume, to pick up again"
+  },
+  {
+    "word": "république",
+    "partOfSpeech": "n.f.",
+    "translation": "共和国 republic"
+  },
+  {
+    "word": "réserver",
+    "partOfSpeech": "v.t.",
+    "translation": "预订，保留，预留 to book, to reserve"
+  },
+  {
+    "word": "résidence",
+    "partOfSpeech": "nf.",
+    "translation": "住所，住处，寓所 (place of) residence"
+  },
+  {
+    "word": "responsable",
+    "partOfSpeech": "n.",
+    "translation": "负责人 person in charge, manager, leader"
+  },
+  {
+    "word": "restaurant",
+    "partOfSpeech": "nm.",
+    "translation": "饭店(通俗语中简称为 resto) restaurant"
+  },
+  {
+    "word": "restauration",
+    "partOfSpeech": "n.f.",
+    "translation": "餐饮业 catering"
+  },
+  {
+    "word": "reste",
+    "partOfSpeech": "n.m.",
+    "translation": "其余部分；其余的人；剩余部分 (the) rest"
+  },
+  {
+    "word": "rester",
+    "partOfSpeech": "vi.",
+    "translation": "停留，逗留 to stay; 保持，始终处于 (某种姿势、状态) to remain"
+  },
+  {
+    "word": "résultat",
+    "partOfSpeech": "n.m.",
+    "translation": "结果 result"
+  },
+  {
+    "word": "retourner",
+    "partOfSpeech": "v.i.",
+    "translation": "返回 to go back"
+  },
+  {
+    "word": "retraite",
+    "partOfSpeech": "n.f.",
+    "translation": "退休 retirement"
+  },
+  {
+    "word": "retrouver",
+    "partOfSpeech": "v.t.",
+    "translation": "找回 to find; 再见到 to meet again"
+  },
+  {
+    "word": "réunion",
+    "partOfSpeech": "n.f.",
+    "translation": "会议 meeting"
+  },
+  {
+    "word": "réussir",
+    "partOfSpeech": "vt.",
+    "translation": "使成功，做成功 to achieve, to carry off/out successfully, to win"
+  },
+  {
+    "word": "revenir",
+    "partOfSpeech": "v.i.",
+    "translation": "回来 to come back"
+  },
+  {
+    "word": "rever",
+    "partOfSpeech": "vi.",
+    "translation": "做梦 to dream"
+  },
+  {
+    "word": "rez-de-chaussee",
+    "partOfSpeech": "n.m.",
+    "translation": "(建筑物的)底层，一楼 ground floor"
+  },
+  {
+    "word": "riz",
+    "partOfSpeech": "n.m.",
+    "translation": "大米 rice"
+  },
+  {
+    "word": "robe",
+    "partOfSpeech": "n.f.",
+    "translation": "(女用)长外衣，连衣裙 dress"
+  },
+  {
+    "word": "Rochelle(La)",
+    "partOfSpeech": "",
+    "translation": "拉罗谢尔(法国西部城市，滨海夏朗德省省会)"
+  },
+  {
+    "word": "rollers",
+    "partOfSpeech": "n.m.pl.",
+    "translation": "轮滑鞋 roller skates/blades"
+  },
+  {
+    "word": "romantique",
+    "partOfSpeech": "adj.",
+    "translation": "浪漫的，罗曼蒂克的 romantic"
+  },
+  {
+    "word": "roue",
+    "partOfSpeech": "n.f.",
+    "translation": "轮子 wheel"
+  },
+  {
+    "word": "rouge",
+    "partOfSpeech": "adj.",
+    "translation": "红色的 red"
+  }
+,
+  {
+    "word": "rouler",
+    "partOfSpeech": "vi.",
+    "translation": "(车辆等)行驶 to go, to travel"
+  },
+  {
+    "word": "route",
+    "partOfSpeech": "n.f.",
+    "translation": "道路，公路，大路 road"
+  },
+  {
+    "word": "rue",
+    "partOfSpeech": "n.f.",
+    "translation": "街，街道，马路 street"
+  },
+  {
+    "word": "sac",
+    "partOfSpeech": "n.m.",
+    "translation": "包 bag"
+  },
+  {
+    "word": "Saint-tienne",
+    "partOfSpeech": "",
+    "translation": "圣艾蒂安(法国中东部城市，卢瓦尔省 省 会)"
+  },
+  {
+    "word": "Saint-Valentin (la)",
+    "partOfSpeech": "",
+    "translation": "情人节 St Valentine's day"
+  },
+  {
+    "word": "salade",
+    "partOfSpeech": "n.f.",
+    "translation": "凉 拌 生 菜 salad; 生 菜 lettuce; 沙 拉 salad"
+  },
+  {
+    "word": "salle",
+    "partOfSpeech": "n.f.",
+    "translation": "房间，室 room"
+  },
+  {
+    "word": "salle de bains",
+    "partOfSpeech": "",
+    "translation": "浴室 bathroom"
+  },
+  {
+    "word": "salon",
+    "partOfSpeech": "n.m.",
+    "translation": "客厅 living room"
+  },
+  {
+    "word": "salut",
+    "partOfSpeech": "interj.",
+    "translation": "<俗〉(上前与朋友交谈或离开他们时)你 好 hi!; 再见 bye!"
+  },
+  {
+    "word": "salutations",
+    "partOfSpeech": "n.fpl.",
+    "translation": "敬意(信末用语)"
+  },
+  {
+    "word": "samedi",
+    "partOfSpeech": "n.m.",
+    "translation": "周六 Saturday"
+  },
+  {
+    "word": "savoir",
+    "partOfSpeech": "v.t.",
+    "translation": "知道，会 to know"
+  },
+  {
+    "word": "sculpteur(trice)",
+    "partOfSpeech": "n.",
+    "translation": "雕刻家，雕塑家 sculptor"
+  },
+  {
+    "word": "secondaire",
+    "partOfSpeech": "adj.",
+    "translation": "第二的 secondary; 次要的 minor"
+  },
+  {
+    "word": "secrétaire",
+    "partOfSpeech": "n.",
+    "translation": "秘书 secretary"
+  },
+  {
+    "word": "semaine",
+    "partOfSpeech": "n.f.",
+    "translation": "星期，周 week"
+  },
+  {
+    "word": "Sénégal",
+    "partOfSpeech": "n.m.",
+    "translation": "塞内加尔 Senegal"
+  },
+  {
+    "word": "Sénégalais(e)",
+    "partOfSpeech": "n.",
+    "translation": "塞内加尔人 Senegalese"
+  },
+  {
+    "word": "septembre",
+    "partOfSpeech": "n.m.",
+    "translation": "九月 September"
+  },
+  {
+    "word": "seul(e)",
+    "partOfSpeech": "adj.",
+    "translation": "单独的，独自的 alone; 孤 单 的 lonely"
+  },
+  {
+    "word": "serveur(euse)",
+    "partOfSpeech": "n.",
+    "translation": "服务生，服务员 waiter, waitress"
+  },
+  {
+    "word": "seulement",
+    "partOfSpeech": "adv.",
+    "translation": "只，仅仅 only"
+  },
+  {
+    "word": "sexe",
+    "partOfSpeech": "n.m.",
+    "translation": "性别 sex"
+  },
+  {
+    "word": "shopping",
+    "partOfSpeech": "n.m.",
+    "translation": "在商店购物 shopping"
+  },
+  {
+    "word": "Sicile(la)",
+    "partOfSpeech": "",
+    "translation": "西西里岛(意大利地中海岛屿) Sicily"
+  },
+  {
+    "word": "silvous plait",
+    "partOfSpeech": "loc.",
+    "translation": "请，请您，请问 please"
+  },
+  {
+    "word": "simple",
+    "partOfSpeech": "adj.",
+    "translation": "单一的 single"
+  },
+  {
+    "word": "ski",
+    "partOfSpeech": "n.m.",
+    "translation": "滑雪 skiing"
+  },
+  {
+    "word": "slam",
+    "partOfSpeech": "n.m.",
+    "translation": "诗喃 slam"
+  },
+  {
+    "word": "SNCF",
+    "partOfSpeech": "n.f.",
+    "translation": "法国国营铁路公司(=Société nationale des chemins de fer) SNCF"
+  },
+  {
+    "word": "société",
+    "partOfSpeech": "n.f.",
+    "translation": "公司 company"
+  },
+  {
+    "word": "sceur",
+    "partOfSpeech": "n.f.",
+    "translation": "姐妹 sister"
+  },
+  {
+    "word": "soir",
+    "partOfSpeech": "n.m.",
+    "translation": "晚上 evening"
+  },
+  {
+    "word": "soirée",
+    "partOfSpeech": "n.f.",
+    "translation": "夜晚 evening"
+  },
+  {
+    "word": "soleil",
+    "partOfSpeech": "n.m.",
+    "translation": "太阳，阳光 sun"
+  },
+  {
+    "word": "sombre",
+    "partOfSpeech": "adj.",
+    "translation": "昏暗的，阴暗的 dark"
+  },
+  {
+    "word": "sondage",
+    "partOfSpeech": "n.m.",
+    "translation": "抽样调查，民意测验 opinion poll, survey"
+  }
+,
+  {
+    "word": "sortir",
+    "partOfSpeech": "vi.",
+    "translation": "出去，出门，出来，外出 to go out"
+  },
+  {
+    "word": "sortir",
+    "partOfSpeech": "v.t.",
+    "translation": "出版，发表 to bring out, to release; 出产 to bring out; 拿出，取出 to get out"
+  },
+  {
+    "word": "souriant(e)",
+    "partOfSpeech": "adj.",
+    "translation": "面带微笑的 smiling"
+  },
+  {
+    "word": "sous",
+    "partOfSpeech": "prép.",
+    "translation": "在下面 under"
+  },
+  {
+    "word": "souvenir",
+    "partOfSpeech": "n.m.",
+    "translation": "回忆 memory"
+  },
+  {
+    "word": "souvenir(se)",
+    "partOfSpeech": "v.pr.",
+    "translation": "记得，忆及，想起；记住，记着 to remember"
+  },
+  {
+    "word": "souvent",
+    "partOfSpeech": "adv.",
+    "translation": "经常，常常 often"
+  },
+  {
+    "word": "sport",
+    "partOfSpeech": "n.m.",
+    "translation": "运动，体育运动，运动项目 sport"
+  },
+  {
+    "word": "sportif(ive)",
+    "partOfSpeech": "adj.",
+    "translation": "有关体育的，运动的 athletic; 从事体育运动的，爱好体育运动的 sporty"
+  },
+  {
+    "word": "Strasbourg",
+    "partOfSpeech": "",
+    "translation": "斯特拉斯堡(法国阿尔萨斯大区下莱茵省首府，欧洲议会所在地)"
+  },
+  {
+    "word": "stress",
+    "partOfSpeech": "n.m.",
+    "translation": "压力，紧张 stress"
+  },
+  {
+    "word": "sucre",
+    "partOfSpeech": "n.m.",
+    "translation": "糖 sugar"
+  },
+  {
+    "word": "sud",
+    "partOfSpeech": "n.m.",
+    "translation": "南，南边，南方 south"
+  },
+  {
+    "word": "Suisse",
+    "partOfSpeech": "n.f.",
+    "translation": "瑞士 Swiss"
+  },
+  {
+    "word": "suivre",
+    "partOfSpeech": "v.t.",
+    "translation": "跟随 to follow"
+  },
+  {
+    "word": "super",
+    "partOfSpeech": "adj.inv.",
+    "translation": "棒极了，最棒的 great"
+  },
+  {
+    "word": "supermarché",
+    "partOfSpeech": "n.m.",
+    "translation": "超市 supermarket"
+  },
+  {
+    "word": "supprimer",
+    "partOfSpeech": "v.t.",
+    "translation": "除去，除掉 to get rid of, to remove"
+  },
+  {
+    "word": "sur",
+    "partOfSpeech": "prep.",
+    "translation": "在……上面 on, over; (表示相关) 关于，对于 on, about"
+  },
+  {
+    "word": "sūr(e)",
+    "partOfSpeech": "adj.",
+    "translation": "确信的，肯定的；有把握的 sure"
+  },
+  {
+    "word": "bien sur",
+    "partOfSpeech": "loc.adv.",
+    "translation": "当然 of course"
+  },
+  {
+    "word": "surprise",
+    "partOfSpeech": "n.f.",
+    "translation": "惊喜 surprise"
+  },
+  {
+    "word": "symbole",
+    "partOfSpeech": "n.m.",
+    "translation": "象征，标志，符号 symbol"
+  },
+  {
+    "word": "sympa",
+    "partOfSpeech": "adj.",
+    "translation": "<俗>(sympathique 的缩写形式) 给人好感的，讨人喜欢的 nice, friendly"
+  }
+,
+  {
+    "word": "table",
+    "partOfSpeech": "n.f.",
+    "translation": "桌子"
+  },
+  {
+    "word": "tableau",
+    "partOfSpeech": "n.m.",
+    "translation": "画"
+  },
+  {
+    "word": "tableau²",
+    "partOfSpeech": "n.m.",
+    "translation": "表，表格"
+  },
+  {
+    "word": "taille",
+    "partOfSpeech": "n.f.",
+    "translation": "(成衣的)尺码，号码"
+  },
+  {
+    "word": "tapis",
+    "partOfSpeech": "n.m.",
+    "translation": "地毯"
+  },
+  {
+    "word": "tard",
+    "partOfSpeech": "adv.",
+    "translation": "晚"
+  },
+  {
+    "word": "tarif",
+    "partOfSpeech": "n.m.",
+    "translation": "定价"
+  },
+  {
+    "word": "taxi",
+    "partOfSpeech": "n.m.",
+    "translation": "出租车"
+  },
+  {
+    "word": "tee-shirt",
+    "partOfSpeech": "n.m.",
+    "translation": "短袖圆领棉汗衫，T 恤衫"
+  },
+  {
+    "word": "téléphone",
+    "partOfSpeech": "n.m.",
+    "translation": "电话；电话机"
+  },
+  {
+    "word": "téléphoner",
+    "partOfSpeech": "vi.",
+    "translation": "打电话"
+  },
+  {
+    "word": "téléphoner à qn",
+    "partOfSpeech": "",
+    "translation": "给某人打电话"
+  }
+,
+  {
+    "word": "télévision",
+    "partOfSpeech": "n.f.",
+    "translation": "电视(系统);<俗〉电视机；电视行业 (缩写形式为télé)television"
+  },
+  {
+    "word": "témoignage",
+    "partOfSpeech": "n.m.",
+    "translation": "见证，证词testimony"
+  },
+  {
+    "word": "température",
+    "partOfSpeech": "n.f.",
+    "translation": "温 度temperature"
+  },
+  {
+    "word": "temps",
+    "partOfSpeech": "n.m.",
+    "translation": "天气weather"
+  },
+  {
+    "word": "tenir",
+    "partOfSpeech": "vt.",
+    "translation": "拿着 to hold"
+  },
+  {
+    "word": "tennis",
+    "partOfSpeech": "n.m.",
+    "translation": "网 球 ( 运 动 )tennis"
+  },
+  {
+    "word": "terminer(se)",
+    "partOfSpeech": "v.pr",
+    "translation": "结束to end"
+  },
+  {
+    "word": "terrasse",
+    "partOfSpeech": "n.f.",
+    "translation": "露 台 ， 晒 台 ， 大 阳 台 large balcony,flat roof;(咖啡馆、餐馆设在人行道上的)露天加座 terrace"
+  },
+  {
+    "word": "terrible",
+    "partOfSpeech": "adj.",
+    "translation": "可怕的，骇人的terrible"
+  },
+  {
+    "word": "terrifé(e)",
+    "partOfSpeech": "adj.",
+    "translation": "吓坏了的 terrified"
+  },
+  {
+    "word": "texte",
+    "partOfSpeech": "n.m.",
+    "translation": "歌词(与音乐相对);文本text"
+  },
+  {
+    "word": "TGV",
+    "partOfSpeech": "n.m.",
+    "translation": "高速火车(=Train à grande vitesse)TGV/high-speed train"
+  },
+  {
+    "word": "thé",
+    "partOfSpeech": "n.m.",
+    "translation": "(泡好的)茶；茶叶tea"
+  },
+  {
+    "word": "théatre",
+    "partOfSpeech": "n.m.",
+    "translation": "剧场；戏剧；戏剧艺术 theatre"
+  },
+  {
+    "word": "toilette",
+    "partOfSpeech": "n.f.",
+    "translation": "梳洗，盥洗；梳妆，打扮wash;pl. 卫生间，厕所toilet(s),bathroom,restroom"
+  },
+  {
+    "word": "tomber",
+    "partOfSpeech": "vi.",
+    "translation": "跌落，落下to fall"
+  },
+  {
+    "word": "tôt",
+    "partOfSpeech": "adv.",
+    "translation": "早 early"
+  },
+  {
+    "word": "toujours",
+    "partOfSpeech": "adv.",
+    "translation": "一直，总是always"
+  },
+  {
+    "word": "tour",
+    "partOfSpeech": "n.f.",
+    "translation": "塔，细高建筑物 tower"
+  },
+  {
+    "word": "tourisme",
+    "partOfSpeech": "n.m.",
+    "translation": "旅游业 tourism"
+  },
+  {
+    "word": "tourner",
+    "partOfSpeech": "v.i.",
+    "translation": "转弯，拐弯 to turn"
+  },
+  {
+    "word": "tout",
+    "partOfSpeech": "adj.indef.sing.",
+    "translation": "整个的，全部的"
+  },
+  {
+    "word": "tout",
+    "partOfSpeech": "adj.indéf.pl.",
+    "translation": "全部的，所有的all"
+  },
+  {
+    "word": "tout",
+    "partOfSpeech": "adv.",
+    "translation": "十分，非常，极其，完全very,quite"
+  },
+  {
+    "word": "tout",
+    "partOfSpeech": "n.m.sing.",
+    "translation": "全部，一切，整体，全体 the whole"
+  },
+  {
+    "word": "tout",
+    "partOfSpeech": "pron.indéf.sing.",
+    "translation": "一切， 一切事物 all"
+  },
+  {
+    "word": "tout",
+    "partOfSpeech": "pron.indéf.pl.",
+    "translation": "所有的人；所有的事物"
+  },
+  {
+    "word": "tout de suite",
+    "partOfSpeech": "loc.adv.",
+    "translation": "立即，马上immediately"
+  },
+  {
+    "word": "train",
+    "partOfSpeech": "n.m.",
+    "translation": "火 车train"
+  },
+  {
+    "word": "tranquille",
+    "partOfSpeech": "adj.",
+    "translation": "安静的calm,tranquil"
+  },
+  {
+    "word": "travail",
+    "partOfSpeech": "n.m.",
+    "translation": "(pl.travaux)工 作work;pl.工 程work"
+  },
+  {
+    "word": "travailler",
+    "partOfSpeech": "v.i.",
+    "translation": "工 作to work"
+  },
+  {
+    "word": "traverser",
+    "partOfSpeech": "v.t.",
+    "translation": "穿越，穿过 to cross"
+  },
+  {
+    "word": "très",
+    "partOfSpeech": "adv.",
+    "translation": "很，极，非常very"
+  },
+  {
+    "word": "triomphe",
+    "partOfSpeech": "n.m.",
+    "translation": "胜利，凯旋triumph"
+  },
+  {
+    "word": "troisieme",
+    "partOfSpeech": "adj.num.ord.",
+    "translation": "第三的 third"
+  },
+  {
+    "word": "trop",
+    "partOfSpeech": "adv.",
+    "translation": "过多地too much"
+  }
+,
+  {
+    "word": "trouver",
+    "partOfSpeech": "vt.",
+    "translation": "找到，发现to find 5;感到，觉得，认为，以为to think of,to find 7"
+  },
+  {
+    "word": "type",
+    "partOfSpeech": "n.m.",
+    "translation": "类型，型；种type,kind 7"
+  }
+,
+  {
+    "word": "utiliser",
+    "partOfSpeech": "v.t.",
+    "translation": "使用 to use"
+  }
+,
+  {
+    "word": "vacances",
+    "partOfSpeech": "nf.pl.",
+    "translation": "假期 holidays"
+  },
+  {
+    "word": "vase",
+    "partOfSpeech": "n.m.",
+    "translation": "花瓶 vase"
+  },
+  {
+    "word": "vélo",
+    "partOfSpeech": "n.m.",
+    "translation": "自行车 bicycle, bike"
+  },
+  {
+    "word": "vendeur(euse)",
+    "partOfSpeech": "n.",
+    "translation": "营业员，售货员 shop assistant, salesclerk, salesperson"
+  },
+  {
+    "word": "Vendome",
+    "partOfSpeech": "",
+    "translation": "旺多姆(法国历史名城，位于卢瓦尔-谢尔省)"
+  },
+  {
+    "word": "vendre",
+    "partOfSpeech": "v.t.",
+    "translation": "销量，卖 to sell"
+  },
+  {
+    "word": "vendredi",
+    "partOfSpeech": "n.m.",
+    "translation": "周五 Friday"
+  },
+  {
+    "word": "venir",
+    "partOfSpeech": "vi.",
+    "translation": "来 to come"
+  },
+  {
+    "word": "verre",
+    "partOfSpeech": "n.m.",
+    "translation": "玻璃杯 glass; 一杯酒(或饮品) drink"
+  },
+  {
+    "word": "prendre un verre",
+    "partOfSpeech": "",
+    "translation": "喝一杯 to have a drink"
+  },
+  {
+    "word": "vers",
+    "partOfSpeech": "prép.",
+    "translation": "将近，接近(指时间) about, towards; 朝，向……(指具体方向) to, toward(s)"
+  },
+  {
+    "word": "vert(e)",
+    "partOfSpeech": "adj.",
+    "translation": "青的，绿色的 green"
+  },
+  {
+    "word": "vetement",
+    "partOfSpeech": "n.m.",
+    "translation": "衣服，服装，衣裳 (article of) clothing"
+  },
+  {
+    "word": "viande",
+    "partOfSpeech": "n.f.",
+    "translation": "肉 meat"
+  },
+  {
+    "word": "vie",
+    "partOfSpeech": "n.f.",
+    "translation": "人生；生活，生活方式 life; 生平 life"
+  },
+  {
+    "word": "Vienne",
+    "partOfSpeech": "",
+    "translation": "维也纳(奥地利首都) Vienna"
+  },
+  {
+    "word": "viennois(e)",
+    "partOfSpeech": "adj.",
+    "translation": "维也纳的 Viennese"
+  },
+  {
+    "word": "vieux(vieille)",
+    "partOfSpeech": "adj.",
+    "translation": "年老的；古老的，旧的 old"
+  },
+  {
+    "word": "ville",
+    "partOfSpeech": "n.f.",
+    "translation": "城市 town, city"
+  },
+  {
+    "word": "vin",
+    "partOfSpeech": "n.m.",
+    "translation": "葡萄酒 wine"
+  }
+,
+  {
+    "word": "visiter",
+    "partOfSpeech": "v.t.",
+    "translation": "参观，游览 to visit"
+  },
+  {
+    "word": "vite",
+    "partOfSpeech": "adv.",
+    "translation": "快速地 quickly"
+  },
+  {
+    "word": "vitesse",
+    "partOfSpeech": "n.f.",
+    "translation": "速度 speed"
+  },
+  {
+    "word": "vivement",
+    "partOfSpeech": "adv.",
+    "translation": "快，赶快 (用作感叹词，表示命令或愿望)"
+  },
+  {
+    "word": "vivre",
+    "partOfSpeech": "vi.",
+    "translation": "生活 to live"
+  },
+  {
+    "word": "voici",
+    "partOfSpeech": "prép.",
+    "translation": "这是，这儿是，这就是 here is"
+  },
+  {
+    "word": "voie",
+    "partOfSpeech": "n.f.",
+    "translation": "道路 way, lane, road; 车道，轨道 (rails) track"
+  },
+  {
+    "word": "voilà",
+    "partOfSpeech": "prép.",
+    "translation": "那就是，这就是 there is"
+  },
+  {
+    "word": "voir",
+    "partOfSpeech": "vt.",
+    "translation": "看见，看望 to see; 细想，思考，考虑 to see"
+  },
+  {
+    "word": "voisin(e)",
+    "partOfSpeech": "adj.",
+    "translation": "相邻的，邻近的 nearby, close"
+  },
+  {
+    "word": "voisin(e)",
+    "partOfSpeech": "n.",
+    "translation": "邻居；邻座的人 neighbour"
+  },
+  {
+    "word": "voiture",
+    "partOfSpeech": "n.f.",
+    "translation": "汽车，小轿车 car; (火车) 车厢 carriage"
+  },
+  {
+    "word": "volley-ball",
+    "partOfSpeech": "n.m.",
+    "translation": "排球，排球运动 volleyball"
+  },
+  {
+    "word": "vouloir",
+    "partOfSpeech": "vt.",
+    "translation": "想要 to want"
+  },
+  {
+    "word": "voyage",
+    "partOfSpeech": "n.m.",
+    "translation": "旅行；旅程，旅途 trip, journey, travel"
+  },
+  {
+    "word": "agence de voyages",
+    "partOfSpeech": "",
+    "translation": "旅行社 travel agency"
+  },
+  {
+    "word": "voyager",
+    "partOfSpeech": "v.t.",
+    "translation": "旅行 to travel"
+  },
+  {
+    "word": "vrai",
+    "partOfSpeech": "adj.",
+    "translation": "真实的，确实的 true"
+  },
+  {
+    "word": "vraiment",
+    "partOfSpeech": "adv.",
+    "translation": "真的，的确 (用来加强肯定的语气或表示惊奇等) really"
+  },
+  {
+    "word": "waouh",
+    "partOfSpeech": "interj.",
+    "translation": "哇! (表示惊叹、赞美)"
+  },
+  {
+    "word": "week-end",
+    "partOfSpeech": "n.m.",
+    "translation": "周末 weekend"
+  }
+,
+  {
+    "word": "yaourt",
+    "partOfSpeech": "n.m.",
+    "translation": "酸奶 yoghurt"
+  }
+]

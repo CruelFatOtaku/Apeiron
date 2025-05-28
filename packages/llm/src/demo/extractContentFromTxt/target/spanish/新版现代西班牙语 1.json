@@ -1,0 +1,660 @@
+[{
+  "word": "cómo",
+  "phonetic": "['komo]",
+  "translations": [
+    {
+      "partOfSpeech": "adv.",
+      "translation": "怎么样"
+    },
+    {
+      "partOfSpeech": "adv.",
+      "translation": "为什么"
+    },
+    {
+      "partOfSpeech": "adv.",
+      "translation": "多么"
+    }
+  ]
+},
+{
+  "word": "llamarse",
+  "phonetic": "[ʎa'maɾs̺e]",
+  "translations": [
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "叫 ……名字；题为"
+    }
+  ]
+},
+{
+  "word": "hola",
+  "phonetic": "['ola]",
+  "translations": [
+    {
+      "partOfSpeech": "interjection",
+      "translation": "你好"
+    },
+    {
+      "partOfSpeech": "interjection",
+      "translation": "喂"
+    }
+  ]
+},
+{
+  "word": "bueno",
+  "phonetic": "['bweno]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "好的"
+    },
+    {
+      "partOfSpeech": "adj.",
+      "translation": "适宜的"
+    },
+    {
+      "partOfSpeech": "adj.",
+      "translation": "品德好的"
+    },
+    {
+      "partOfSpeech": "adj.",
+      "translation": "头脑简单的"
+    },
+    {
+      "partOfSpeech": "adj.",
+      "translation": "健康的"
+    },
+    {
+      "partOfSpeech": "adj.",
+      "translation": "灵巧的"
+    }
+  ]
+},
+{
+  "word": "día",
+  "phonetic": "['dia]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "天"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "日"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "白昼"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "天气"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "节日"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "岁月"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "年代"
+    }
+  ]
+},
+{
+  "word": "Buenos días",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "phrase",
+      "translation": "Buenos días"
+    }
+  ]
+},
+{
+  "word": "paco",
+  "phonetic": "['pako]",
+  "translations": [
+    {
+      "partOfSpeech": "proper noun",
+      "translation": "巴科"
+    },
+    {
+      "partOfSpeech": "noun",
+      "translation": "狙击兵"
+    },
+    {
+      "partOfSpeech": "adjective",
+      "translation": "淡红色的"
+    }
+  ]
+},
+{
+  "word": "yo",
+  "phonetic": "[ʝo]",
+  "translations": [
+    {
+      "partOfSpeech": "pron.",
+      "translation": "我"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "自我"
+    }
+  ]
+},
+{
+  "word": "ser",
+  "phonetic": "[s̺eɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "本质；实体"
+    },
+    {
+      "partOfSpeech": "intr.",
+      "translation": "是；存在；发生；进行"
+    },
+    {
+      "partOfSpeech": "aux.",
+      "translation": "被；由"
+    }
+  ]
+},
+{
+  "word": "Y",
+  "phonetic": "[i]",
+  "translations": [
+    {
+      "partOfSpeech": "conj.",
+      "translation": "和"
+    },
+    {
+      "partOfSpeech": "conj.",
+      "translation": "并且"
+    },
+    {
+      "partOfSpeech": "conj.",
+      "translation": "所以"
+    },
+    {
+      "partOfSpeech": "conj.",
+      "translation": "而"
+    },
+    {
+      "partOfSpeech": "conj.",
+      "translation": "那么"
+    }
+  ]
+},
+{
+  "word": "tú",
+  "phonetic": "['tu]",
+  "translations": [
+    {
+      "partOfSpeech": "pron.",
+      "translation": "你"
+    },
+    {
+      "partOfSpeech": "pron.",
+      "translation": "(用作呼语)喂"
+    }
+  ]
+},
+{
+  "word": "ellos",
+  "phonetic": "['eʎos̺]",
+  "translations": [
+    {
+      "partOfSpeech": "pron.",
+      "translation": "他们，她们"
+    }
+  ]
+},
+{
+  "word": "son",
+  "phonetic": "[s̺on]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "悦耳的声音"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "传闻"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "方式"
+    },
+    {
+      "partOfSpeech": "",
+      "translation": "ser的第三人称复数变位"
+    }
+  ]
+},
+{
+  "word": "mi",
+  "phonetic": "[mi]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "我的"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "固定唱法时之E音"
+    }
+  ]
+},
+{
+  "word": "amigo",
+  "phonetic": "[a'miɣo]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "有交情的；友好的；爱好 … 的"
+    },
+    {
+      "partOfSpeech": "m.,f.",
+      "translation": "朋友；情人，姘头"
+    }
+  ]
+},
+{
+  "word": "ella",
+  "phonetic": "['eʎa]",
+  "translations": [
+    {
+      "partOfSpeech": "pron.",
+      "translation": "她；它；那个"
+    }
+  ]
+},
+{
+  "word": "él",
+  "phonetic": "['el]",
+  "translations": [
+    {
+      "partOfSpeech": "pron.",
+      "translation": "他；它；那个"
+    }
+  ]
+},
+{
+  "word": "ustedes",
+  "phonetic": "[us̺'teðes̺]",
+  "translations": [
+    {
+      "partOfSpeech": "pron.",
+      "translation": "诸位"
+    }
+  ]
+},
+{
+  "word": "español",
+  "phonetic": "[es̺pa'ɲol]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "西班牙的"
+    },
+    {
+      "partOfSpeech": "m.,f.",
+      "translation": "西班牙人"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "西班牙语"
+    }
+  ]
+},
+{
+  "word": "cubano",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "古巴的"
+    },
+    {
+      "partOfSpeech": "m.,f.",
+      "translation": "古巴人"
+    }
+  ]
+},
+{
+  "word": "chileno",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "智利的"
+    },
+    {
+      "partOfSpeech": "m.,f.",
+      "translation": "智利人"
+    }
+  ]
+},
+{
+  "word": "encantado",
+  "phonetic": "[eŋkan'taðo]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "高兴的"
+    },
+    {
+      "partOfSpeech": "adj.",
+      "translation": "满意的"
+    },
+    {
+      "partOfSpeech": "adj.",
+      "translation": "着迷的"
+    }
+  ]
+},
+{
+  "word": "de",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "字母d的名称"
+    },
+    {
+      "partOfSpeech": "prep.",
+      "translation": "表示从属"
+    },
+    {
+      "partOfSpeech": "prep.",
+      "translation": "表示制作材料"
+    },
+    {
+      "partOfSpeech": "prep.",
+      "translation": "表示涉及的事物"
+    },
+    {
+      "partOfSpeech": "prep.",
+      "translation": "表示动作的施行者或对象"
+    }
+  ]
+},
+{
+  "word": "conocer",
+  "phonetic": "[kono'θeɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr",
+      "translation": "了解"
+    },
+    {
+      "partOfSpeech": "tr",
+      "translation": "认识"
+    },
+    {
+      "partOfSpeech": "tr",
+      "translation": "懂"
+    },
+    {
+      "partOfSpeech": "tr",
+      "translation": "识别"
+    },
+    {
+      "partOfSpeech": "tr",
+      "translation": "处理"
+    }
+  ]
+},
+{
+  "word": "los",
+  "phonetic": "[los̺]",
+  "translations": [
+    {
+      "partOfSpeech": "art.",
+      "translation": "阳性复数定冠词"
+    },
+    {
+      "partOfSpeech": "pron.",
+      "translation": "第三人称阳性复数宾格代词"
+    }
+  ]
+},
+{
+  "word": "las",
+  "phonetic": "[las̺]",
+  "translations": [
+    {
+      "partOfSpeech": "art.",
+      "translation": "阴性复数定冠词"
+    },
+    {
+      "partOfSpeech": "pron.",
+      "translation": "(阴性复数第三人称的宾格，在句中用作直接补语)你们；她们；它们"
+    }
+  ]
+},
+{
+  "word": "mucho gusto",
+  "phonetic": "",
+  "translations": []
+},
+{
+  "word": "es",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "intr.",
+      "translation": "是（动词ser变位）"
+    },
+    {
+      "partOfSpeech": "abr.",
+      "translation": "化学元素锿的符号缩写，西班牙的国际代码缩写"
+    }
+  ]
+},
+{
+  "word": "usted",
+  "phonetic": "[us̺'teð]",
+  "translations": [
+    {
+      "partOfSpeech": "pron.",
+      "translation": "您；你们"
+    }
+  ]
+},
+{
+  "word": "profesor",
+  "phonetic": "[pɾofe's̺oɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "教师"
+    },
+    {
+      "partOfSpeech": "f.",
+      "translation": "教授"
+    }
+  ]
+},
+{
+  "word": "sí",
+  "phonetic": "['s̺i]",
+  "translations": [
+    {
+      "partOfSpeech": "adv.",
+      "translation": "是，对"
+    },
+    {
+      "partOfSpeech": "pron.",
+      "translation": "他自己， 她自己， 您自己"
+    }
+  ]
+},
+{
+  "word": "chino",
+  "phonetic": "['ʧino]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "中国的"
+    },
+    {
+      "partOfSpeech": "adj.",
+      "translation": "中国人的"
+    },
+    {
+      "partOfSpeech": "adj.",
+      "translation": "中文的"
+    },
+    {
+      "partOfSpeech": "m.,f.",
+      "translation": "中国人"
+    }
+  ]
+},
+{
+  "word": "nuestro",
+  "phonetic": "['nwes̺tɾo]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "我们的"
+    }
+  ]
+},
+{
+  "word": "entonces",
+  "phonetic": "[en'tonθes̺]",
+  "translations": [
+    {
+      "partOfSpeech": "adv.",
+      "translation": "当时， 那时， 那么"
+    }
+  ]
+},
+{
+  "word": "su",
+  "phonetic": "[s̺u]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "他的"
+    },
+    {
+      "partOfSpeech": "adj.",
+      "translation": "她的"
+    },
+    {
+      "partOfSpeech": "adj.",
+      "translation": "您的"
+    },
+    {
+      "partOfSpeech": "adj.",
+      "translation": "他们的"
+    },
+    {
+      "partOfSpeech": "adj.",
+      "translation": "她们的"
+    },
+    {
+      "partOfSpeech": "adj.",
+      "translation": "你们的"
+    }
+  ]
+},
+{
+  "word": "alumno",
+  "phonetic": "[a'lumno]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "学生"
+    },
+    {
+      "partOfSpeech": "f.",
+      "translation": "学生"
+    }
+  ]
+},
+{
+  "word": "",
+  "phonetic": "",
+  "translations": []
+},
+{
+  "word": "quién",
+  "phonetic": "['kjen]",
+  "translations": [
+    {
+      "partOfSpeech": "pron.",
+      "translation": "谁"
+    }
+  ]
+},
+{
+  "word": "el",
+  "phonetic": "[el]",
+  "translations": [
+    {
+      "partOfSpeech": "art.",
+      "translation": "阳性单数定冠词"
+    }
+  ]
+},
+{
+  "word": "chico",
+  "phonetic": "['ʧiko]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "小的；年幼的"
+    },
+    {
+      "partOfSpeech": "m.,f.",
+      "translation": "小孩；孩子；小伙子；姑娘"
+    }
+  ]
+},
+{
+  "word": "mexicano",
+  "phonetic": "[meχi'kano]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "墨西哥的"
+    },
+    {
+      "partOfSpeech": "m.,f.",
+      "translation": "墨西哥人"
+    }
+  ]
+},
+{
+  "word": "dos",
+  "phonetic": "[dos̺]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "二"
+    }
+  ]
+},
+{
+  "word": "estudiante",
+  "phonetic": "[es̺tu'ðjante]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "学生"
+    },
+    {
+      "partOfSpeech": "f.",
+      "translation": "学生"
+    }
+  ]
+},
