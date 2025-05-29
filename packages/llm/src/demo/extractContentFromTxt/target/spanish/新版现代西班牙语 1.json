@@ -4,15 +4,7 @@
   "translations": [
     {
       "partOfSpeech": "adv.",
-      "translation": "怎么样"
-    },
-    {
-      "partOfSpeech": "adv.",
-      "translation": "为什么"
-    },
-    {
-      "partOfSpeech": "adv.",
-      "translation": "多么"
+      "translation": "怎么样，为什么，多么"
     }
   ]
 },
@@ -27,16 +19,22 @@
   ]
 },
 {
+  "word": "ana",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "",
+      "translation": "安娜"
+    }
+  ]
+},
+{
   "word": "hola",
   "phonetic": "['ola]",
   "translations": [
     {
-      "partOfSpeech": "interjection",
-      "translation": "你好"
-    },
-    {
-      "partOfSpeech": "interjection",
-      "translation": "喂"
+      "partOfSpeech": "",
+      "translation": "你好；喂"
     }
   ]
 },
@@ -46,27 +44,7 @@
   "translations": [
     {
       "partOfSpeech": "adj.",
-      "translation": "好的"
-    },
-    {
-      "partOfSpeech": "adj.",
-      "translation": "适宜的"
-    },
-    {
-      "partOfSpeech": "adj.",
-      "translation": "品德好的"
-    },
-    {
-      "partOfSpeech": "adj.",
-      "translation": "头脑简单的"
-    },
-    {
-      "partOfSpeech": "adj.",
-      "translation": "健康的"
-    },
-    {
-      "partOfSpeech": "adj.",
-      "translation": "灵巧的"
+      "translation": "好的；适宜的；品德好的；头脑简单的；健康的；灵巧的"
     }
   ]
 },
@@ -76,31 +54,7 @@
   "translations": [
     {
       "partOfSpeech": "m.",
-      "translation": "天"
-    },
-    {
-      "partOfSpeech": "m.",
-      "translation": "日"
-    },
-    {
-      "partOfSpeech": "m.",
-      "translation": "白昼"
-    },
-    {
-      "partOfSpeech": "m.",
-      "translation": "天气"
-    },
-    {
-      "partOfSpeech": "m.",
-      "translation": "节日"
-    },
-    {
-      "partOfSpeech": "m.",
-      "translation": "岁月"
-    },
-    {
-      "partOfSpeech": "m.",
-      "translation": "年代"
+      "translation": "天；日；白昼；天气；节日；岁月；年代"
     }
   ]
 },
@@ -109,8 +63,8 @@
   "phonetic": "",
   "translations": [
     {
-      "partOfSpeech": "phrase",
-      "translation": "Buenos días"
+      "partOfSpeech": "",
+      "translation": "早上好"
     }
   ]
 },
@@ -119,15 +73,15 @@
   "phonetic": "['pako]",
   "translations": [
     {
-      "partOfSpeech": "proper noun",
+      "partOfSpeech": "人名",
       "translation": "巴科"
     },
     {
-      "partOfSpeech": "noun",
+      "partOfSpeech": "m.",
       "translation": "狙击兵"
     },
     {
-      "partOfSpeech": "adjective",
+      "partOfSpeech": "adj.",
       "translation": "淡红色的"
     }
   ]
@@ -138,11 +92,11 @@
   "translations": [
     {
       "partOfSpeech": "pron.",
-      "translation": "我"
+      "translation": "我；"
     },
     {
       "partOfSpeech": "m.",
-      "translation": "自我"
+      "translation": "自我；"
     }
   ]
 },
@@ -152,11 +106,11 @@
   "translations": [
     {
       "partOfSpeech": "m.",
-      "translation": "本质；实体"
+      "translation": "本质；实体；"
     },
     {
       "partOfSpeech": "intr.",
-      "translation": "是；存在；发生；进行"
+      "translation": "是；存在；发生；进行；"
     },
     {
       "partOfSpeech": "aux.",
@@ -170,23 +124,7 @@
   "translations": [
     {
       "partOfSpeech": "conj.",
-      "translation": "和"
-    },
-    {
-      "partOfSpeech": "conj.",
-      "translation": "并且"
-    },
-    {
-      "partOfSpeech": "conj.",
-      "translation": "所以"
-    },
-    {
-      "partOfSpeech": "conj.",
-      "translation": "而"
-    },
-    {
-      "partOfSpeech": "conj.",
-      "translation": "那么"
+      "translation": "和；并且；所以；而；那么"
     }
   ]
 },
@@ -196,11 +134,17 @@
   "translations": [
     {
       "partOfSpeech": "pron.",
-      "translation": "你"
-    },
+      "translation": "你；(用作呼语)喂"
+    }
+  ]
+},
+{
+  "word": "me llamo",
+  "phonetic": "",
+  "translations": [
     {
-      "partOfSpeech": "pron.",
-      "translation": "(用作呼语)喂"
+      "partOfSpeech": "",
+      "translation": "我叫 ……"
     }
   ]
 },
@@ -220,15 +164,7 @@
   "translations": [
     {
       "partOfSpeech": "m.",
-      "translation": "悦耳的声音"
-    },
-    {
-      "partOfSpeech": "m.",
-      "translation": "传闻"
-    },
-    {
-      "partOfSpeech": "m.",
-      "translation": "方式"
+      "translation": "悦耳的声音；传闻；方式；"
     },
     {
       "partOfSpeech": "",
@@ -242,7 +178,7 @@
   "translations": [
     {
       "partOfSpeech": "adj.",
-      "translation": "我的"
+      "translation": "我的；"
     },
     {
       "partOfSpeech": "m.",
@@ -256,7 +192,7 @@
   "translations": [
     {
       "partOfSpeech": "adj.",
-      "translation": "有交情的；友好的；爱好 … 的"
+      "translation": "有交情的；友好的；爱好 … 的；"
     },
     {
       "partOfSpeech": "m.,f.",
@@ -300,11 +236,11 @@
   "translations": [
     {
       "partOfSpeech": "adj.",
-      "translation": "西班牙的"
+      "translation": "西班牙的；"
     },
     {
       "partOfSpeech": "m.,f.",
-      "translation": "西班牙人"
+      "translation": "西班牙人；"
     },
     {
       "partOfSpeech": "m.",
@@ -318,7 +254,7 @@
   "translations": [
     {
       "partOfSpeech": "adj.",
-      "translation": "古巴的"
+      "translation": "古巴的；"
     },
     {
       "partOfSpeech": "m.,f.",
@@ -332,7 +268,7 @@
   "translations": [
     {
       "partOfSpeech": "adj.",
-      "translation": "智利的"
+      "translation": "智利的；"
     },
     {
       "partOfSpeech": "m.,f.",
@@ -346,15 +282,7 @@
   "translations": [
     {
       "partOfSpeech": "adj.",
-      "translation": "高兴的"
-    },
-    {
-      "partOfSpeech": "adj.",
-      "translation": "满意的"
-    },
-    {
-      "partOfSpeech": "adj.",
-      "translation": "着迷的"
+      "translation": "高兴的，满意的，着迷的"
     }
   ]
 },
@@ -364,23 +292,11 @@
   "translations": [
     {
       "partOfSpeech": "f.",
-      "translation": "字母d的名称"
+      "translation": "字母d的名称；"
     },
     {
       "partOfSpeech": "prep.",
-      "translation": "表示从属"
-    },
-    {
-      "partOfSpeech": "prep.",
-      "translation": "表示制作材料"
-    },
-    {
-      "partOfSpeech": "prep.",
-      "translation": "表示涉及的事物"
-    },
-    {
-      "partOfSpeech": "prep.",
-      "translation": "表示动作的施行者或对象"
+      "translation": "表示从属；表示制作材料；表示涉及的事物；表示动作的施行者或对象"
     }
   ]
 },
@@ -389,24 +305,8 @@
   "phonetic": "[kono'θeɾ]",
   "translations": [
     {
-      "partOfSpeech": "tr",
-      "translation": "了解"
-    },
-    {
-      "partOfSpeech": "tr",
-      "translation": "认识"
-    },
-    {
-      "partOfSpeech": "tr",
-      "translation": "懂"
-    },
-    {
-      "partOfSpeech": "tr",
-      "translation": "识别"
-    },
-    {
-      "partOfSpeech": "tr",
-      "translation": "处理"
+      "partOfSpeech": "tr.",
+      "translation": "了解；认识；懂；识别；处理"
     }
   ]
 },
@@ -416,7 +316,7 @@
   "translations": [
     {
       "partOfSpeech": "art.",
-      "translation": "阳性复数定冠词"
+      "translation": "阳性复数定冠词；"
     },
     {
       "partOfSpeech": "pron.",
@@ -430,11 +330,11 @@
   "translations": [
     {
       "partOfSpeech": "art.",
-      "translation": "阴性复数定冠词"
+      "translation": "阴性复数定冠词；"
     },
     {
       "partOfSpeech": "pron.",
-      "translation": "(阴性复数第三人称的宾格，在句中用作直接补语)你们；她们；它们"
+      "translation": "(阴性复数第三人称的宾格，\n在句中用作直接补语)你们；她们；它们"
     }
   ]
 },
@@ -449,7 +349,7 @@
   "translations": [
     {
       "partOfSpeech": "intr.",
-      "translation": "是（动词ser变位）"
+      "translation": "是（动词ser变位）；"
     },
     {
       "partOfSpeech": "abr.",
@@ -472,12 +372,8 @@
   "phonetic": "[pɾofe's̺oɾ]",
   "translations": [
     {
-      "partOfSpeech": "m.",
-      "translation": "教师"
-    },
-    {
-      "partOfSpeech": "f.",
-      "translation": "教授"
+      "partOfSpeech": "m.,f.",
+      "translation": "教师，教授"
     }
   ]
 },
@@ -487,7 +383,7 @@
   "translations": [
     {
       "partOfSpeech": "adv.",
-      "translation": "是，对"
+      "translation": "是，对；"
     },
     {
       "partOfSpeech": "pron.",
@@ -501,19 +397,21 @@
   "translations": [
     {
       "partOfSpeech": "adj.",
-      "translation": "中国的"
-    },
-    {
-      "partOfSpeech": "adj.",
-      "translation": "中国人的"
-    },
-    {
-      "partOfSpeech": "adj.",
-      "translation": "中文的"
+      "translation": "中国的；中国人的；中文的；"
     },
     {
       "partOfSpeech": "m.,f.",
       "translation": "中国人"
+    }
+  ]
+},
+{
+  "word": "Ah",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "",
+      "translation": "啊"
     }
   ]
 },
@@ -533,7 +431,7 @@
   "translations": [
     {
       "partOfSpeech": "adv.",
-      "translation": "当时， 那时， 那么"
+      "translation": "当时；那时；那么"
     }
   ]
 },
@@ -543,27 +441,7 @@
   "translations": [
     {
       "partOfSpeech": "adj.",
-      "translation": "他的"
-    },
-    {
-      "partOfSpeech": "adj.",
-      "translation": "她的"
-    },
-    {
-      "partOfSpeech": "adj.",
-      "translation": "您的"
-    },
-    {
-      "partOfSpeech": "adj.",
-      "translation": "他们的"
-    },
-    {
-      "partOfSpeech": "adj.",
-      "translation": "她们的"
-    },
-    {
-      "partOfSpeech": "adj.",
-      "translation": "你们的"
+      "translation": "他的；她的；您的；他们的；她们的；你们的"
     }
   ]
 },
@@ -572,11 +450,7 @@
   "phonetic": "[a'lumno]",
   "translations": [
     {
-      "partOfSpeech": "m.",
-      "translation": "学生"
-    },
-    {
-      "partOfSpeech": "f.",
+      "partOfSpeech": "m.,f.",
       "translation": "学生"
     }
   ]
@@ -612,11 +486,11 @@
   "translations": [
     {
       "partOfSpeech": "adj.",
-      "translation": "小的；年幼的"
+      "translation": "小的；年幼的；"
     },
     {
       "partOfSpeech": "m.,f.",
-      "translation": "小孩；孩子；小伙子；姑娘"
+      "translation": "小孩；孩子；小伙子；姑娘；"
     }
   ]
 },
@@ -626,7 +500,7 @@
   "translations": [
     {
       "partOfSpeech": "adj.",
-      "translation": "墨西哥的"
+      "translation": "墨西哥的；"
     },
     {
       "partOfSpeech": "m.,f.",
@@ -649,12 +523,10652 @@
   "phonetic": "[es̺tu'ðjante]",
   "translations": [
     {
-      "partOfSpeech": "m.",
-      "translation": "学生"
-    },
-    {
-      "partOfSpeech": "f.",
+      "partOfSpeech": "m.,f.",
       "translation": "学生"
     }
   ]
 },
+{
+  "word": "eres",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "本质；实体；"
+    },
+    {
+      "partOfSpeech": "intr.",
+      "translation": "是；存在；发生；进行；"
+    },
+    {
+      "partOfSpeech": "aux.",
+      "translation": "被；由"
+    }
+  ]
+},
+{
+  "word": "esos",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "pron.",
+      "translation": "那；那个；那事"
+    }
+  ]
+},
+{
+  "word": "joven",
+  "phonetic": "['χoβen]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "年轻的；"
+    },
+    {
+      "partOfSpeech": "m.,f.",
+      "translation": "年轻人；青年"
+    }
+  ]
+},
+{
+  "word": "ellas",
+  "phonetic": "['eʎas̺]",
+  "translations": [
+    {
+      "partOfSpeech": "pron.",
+      "translation": "她们；它们"
+    }
+  ]
+},
+{
+  "word": "ese",
+  "phonetic": "['es̺e]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "字母s的名称；S形；"
+    },
+    {
+      "partOfSpeech": "adj.",
+      "translation": "那个的；该"
+    }
+  ]
+},
+{
+  "word": "manolo",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "m.f.",
+      "translation": "青年；（首字母大写为人名）马诺罗"
+    }
+  ]
+},
+{
+  "word": "no",
+  "phonetic": "[no]",
+  "translations": [
+    {
+      "partOfSpeech": "adv.",
+      "translation": "不， 不是"
+    }
+  ]
+},
+{
+  "word": "panameño",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "巴拿马的；"
+    },
+    {
+      "partOfSpeech": "m.,f.",
+      "translation": "巴拿马人"
+    }
+  ]
+},
+{
+  "word": "estar",
+  "phonetic": "[es̺'taɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "intr.",
+      "translation": "在；存在；位于；处于(某种状况)；正在；"
+    },
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "停留；耽搁"
+    }
+  ]
+},
+{
+  "word": "carmen",
+  "phonetic": "['kaɾmen]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "(用拉丁文写的)诗"
+    }
+  ]
+},
+{
+  "word": "tres",
+  "phonetic": "[tɾes̺]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "三；第三；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "三"
+    }
+  ]
+},
+{
+  "word": "latinoamericano",
+  "phonetic": "[latinoameɾi'kano]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "拉丁美洲的；"
+    },
+    {
+      "partOfSpeech": "m.,f.",
+      "translation": "拉丁美洲人"
+    }
+  ]
+},
+{
+  "word": "argentino",
+  "phonetic": "[aɾχen'tino]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "似银的；银白色的；阿根廷的；"
+    },
+    {
+      "partOfSpeech": "m.,f.",
+      "translation": "阿根廷人"
+    }
+  ]
+},
+{
+  "word": "cuba",
+  "phonetic": "['kuβa]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "桶；桶(量词)；酒鬼；大腹便便的人；（首字母大写）古巴"
+    }
+  ]
+},
+{
+  "word": "tarde",
+  "phonetic": "['taɾðe]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "午后；下午；"
+    },
+    {
+      "partOfSpeech": "adv.",
+      "translation": "晚；迟"
+    }
+  ]
+},
+{
+  "word": "bien",
+  "phonetic": "[bjen]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "好事；利益；善良；财产；"
+    },
+    {
+      "partOfSpeech": "adv.",
+      "translation": "好；顺利；成功；愉快；很；非常；"
+    }
+  ]
+},
+{
+  "word": "gracias",
+  "phonetic": "['gɾaθjas̺]",
+  "translations": [
+    {
+      "partOfSpeech": "",
+      "translation": "谢谢"
+    }
+  ]
+},
+{
+  "word": "le",
+  "phonetic": "[le]",
+  "translations": [
+    {
+      "partOfSpeech": "pron.",
+      "translation": "您，他，她，它（阳性或阴性单数第三人称的与格）"
+    }
+  ]
+},
+{
+  "word": "presentar",
+  "phonetic": "[pɾes̺en'taɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "展示，介绍，推荐，提出，表现，演出；"
+    },
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "出现；出席；自告奋勇；出庭"
+    }
+  ]
+},
+{
+  "word": "dónde",
+  "phonetic": "['donde]",
+  "translations": [
+    {
+      "partOfSpeech": "adv.inter.",
+      "translation": "哪里，在哪里，去哪里；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "地点"
+    }
+  ]
+},
+{
+  "word": "también",
+  "phonetic": "[tam'bjen]",
+  "translations": [
+    {
+      "partOfSpeech": "adv.",
+      "translation": "也；同样；还；此外"
+    }
+  ]
+},
+{
+  "word": "pero",
+  "phonetic": "['peɾo]",
+  "translations": [
+    {
+      "partOfSpeech": "conj.",
+      "translation": "但是，然而；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "缺欠；异议；"
+    }
+  ]
+},
+{
+  "word": "ahora",
+  "phonetic": "[a'oɾa]",
+  "translations": [
+    {
+      "partOfSpeech": "adv.",
+      "translation": "现在；刚才；马上；"
+    },
+    {
+      "partOfSpeech": "conj.",
+      "translation": "好吧；但是"
+    }
+  ]
+},
+{
+  "word": "china",
+  "phonetic": "['ʧina]",
+  "translations": [
+    {
+      "partOfSpeech": "专有名词",
+      "translation": "中国；"
+    },
+    {
+      "partOfSpeech": "f.",
+      "translation": "瓷器，小卵石；"
+    },
+    {
+      "partOfSpeech": "adj.",
+      "translation": "中国的"
+    }
+  ]
+},
+{
+  "word": "enseñar",
+  "phonetic": "[ens̺e'ɲaɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "教；教育；展示；指出；露出；"
+    },
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "习惯；学会"
+    }
+  ]
+},
+{
+  "word": "lengua",
+  "phonetic": "['leŋgwa]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "舌，舌头；语言；（天平的）指针；（裁纸机上的）刀；舌状物，狭长状物"
+    }
+  ]
+},
+{
+  "word": "en",
+  "phonetic": "[en]",
+  "translations": [
+    {
+      "partOfSpeech": "prep.",
+      "translation": "在 …里，在 …上，在 …期间，在 …方面，处于 …状态，以 …方式"
+    }
+  ]
+},
+{
+  "word": "uno",
+  "phonetic": "['uno]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "一(个)；同一的；唯一的；(用于数字前)大约；左右；"
+    },
+    {
+      "partOfSpeech": "pron.",
+      "translation": "(泛指)一个人；任何人；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "(数目)一"
+    }
+  ]
+},
+{
+  "word": "una",
+  "phonetic": "['una]",
+  "translations": [
+    {
+      "partOfSpeech": "阴性单数不定冠词",
+      "translation": "一个"
+    }
+  ]
+},
+{
+  "word": "universidad",
+  "phonetic": "[uniβeɾs̺i'ðað]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "(综合性)大学；大学校址；团体；城区联盟；共性"
+    }
+  ]
+},
+{
+  "word": "este",
+  "phonetic": "['es̺te]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "东方；东部；东风；"
+    },
+    {
+      "partOfSpeech": "adj.",
+      "translation": "这；这个"
+    }
+  ]
+},
+{
+  "word": "país",
+  "phonetic": "[pa'is̺]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "国家；地区；祖国；风景画；扇面"
+    }
+  ]
+},
+{
+  "word": "hispanohablante",
+  "phonetic": "[is̺panoaβ'lante]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "(人)以西班牙语为母语的；(国家、地区)讲西班牙语的"
+    }
+  ]
+},
+{
+  "word": "ocupado",
+  "phonetic": "[oku'paðo]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "被占据的；被占领的；忙碌的；正在使用的；"
+    }
+  ]
+},
+{
+  "word": "contento",
+  "phonetic": "[kon'tento]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "高兴的；满意的；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "高兴"
+    }
+  ]
+},
+{
+  "word": "víctor",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "维克多（人名）"
+    }
+  ]
+},
+{
+  "word": "Pablo",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "intr.",
+      "translation": "说话：sin hablar ni ~ 一言不发，默不作声."
+    }
+  ]
+},
+{
+  "word": "pilar",
+  "phonetic": "[pi'laɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "柱；支柱；邮筒；路标；（首字母大写时为人名）皮拉尔"
+    }
+  ]
+},
+{
+  "word": "cuatro",
+  "phonetic": "['kwatɾo]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "四；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "数字四；四日；四重唱；"
+    }
+  ]
+},
+{
+  "word": "Alemania",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "n.",
+      "translation": "德国"
+    }
+  ]
+},
+{
+  "word": "estudiar",
+  "phonetic": "[es̺tu'ðjaɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "研究；学习；钻研；考虑；仔细观察"
+    }
+  ]
+},
+{
+  "word": "alemán",
+  "phonetic": "[ale'man]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "德国的；"
+    },
+    {
+      "partOfSpeech": "m.,f.",
+      "translation": "德国人；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "德语"
+    }
+  ]
+},
+{
+  "word": "tener",
+  "phonetic": "[te'neɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "有，拥有，具有；感到；"
+    },
+    {
+      "partOfSpeech": "intr.",
+      "translation": "富裕，富有，有钱；"
+    },
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "保持；站立；停住；克制；"
+    }
+  ]
+},
+{
+  "word": "mucho",
+  "phonetic": "['muʧo]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "很多的；"
+    },
+    {
+      "partOfSpeech": "adv.",
+      "translation": "大量， 很， 非常"
+    }
+  ]
+},
+{
+  "word": "clase",
+  "phonetic": "['klas̺e]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "阶级；类，种；教室；课程；"
+    }
+  ]
+},
+{
+  "word": "todo",
+  "phonetic": "['toðo]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "全部的；整个的；所有的；一切的；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "整体；全部；"
+    },
+    {
+      "partOfSpeech": "adv.",
+      "translation": "完完全全地。"
+    }
+  ]
+},
+{
+  "word": "siempre",
+  "phonetic": "['s̺jempɾe]",
+  "translations": [
+    {
+      "partOfSpeech": "adv.",
+      "translation": "永远；总是；无论如何；至少；当然；大概，可能"
+    }
+  ]
+},
+{
+  "word": "muy",
+  "phonetic": "['mui]",
+  "translations": [
+    {
+      "partOfSpeech": "adv.",
+      "translation": "很；非常；十分"
+    }
+  ]
+},
+{
+  "word": "me",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "pron.",
+      "translation": "我"
+    }
+  ]
+},
+{
+  "word": "preguntar",
+  "phonetic": "[pɾeɣun'taɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "提问；询问；"
+    },
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "自问；怀疑；"
+    }
+  ]
+},
+{
+  "word": "pues",
+  "phonetic": "[pwes̺]",
+  "translations": [
+    {
+      "partOfSpeech": "conj.",
+      "translation": "因为；既然；那么；(用于句首，加强语气)可是；怎么；"
+    },
+    {
+      "partOfSpeech": "interj.",
+      "translation": "果然"
+    }
+  ]
+},
+{
+  "word": "vario",
+  "phonetic": "['baɾjo]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "不同的；易变的；各种各样的；若干"
+    }
+  ]
+},
+{
+  "word": "hombre",
+  "phonetic": "['ombɾe]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "人；男子；成年人；男子汉；丈夫；"
+    },
+    {
+      "partOfSpeech": "interj.",
+      "translation": "(表示惊讶)好家伙"
+    }
+  ]
+},
+{
+  "word": "mujer",
+  "phonetic": "[mu'χeɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "妇女；女人；妻子"
+    }
+  ]
+},
+{
+  "word": "cada",
+  "phonetic": "['kaða]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "每；各；各个"
+    }
+  ]
+},
+{
+  "word": "encargarse",
+  "phonetic": "[eŋkaɾ'ɣaɾs̺e]",
+  "translations": [
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "管理，照顾，负责"
+    }
+  ]
+},
+{
+  "word": "asignatura",
+  "phonetic": "[as̺iɣna'tuɾa]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "学科；课程；"
+    }
+  ]
+},
+{
+  "word": "lectura",
+  "phonetic": "[lek'tuɾa]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "读，阅读；读物；讲义；讲解；"
+    }
+  ]
+},
+{
+  "word": "gramática",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "语法；语法书；"
+    }
+  ]
+},
+{
+  "word": "conversación",
+  "phonetic": "[kombeɾs̺a'θjon]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "交谈；会谈；谈吐；聚会；陪伴；幽会；通奸"
+    }
+  ]
+},
+{
+  "word": "otro",
+  "phonetic": "['otɾo]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "另外的；别的；新的；其他的；"
+    },
+    {
+      "partOfSpeech": "pron.",
+      "translation": "另一个，另一些"
+    }
+  ]
+},
+{
+  "word": "cosa",
+  "phonetic": "['kos̺a]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "物；东西；事；特有的言行"
+    }
+  ]
+},
+{
+  "word": "trabajar",
+  "phonetic": "[tɾaβa'χaɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "intr.",
+      "translation": "劳动；工作；努力；(机器等)运转；(工厂)生产；"
+    },
+    {
+      "partOfSpeech": "tr.",
+      "translation": "耕作；加工；学习；精工制作；经营(某种商品)；办理"
+    }
+  ]
+},
+{
+  "word": "casa",
+  "phonetic": "['kas̺a]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "房子，家，家务，商号，社，所，顾主"
+    }
+  ]
+},
+{
+  "word": "Juan",
+  "phonetic": "[χwan]",
+  "translations": [
+    {
+      "partOfSpeech": "",
+      "translation": "胡安"
+    }
+  ]
+},
+{
+  "word": "habitación",
+  "phonetic": "[aβita'θjon]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "居住；住所；房间；"
+    }
+  ]
+},
+{
+  "word": "lima",
+  "phonetic": "['lima]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "酸橙；锉刀；（首字母大写）利马"
+    }
+  ]
+},
+{
+  "word": "Perú",
+  "phonetic": "[pe'ɾu]",
+  "translations": [
+    {
+      "partOfSpeech": "专有名词",
+      "translation": "秘鲁"
+    }
+  ]
+},
+{
+  "word": "familia",
+  "phonetic": "[fa'milja]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "家，家庭；家属，亲属"
+    }
+  ]
+},
+{
+  "word": "vivir",
+  "phonetic": "[bi'βiɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "intr.",
+      "translation": "活，生存，生活，居住；"
+    },
+    {
+      "partOfSpeech": "tr.",
+      "translation": "经历"
+    }
+  ]
+},
+{
+  "word": "padre",
+  "phonetic": "['paðɾe]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "父亲；种畜；创始人；根源；神甫；牧师；父母"
+    }
+  ]
+},
+{
+  "word": "médico",
+  "phonetic": "['meðiko]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "医学的；"
+    },
+    {
+      "partOfSpeech": "m.,f.",
+      "translation": "医生，大夫"
+    }
+  ]
+},
+{
+  "word": "hospital",
+  "phonetic": "[os̺pi'tal]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "医院"
+    }
+  ]
+},
+{
+  "word": "madre",
+  "phonetic": "['maðɾe]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "母亲；母兽；老妇人；子宫；(医院、收容所等的)女主管"
+    }
+  ]
+},
+{
+  "word": "inglés",
+  "phonetic": "[iŋ'gles̺]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "英国的；"
+    },
+    {
+      "partOfSpeech": "m.,f.",
+      "translation": "英国人；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "英语"
+    }
+  ]
+},
+{
+  "word": "colegio",
+  "phonetic": "[ko'leχjo]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "学校；专科学校；学院；中学；小学；协会；"
+    }
+  ]
+},
+{
+  "word": "hermano",
+  "phonetic": "[eɾ'mano]",
+  "translations": [
+    {
+      "partOfSpeech": "m.,f.",
+      "translation": "兄弟；姐妹；"
+    },
+    {
+      "partOfSpeech": "adj.",
+      "translation": "兄弟的，姊妹的"
+    }
+  ]
+},
+{
+  "word": "menor",
+  "phonetic": "[me'noɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "更小的；较小的；更少的；较少的；最小的；最少的；年幼的；未成年的；"
+    },
+    {
+      "partOfSpeech": "m.,f.",
+      "translation": "未成年人"
+    }
+  ]
+},
+{
+  "word": "ir",
+  "phonetic": "[iɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "intr.",
+      "translation": "去；参加；行进；通向；处于；"
+    },
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "走开；溢出，漏出；消失；滚开"
+    }
+  ]
+},
+{
+  "word": "abuelo",
+  "phonetic": "[a'βwelo]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "祖父，外祖父，祖先"
+    }
+  ]
+},
+{
+  "word": "ya",
+  "phonetic": "[ʝa]",
+  "translations": [
+    {
+      "partOfSpeech": "adv.",
+      "translation": "已经；现在，马上；终会；大概；"
+    },
+    {
+      "partOfSpeech": "conj.",
+      "translation": "(叠用)时而 …"
+    }
+  ]
+},
+{
+  "word": "mayor",
+  "phonetic": "[ma'ʝoɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "较大的；最大的；年长的；成年的；上年纪的；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "头；长；前辈；总账；少校"
+    }
+  ]
+},
+{
+  "word": "bachillerato",
+  "phonetic": "[baʧiʎe'ɾato]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "高中教育"
+    }
+  ]
+},
+{
+  "word": "levantarse",
+  "phonetic": "[leβan'taɾs̺e]",
+  "translations": [
+    {
+      "partOfSpeech": "",
+      "translation": "起身；起床；高耸；（风）起，（浪）涌"
+    }
+  ]
+},
+{
+  "word": "temprano",
+  "phonetic": "[tem'pɾano]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "早的；早熟的；提早的；过早的；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "早熟作物；"
+    },
+    {
+      "partOfSpeech": "adv.",
+      "translation": "清早；早；提早；过早；"
+    }
+  ]
+},
+{
+  "word": "bañarse",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "沐浴；洗澡；泡；浸；蘸；流经；镀"
+    }
+  ]
+},
+{
+  "word": "diente",
+  "phonetic": "['djente]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "牙齿，齿，蒜瓣"
+    }
+  ]
+},
+{
+  "word": "peinarse",
+  "phonetic": "[pej'naɾs̺e]",
+  "translations": [
+    {
+      "partOfSpeech": "",
+      "translation": "梳理（毛发）"
+    }
+  ]
+},
+{
+  "word": "después de",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "prep.",
+      "translation": "在 …之后"
+    }
+  ]
+},
+{
+  "word": "desayunar",
+  "phonetic": "[des̺aʝu'naɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "intr.",
+      "translation": "吃早饭；"
+    },
+    {
+      "partOfSpeech": "tr.",
+      "translation": "早饭时吃；"
+    },
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "吃早饭；才得知"
+    }
+  ]
+},
+{
+  "word": "primero",
+  "phonetic": "[pɾi'meɾo]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "第一；头等的；首要的；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "第一个；"
+    },
+    {
+      "partOfSpeech": "adv.",
+      "translation": "首先"
+    }
+  ]
+},
+{
+  "word": "llevar",
+  "phonetic": "[ʎe'βaɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "带去；携带；运载；传递；"
+    },
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "拿走；得到；流行；"
+    }
+  ]
+},
+{
+  "word": "escuela",
+  "phonetic": "[es̺'kwela]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "小学校；学校；学院；教学法；师生与学生家长；基本功；训练；经验；学说"
+    }
+  ]
+},
+{
+  "word": "luego",
+  "phonetic": "['lweɣo]",
+  "translations": [
+    {
+      "partOfSpeech": "adv.",
+      "translation": "马上，立即；随后，然后；"
+    },
+    {
+      "partOfSpeech": "conj.",
+      "translation": "因此，所以"
+    }
+  ]
+},
+{
+  "word": "tomar",
+  "phonetic": "[to'maɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "拿；动用；接受；攻克；吃；搭乘；"
+    },
+    {
+      "partOfSpeech": "intr.",
+      "translation": "(植物)扎根；"
+    },
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "生锈；自行决定"
+    }
+  ]
+},
+{
+  "word": "autobús",
+  "phonetic": "[awto'βus̺]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "公共汽车"
+    }
+  ]
+},
+{
+  "word": "para",
+  "phonetic": "['paɾa]",
+  "translations": [
+    {
+      "partOfSpeech": "prep.",
+      "translation": "为了；给；对于；向，往"
+    }
+  ]
+},
+{
+  "word": "instituto",
+  "phonetic": "[ins̺ti'tuto]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "学会；协会；学院；学校"
+    }
+  ]
+},
+{
+  "word": "centro",
+  "phonetic": "['θentɾo]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "中心；中央；机构；圆心；中心区；社团；"
+    }
+  ]
+},
+{
+  "word": "estudio",
+  "phonetic": "[es̺'tuðjo]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "学习；研究；书房；工作室；照相室；电影制片厂；习作"
+    }
+  ]
+},
+{
+  "word": "por eso",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "",
+      "translation": "因此"
+    }
+  ]
+},
+{
+  "word": "regresar",
+  "phonetic": "[reɣɾe's̺aɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "intr.",
+      "translation": "返回，回来，回去"
+    }
+  ]
+},
+{
+  "word": "cuánto",
+  "phonetic": "['kwanto]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "多少；"
+    },
+    {
+      "partOfSpeech": "adv.",
+      "translation": "多么；"
+    },
+    {
+      "partOfSpeech": "pron.",
+      "translation": "多少"
+    }
+  ]
+},
+{
+  "word": "señor",
+  "phonetic": "[s̺e'ɲoɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "m.f.",
+      "translation": "先生，主人；"
+    },
+    {
+      "partOfSpeech": "adj.",
+      "translation": "极好的，很大的"
+    }
+  ]
+},
+{
+  "word": "José",
+  "phonetic": "",
+  "translations": []
+},
+{
+  "word": "parecer",
+  "phonetic": "[paɾe'θeɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "看法；长相；"
+    },
+    {
+      "partOfSpeech": "intr.",
+      "translation": "像，像是；使觉得，使认为；显露；出现；(以为丢失的东西)被找到"
+    }
+  ]
+},
+{
+  "word": "grande",
+  "phonetic": "['gɾande]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "大的，巨大的；[用于名词之前]伟大的；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "贵族显贵"
+    }
+  ]
+},
+{
+  "word": "ciudad",
+  "phonetic": "[θju'ðað]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "城市；市政府；城区"
+    }
+  ]
+},
+{
+  "word": "bastante",
+  "phonetic": "[bas̺'tante]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "足够的；相当多的；"
+    },
+    {
+      "partOfSpeech": "adv.",
+      "translation": "足够地；相当多地；"
+    }
+  ]
+},
+{
+  "word": "allí",
+  "phonetic": "[a'ʎi]",
+  "translations": [
+    {
+      "partOfSpeech": "adv.",
+      "translation": "那儿，那里；在那儿；朝那儿；那时侯"
+    }
+  ]
+},
+{
+  "word": "con",
+  "phonetic": "[kon]",
+  "translations": [
+    {
+      "partOfSpeech": "prep.",
+      "translation": "和；同；含有；由于；尽管"
+    }
+  ]
+},
+{
+  "word": "verdad",
+  "phonetic": "[beɾ'ðað]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "实情；真实性；真理；事实；实话"
+    }
+  ]
+},
+{
+  "word": "siete",
+  "phonetic": "['s̺jete]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "七；第七；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "七"
+    }
+  ]
+},
+{
+  "word": "suponer",
+  "phonetic": "[s̺upo'neɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "假定；猜想；想象；意味着；表明"
+    }
+  ]
+},
+{
+  "word": "sala de estar",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "",
+      "translation": "起居室"
+    }
+  ]
+},
+{
+  "word": "dormitorio",
+  "phonetic": "[doɾmi'toɾjo]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "寝室，宿舍"
+    }
+  ]
+},
+{
+  "word": "cocina",
+  "phonetic": "[ko'θina]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "厨房，灶具，烹饪术"
+    }
+  ]
+},
+{
+  "word": "cuarto de baño",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "n.",
+      "translation": "浴室"
+    }
+  ]
+},
+{
+  "word": "todavía",
+  "phonetic": "[toða'βia]",
+  "translations": [
+    {
+      "partOfSpeech": "adv.",
+      "translation": "还；仍然；更加"
+    }
+  ]
+},
+{
+  "word": "qué",
+  "phonetic": "['ke]",
+  "translations": [
+    {
+      "partOfSpeech": "pron.",
+      "translation": "什么；"
+    },
+    {
+      "partOfSpeech": "adj.",
+      "translation": "什么样的；哪个；哪些；多少；"
+    },
+    {
+      "partOfSpeech": "adv.",
+      "translation": "(用于感叹句)多么"
+    }
+  ]
+},
+{
+  "word": "tan",
+  "phonetic": "[tan]",
+  "translations": [
+    {
+      "partOfSpeech": "adv.",
+      "translation": "这么；多么"
+    }
+  ]
+},
+{
+  "word": "recargado",
+  "phonetic": "[rekaɾ'ɣaðo]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "加载的；超载的；增加的；累赘的；"
+    }
+  ]
+},
+{
+  "word": "tiempo",
+  "phonetic": "['tjempo]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "时间；季节；时机；(孩子的)年龄；时期；时代；"
+    }
+  ]
+},
+{
+  "word": "cinco",
+  "phonetic": "['θiŋko]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "五(的)；五个；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "数字五"
+    }
+  ]
+},
+{
+  "word": "seis",
+  "phonetic": "['s̺ejs̺]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "六；第六；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "六"
+    }
+  ]
+},
+{
+  "word": "hijo",
+  "phonetic": "['iχo]",
+  "translations": [
+    {
+      "partOfSpeech": "m.,f.",
+      "translation": "子，女；子女，儿女"
+    }
+  ]
+},
+{
+  "word": "primo",
+  "phonetic": "['pɾimo]",
+  "translations": [
+    {
+      "partOfSpeech": "m.,f.",
+      "translation": "堂兄(弟)；堂姐(妹)；表兄(弟)；表姐(妹)"
+    }
+  ]
+},
+{
+  "word": "sobrino",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "m.,f.",
+      "translation": "侄子，外甥；侄女，外甥女"
+    }
+  ]
+},
+{
+  "word": "tío",
+  "phonetic": "['tio]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "伯父，叔父，姑父，舅父，姨父；(对长者的称呼)大伯；家伙(一般表示轻蔑，有时也含敬佩之意)"
+    }
+  ]
+},
+{
+  "word": "por qué",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "adv.",
+      "translation": "为什么；为何；"
+    },
+    {
+      "partOfSpeech": "conj.",
+      "translation": "为什么；因为；"
+    }
+  ]
+},
+{
+  "word": "hablar",
+  "phonetic": "[aβ'laɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "intr.",
+      "translation": "讲话；交谈；谈论；议论，非议；说明，表明；"
+    },
+    {
+      "partOfSpeech": "tr.",
+      "translation": "会讲(某种)语言；说出；讨论，商议；"
+    },
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "交谈；交往；来往"
+    }
+  ]
+},
+{
+  "word": "más",
+  "phonetic": "['mas̺]",
+  "translations": [
+    {
+      "partOfSpeech": "adv.",
+      "translation": "多，再多；更，更多；最，最多；超过；"
+    },
+    {
+      "partOfSpeech": "adj.",
+      "translation": "更多的，更大的；另外的；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "长处；加(号)"
+    }
+  ]
+},
+{
+  "word": "vida",
+  "phonetic": "['biða]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "生命；性命；生存；一生；寿命；(物的)使用期；有效期；生活；生计；生活方式；身世；传记"
+    }
+  ]
+},
+{
+  "word": "España",
+  "phonetic": "[es̺'paɲa]",
+  "translations": [
+    {
+      "partOfSpeech": "",
+      "translation": "西班牙"
+    }
+  ]
+},
+{
+  "word": "casualidad",
+  "phonetic": "[kas̺wali'ðað]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "偶然；意外；碰巧"
+    }
+  ]
+},
+{
+  "word": "alegría",
+  "phonetic": "[ale'ɣɾia]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "高兴，快乐，欢喜；令人高兴的事；喜事"
+    }
+  ]
+},
+{
+  "word": "ver",
+  "phonetic": "[beɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "看见；察看；领会；观看(节目等)；看望；发觉；"
+    },
+    {
+      "partOfSpeech": "intr.",
+      "translation": "有视力，有视觉；企图，试图；"
+    },
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "置身（某处）；处于(某种状态)；会面；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "视觉；外表；外观；看法；见解"
+    }
+  ]
+},
+{
+  "word": "Te",
+  "phonetic": "[te]",
+  "translations": [
+    {
+      "partOfSpeech": "pron.",
+      "translation": "你（tú 的宾格和与格）"
+    }
+  ]
+},
+{
+  "word": "hacer",
+  "phonetic": "[a'θeɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "做，制作；发出（声响）；产生；使，让；"
+    },
+    {
+      "partOfSpeech": "intr.",
+      "translation": "适合；行动；争取；"
+    },
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "成长；成为；自以为；"
+    },
+    {
+      "partOfSpeech": "impers.",
+      "translation": "[表示天气]是，有；已逾，已满"
+    }
+  ]
+},
+{
+  "word": "por",
+  "phonetic": "[poɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "prep.",
+      "translation": "被；为了；通过；由于；在 … 时候；在 …地方；按照"
+    }
+  ]
+},
+{
+  "word": "aquí",
+  "phonetic": "[a'ki]",
+  "translations": [
+    {
+      "partOfSpeech": "adv.",
+      "translation": "这儿；现在；那时；这个"
+    }
+  ]
+},
+{
+  "word": "venir",
+  "phonetic": "[be'niɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "intr.",
+      "translation": "来到；来自；发生；接续；合适；生长；"
+    },
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "（从某处）来到；发酵；倒塌；破产；"
+    }
+  ]
+},
+{
+  "word": "curso",
+  "phonetic": "['kuɾs̺o]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "水流；流程；(星球运行的)轨道；过程；进展；学年；年级；班级；一个年级的学生；教程；课程"
+    }
+  ]
+},
+{
+  "word": "verano",
+  "phonetic": "[be'ɾano]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "夏季；（热带地区的）旱季"
+    }
+  ]
+},
+{
+  "word": "organizar",
+  "phonetic": "[oɾɣani'θaɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "组织；组建；建立；"
+    },
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "安排生活(事务)；组成；形成；"
+    }
+  ]
+},
+{
+  "word": "estos",
+  "phonetic": "['es̺tos̺]",
+  "translations": [
+    {
+      "partOfSpeech": "",
+      "translation": "这些"
+    }
+  ]
+},
+{
+  "word": "año",
+  "phonetic": "['aɲo]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "年；"
+    },
+    {
+      "partOfSpeech": "pl.",
+      "translation": "生日，年岁"
+    }
+  ]
+},
+{
+  "word": "medio",
+  "phonetic": "['meðjo]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "一半的；中等的；中间的；"
+    },
+    {
+      "partOfSpeech": "adv.",
+      "translation": "半，有些；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "一半；中间；中指；环境"
+    }
+  ]
+},
+{
+  "word": "doctorado",
+  "phonetic": "[dokto'ɾaðo]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "博士学位；博士必修课程"
+    }
+  ]
+},
+{
+  "word": "sin",
+  "phonetic": "[s̺in]",
+  "translations": [
+    {
+      "partOfSpeech": "prep.",
+      "translation": "无；没有；不计在内"
+    }
+  ]
+},
+{
+  "word": "saber",
+  "phonetic": "[s̺a'βeɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "知道；了解；懂得；会；"
+    },
+    {
+      "partOfSpeech": "intr.",
+      "translation": "精明；有 …味儿；相像；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "学问；知识"
+    }
+  ]
+},
+{
+  "word": "lo",
+  "phonetic": "[lo]",
+  "translations": [
+    {
+      "partOfSpeech": "art.",
+      "translation": "中性冠词；"
+    },
+    {
+      "partOfSpeech": "pron.",
+      "translation": "您；他；它；"
+    }
+  ]
+},
+{
+  "word": "en realidad",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "",
+      "translation": "真正地；实际上"
+    }
+  ]
+},
+{
+  "word": "haber",
+  "phonetic": "[a'βeɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "财产；资产；贷方；"
+    },
+    {
+      "partOfSpeech": "aux.",
+      "translation": "一定；必须；"
+    },
+    {
+      "partOfSpeech": "impers.",
+      "translation": "发生；有；存在；"
+    },
+    {
+      "partOfSpeech": "tr.",
+      "translation": "拿到；到手"
+    }
+  ]
+},
+{
+  "word": "decir",
+  "phonetic": "[de'θiɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "说；讲述；表明；称之为；"
+    },
+    {
+      "partOfSpeech": "intr.",
+      "translation": "说话；谈论；"
+    },
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "想；寻思；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "话；警句；说法"
+    }
+  ]
+},
+{
+  "word": "en punto",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "",
+      "translation": "整点"
+    }
+  ]
+},
+{
+  "word": "comedor",
+  "phonetic": "[kome'ðoɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "餐厅，饭厅，食堂；"
+    },
+    {
+      "partOfSpeech": "adj.",
+      "translation": "吃得多的，贪嘴的；有胃口的，胃口好的"
+    }
+  ]
+},
+{
+  "word": "comenzar",
+  "phonetic": "[komen'θaɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "开始；"
+    },
+    {
+      "partOfSpeech": "intr.",
+      "translation": "开始；"
+    }
+  ]
+},
+{
+  "word": "nueve",
+  "phonetic": "['nweβe]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "九；第九；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "九"
+    }
+  ]
+},
+{
+  "word": "leer",
+  "phonetic": "[le'eɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "读；朗读；读懂；讲授；答辩；看出"
+    }
+  ]
+},
+{
+  "word": "repasar",
+  "phonetic": "[repa's̺aɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "使反复经过；重新检查；复核；浏览"
+    }
+  ]
+},
+{
+  "word": "lección",
+  "phonetic": "[lek'θjon]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "阅读；课；课时；讲解；功课；教训；教育"
+    }
+  ]
+},
+{
+  "word": "estudiado",
+  "phonetic": "[es̺tu'ðjaðo]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "做作的；不自然的；"
+    },
+    {
+      "partOfSpeech": "p.p.",
+      "translation": "estudiar 的过去分词"
+    }
+  ]
+},
+{
+  "word": "prepararse",
+  "phonetic": "[pɾepa'ɾaɾs̺e]",
+  "translations": [
+    {
+      "partOfSpeech": "",
+      "translation": "准备"
+    }
+  ]
+},
+{
+  "word": "nuevo",
+  "phonetic": "['nweβo]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "新的；未旧的；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "新人，新手，新成员"
+    }
+  ]
+},
+{
+  "word": "ocho",
+  "phonetic": "['oʧo]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "八；第八；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "八"
+    }
+  ]
+},
+{
+  "word": "salir",
+  "phonetic": "[s̺a'liɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "intr.",
+      "translation": "出去；离开；伸出；长出；出版；(日、月等)升起；"
+    },
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "流出；漏出；逃掉；超出"
+    }
+  ]
+},
+{
+  "word": "residencia",
+  "phonetic": "[res̺i'ðenθja]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "居住；住所；住宅；宿舍；公寓"
+    }
+  ]
+},
+{
+  "word": "facultad",
+  "phonetic": "[fakul'tað]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "能力；官能；技能；性能；权力；(大学的)系；学科；学院"
+    }
+  ]
+},
+{
+  "word": "metro",
+  "phonetic": "['metɾo]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "米，公尺；米尺；地下铁道，地铁"
+    }
+  ]
+},
+{
+  "word": "horario",
+  "phonetic": "[o'ɾaɾjo]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "时刻的；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "钟表；时针，短针；时刻表，时间表；"
+    }
+  ]
+},
+{
+  "word": "apretado",
+  "phonetic": "[apɾe'taðo]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "紧的；难解开的；密实的；困难的；拮据的；"
+    }
+  ]
+},
+{
+  "word": "eso",
+  "phonetic": "['es̺o]",
+  "translations": [
+    {
+      "partOfSpeech": "pron.",
+      "translation": "那；那个；那事"
+    }
+  ]
+},
+{
+  "word": "antes de",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "prep.",
+      "translation": "在 …之前"
+    }
+  ]
+},
+{
+  "word": "jornada",
+  "phonetic": "[χoɾ'naða]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "日行程；工作日；(帝王的)出巡；(外交使团的)避暑"
+    }
+  ]
+},
+{
+  "word": "real",
+  "phonetic": "[re'al]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "真的，真正的，真实的；王室的"
+    }
+  ]
+},
+{
+  "word": "almorzar",
+  "phonetic": "[almoɾ'θaɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "intr.",
+      "translation": "吃午饭；"
+    },
+    {
+      "partOfSpeech": "tr.",
+      "translation": "(在午饭时)吃"
+    }
+  ]
+},
+{
+  "word": "campus",
+  "phonetic": "['kampus̺]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "大学校园"
+    }
+  ]
+},
+{
+  "word": "quedarse",
+  "phonetic": "[ke'ðaɾs̺e]",
+  "translations": [
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "留下，剩下"
+    }
+  ]
+},
+{
+  "word": "biblioteca",
+  "phonetic": "[biβljo'teka]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "图书馆；藏书；书架；"
+    }
+  ]
+},
+{
+  "word": "casi",
+  "phonetic": "['kas̺i]",
+  "translations": [
+    {
+      "partOfSpeech": "adv.",
+      "translation": "几乎；将近；差一点儿"
+    }
+  ]
+},
+{
+  "word": "universitario",
+  "phonetic": "[uniβeɾs̺i'taɾjo]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "大学的；"
+    },
+    {
+      "partOfSpeech": "m.,f.",
+      "translation": "大学教师；大学生"
+    }
+  ]
+},
+{
+  "word": "si",
+  "phonetic": "[s̺i]",
+  "translations": [
+    {
+      "partOfSpeech": "conj.",
+      "translation": "如果；既然；是否；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "B的唱名"
+    }
+  ]
+},
+{
+  "word": "nos",
+  "phonetic": "[nos̺]",
+  "translations": [
+    {
+      "partOfSpeech": "pron.",
+      "translation": "我们"
+    }
+  ]
+},
+{
+  "word": "quedar",
+  "phonetic": "[ke'ðaɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "intr.",
+      "translation": "停留，留在；表现；变成；约定；"
+    },
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "留住；买下；(风、浪)平息"
+    }
+  ]
+},
+{
+  "word": "algo",
+  "phonetic": "['alɣo]",
+  "translations": [
+    {
+      "partOfSpeech": "pron.",
+      "translation": "某物；某些；相当重要的人(或事)；"
+    },
+    {
+      "partOfSpeech": "adv.",
+      "translation": "一点儿；稍微；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "财富，资本"
+    }
+  ]
+},
+{
+  "word": "apenas",
+  "phonetic": "[a'penas̺]",
+  "translations": [
+    {
+      "partOfSpeech": "adv.",
+      "translation": "费力地；几乎不；几乎不到；刚 …就"
+    }
+  ]
+},
+{
+  "word": "respirar",
+  "phonetic": "[res̺pi'ɾaɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "intr.",
+      "translation": "呼吸；喘气；说话；还活着；"
+    },
+    {
+      "partOfSpeech": "tr.",
+      "translation": "散发；具有"
+    }
+  ]
+},
+{
+  "word": "almuerzo",
+  "phonetic": "[al'mweɾθo]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "午餐"
+    }
+  ]
+},
+{
+  "word": "descansar",
+  "phonetic": "[des̺kan's̺aɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "intr.",
+      "translation": "休息；睡觉；安心；闲着；长眠；(土地)休闲；"
+    },
+    {
+      "partOfSpeech": "tr.",
+      "translation": "使得到休息；靠；委托；吐露；帮助；"
+    },
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "依靠；依赖"
+    }
+  ]
+},
+{
+  "word": "hora",
+  "phonetic": "['oɾa]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "小时；时间；死期；"
+    },
+    {
+      "partOfSpeech": "adv.",
+      "translation": "现在"
+    }
+  ]
+},
+{
+  "word": "invitar",
+  "phonetic": "[imbi'taɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "邀请；请；引起；招引"
+    }
+  ]
+},
+{
+  "word": "cenar",
+  "phonetic": "[θe'naɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "intr.",
+      "translation": "吃晚饭；"
+    },
+    {
+      "partOfSpeech": "tr.",
+      "translation": "晚饭吃 …"
+    }
+  ]
+},
+{
+  "word": "adónde",
+  "phonetic": "[a'ðonde]",
+  "translations": [
+    {
+      "partOfSpeech": "",
+      "translation": "哪里"
+    }
+  ]
+},
+{
+  "word": "tanto",
+  "phonetic": "['tanto]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "这么多的；这么大的；"
+    },
+    {
+      "partOfSpeech": "pron.",
+      "translation": "这个；那个；这么多；这么大；这种程度；"
+    },
+    {
+      "partOfSpeech": "adv.",
+      "translation": "这么多；这样；如此；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "副本；(比赛中的)得分；(赌博的)筹码；比率"
+    }
+  ]
+},
+{
+  "word": "prisa",
+  "phonetic": "['pɾis̺a]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "快；急忙；繁忙"
+    }
+  ]
+},
+{
+  "word": "comprar",
+  "phonetic": "[kom'pɾaɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "买；购买；贿赂；收买"
+    }
+  ]
+},
+{
+  "word": "temer",
+  "phonetic": "[te'meɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "害怕；担心；怀疑；"
+    },
+    {
+      "partOfSpeech": "intr.",
+      "translation": "害怕；担心；怀疑；"
+    },
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "害怕；担心；怀疑"
+    }
+  ]
+},
+{
+  "word": "llegar",
+  "phonetic": "[ʎe'ɣaɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "intr.",
+      "translation": "到；(时间)到来；持续到；达到；实现；成为；"
+    },
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "靠近；靠拢"
+    }
+  ]
+},
+{
+  "word": "tienda",
+  "phonetic": "['tjenda]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "商店，店铺，帐篷"
+    }
+  ]
+},
+{
+  "word": "cerrar",
+  "phonetic": "[θe'raɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "关；锁上；闭上；堵塞；使关门；使歇业；围住；"
+    },
+    {
+      "partOfSpeech": "intr.",
+      "translation": "进攻；布满阴云；天黑；"
+    },
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "拒绝；坚持"
+    }
+  ]
+},
+{
+  "word": "poder",
+  "phonetic": "[po'ðeɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "aux.",
+      "translation": "能够，可以；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "政权，权力；"
+    }
+  ]
+},
+{
+  "word": "mañana",
+  "phonetic": "[ma'ɲana]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "清晨，上午；"
+    },
+    {
+      "partOfSpeech": "adv.",
+      "translation": "明天"
+    }
+  ]
+},
+{
+  "word": "hoy",
+  "phonetic": "['oj]",
+  "translations": [
+    {
+      "partOfSpeech": "adv.",
+      "translation": "今天；现在；"
+    }
+  ]
+},
+{
+  "word": "cumpleaños",
+  "phonetic": "[kumple'aɲos̺]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "生日，诞辰"
+    }
+  ]
+},
+{
+  "word": "querer",
+  "phonetic": "[ke'ɾeɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "爱；想要；决定；愿意；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "爱；爱情；"
+    },
+    {
+      "partOfSpeech": "intr.",
+      "translation": "有意，故意[只用副动词]"
+    }
+  ]
+},
+{
+  "word": "felicitación",
+  "phonetic": "[feliθita'θjon]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "祝贺；道喜；贺词；贺电；问候的话"
+    }
+  ]
+},
+{
+  "word": "alegrar",
+  "phonetic": "[ale'ɣɾaɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "使高兴；使愉快；使活跃；"
+    },
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "高兴；愉快；微醉"
+    }
+  ]
+},
+{
+  "word": "alegrarse",
+  "phonetic": "[ale'ɣɾaɾs̺e]",
+  "translations": [
+    {
+      "partOfSpeech": "",
+      "translation": "高兴；感到满意"
+    }
+  ]
+},
+{
+  "word": "celebrar",
+  "phonetic": "[θele'βɾaɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "举行；称赞；庆祝；举行，召集；庆贺, 祝贺"
+    }
+  ]
+},
+{
+  "word": "dieciocho",
+  "phonetic": "[dje'θjoʧo]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "十八；第十八；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "十八"
+    }
+  ]
+},
+{
+  "word": "diecinueve",
+  "phonetic": "[djeθi'nweβe]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "十九；第十九；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "十九"
+    }
+  ]
+},
+{
+  "word": "como",
+  "phonetic": "['komo]",
+  "translations": [
+    {
+      "partOfSpeech": "adv.",
+      "translation": "好像，正如，作为；"
+    },
+    {
+      "partOfSpeech": "conj.",
+      "translation": "由于，因为"
+    }
+  ]
+},
+{
+  "word": "edad",
+  "phonetic": "[e'ðað]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "年龄；生命中的一个阶段；时期"
+    }
+  ]
+},
+{
+  "word": "restaurante",
+  "phonetic": "[res̺taw'ɾante]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "餐厅，饭馆"
+    }
+  ]
+},
+{
+  "word": "entrar",
+  "phonetic": "[en'tɾaɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "intr.",
+      "translation": "进入；参加；含有；构成；需用"
+    }
+  ]
+},
+{
+  "word": "allá",
+  "phonetic": "[a'ʎa]",
+  "translations": [
+    {
+      "partOfSpeech": "adv.",
+      "translation": "那里；在遥远处；早在 … 时侯；在阴间"
+    }
+  ]
+},
+{
+  "word": "mesa",
+  "phonetic": "['mes̺a]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "桌子；饭桌；饭；饮食，伙食"
+    }
+  ]
+},
+{
+  "word": "libre",
+  "phonetic": "['liβɾe]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "自由的；独立的；不受奴役的；活动自如的；灵活的；空闲的；"
+    }
+  ]
+},
+{
+  "word": "sentarse",
+  "phonetic": "[s̺en'taɾs̺e]",
+  "translations": [
+    {
+      "partOfSpeech": "",
+      "translation": "坐下"
+    }
+  ]
+},
+{
+  "word": "eh",
+  "phonetic": "[e]",
+  "translations": [
+    {
+      "partOfSpeech": "interj.",
+      "translation": "表示招呼、责备、提醒、威胁等"
+    }
+  ]
+},
+{
+  "word": "camarero",
+  "phonetic": "[kama'ɾeɾo]",
+  "translations": [
+    {
+      "partOfSpeech": "m., f.",
+      "translation": "侍者，服务员"
+    }
+  ]
+},
+{
+  "word": "camarera",
+  "phonetic": "[kama'ɾeɾa]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "宫女；女侍者；女仆；(带轮子的)小餐桌"
+    }
+  ]
+},
+{
+  "word": "carta",
+  "phonetic": "['kaɾta]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "书信；证书；纸牌；地图；宪法；菜单"
+    }
+  ]
+},
+{
+  "word": "por favor",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "interj.",
+      "translation": "请；劳驾"
+    }
+  ]
+},
+{
+  "word": "recomendar",
+  "phonetic": "[rekomen'daɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "委托，推荐"
+    }
+  ]
+},
+{
+  "word": "pedir",
+  "phonetic": "[pe'ðiɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "请求；乞讨；索要；订购；求婚；需要"
+    }
+  ]
+},
+{
+  "word": "carne",
+  "phonetic": "['kaɾne]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "肉；(食用)肉；肉食；果肉；肉体；肉欲"
+    }
+  ]
+},
+{
+  "word": "pescado",
+  "phonetic": "[pes̺'kaðo]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "（捕获供食用的）鱼"
+    }
+  ]
+},
+{
+  "word": "ensalada",
+  "phonetic": "[ens̺a'laða]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "色拉；混合；混有名句的诗"
+    }
+  ]
+},
+{
+  "word": "verdura",
+  "phonetic": "[beɾ'ðuɾa]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "绿色；青翠；蔬菜；枝叶；好色"
+    }
+  ]
+},
+{
+  "word": "idea",
+  "phonetic": "[i'ðea]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "概念；观念；概括了解；思想，观点；念头，主意；想法，感觉；看法，印象；"
+    }
+  ]
+},
+{
+  "word": "beber",
+  "phonetic": "[be'βeɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "喝；倾听；"
+    },
+    {
+      "partOfSpeech": "intr.",
+      "translation": "喝酒；向 …祝酒"
+    }
+  ]
+},
+{
+  "word": "vino",
+  "phonetic": "['bino]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "酒；葡萄酒；果酒, 甜酒；药酒"
+    }
+  ]
+},
+{
+  "word": "botella",
+  "phonetic": "[bo'teʎa]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "瓶"
+    }
+  ]
+},
+{
+  "word": "tinto",
+  "phonetic": "['tinto]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "(葡萄、葡萄酒)暗红色的"
+    }
+  ]
+},
+{
+  "word": "agua mineral",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "",
+      "translation": "矿泉水"
+    }
+  ]
+},
+{
+  "word": "postre",
+  "phonetic": "['pos̺tɾe]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "最后的；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "饭后甜食，饭后点心，饭后水果"
+    }
+  ]
+},
+{
+  "word": "o",
+  "phonetic": "[o]",
+  "translations": [
+    {
+      "partOfSpeech": "conj.",
+      "translation": "或；或者；还是；即"
+    }
+  ]
+},
+{
+  "word": "invitación",
+  "phonetic": "[imbita'θjon]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "邀请；请柬；请帖"
+    }
+  ]
+},
+{
+  "word": "placer",
+  "phonetic": "[pla'θeɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "愉快；娱乐；享乐；"
+    },
+    {
+      "partOfSpeech": "intr.",
+      "translation": "使愉快，使高兴"
+    }
+  ]
+},
+{
+  "word": "cumplir",
+  "phonetic": "[kum'pliɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "执行；完成；提供；满 …岁；服刑；"
+    },
+    {
+      "partOfSpeech": "intr.",
+      "translation": "尽到责任；方便；到期；适合；"
+    },
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "满（多少时间、年、月等）；实现"
+    }
+  ]
+},
+{
+  "word": "compañero",
+  "phonetic": "[kompa'ɲeɾo]",
+  "translations": [
+    {
+      "partOfSpeech": "m., f.",
+      "translation": "同伴，同学，同事；成员"
+    }
+  ]
+},
+{
+  "word": "empezar",
+  "phonetic": "[empe'θaɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "开始；开始消耗；"
+    },
+    {
+      "partOfSpeech": "intr.",
+      "translation": "突然进行"
+    }
+  ]
+},
+{
+  "word": "ayudar",
+  "phonetic": "[aʝu'ðaɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "帮助，协助，援助，救助"
+    }
+  ]
+},
+{
+  "word": "cuarto",
+  "phonetic": "['kwaɾto]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "第四；四分之一的；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "四分之一；一刻钟；房间"
+    }
+  ]
+},
+{
+  "word": "invitado",
+  "phonetic": "[imbi'taðo]",
+  "translations": [
+    {
+      "partOfSpeech": "",
+      "translation": "客人"
+    }
+  ]
+},
+{
+  "word": "recibir",
+  "phonetic": "[reθi'βiɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "收到；接纳；采纳；接待；接见；迎接；迎战；"
+    },
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "获得(某种头衔、称号)"
+    }
+  ]
+},
+{
+  "word": "felicitar",
+  "phonetic": "[feliθi'taɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "祝贺；祝愿；"
+    },
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "高兴"
+    }
+  ]
+},
+{
+  "word": "feliz",
+  "phonetic": "[fe'liθ]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "幸福的；吉祥的；恰到好处的；顺利的；"
+    }
+  ]
+},
+{
+  "word": "pronto",
+  "phonetic": "['pɾonto]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "快的；迅速的；准备好的；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "冲动；"
+    },
+    {
+      "partOfSpeech": "adv.",
+      "translation": "马上；早"
+    }
+  ]
+},
+{
+  "word": "charlar",
+  "phonetic": "[ʧaɾ'laɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "intr.",
+      "translation": "谈话，聊天，闲谈"
+    }
+  ]
+},
+{
+  "word": "plato",
+  "phonetic": "['plato]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "盘，碟；秤盘，天平盘；菜"
+    }
+  ]
+},
+{
+  "word": "sabroso",
+  "phonetic": "[s̺a'βɾos̺o]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "味道甘美的；饶有趣味的；有内容的；有点咸的；"
+    }
+  ]
+},
+{
+  "word": "novela",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "小说；虚构"
+    }
+  ]
+},
+{
+  "word": "escritor",
+  "phonetic": "[es̺kɾi'toɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "m.,f.",
+      "translation": "书写的人；作者；作家"
+    }
+  ]
+},
+{
+  "word": "gustar",
+  "phonetic": "[gus̺'taɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "尝，品尝；"
+    },
+    {
+      "partOfSpeech": "intr.",
+      "translation": "喜欢，喜爱"
+    }
+  ]
+},
+{
+  "word": "encantar",
+  "phonetic": "[eŋkan'taɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "intr.",
+      "translation": "迷住， 使着迷， 使陶醉， 使非常喜欢"
+    }
+  ]
+},
+{
+  "word": "estilo",
+  "phonetic": "[es̺'tilo]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "文体，文风；风格，方式，形式；作风；式样，类型"
+    }
+  ]
+},
+{
+  "word": "moderno",
+  "phonetic": "[mo'ðeɾno]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "现代的；新的，刚发生的；"
+    },
+    {
+      "partOfSpeech": "m.pl.",
+      "translation": "现代人，当代人"
+    }
+  ]
+},
+{
+  "word": "mirar",
+  "phonetic": "[mi'ɾaɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "看；查看；考虑；(常用命令式)注意；"
+    },
+    {
+      "partOfSpeech": "intr.",
+      "translation": "着眼；朝向"
+    }
+  ]
+},
+{
+  "word": "mediodía",
+  "phonetic": "[meðjo'ðia]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "中午，正午；南"
+    }
+  ]
+},
+{
+  "word": "recoger",
+  "phonetic": "[reko'χeɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "拾；收拢；收集；积攒；收拾；"
+    },
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "退避；回家；归巢；就寝"
+    }
+  ]
+},
+{
+  "word": "meter",
+  "phonetic": "[me'teɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "放入，使进入，走私；"
+    },
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "进入，干预，参与"
+    }
+  ]
+},
+{
+  "word": "mochila",
+  "phonetic": "[mo'ʧila]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "背包；(猎人或士兵的)背囊；背袋"
+    }
+  ]
+},
+{
+  "word": "hambre",
+  "phonetic": "['ambɾe]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "饿；饥荒；渴望"
+    }
+  ]
+},
+{
+  "word": "sed",
+  "phonetic": "[s̺eð]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "渴；(土地等)干旱；渴望"
+    }
+  ]
+},
+{
+  "word": "coger",
+  "phonetic": "[ko'χeɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "抓住；得到；拿；取；赶上；碰上；染上；患；顶伤（人）"
+    }
+  ]
+},
+{
+  "word": "cafetería",
+  "phonetic": "[kafete'ɾia]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "咖啡馆"
+    }
+  ]
+},
+{
+  "word": "cerca",
+  "phonetic": "['θeɾka]",
+  "translations": [
+    {
+      "partOfSpeech": "adv.",
+      "translation": "附近，临近；"
+    },
+    {
+      "partOfSpeech": "f.",
+      "translation": "围墙，方阵；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "【美】近景"
+    }
+  ]
+},
+{
+  "word": "pequeño",
+  "phonetic": "[pe'keɲo]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "小的；矮小的；年幼的；"
+    },
+    {
+      "partOfSpeech": "m.,f.",
+      "translation": "小孩；儿童"
+    }
+  ]
+},
+{
+  "word": "limpieza",
+  "phonetic": "[lim'pjeθa]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "清洁；打扫；纯洁；诚实；灵巧"
+    }
+  ]
+},
+{
+  "word": "ﬁesta",
+  "phonetic": "['fjes̺ta]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "节日；欢会；聚会；庆祝活动；愉快的事；亲热"
+    }
+  ]
+},
+{
+  "word": "despedirse",
+  "phonetic": "[des̺pe'ðiɾs̺e]",
+  "translations": [
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "告别，辞行"
+    }
+  ]
+},
+{
+  "word": "encontrar",
+  "phonetic": "[eŋkon'tɾaɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "找到；遇到；碰到；发现；感到；认为；"
+    },
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "相遇；汇合；相撞；相投；对立"
+    }
+  ]
+},
+{
+  "word": "sucio",
+  "phonetic": "['s̺uθjo]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "肮脏的，污秽的，邋遢的，下流的"
+    }
+  ]
+},
+{
+  "word": "desarreglado",
+  "phonetic": "[des̺are'ɣlaðo]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "凌乱的；不修边幅的；无规律的"
+    }
+  ]
+},
+{
+  "word": "suciedad",
+  "phonetic": "[s̺uθje'ðað]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "肮脏；污物；垃圾；卑鄙；卑鄙言行；下流言行；"
+    }
+  ]
+},
+{
+  "word": "Ni",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "conj.",
+      "translation": "也不"
+    }
+  ]
+},
+{
+  "word": "desorden",
+  "phonetic": "[de's̺oɾðen]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "杂乱；骚动；失调；放荡"
+    }
+  ]
+},
+{
+  "word": "retirar",
+  "phonetic": "[reti'ɾaɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "挪开；使离开；拿走；收藏(不用的东西)；缩回(手、脚、触角等)；收回；撤回；撤退；辞退；使退休；"
+    },
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "走开；退休；退伍；隐居；撤退；"
+    }
+  ]
+},
+{
+  "word": "vaso",
+  "phonetic": "['bas̺o]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "杯子；杯[量词]；杯状物"
+    }
+  ]
+},
+{
+  "word": "lavar",
+  "phonetic": "[la'βaɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "洗；洗刷；(水彩画)着色；洗选(矿石)"
+    }
+  ]
+},
+{
+  "word": "libro",
+  "phonetic": "['liβɾo]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "书；著作；(长篇作品的)卷；书状物；教科书；剧本"
+    }
+  ]
+},
+{
+  "word": "periódico",
+  "phonetic": "[pe'ɾjoðiko]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "周期性的，定期刊行的；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "报纸"
+    }
+  ]
+},
+{
+  "word": "revista",
+  "phonetic": "[re'βis̺ta]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "检查；审阅；检阅；检阅队形；(报刊上的)述评；杂志；滑稽歌舞串演；复审"
+    }
+  ]
+},
+{
+  "word": "poner",
+  "phonetic": "[po'neɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "放，摆；安，装；贡献；开设；"
+    },
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "穿；打扮；（太阳等）沉落"
+    }
+  ]
+},
+{
+  "word": "estantería",
+  "phonetic": "[es̺tante'ɾia]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "带隔板的家具，架式家具"
+    }
+  ]
+},
+{
+  "word": "trapo",
+  "phonetic": "['tɾapo]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "破布；抹布；船帆；逗牛红布"
+    }
+  ]
+},
+{
+  "word": "mojado",
+  "phonetic": "[mo'χaðo]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "弄湿的，浸湿的，淋湿的；"
+    },
+    {
+      "partOfSpeech": "adj.",
+      "translation": "消沉的，泄气的；"
+    },
+    {
+      "partOfSpeech": "adj.",
+      "translation": "腭化的"
+    }
+  ]
+},
+{
+  "word": "fregar",
+  "phonetic": "[fɾe'ɣaɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "擦；刷洗；打扰；烦扰；"
+    }
+  ]
+},
+{
+  "word": "silla",
+  "phonetic": "['s̺iʎa]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "椅子；鞍马"
+    }
+  ]
+},
+{
+  "word": "cuando",
+  "phonetic": "['kwando]",
+  "translations": [
+    {
+      "partOfSpeech": "adv.",
+      "translation": "当 … 的时候，如果"
+    }
+  ]
+},
+{
+  "word": "escoba",
+  "phonetic": "[es̺'koβa]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "扫帚；金雀花；（树枝等的）把，束"
+    }
+  ]
+},
+{
+  "word": "barrer",
+  "phonetic": "[ba'reɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "扫；吹走；扫过；消除；赶走"
+    }
+  ]
+},
+{
+  "word": "por último",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "",
+      "translation": "最后"
+    }
+  ]
+},
+{
+  "word": "sacar",
+  "phonetic": "[s̺a'kaɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "取出，拿出，拔出；解救，使摆脱"
+    }
+  ]
+},
+{
+  "word": "fregona",
+  "phonetic": "[fɾe'ɣona]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "(厨房)女佣；拖把"
+    }
+  ]
+},
+{
+  "word": "pasar",
+  "phonetic": "[pa's̺aɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "intr.",
+      "translation": "移动；过去；穿过，经过；"
+    },
+    {
+      "partOfSpeech": "tr.",
+      "translation": "搬，运；使移动；转达，转告；"
+    },
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "投靠；过期；过头；"
+    }
+  ]
+},
+{
+  "word": "suelo",
+  "phonetic": "['s̺welo]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "地面；土地；地皮；沉淀；(器皿等的)底"
+    }
+  ]
+},
+{
+  "word": "limpio",
+  "phonetic": "['limpjo]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "清洁的；纯净的；爱清洁的；(收入等)净得的；清晰的；去皮的；"
+    },
+    {
+      "partOfSpeech": "adv.",
+      "translation": "干净利落地；光明磊落地"
+    }
+  ]
+},
+{
+  "word": "arreglado",
+  "phonetic": "[are'ɣlaðo]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "整理好的；有条理的；会当家的"
+    }
+  ]
+},
+{
+  "word": "sentirse",
+  "phonetic": "[s̺en'tiɾs̺e]",
+  "translations": [
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "感觉"
+    }
+  ]
+},
+{
+  "word": "sofá",
+  "phonetic": "[s̺o'fa]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "长沙发"
+    }
+  ]
+},
+{
+  "word": "justo",
+  "phonetic": "[Iχus̺to]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "公平的；正义的；合理的；正好的；确切的；"
+    },
+    {
+      "partOfSpeech": "adv.",
+      "translation": "公平地；正好地；不宽裕地；"
+    }
+  ]
+},
+{
+  "word": "momento",
+  "phonetic": "[moImento]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "瞬间；时刻；时机；当时；重要(性)；力矩"
+    }
+  ]
+},
+{
+  "word": "alguien",
+  "phonetic": "[IaIɣjen]",
+  "translations": [
+    {
+      "partOfSpeech": "pron.",
+      "translation": "某人；有人；重要人物"
+    }
+  ]
+},
+{
+  "word": "puerta",
+  "phonetic": "[Ipweɾta]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "门；门路；入境税；球门"
+    }
+  ]
+},
+{
+  "word": "molestar",
+  "phonetic": "[moIes̺Itaɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "麻烦，打搅；使讨厌；使不舒服；妨碍；"
+    },
+    {
+      "partOfSpeech": "prnI.",
+      "translation": "费心，费力，费事；不高兴"
+    }
+  ]
+},
+{
+  "word": "en absoluto",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "",
+      "translation": ""
+    }
+  ]
+},
+{
+  "word": "pensar",
+  "phonetic": "[penIs̺aɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "想；想要；认为；料想；"
+    },
+    {
+      "partOfSpeech": "intr.",
+      "translation": "想念；思念；"
+    }
+  ]
+},
+{
+  "word": "trabajo",
+  "phonetic": "[tɾaIβaχo]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "劳动；任务；职业；劳动力；劳动成果；著作；功；艰辛"
+    }
+  ]
+},
+{
+  "word": "sobre",
+  "phonetic": "[Is̺oβɾe]",
+  "translations": [
+    {
+      "partOfSpeech": "prep.",
+      "translation": "在 …上面，在 …之上；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "信封"
+    }
+  ]
+},
+{
+  "word": "América Latina",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "n.",
+      "translation": "拉丁美洲"
+    }
+  ]
+},
+{
+  "word": "interesante",
+  "phonetic": "[inteɾeIs̺ante]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "有趣的"
+    }
+  ]
+},
+{
+  "word": "tema",
+  "phonetic": "[Itema]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "题目；主题；翻译练习；执念；固执；"
+    }
+  ]
+},
+{
+  "word": "escribir",
+  "phonetic": "[es̺kɾiIβiɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "写；写信；写作"
+    }
+  ]
+},
+{
+  "word": "papel",
+  "phonetic": "[paIpeI]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "纸；有字的纸；证券；纸币；角色；作用"
+    }
+  ]
+},
+{
+  "word": "título",
+  "phonetic": "[ItituIo]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "标题；名称；称号；头衔；爵位；有爵位者；所有权凭证"
+    }
+  ]
+},
+{
+  "word": "necesitar",
+  "phonetic": "[neθes̺iItaɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "必须；需要；"
+    },
+    {
+      "partOfSpeech": "intr.",
+      "translation": "需要；缺少；"
+    }
+  ]
+},
+{
+  "word": "lista",
+  "phonetic": "[IIis̺ta]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "目录, 表；名单，名册；(布、纸等的）条子，条儿"
+    }
+  ]
+},
+{
+  "word": "lleno",
+  "phonetic": "[Iʎeno]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "满的；丰满的；吃饱的；喝足的；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "客满；满座；丰富；充裕；完善；完美"
+    }
+  ]
+},
+{
+  "word": "porque",
+  "phonetic": "[Ipoɾke]",
+  "translations": [
+    {
+      "partOfSpeech": "conj.",
+      "translation": "因为；为了；"
+    }
+  ]
+},
+{
+  "word": "hábito",
+  "phonetic": "[Iaβito]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "习惯；服装"
+    }
+  ]
+},
+{
+  "word": "sobre todo",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "",
+      "translation": "特别，尤其"
+    }
+  ]
+},
+{
+  "word": "obra",
+  "phonetic": "[Ioβɾa]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "作品；行动；功绩；行为；"
+    }
+  ]
+},
+{
+  "word": "literario",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "文学(上)的；文学性的"
+    }
+  ]
+},
+{
+  "word": "librería",
+  "phonetic": "[IiβɾeIɾia]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "书店；书橱；书业；图书馆(室)"
+    }
+  ]
+},
+{
+  "word": "vez",
+  "phonetic": "[beθ]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "回；次；倍；时候；机会"
+    }
+  ]
+},
+{
+  "word": "Internet",
+  "phonetic": "[inteɾInet]",
+  "translations": [
+    {
+      "partOfSpeech": "amb.",
+      "translation": "因特网"
+    }
+  ]
+},
+{
+  "word": "sistema",
+  "phonetic": "[s̺is̺Itema]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "制度，体制；系统；体系；方法，措施"
+    }
+  ]
+},
+{
+  "word": "así",
+  "phonetic": "[aIs̺i]",
+  "translations": [
+    {
+      "partOfSpeech": "adv.",
+      "translation": "如此；这么, 那么；同样；也；但愿；尽管；"
+    },
+    {
+      "partOfSpeech": "adj.",
+      "translation": "这样的；(健康、情绪等)不太好的；还可以；过得去"
+    }
+  ]
+},
+{
+  "word": "ganar",
+  "phonetic": "[gaInaɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "赚(钱)；挣(工资)；获胜；攻占；取得；"
+    },
+    {
+      "partOfSpeech": "intr.",
+      "translation": "改善；身体变好；"
+    },
+    {
+      "partOfSpeech": "prnI.",
+      "translation": "博得好感；招致；藏匿"
+    }
+  ]
+},
+{
+  "word": "ventaja",
+  "phonetic": "[benItaχa]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "占先；优势；长处；利益；津贴；"
+    }
+  ]
+},
+{
+  "word": "Perdón",
+  "phonetic": "[peɾIðon]",
+  "translations": [
+    {
+      "partOfSpeech": "",
+      "translation": "赦免；原谅；宽恕"
+    }
+  ]
+},
+{
+  "word": "traer",
+  "phonetic": "[tɾaIeɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "带来；吸引；引起；穿；刊登；"
+    },
+    {
+      "partOfSpeech": "prnI.",
+      "translation": "衣着，打扮；行为表现"
+    }
+  ]
+},
+{
+  "word": "encargar",
+  "phonetic": "[eŋkaɾIɣaɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "委托；嘱咐；定购；"
+    },
+    {
+      "partOfSpeech": "prnI.",
+      "translation": "负责"
+    }
+  ]
+},
+{
+  "word": "esperar",
+  "phonetic": "[es̺peIɾaɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "希望；等待；即将发生"
+    }
+  ]
+},
+{
+  "word": "rato",
+  "phonetic": "[Irato]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "片刻"
+    }
+  ]
+},
+{
+  "word": "pagar",
+  "phonetic": "[paIɣaɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "支付；偿还；报答；弥补（罪过）；为 …付出代价；"
+    },
+    {
+      "partOfSpeech": "prnI.",
+      "translation": "喜爱；得意，自得；知足，满足"
+    }
+  ]
+},
+{
+  "word": "servicio",
+  "phonetic": "[s̺eɾIβiθjo]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "服务；供职；兵役；服役；帮忙；侍候；帮佣；用处；服务业；服务部门"
+    }
+  ]
+},
+{
+  "word": "hoy en día",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "",
+      "translation": "如今"
+    }
+  ]
+},
+{
+  "word": "común",
+  "phonetic": "[ko'mun]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "公共的；共同的；普遍的；普通的；粗俗的；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "居民；集体"
+    }
+  ]
+},
+{
+  "word": "persona",
+  "phonetic": "[peɾ's̺ona]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "人；人物；人称"
+    }
+  ]
+},
+{
+  "word": "sin embargo",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "",
+      "translation": "然而"
+    }
+  ]
+},
+{
+  "word": "resistirse",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "tr.-intr.",
+      "translation": "抗；耐；承受；抵抗；抵制；"
+    },
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "不愿意；使感到困难"
+    }
+  ]
+},
+{
+  "word": "usar",
+  "phonetic": "[u's̺aɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "用；使用；享用；"
+    },
+    {
+      "partOfSpeech": "intr.",
+      "translation": "运用；利用"
+    }
+  ]
+},
+{
+  "word": "estafar",
+  "phonetic": "[es̺ta'faɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "诈骗；诈取"
+    }
+  ]
+},
+{
+  "word": "ofrecer",
+  "phonetic": "[ofɾe'θeɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "给予；提供；允诺；呈现出；报价；"
+    },
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "自愿；(想法等)突然产生；闪现；显现"
+    }
+  ]
+},
+{
+  "word": "servir",
+  "phonetic": "[s̺eɾ'βiɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "intr.",
+      "translation": "工作，供职；能用，可用；充当"
+    },
+    {
+      "partOfSpeech": "tr.",
+      "translation": "服务，效力"
+    }
+  ]
+},
+{
+  "word": "acaso",
+  "phonetic": "[a'kas̺o]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "偶然；意外事件；"
+    },
+    {
+      "partOfSpeech": "adv.",
+      "translation": "或许；难道"
+    }
+  ]
+},
+{
+  "word": "adquirir",
+  "phonetic": "[aðki'ɾiɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "取得，获得，赢得，换得，购得"
+    }
+  ]
+},
+{
+  "word": "teclear",
+  "phonetic": "[tekle'aɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "intr.",
+      "translation": "按动键；(手指)轻敲"
+    }
+  ]
+},
+{
+  "word": "ordenador",
+  "phonetic": "[oɾðena'ðoɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "财务主任；电子计算机；"
+    }
+  ]
+},
+{
+  "word": "computadora",
+  "phonetic": "[komputa'ðoɾa]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "计算机"
+    }
+  ]
+},
+{
+  "word": "soler",
+  "phonetic": "[s̺o'leɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "intr.",
+      "translation": "惯于；经常；时常"
+    }
+  ]
+},
+{
+  "word": "bibliotecario",
+  "phonetic": "[biβljote'kaɾjo]",
+  "translations": [
+    {
+      "partOfSpeech": "m.,f.",
+      "translation": "图书管理员"
+    }
+  ]
+},
+{
+  "word": "desventaja",
+  "phonetic": "[des̺βen'taχa]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "不利；不利的处境"
+    }
+  ]
+},
+{
+  "word": "devolver",
+  "phonetic": "[deβol'βeɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "归还；回报；放回（原处）；退回；"
+    },
+    {
+      "partOfSpeech": "intr.-prnl.",
+      "translation": "返回"
+    }
+  ]
+},
+{
+  "word": "perder",
+  "phonetic": "[peɾ'ðeɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "丢失；丧失；忘记；浪费；白费；错过；损坏；输；"
+    },
+    {
+      "partOfSpeech": "intr.",
+      "translation": "(地位、信誉、健康等)下降；变坏；受损失；"
+    },
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "迷路；走投无路；消失；堕落；迷恋"
+    }
+  ]
+},
+{
+  "word": "recepción",
+  "phonetic": "[reθep'θjon]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "收到；接见；接纳；欢迎仪式；招待会；(旅馆等的)接待处"
+    }
+  ]
+},
+{
+  "word": "hotel",
+  "phonetic": "[o'tel]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "旅馆，饭店，公馆，别墅"
+    }
+  ]
+},
+{
+  "word": "recepcionista",
+  "phonetic": "[reθepθjo'nis̺ta]",
+  "translations": [
+    {
+      "partOfSpeech": "m.,f.",
+      "translation": "接待员"
+    }
+  ]
+},
+{
+  "word": "entregar",
+  "phonetic": "[entɾe'ɣaɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "交给，交出；"
+    },
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "投降，自首，专心致力于，沉溺于"
+    }
+  ]
+},
+{
+  "word": "turista",
+  "phonetic": "[tu'ɾis̺ta]",
+  "translations": [
+    {
+      "partOfSpeech": "m.,f.",
+      "translation": "旅游者；观光者"
+    }
+  ]
+},
+{
+  "word": "bienvenido",
+  "phonetic": "[bjembe'niðo]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "受欢迎的"
+    }
+  ]
+},
+{
+  "word": "bienvenida",
+  "phonetic": "[bjembe'niða]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "顺利到达；欢迎"
+    }
+  ]
+},
+{
+  "word": "pendiente",
+  "phonetic": "[pen'djente]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "悬挂着的；吊着的；悬着的；等待（某人）解决的；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "坠饰，坠状物；耳坠，鼻坠，项链坠；矿床表面；"
+    },
+    {
+      "partOfSpeech": "f.",
+      "translation": "斜坡"
+    }
+  ]
+},
+{
+  "word": "subir",
+  "phonetic": "[s̺u'βiɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "intr.",
+      "translation": "走上，登上；上升，升高；"
+    },
+    {
+      "partOfSpeech": "tr.",
+      "translation": "提起，举起；使升高"
+    }
+  ]
+},
+{
+  "word": "gritar",
+  "phonetic": "[gɾi'taɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "intr.",
+      "translation": "叫喊；"
+    },
+    {
+      "partOfSpeech": "tr.",
+      "translation": "喝倒彩"
+    }
+  ]
+},
+{
+  "word": "carrito",
+  "phonetic": "[ka'rito]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "购物车；婴儿车；"
+    }
+  ]
+},
+{
+  "word": "equipaje",
+  "phonetic": "[eki'paχe]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "行李；个人衣物；海员，船员"
+    }
+  ]
+},
+{
+  "word": "tuyo",
+  "phonetic": "['tuʝo]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "你的(只用于名词后或与ser连用)"
+    },
+    {
+      "partOfSpeech": "pron.",
+      "translation": "(与冠词连用)你的"
+    }
+  ]
+},
+{
+  "word": "rojo",
+  "phonetic": "['roχo]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "红的，红色的；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "红色，红颜色"
+    }
+  ]
+},
+{
+  "word": "mío",
+  "phonetic": "['mio]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "我的(只用于名词后或与ser连用)"
+    }
+  ]
+},
+{
+  "word": "ahí",
+  "phonetic": "[a'i]",
+  "translations": [
+    {
+      "partOfSpeech": "adv.",
+      "translation": "那里，那儿；在这方面，在那方面"
+    }
+  ]
+},
+{
+  "word": "debajo de",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "",
+      "translation": "在...下面"
+    }
+  ]
+},
+{
+  "word": "maletín",
+  "phonetic": "[male'tin]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "小手提箱；公文包；"
+    }
+  ]
+},
+{
+  "word": "bolso",
+  "phonetic": "['bols̺o]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "手袋"
+    }
+  ]
+},
+{
+  "word": "demás",
+  "phonetic": "[de'mas̺]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "其余的；"
+    },
+    {
+      "partOfSpeech": "pron.",
+      "translation": "其他人；"
+    },
+    {
+      "partOfSpeech": "adv.",
+      "translation": "此外"
+    }
+  ]
+},
+{
+  "word": "mostrador",
+  "phonetic": "[mos̺tɾa'ðoɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "柜台"
+    }
+  ]
+},
+{
+  "word": "alguno",
+  "phonetic": "[al'ɣuno]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "(用在名词前)某一；某些；相当的；(用在否定句名词后)没有；"
+    },
+    {
+      "partOfSpeech": "pron.",
+      "translation": "某人(物)；一些人(物)"
+    }
+  ]
+},
+{
+  "word": "dueño",
+  "phonetic": "['dweɲo]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "物主；户主；主人；"
+    }
+  ]
+},
+{
+  "word": "oír",
+  "phonetic": "[o'iɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "听到，听见"
+    }
+  ]
+},
+{
+  "word": "cuál",
+  "phonetic": "['kwal]",
+  "translations": [
+    {
+      "partOfSpeech": "pron.",
+      "translation": "哪个；谁；什么；"
+    },
+    {
+      "partOfSpeech": "adv.",
+      "translation": "多么"
+    }
+  ]
+},
+{
+  "word": "número",
+  "phonetic": "['numeɾo]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "数；数目；号码；尺码；(报刊等的)期；演出的节目"
+    }
+  ]
+},
+{
+  "word": "piso",
+  "phonetic": "['pis̺o]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "地面；地板；(楼房的)层；成套房间"
+    }
+  ]
+},
+{
+  "word": "mil",
+  "phonetic": "[mil]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "千；第一千；无数的；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "(数字)千；成千上万"
+    }
+  ]
+},
+{
+  "word": "pena",
+  "phonetic": "['pena]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "惩罚；难过；遗憾；痛；艰辛；"
+    }
+  ]
+},
+{
+  "word": "vecino",
+  "phonetic": "[be'θino]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "邻近的；住得很近的；居住在 … 的；"
+    },
+    {
+      "partOfSpeech": "m.,f.",
+      "translation": "邻居；居民；住户"
+    }
+  ]
+},
+{
+  "word": "regalo",
+  "phonetic": "[re'ɣalo]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "礼物；赠物；快意；享受；安逸"
+    }
+  ]
+},
+{
+  "word": "viaje",
+  "phonetic": "['bjaχe]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "旅行；走动；一次搬运的量；游记；供水"
+    }
+  ]
+},
+{
+  "word": "nieto",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "m.,f.",
+      "translation": "孙子，孙女；外孙，外孙女"
+    }
+  ]
+},
+{
+  "word": "niño",
+  "phonetic": "['niɲo]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "年幼的"
+    },
+    {
+      "partOfSpeech": "m., f.",
+      "translation": "儿童，孩子"
+    }
+  ]
+},
+{
+  "word": "saltar",
+  "phonetic": "[s̺al'taɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "intr.",
+      "translation": "跳，跳动；跳到；弹跳；"
+    },
+    {
+      "partOfSpeech": "tr.",
+      "translation": "跳过；略过；使跳过；使掉落；"
+    }
+  ]
+},
+{
+  "word": "besar",
+  "phonetic": "[be's̺aɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "吻；亲；"
+    },
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "接吻；相粘连"
+    }
+  ]
+},
+{
+  "word": "abrir",
+  "phonetic": "[a'βɾiɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "打开；张开；开放；切开；开始；"
+    },
+    {
+      "partOfSpeech": "intr.",
+      "translation": "第一个下赌注；(花)开放；"
+    },
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "(天气)放晴；展现；(门、窗等)朝着；推心置腹"
+    }
+  ]
+},
+{
+  "word": "paquete",
+  "phonetic": "[pa'kete]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "包裹；包，捆，把，束"
+    }
+  ]
+},
+{
+  "word": "camiseta",
+  "phonetic": "[kami's̺eta]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "汗衫；背心；"
+    }
+  ]
+},
+{
+  "word": "verde",
+  "phonetic": "['beɾðe]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "绿的；未干枯的；嫩的，新鲜的；未成熟的；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "绿色；青草；青饲料"
+    }
+  ]
+},
+{
+  "word": "azul",
+  "phonetic": "[a'θul]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "蓝色；"
+    },
+    {
+      "partOfSpeech": "adj.",
+      "translation": "蓝色的"
+    }
+  ]
+},
+{
+  "word": "marrón",
+  "phonetic": "[ma'ron]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "栗色的，咖啡色的；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "栗色"
+    }
+  ]
+},
+{
+  "word": "color",
+  "phonetic": "[ko'loɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "颜色；色彩；颜料；"
+    }
+  ]
+},
+{
+  "word": "amarillo",
+  "phonetic": "[ama'ɾiʎo]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "黄色；"
+    },
+    {
+      "partOfSpeech": "adj.",
+      "translation": "黄颜色的，黄种的"
+    }
+  ]
+},
+{
+  "word": "dentro",
+  "phonetic": "['dentɾo]",
+  "translations": [
+    {
+      "partOfSpeech": "adv.",
+      "translation": "在里面；在内部；"
+    }
+  ]
+},
+{
+  "word": "cuidado",
+  "phonetic": "[kwi'ðaðo]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "不安；小心；职责；照料；"
+    }
+  ]
+},
+{
+  "word": "romper",
+  "phonetic": "[rom'peɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "弄破，撕破；使破损；阻断；越过；冲破；打穿；打断；断绝；"
+    },
+    {
+      "partOfSpeech": "intr.",
+      "translation": "(浪花)四溅；冲出；(花)开放；突然开始"
+    }
+  ]
+},
+{
+  "word": "juguete",
+  "phonetic": "[χu'ɣete]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "玩具；小节目；玩笑；玩物"
+    }
+  ]
+},
+{
+  "word": "bonito",
+  "phonetic": "[bo'nito]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "好看的，好的；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "狐鲣"
+    }
+  ]
+},
+{
+  "word": "dar",
+  "phonetic": "[daɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "给予；交给；授予；任命；提出；提供；"
+    },
+    {
+      "partOfSpeech": "intr.",
+      "translation": "发生；使突然感到；(钟)打点；打，碰；转动；"
+    },
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "发生；生长；(对某人)显得容易；致力于；沉湎于；屈从；"
+    }
+  ]
+},
+{
+  "word": "cariño",
+  "phonetic": "[ka'ɾiɲo]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "爱；情爱；友爱；爱抚；精心，仔细；(呼语)亲爱的；问候"
+    }
+  ]
+},
+{
+  "word": "beso",
+  "phonetic": "['bes̺o]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "吻"
+    }
+  ]
+},
+{
+  "word": "al lado de",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "",
+      "translation": "在...旁边"
+    }
+  ]
+},
+{
+  "word": "bajar",
+  "phonetic": "[ba'χaɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "intr.",
+      "translation": "下，降，降价，减少，降低；"
+    },
+    {
+      "partOfSpeech": "tr.",
+      "translation": "放下，降下，使降低"
+    }
+  ]
+},
+{
+  "word": "blanco",
+  "phonetic": "['blaŋko]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "白色的，白种的；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "白色，空白处，目标"
+    }
+  ]
+},
+{
+  "word": "café",
+  "phonetic": "[ka'fe]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "咖啡，咖啡树，咖啡豆；"
+    },
+    {
+      "partOfSpeech": "adj.",
+      "translation": "咖啡色的"
+    }
+  ]
+},
+{
+  "word": "encima de",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "",
+      "translation": "在...上方"
+    }
+  ]
+},
+{
+  "word": "feo",
+  "phonetic": "[Ifeo]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "丑的；难看的；不好的；糟糕的；丑恶的；卑劣的；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "难堪；难看"
+    }
+  ]
+},
+{
+  "word": "gris",
+  "phonetic": "[gɾis̺]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "灰色的；平淡的，乏味的；阴沉的（天气）；抑郁的（性情）；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "灰色"
+    }
+  ]
+},
+{
+  "word": "naranja",
+  "phonetic": "[naIɾaŋχa]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "甜橙；广柑；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "橙色；"
+    },
+    {
+      "partOfSpeech": "adj.",
+      "translation": "橙色的"
+    }
+  ]
+},
+{
+  "word": "negro",
+  "phonetic": "[Ineɣɾo]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "黑的，黑色的；变黑的，呈黑色的；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "黑色；"
+    },
+    {
+      "partOfSpeech": "m.,f.",
+      "translation": "黑人，黑种人"
+    }
+  ]
+},
+{
+  "word": "indicar",
+  "phonetic": "[indiIkaɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "表明，说明；说，告诉，告知；指出，指示；指点；暗示"
+    }
+  ]
+},
+{
+  "word": "camino",
+  "phonetic": "[kaImino]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "路；路途；路线；途径；"
+    }
+  ]
+},
+{
+  "word": "teléfono",
+  "phonetic": "[teIIefono]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "电话(系统)；电话机"
+    }
+  ]
+},
+{
+  "word": "llamada",
+  "phonetic": "[ʎaImaða]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "叫；号召；召唤；电话通话；集合号"
+    }
+  ]
+},
+{
+  "word": "desde",
+  "phonetic": "[Idezðe]",
+  "translations": [
+    {
+      "partOfSpeech": "prep.",
+      "translation": "从 …起，自，从，由，从 … 以后"
+    }
+  ]
+},
+{
+  "word": "gato",
+  "phonetic": "[Igato]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "猫；猫科动物；捕鼠器"
+    }
+  ]
+},
+{
+  "word": "lejos",
+  "phonetic": "[IIeχos̺]",
+  "translations": [
+    {
+      "partOfSpeech": "adv.",
+      "translation": "远；久远"
+    }
+  ]
+},
+{
+  "word": "inmediatamente",
+  "phonetic": "[inmeðjataImente]",
+  "translations": [
+    {
+      "partOfSpeech": "adv.",
+      "translation": "紧接，立刻，马上"
+    }
+  ]
+},
+{
+  "word": "dejar",
+  "phonetic": "[deIχaɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "放下；撇下；抛弃；放弃；离开；消失；"
+    },
+    {
+      "partOfSpeech": "aux.",
+      "translation": "中断，停止；不，没有；"
+    },
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "让；任由；邋遢；自暴自弃；遗忘；停止"
+    }
+  ]
+},
+{
+  "word": "suﬁciente",
+  "phonetic": "[s̺uﬁIθjente]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "充足的；有才能的；自满的"
+    }
+  ]
+},
+{
+  "word": "espacio",
+  "phonetic": "[es̺Ipaθjo]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "空间；太空；距离；时间；播放时间；"
+    }
+  ]
+},
+{
+  "word": "dirección",
+  "phonetic": "[diɾekIθjon]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "领导，指导；领导人；领导人的职位(或办公室)；方向；走向；地址；住址；导演"
+    }
+  ]
+},
+{
+  "word": "por supuesto",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "",
+      "translation": "当然"
+    }
+  ]
+},
+{
+  "word": "seguridad",
+  "phonetic": "[s̺eɣuɾiIðað]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "安全；牢靠；把握；保障"
+    }
+  ]
+},
+{
+  "word": "móvil",
+  "phonetic": "[ImoβiI]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "活动的，可以动的；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "手机；运动物体；动机，原因"
+    }
+  ]
+},
+{
+  "word": "celular",
+  "phonetic": "[θeIuIIaɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "小室的；囊的；细胞的，隔离的；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "手机；手机号码"
+    }
+  ]
+},
+{
+  "word": "encender",
+  "phonetic": "[enθenIdeɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "点燃；放火烧；打开（电器开关）；使炽热；使爆发；"
+    },
+    {
+      "partOfSpeech": "prnI.",
+      "translation": "脸红"
+    }
+  ]
+},
+{
+  "word": "minuto",
+  "phonetic": "[miInuto]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "分"
+    }
+  ]
+},
+{
+  "word": "fuera",
+  "phonetic": "[Ifweɾa]",
+  "translations": [
+    {
+      "partOfSpeech": "adv.",
+      "translation": "外面，在外面；外地，外国；"
+    },
+    {
+      "partOfSpeech": "interj.",
+      "translation": "滚，滚开；脱掉"
+    }
+  ]
+},
+{
+  "word": "hacia",
+  "phonetic": "[Iaθja]",
+  "translations": [
+    {
+      "partOfSpeech": "prep.",
+      "translation": "朝；大约；对"
+    }
+  ]
+},
+{
+  "word": "izquierda",
+  "phonetic": "[iθIkjeɾða]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "左手；左面；左派；"
+    }
+  ]
+},
+{
+  "word": "parada",
+  "phonetic": "[paIɾaða]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "停，停止，停留；(运动的)终止；车站"
+    }
+  ]
+},
+{
+  "word": "línea",
+  "phonetic": "[IIinea]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "线，线条；线路；排，列，行"
+    }
+  ]
+},
+{
+  "word": "correr",
+  "phonetic": "[koIreɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "intr.",
+      "translation": "跑；急忙；(时间)流逝；流动；流通；"
+    },
+    {
+      "partOfSpeech": "tr.",
+      "translation": "跑遍；抢劫；挪动；"
+    },
+    {
+      "partOfSpeech": "prnI.",
+      "translation": "过快熔化；过分；度过"
+    }
+  ]
+},
+{
+  "word": "alcanzar",
+  "phonetic": "[aIkanIθaɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "赶上；到达；达到；捉住；递给；获得；得到；领会；"
+    },
+    {
+      "partOfSpeech": "intr.",
+      "translation": "能够着，够得到；能够，可以；足以，足够；"
+    },
+    {
+      "partOfSpeech": "prnI.",
+      "translation": "相接；汇合；可以理解"
+    }
+  ]
+},
+{
+  "word": "rápido",
+  "phonetic": "[Irapiðo]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "快的；迅速的；仓促的；"
+    },
+    {
+      "partOfSpeech": "adv.",
+      "translation": "快地；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "快车；急流；湍流"
+    }
+  ]
+},
+{
+  "word": "apearse",
+  "phonetic": "[apeIaɾs̺e]",
+  "translations": [
+    {
+      "partOfSpeech": "prnI.",
+      "translation": "下车；下马"
+    }
+  ]
+},
+{
+  "word": "pino",
+  "phonetic": "[Ipino]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "松；松木"
+    }
+  ]
+},
+{
+  "word": "estación",
+  "phonetic": "[es̺taIθjon]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "停留；逗留处；车站；季节"
+    }
+  ]
+},
+{
+  "word": "nacional",
+  "phonetic": "[naθjoInaI]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "民族的；国家的；国民的；全国性的；"
+    },
+    {
+      "partOfSpeech": "m.pI.",
+      "translation": "国民"
+    }
+  ]
+},
+{
+  "word": "zona",
+  "phonetic": "[Iθona]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "地区；领域；带"
+    }
+  ]
+},
+{
+  "word": "residencial",
+  "phonetic": "[res̺iðenIθjaI]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "住宅的；驻留的；"
+    }
+  ]
+},
+{
+  "word": "claro",
+  "phonetic": "[IkIaɾo]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "明亮的，晴朗的，浅的，清澈的；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "（照片、画面的）光亮部分；空隙，空白"
+    }
+  ]
+},
+{
+  "word": "ediﬁcio",
+  "phonetic": "[eðiIﬁθjo]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "建筑物；大楼；"
+    }
+  ]
+},
+{
+  "word": "creer",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "相信；以为；"
+    },
+    {
+      "partOfSpeech": "intr.",
+      "translation": "信教"
+    }
+  ]
+},
+{
+  "word": "en todo caso",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "",
+      "translation": "不管怎样"
+    }
+  ]
+},
+{
+  "word": "perderse",
+  "phonetic": "[peɾIðeɾs̺e]",
+  "translations": [
+    {
+      "partOfSpeech": "",
+      "translation": "走失"
+    }
+  ]
+},
+{
+  "word": "descuidar",
+  "phonetic": "[des̺kwiIðaɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "不照料；不关心；使疏忽；使摆脱；"
+    },
+    {
+      "partOfSpeech": "intr.",
+      "translation": "放心；"
+    },
+    {
+      "partOfSpeech": "prnI.",
+      "translation": "疏忽；不着急；不抓紧"
+    }
+  ]
+},
+{
+  "word": "secretario",
+  "phonetic": "[s̺ekɾeItaɾjo]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "被委以机密的；"
+    },
+    {
+      "partOfSpeech": "m.,f.",
+      "translation": "秘书, 文书，书记"
+    }
+  ]
+},
+{
+  "word": "cliente",
+  "phonetic": "[IkIjente]",
+  "translations": [
+    {
+      "partOfSpeech": "m.,f.",
+      "translation": "主顾；顾客；平民；被保护的人"
+    }
+  ]
+},
+{
+  "word": "señorita",
+  "phonetic": "[s̺eɲoIɾita]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "领主之女；(对未婚女子的尊称)小姐；(对老师、女秘书、职员的尊称)小姐"
+    }
+  ]
+},
+{
+  "word": "delegación",
+  "phonetic": "[deIeɣaIθjon]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "委派；代表团；办事处；代表身份"
+    }
+  ]
+},
+{
+  "word": "entrevista",
+  "phonetic": "[entɾeIβis̺ta]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "会晤；访谈；"
+    }
+  ]
+},
+{
+  "word": "gerente",
+  "phonetic": "[χeIɾente]",
+  "translations": [
+    {
+      "partOfSpeech": "m.,f.",
+      "translation": "经理；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "（西班牙的）参议员"
+    }
+  ]
+},
+{
+  "word": "oﬁcina",
+  "phonetic": "[oﬁIθina]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "办公室，办事处，事务所"
+    }
+  ]
+},
+{
+  "word": "ascensor",
+  "phonetic": "[as̺θenIs̺oɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "电梯；升降机；"
+    }
+  ]
+},
+{
+  "word": "avanzar",
+  "phonetic": "[aβanIθaɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "intr.",
+      "translation": "前进；(时间)接近终了；进展；"
+    },
+    {
+      "partOfSpeech": "tr.",
+      "translation": "使向前移动；推进；推动；预支"
+    }
+  ]
+},
+{
+  "word": "pasillo",
+  "phonetic": "[paIs̺iʎo]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "走廊，楼道；幕间短剧"
+    }
+  ]
+},
+{
+  "word": "sentir",
+  "phonetic": "[s̺enItiɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "感觉；感受；预感；遗憾；痛心；"
+    },
+    {
+      "partOfSpeech": "prnI.",
+      "translation": "觉得；感到不适（或痛）；不满；裂开；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "感情；看法；见解"
+    }
+  ]
+},
+{
+  "word": "apagar",
+  "phonetic": "[apaIɣaɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "熄灭；使（石灰）熟化；解除，消除；镇压，平定；压住"
+    }
+  ]
+},
+{
+  "word": "despacho",
+  "phonetic": "[des̺Ipaʧo]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "办公室；了结；寄发；出售；商店；辞退；杀死；函件；任命书；办公家具"
+    }
+  ]
+},
+{
+  "word": "duda",
+  "phonetic": "[Iduða]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "怀疑，疑问；疑惑，疑虑；踌躇，犹豫"
+    }
+  ]
+},
+{
+  "word": "seguir",
+  "phonetic": "[s̺eIɣiɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "跟随；跟踪；注视；遵循；奉行；"
+    },
+    {
+      "partOfSpeech": "prnI.",
+      "translation": "由 …看来；接着；"
+    },
+    {
+      "partOfSpeech": "intr.",
+      "translation": "接连，接续"
+    }
+  ]
+},
+{
+  "word": "taxi",
+  "phonetic": "[Itaks̺i]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "出租汽车；计程车；"
+    }
+  ]
+},
+{
+  "word": "taxista",
+  "phonetic": "[takIs̺is̺ta]",
+  "translations": [
+    {
+      "partOfSpeech": "m.,f.",
+      "translation": "出租汽车司机"
+    }
+  ]
+},
+{
+  "word": "utilizar",
+  "phonetic": "[utiIiIθaɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "使用；利用；"
+    }
+  ]
+},
+{
+  "word": "ropa",
+  "phonetic": "[Iropa]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "布料制品；衣服，服装；帘，幔，单，罩"
+    }
+  ]
+},
+{
+  "word": "comprador",
+  "phonetic": "[kompɾaIðoɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.-s.",
+      "translation": "购买的；购买者，买主"
+    }
+  ]
+},
+{
+  "word": "vendedor",
+  "phonetic": "[bendeIðoɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "经售的；"
+    },
+    {
+      "partOfSpeech": "m，f.",
+      "translation": "售货员；商贩，零售商"
+    }
+  ]
+},
+{
+  "word": "ecuador",
+  "phonetic": "[ekwaIðoɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "赤道；半个专业；"
+    }
+  ]
+},
+{
+  "word": "invierno",
+  "phonetic": "[imIbjeɾno]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "冬季，冬天"
+    }
+  ]
+},
+{
+  "word": "frío",
+  "phonetic": "[Ifɾio]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "冷的，凉的；寒冷的，严寒的；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "冷，凉；寒冷，严寒"
+    }
+  ]
+},
+{
+  "word": "Madrid",
+  "phonetic": "[maIðɾið]",
+  "translations": [
+    {
+      "partOfSpeech": "n.",
+      "translation": "Madrid"
+    }
+  ]
+},
+{
+  "word": "en efecto",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "",
+      "translation": "的确；果然；实际上"
+    }
+  ]
+},
+{
+  "word": "temperatura",
+  "phonetic": "[tempeɾaItuɾa]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "温度；气温；"
+    },
+    {
+      "partOfSpeech": "【医】",
+      "translation": "热度，烧度"
+    }
+  ]
+},
+{
+  "word": "época",
+  "phonetic": "[Iepoka]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "时期；年代；季节；期"
+    }
+  ]
+},
+{
+  "word": "abrigarse",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "使不受风寒侵袭；庇护；怀抱"
+    }
+  ]
+},
+{
+  "word": "mostrar",
+  "phonetic": "[mos̺Itɾaɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "给 …看；显露；表现出；说明；"
+    },
+    {
+      "partOfSpeech": "prnI.",
+      "translation": "表现"
+    }
+  ]
+},
+{
+  "word": "suéter",
+  "phonetic": "[s̺uIeteɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "绒线衫；运动衫；"
+    }
+  ]
+},
+{
+  "word": "jersey",
+  "phonetic": "[χeɾIs̺ej]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "毛衣，针织紧身上衣"
+    }
+  ]
+},
+{
+  "word": "talla",
+  "phonetic": "[Itaʎa]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "身高，身材；（衣服的）尺码；身高测量器；雕刻；雕花；雕刻品"
+    }
+  ]
+},
+{
+  "word": "oscuro",
+  "phonetic": "[os̺Is̺kuɾo]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "黑暗的, 深色的"
+    }
+  ]
+},
+{
+  "word": "detrás",
+  "phonetic": "[deItɾas̺]",
+  "translations": [
+    {
+      "partOfSpeech": "adv.",
+      "translation": "在后面；在背面；"
+    }
+  ]
+},
+{
+  "word": "cortina",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "帘；幕状物"
+    }
+  ]
+},
+{
+  "word": "probador",
+  "phonetic": "[pɾoβaIðoɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "(裁缝店、服装店的)试衣室；测试仪"
+    }
+  ]
+},
+{
+  "word": "perfecto",
+  "phonetic": "[peɾIfekto]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "完美的；完全的；完好的；完成的；"
+    }
+  ]
+},
+{
+  "word": "deber",
+  "phonetic": "[deIβeɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "应当，必须；"
+    },
+    {
+      "partOfSpeech": "aux.",
+      "translation": "可能；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "义务，责任"
+    }
+  ]
+},
+{
+  "word": "chaqueta",
+  "phonetic": "[ʧaIketa]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "外衣；外套"
+    }
+  ]
+},
+{
+  "word": "tela",
+  "phonetic": "[IteIa]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "纺织品，布料；布状物；（蜘蛛等的）网"
+    }
+  ]
+},
+{
+  "word": "grueso",
+  "phonetic": "[Igɾwes̺o]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "大的，粗的；肥胖的，粗壮的；迟钝的；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "厚度，粗细；主体，主要部分"
+    }
+  ]
+},
+{
+  "word": "abrigo",
+  "phonetic": "[aIβɾiɣo]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "御寒；大衣；避风处；(船只)避风港；藏身处；庇护"
+    }
+  ]
+},
+{
+  "word": "impermeable",
+  "phonetic": "[impeɾmeIaβIe]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "不透水的；防水的；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "雨衣"
+    }
+  ]
+},
+{
+  "word": "lluvia",
+  "phonetic": "[Iʎuβja]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "下雨；雨；大量"
+    }
+  ]
+},
+{
+  "word": "caja",
+  "phonetic": "[Ikaχa]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "盒；保险箱；棺材；(乐器的)共鸣箱；鼓"
+    }
+  ]
+},
+{
+  "word": "elegir",
+  "phonetic": "[eIeIχiɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "选择；挑选；选举；推选"
+    }
+  ]
+},
+{
+  "word": "cualquier",
+  "phonetic": "[kwaIIkjeɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "adj./pron.",
+      "translation": "(cualquiera 的短尾形式，用于名词前) 任何的，任何人的；任何，任意一个"
+    }
+  ]
+},
+{
+  "word": "amable",
+  "phonetic": "[aImaβIe]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "可爱的，亲切的，和蔼可亲的"
+    }
+  ]
+},
+{
+  "word": "encargo",
+  "phonetic": "[eŋIkaɾɣo]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "委托；托付；订货；事情，事务；职务"
+    }
+  ]
+},
+{
+  "word": "sonar",
+  "phonetic": "[s̺oInaɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "intr.",
+      "translation": "发出声响，被提到，使觉得耳熟，显得；"
+    },
+    {
+      "partOfSpeech": "tr.",
+      "translation": "使发声；擤；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "声呐"
+    }
+  ]
+},
+{
+  "word": "supermercado",
+  "phonetic": "[s̺upeɾmeɾIkaðo]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "超级市场，无人售货商场"
+    }
+  ]
+},
+{
+  "word": "par",
+  "phonetic": "[paɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "相同的；偶数的；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "对；几个；偶数；"
+    },
+    {
+      "partOfSpeech": "f.pI.",
+      "translation": "胎盘"
+    }
+  ]
+},
+{
+  "word": "zapato",
+  "phonetic": "[θaIpato]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "鞋"
+    }
+  ]
+},
+{
+  "word": "sección",
+  "phonetic": "[s̺ekIθjon]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "切割；切口；断面；（分割开来的）部分；（文章的）章，节，段"
+    }
+  ]
+},
+{
+  "word": "alimento",
+  "phonetic": "[aIiImento]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "食物；养分；食粮；基础，因素；生活费，抚养金"
+    }
+  ]
+},
+{
+  "word": "barra",
+  "phonetic": "[Ibara]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "条，棒，杆；撬棒；锭；（自行车的）梁；(法庭旁听席)栏杆；酒吧柜台"
+    }
+  ]
+},
+{
+  "word": "kilo",
+  "phonetic": "[IkiIo]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "千克；公斤；"
+    }
+  ]
+},
+{
+  "word": "arroz",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "水稻, 稻米"
+    }
+  ]
+},
+{
+  "word": "aceite",
+  "phonetic": "[aIθejte]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "油"
+    }
+  ]
+},
+{
+  "word": "leche",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "奶；乳；牛奶；乳状液；乳状饮料"
+    }
+  ]
+},
+{
+  "word": "yogur",
+  "phonetic": "[ʝoIɣuɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "n.",
+      "translation": "酸牛奶"
+    }
+  ]
+},
+{
+  "word": "queso",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "乳酪，奶酪，干酪"
+    }
+  ]
+},
+{
+  "word": "mantequilla",
+  "phonetic": "[manteIkiʎa]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "黄油"
+    }
+  ]
+},
+{
+  "word": "mermelada",
+  "phonetic": "[meɾmeIIaða]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "果酱"
+    }
+  ]
+},
+{
+  "word": "recordar",
+  "phonetic": "[rekoɾIðaɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "记住，回忆起，提醒，使联想到"
+    }
+  ]
+},
+{
+  "word": "apuntar",
+  "phonetic": "[apunItaɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "弄尖；瞄准；朝着；针对；记录；登记；"
+    },
+    {
+      "partOfSpeech": "intr.",
+      "translation": "显露；发芽；"
+    },
+    {
+      "partOfSpeech": "prnI.",
+      "translation": "报名；获得"
+    }
+  ]
+},
+{
+  "word": "ancho",
+  "phonetic": "[Iaɲʧo]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "宽的；宽敞的；过宽的；轻松的；自满的；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "宽；宽度；幅面"
+    }
+  ]
+},
+{
+  "word": "barato",
+  "phonetic": "[baIɾato]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "廉价的；便宜的；不费力气的；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "廉价出售；廉价货摊；(赌博中的)抽头；"
+    },
+    {
+      "partOfSpeech": "adv.",
+      "translation": "便宜"
+    }
+  ]
+},
+{
+  "word": "calzoncillos",
+  "phonetic": "[kalθon'θiʎos̺]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "男用内裤"
+    }
+  ]
+},
+{
+  "word": "camisa",
+  "phonetic": "[ka'mis̺a]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "衬衫"
+    }
+  ]
+},
+{
+  "word": "caro",
+  "phonetic": "['kaɾo]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "昂贵的，贵重的"
+    }
+  ]
+},
+{
+  "word": "cara",
+  "phonetic": "['kaɾa]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "脸，面；面容；表情；脸色；"
+    },
+    {
+      "partOfSpeech": "adv.",
+      "translation": "脸向，面对"
+    }
+  ]
+},
+{
+  "word": "corto",
+  "phonetic": "['koɾto]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "短的，简短的；不足的"
+    }
+  ]
+},
+{
+  "word": "estrecho",
+  "phonetic": "[es̺'tɾeʧo]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "狭窄的；狭小的；紧的；挤的；亲密的；密切的；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "海峡"
+    }
+  ]
+},
+{
+  "word": "gorro",
+  "phonetic": "['goro]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "（无檐无舌的）帽子；（篮球）阻挡投篮"
+    }
+  ]
+},
+{
+  "word": "largo",
+  "phonetic": "['laɾɣo]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "长的；长久的；过长的；(个子)高的；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "长度；(布料)幅面；"
+    },
+    {
+      "partOfSpeech": "adv.",
+      "translation": "长时间地；"
+    },
+    {
+      "partOfSpeech": "interj.",
+      "translation": "滚；滚开"
+    }
+  ]
+},
+{
+  "word": "mes",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "月；月份；月经；月薪"
+    }
+  ]
+},
+{
+  "word": "contacto",
+  "phonetic": "[kon'takto]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "接触，联系"
+    }
+  ]
+},
+{
+  "word": "algún",
+  "phonetic": "[al'ɣun]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "(alguno的词尾省略形式，用于阳性单数名词前)某一"
+    }
+  ]
+},
+{
+  "word": "comentario",
+  "phonetic": "[komen'taɾjo]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "评论；评注；注释；历史回忆录"
+    }
+  ]
+},
+{
+  "word": "precisamente",
+  "phonetic": "[pɾeθis̺a'mente]",
+  "translations": [
+    {
+      "partOfSpeech": "adv.",
+      "translation": "必然地，恰巧地"
+    }
+  ]
+},
+{
+  "word": "sano",
+  "phonetic": "['s̺ano]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "健康的；卫生的；完好的；安全的"
+    }
+  ]
+},
+{
+  "word": "alegre",
+  "phonetic": "[a'leɣɾe]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "高兴的；令人愉快的；(颜色)鲜艳的；酒后兴奋的；不正经的；轻率的"
+    }
+  ]
+},
+{
+  "word": "educado",
+  "phonetic": "[eðu'kaðo]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "受过教育的；有教养的"
+    }
+  ]
+},
+{
+  "word": "aplicado",
+  "phonetic": "[apli'kaðo]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "应用的；实用的；勤奋的；"
+    }
+  ]
+},
+{
+  "word": "seguramente",
+  "phonetic": "[s̺eɣuɾa'mente]",
+  "translations": [
+    {
+      "partOfSpeech": "adv.",
+      "translation": "确实地；肯定地；极可能地"
+    }
+  ]
+},
+{
+  "word": "defecto",
+  "phonetic": "[de'fekto]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "欠缺，不足，不完美；缺点，缺陷，瑕疵；缺页；多页"
+    }
+  ]
+},
+{
+  "word": "precipitarse",
+  "phonetic": "[pɾeθipi'taɾs̺e]",
+  "translations": [
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "急忙，匆忙"
+    }
+  ]
+},
+{
+  "word": "poco a poco",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "",
+      "translation": "一点点；逐渐"
+    }
+  ]
+},
+{
+  "word": "problema",
+  "phonetic": "[pɾoβ'lema]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "问题；难题；习题；题目；"
+    }
+  ]
+},
+{
+  "word": "relacionado",
+  "phonetic": "[relaθjo'naðo]",
+  "translations": [
+    {
+      "partOfSpeech": "p.p.",
+      "translation": "和...有关"
+    }
+  ]
+},
+{
+  "word": "interesar",
+  "phonetic": "[inteɾe's̺aɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "使入股；使入伙；使参与；使感兴趣；关联；"
+    },
+    {
+      "partOfSpeech": "intr.",
+      "translation": "涉及；关于；"
+    },
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "感兴趣；有好感；关心；询问"
+    }
+  ]
+},
+{
+  "word": "franqueza",
+  "phonetic": "[fɾaŋ'keθa]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "免除；慷慨；坦白；直率；"
+    }
+  ]
+},
+{
+  "word": "interés",
+  "phonetic": "[inte'ɾes̺]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "兴趣；利益；"
+    }
+  ]
+},
+{
+  "word": "mejorar",
+  "phonetic": "[meχo'ɾaɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "改善；使(病人)好转；(拍卖中)加价；给 …额外遗产；胜过；"
+    },
+    {
+      "partOfSpeech": "intr.-prnl.",
+      "translation": "（天气、健康、处境、地位等）变好"
+    }
+  ]
+},
+{
+  "word": "pronunciación",
+  "phonetic": "[pɾonunθja'θjon]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "发音；发音法；发表(演说)；宣判"
+    }
+  ]
+},
+{
+  "word": "comprender",
+  "phonetic": "[kompɾen'deɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "包含；环绕；理解；谅解；"
+    }
+  ]
+},
+{
+  "word": "importancia",
+  "phonetic": "[impoɾ'tanθja]",
+  "translations": [
+    {
+      "partOfSpeech": "",
+      "translation": "重要性；重大"
+    }
+  ]
+},
+{
+  "word": "importante",
+  "phonetic": "[impoɾ'tante]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "重大的，重要的"
+    }
+  ]
+},
+{
+  "word": "mal",
+  "phonetic": "[mal]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "（malo 的短尾形式）坏的；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "坏事，不好；危害；不幸"
+    }
+  ]
+},
+{
+  "word": "pronunciar",
+  "phonetic": "[pɾonun'θjaɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "发音；说；发表；宣判；"
+    },
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "造反；起义；变明显；表示(支持或反对)；"
+    }
+  ]
+},
+{
+  "word": "signiﬁcar",
+  "phonetic": "[s̺iɣniﬁ'kaɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "意味着，标志着；表明；说明；"
+    },
+    {
+      "partOfSpeech": "intr.",
+      "translation": "有重要性；有作用；"
+    },
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "突出；引人注目；显示(态度等)"
+    }
+  ]
+},
+{
+  "word": "confundir",
+  "phonetic": "[koɱfun'diɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "混合；弄混；搞错；使模糊不清；使不在原处；搀和"
+    }
+  ]
+},
+{
+  "word": "constantemente",
+  "phonetic": "[kons̺tante'mente]",
+  "translations": [
+    {
+      "partOfSpeech": "adv.",
+      "translation": "持久不变地；确实地；经常地"
+    }
+  ]
+},
+{
+  "word": "catar",
+  "phonetic": "[ka'taɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "尝；尝试；割蜜"
+    }
+  ]
+},
+{
+  "word": "total",
+  "phonetic": "[to'tal]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "总的；全体的；全部的；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "总体；全体；全部；总数；总计；"
+    },
+    {
+      "partOfSpeech": "adv.",
+      "translation": "总之"
+    }
+  ]
+},
+{
+  "word": "dotar",
+  "phonetic": "[do'taɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "陪嫁；装备；赋予，给予；确定报酬"
+    }
+  ]
+},
+{
+  "word": "causar",
+  "phonetic": "[kaw's̺aɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "造成；引起"
+    }
+  ]
+},
+{
+  "word": "confusión",
+  "phonetic": "[koɱfu's̺jon]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "混乱；混淆；模糊不清；惊慌"
+    }
+  ]
+},
+{
+  "word": "nadie",
+  "phonetic": "['naðje]",
+  "translations": [
+    {
+      "partOfSpeech": "pron.",
+      "translation": "(用于否定句)任何人；无人；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "无关紧要的人；无足轻重的人"
+    }
+  ]
+},
+{
+  "word": "entender",
+  "phonetic": "[enten'deɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "理解；明白；懂；了解；认为；"
+    },
+    {
+      "partOfSpeech": "intr.",
+      "translation": "懂得；明白；负责；处理；"
+    },
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "自知；有原因；融洽；商议；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "看法，意见"
+    }
+  ]
+},
+{
+  "word": "razón",
+  "phonetic": "[ra'θon]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "理智；理性；理由；道理"
+    }
+  ]
+},
+{
+  "word": "adulto",
+  "phonetic": "[a'ðulto]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "成年的，成熟的；"
+    },
+    {
+      "partOfSpeech": "m.,f.",
+      "translation": "成年人"
+    }
+  ]
+},
+{
+  "word": "buscar",
+  "phonetic": "[bus̺'kaɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "寻求；谋求；追踪；寻衅"
+    }
+  ]
+},
+{
+  "word": "contar",
+  "phonetic": "[kon'taɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "数；算上；讲述, 叙述；"
+    },
+    {
+      "partOfSpeech": "intr.",
+      "translation": "重要；考虑到；拥有；信赖"
+    }
+  ]
+},
+{
+  "word": "cuento",
+  "phonetic": "['kwento]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "讲述；故事，笑话，短篇小说"
+    }
+  ]
+},
+{
+  "word": "encontrarse",
+  "phonetic": "[eŋkon'tɾaɾs̺e]",
+  "translations": [
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "相遇，相会；相碰，相撞"
+    }
+  ]
+},
+{
+  "word": "jugar",
+  "phonetic": "[χu'ɣaɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "intr.",
+      "translation": "游戏，玩耍；参加体育比赛；赌博；当儿戏；"
+    },
+    {
+      "partOfSpeech": "tr.",
+      "translation": "玩(牌)；赌；活动(肢体)；"
+    }
+  ]
+},
+{
+  "word": "calle",
+  "phonetic": "['kaʎe]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "街道；(一条街上的)居民；通道；小区"
+    }
+  ]
+},
+{
+  "word": "peligroso",
+  "phonetic": "[peli'ɣɾos̺o]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "危险的"
+    }
+  ]
+},
+{
+  "word": "solución",
+  "phonetic": "[s̺olu'θjon]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "溶解，溶液；解决，解决办法；答案；结局；"
+    }
+  ]
+},
+{
+  "word": "televisión",
+  "phonetic": "[teleβi's̺jon]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "电视系统；电视技术；电视，电视机"
+    }
+  ]
+},
+{
+  "word": "programa",
+  "phonetic": "[pɾo'ɣɾama]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "节目单，节目，表演；计划，方案；纲领"
+    }
+  ]
+},
+{
+  "word": "televisor",
+  "phonetic": "[teleβi's̺oɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "电视机，电视接收机"
+    }
+  ]
+},
+{
+  "word": "volumen",
+  "phonetic": "[bo'lumen]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "册，卷；体积；容量；（水的）流量；音量"
+    }
+  ]
+},
+{
+  "word": "jardín",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "花园，公园"
+    }
+  ]
+},
+{
+  "word": "regar",
+  "phonetic": "[re'ɣaɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "浇水；往 …上洒水；(河流)流过；洒"
+    }
+  ]
+},
+{
+  "word": "barro",
+  "phonetic": "['baro]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "泥；黏土；芳香粘土器皿；价值不大之物；耻辱；粉刺"
+    }
+  ]
+},
+{
+  "word": "ensuciarse",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "弄脏；"
+    },
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "弄脏；大小便排泄在床上"
+    }
+  ]
+},
+{
+  "word": "lugar",
+  "phonetic": "[lu'ɣaɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "地方；地点；地位；坐位；名次"
+    }
+  ]
+},
+{
+  "word": "estorbar",
+  "phonetic": "[es̺toɾ'βaɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "阻碍；妨碍；阻止；阻挡；烦扰，使不舒服"
+    }
+  ]
+},
+{
+  "word": "mamá",
+  "phonetic": "[ma'ma]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "妈妈"
+    }
+  ]
+},
+{
+  "word": "ruido",
+  "phonetic": "['rwiðo]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "声音；声响；噪声；争吵，争论；声张；新闻；反响"
+    }
+  ]
+},
+{
+  "word": "variar",
+  "phonetic": "[ba'ɾjaɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "改变，使发生变化；变换，使多样化；"
+    },
+    {
+      "partOfSpeech": "intr.",
+      "translation": "有变化；不同于"
+    }
+  ]
+},
+{
+  "word": "según",
+  "phonetic": "[s̺e'ɣun]",
+  "translations": [
+    {
+      "partOfSpeech": "prep.",
+      "translation": "根据；依照；"
+    },
+    {
+      "partOfSpeech": "adv.",
+      "translation": "看情况而定；随着；如同；"
+    }
+  ]
+},
+{
+  "word": "cultura",
+  "phonetic": "[kul'tuɾa]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "文化；文明"
+    }
+  ]
+},
+{
+  "word": "pueblo",
+  "phonetic": "['pweβlo]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "村镇；人民；平民；居民；民族；"
+    }
+  ]
+},
+{
+  "word": "comportamiento",
+  "phonetic": "[kompoɾta'mjento]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "举止；行为；"
+    }
+  ]
+},
+{
+  "word": "considerar",
+  "phonetic": "[kons̺iðe'ɾaɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "考虑；权衡；想着，记着；认为；尊重"
+    }
+  ]
+},
+{
+  "word": "normal",
+  "phonetic": "[noɾ'mal]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "规格的；正常的；(线)正交的；师范教育的；"
+    }
+  ]
+},
+{
+  "word": "resultar",
+  "phonetic": "[res̺ul'taɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "intr.",
+      "translation": "结果是，产生，合算，合适"
+    }
+  ]
+},
+{
+  "word": "chocante",
+  "phonetic": "[ʧo'kante]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "相撞的；奇妙的；讨厌的；"
+    }
+  ]
+},
+{
+  "word": "habla",
+  "phonetic": "['aβla]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "说话能力；说话；讲话方式；语言；交谈"
+    }
+  ]
+},
+{
+  "word": "consejo",
+  "phonetic": "[kon's̺eχo]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "劝告，建议；决定；委员会；最高法院；咨询机关"
+    }
+  ]
+},
+{
+  "word": "conﬁanza",
+  "phonetic": "[koɱ'fjanθa]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "信任；信心；自信；自负；随便"
+    }
+  ]
+},
+{
+  "word": "salario",
+  "phonetic": "[s̺a'laɾjo]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "工资，薪水"
+    }
+  ]
+},
+{
+  "word": "casar",
+  "phonetic": "[ka's̺aɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "主婚，主持婚礼；办婚事；使吻合，使协调；"
+    },
+    {
+      "partOfSpeech": "intr.",
+      "translation": "结婚；吻合"
+    }
+  ]
+},
+{
+  "word": "casarse",
+  "phonetic": "[ka's̺aɾs̺e]",
+  "translations": [
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "结婚"
+    }
+  ]
+},
+{
+  "word": "aspecto",
+  "phonetic": "[as̺'pekto]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "外表；面容；脸色；方面；"
+    }
+  ]
+},
+{
+  "word": "telefonear",
+  "phonetic": "[telefone'aɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "打电话给；用电话传送；"
+    },
+    {
+      "partOfSpeech": "intr.",
+      "translation": "打电话；通电话；"
+    }
+  ]
+},
+{
+  "word": "elogiar",
+  "phonetic": "[elo'χjaɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "称赞；夸奖"
+    }
+  ]
+},
+{
+  "word": "en vez de",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "",
+      "translation": "而不是..."
+    }
+  ]
+},
+{
+  "word": "sencillamente",
+  "phonetic": "[s̺enθiʎa'mente]",
+  "translations": [
+    {
+      "partOfSpeech": "adv.",
+      "translation": "简单地"
+    }
+  ]
+},
+{
+  "word": "agradecer",
+  "phonetic": "[aɣɾaðe'θeɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "感激；感谢；报答"
+    }
+  ]
+},
+{
+  "word": "enseguida",
+  "phonetic": "[ens̺e'ɣiða]",
+  "translations": [
+    {
+      "partOfSpeech": "adv.",
+      "translation": "立即；马上；…之后…就"
+    }
+  ]
+},
+{
+  "word": "olvidar",
+  "phonetic": "[olβi'ðaɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "忘；忘记；"
+    },
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "忘记"
+    }
+  ]
+},
+{
+  "word": "olvidarse",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "忘；忘记；"
+    },
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "忘记"
+    }
+  ]
+},
+{
+  "word": "evitar",
+  "phonetic": "[eβi'taɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "防止；避免；避开；躲避；"
+    },
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "省得"
+    }
+  ]
+},
+{
+  "word": "advertencia",
+  "phonetic": "[aðβeɾ'tenθja]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "提醒；警惕；警觉；劝告；前言；通告；"
+    }
+  ]
+},
+{
+  "word": "guía",
+  "phonetic": "['gia]",
+  "translations": [
+    {
+      "partOfSpeech": "m.,f.",
+      "translation": "导游；引导者；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "自行车把；"
+    },
+    {
+      "partOfSpeech": "f.",
+      "translation": "要领，准则；宗旨；指南"
+    }
+  ]
+},
+{
+  "word": "furgoneta",
+  "phonetic": "[fuɾɣo'neta]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "厢式送货车；厢式旅行车"
+    }
+  ]
+},
+{
+  "word": "acercar",
+  "phonetic": "[aθeɾ'kaɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "靠近；放近；"
+    },
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "靠近；临近；即将来临；"
+    }
+  ]
+},
+{
+  "word": "acercarse",
+  "phonetic": "[aθeɾ'kaɾs̺e]",
+  "translations": [
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "移近，靠近，走近"
+    }
+  ]
+},
+{
+  "word": "parque",
+  "phonetic": "['paɾke]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "公园；（限制幼儿活动范围用的）活动拦杆；停车场"
+    }
+  ]
+},
+{
+  "word": "natural",
+  "phonetic": "[natu'ɾal]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "自然界的；天然的；天生的；坦然的；纯朴的；正常的；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "本性；(动物的)本能；袓国"
+    }
+  ]
+},
+{
+  "word": "africano",
+  "phonetic": "[afɾi'kano]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "非洲的；"
+    },
+    {
+      "partOfSpeech": "m.,f.",
+      "translation": "非洲人"
+    }
+  ]
+},
+{
+  "word": "grupo",
+  "phonetic": "[gɾupo]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "群，组，班"
+    }
+  ]
+},
+{
+  "word": "ﬁera",
+  "phonetic": "['fjeɾa]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "野兽；残忍的人；脾气暴躁的人"
+    }
+  ]
+},
+{
+  "word": "asomarse",
+  "phonetic": "[as̺o'maɾs̺e]",
+  "translations": [
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "探头，探身"
+    }
+  ]
+},
+{
+  "word": "ventanilla",
+  "phonetic": "[benta'niʎa]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "小窗；窗口；车窗；鼻孔"
+    }
+  ]
+},
+{
+  "word": "foto",
+  "phonetic": "['foto]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "照片"
+    }
+  ]
+},
+{
+  "word": "dentro de",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "",
+      "translation": "在里面"
+    }
+  ]
+},
+{
+  "word": "detenerse",
+  "phonetic": "[dete'neɾs̺e]",
+  "translations": [
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "停住；耽搁"
+    }
+  ]
+},
+{
+  "word": "de vez en cuando",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "",
+      "translation": "时不时，偶尔"
+    }
+  ]
+},
+{
+  "word": "observar",
+  "phonetic": "[obs̺eɾ'βaɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "观察；注意；觉察；窥视；遵守"
+    }
+  ]
+},
+{
+  "word": "asustar",
+  "phonetic": "[as̺us̺'taɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "惊吓；吓唬；吓跑；使震惊"
+    },
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "吃惊；害怕；吓跑；感到震惊"
+    }
+  ]
+},
+{
+  "word": "asustarse",
+  "phonetic": "[as̺us̺'taɾs̺e]",
+  "translations": [
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "害怕"
+    }
+  ]
+},
+{
+  "word": "animal",
+  "phonetic": "[ani'mal]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "动物的；愚蠢的；粗野的；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "动物；牲畜"
+    }
+  ]
+},
+{
+  "word": "enfurecer",
+  "phonetic": "[eɱfuɾe'θeɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "使发怒；"
+    },
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "发怒；波浪翻滚；大风呼啸；"
+    }
+  ]
+},
+{
+  "word": "enfurecerse",
+  "phonetic": "[eɱfuɾe'θeɾs̺e]",
+  "translations": [
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "狂怒，暴怒，大发雷霆"
+    }
+  ]
+},
+{
+  "word": "demasiado",
+  "phonetic": "[dema's̺jaðo]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "过分的；过度的；"
+    },
+    {
+      "partOfSpeech": "adv.",
+      "translation": "太；过分地"
+    }
+  ]
+},
+{
+  "word": "amenazar",
+  "phonetic": "[amena'θaɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "威胁；恫吓；有发生 … 的迹象"
+    }
+  ]
+},
+{
+  "word": "proteger",
+  "phonetic": "[pɾote'χeɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "保护；支持，帮助；鼓励"
+    }
+  ]
+},
+{
+  "word": "arrojar",
+  "phonetic": "[aro'χaɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "扔；抛；驱逐；冒出；呕吐；长出；"
+    },
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "冲；扑；奋力，投身"
+    }
+  ]
+},
+{
+  "word": "atravesar",
+  "phonetic": "[atɾaβe's̺aɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "横放，横穿，穿过，穿透，使痛苦；"
+    },
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "横在中间；插话；反感；意外发生"
+    }
+  ]
+},
+{
+  "word": "león",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "【动】狮，雄狮"
+    }
+  ]
+},
+{
+  "word": "hiena",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "【动】鬣狗"
+    }
+  ]
+},
+{
+  "word": "longevo",
+  "phonetic": "[loŋ'χeβo]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "长寿的；长命的；高龄的；"
+    }
+  ]
+},
+{
+  "word": "pertenecer",
+  "phonetic": "[peɾtene'θeɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "intr.",
+      "translation": "属于 …所有；属于 …管；属 … 的职责；有关，关于"
+    }
+  ]
+},
+{
+  "word": "anciano",
+  "phonetic": "[an'θjano]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "年老的，上了年纪的，老年人的；"
+    },
+    {
+      "partOfSpeech": "-s",
+      "translation": "老人，老年人"
+    }
+  ]
+},
+{
+  "word": "pariente",
+  "phonetic": "[pa'ɾjente]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "相似的；"
+    },
+    {
+      "partOfSpeech": "m.,f.",
+      "translation": "亲属；亲戚；丈夫；妻子"
+    }
+  ]
+},
+{
+  "word": "fuerte",
+  "phonetic": "['fweɾte]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "结实的，牢固的；坚硬的；健壮的，强壮的；坚强的；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "堡垒，碉堡；"
+    },
+    {
+      "partOfSpeech": "adv.",
+      "translation": "用力地，使劲地"
+    }
+  ]
+},
+{
+  "word": "roble",
+  "phonetic": "['roβle]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "栎木；强壮的人；结实的东西"
+    }
+  ]
+},
+{
+  "word": "generación",
+  "phonetic": "[χeneɾa'θjon]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "生殖；生育；发生；辈；家系"
+    }
+  ]
+},
+{
+  "word": "incluir",
+  "phonetic": "[in'klwiɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "把 …放进；把 …列入；包括"
+    }
+  ]
+},
+{
+  "word": "numeroso",
+  "phonetic": "[nume'ɾos̺o]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "大量的"
+    }
+  ]
+},
+{
+  "word": "vital",
+  "phonetic": "[bi'tal]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "生命的；根本性的；主要的；充满活力的"
+    }
+  ]
+},
+{
+  "word": "activo",
+  "phonetic": "[ak'tiβo]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "活跃的；积极的；在活动中的；现行的；速效的；现役的；在职的；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "资产"
+    }
+  ]
+},
+{
+  "word": "practicante",
+  "phonetic": "[pɾakti'kante]",
+  "translations": [
+    {
+      "partOfSpeech": "m.,f.",
+      "translation": "实习生；实习医生"
+    }
+  ]
+},
+{
+  "word": "diverso",
+  "phonetic": "[di'βeɾs̺o]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "不相同的；另外的；多种多样的"
+    }
+  ]
+},
+{
+  "word": "prolongado",
+  "phonetic": "[pɾoloŋ'gaðo]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "延长了的；长时间的；持久的"
+    }
+  ]
+},
+{
+  "word": "existencia",
+  "phonetic": "[eks̺is̺'tenθja]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "存在；生命；（仓库、商店等的）货物"
+    }
+  ]
+},
+{
+  "word": "caracterizarse",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "使具有特性；扮演；描绘；化装；"
+    },
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "具有特点"
+    }
+  ]
+},
+{
+  "word": "longevidad",
+  "phonetic": "[loŋχeβi'ðað]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "长寿；长命"
+    }
+  ]
+},
+{
+  "word": "añadir",
+  "phonetic": "[aɲa'ðiɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "增加，追加，补充，加大"
+    }
+  ]
+},
+{
+  "word": "verdadero",
+  "phonetic": "[beɾða'ðeɾo]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "真实的；确实的；真正的；真诚的；"
+    }
+  ]
+},
+{
+  "word": "sorpresa",
+  "phonetic": "[s̺oɾ'pɾes̺a]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "惊奇；意想不到的事物；突袭，偷袭"
+    }
+  ]
+},
+{
+  "word": "o sea",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "adv.",
+      "translation": "亦即"
+    }
+  ]
+},
+{
+  "word": "bisabuelo",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "m.,f.",
+      "translation": "曾祖父；曾祖母；外曾祖父；外曾祖母"
+    }
+  ]
+},
+{
+  "word": "sobrepasar",
+  "phonetic": "[s̺oβɾepa's̺aɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "超过；超出"
+    }
+  ]
+},
+{
+  "word": "asilo",
+  "phonetic": "[a's̺ilo]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "收容所；救济院；收容，收留；避难所；避难；庇护；食虫虻"
+    }
+  ]
+},
+{
+  "word": "dotado",
+  "phonetic": "[do'taðo]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "具有 … 的，具备 … 的；有条件的，有才能的"
+    }
+  ]
+},
+{
+  "word": "enfermero",
+  "phonetic": "[eɱfeɾ'meɾo]",
+  "translations": [
+    {
+      "partOfSpeech": "m.,f.",
+      "translation": "看护，护士"
+    }
+  ]
+},
+{
+  "word": "personal",
+  "phonetic": "[peɾs̺o'nal]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "个人的，私人的；单人的；亲自的；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "【集】人员，职工"
+    }
+  ]
+},
+{
+  "word": "cuidar",
+  "phonetic": "[kwi'ðaɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "注意；照料；看护；担心；"
+    },
+    {
+      "partOfSpeech": "intr.",
+      "translation": "照料；看护；小心，当心；"
+    },
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "保养身体；警惕；防止"
+    }
+  ]
+},
+{
+  "word": "a pesar de",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "conj.",
+      "translation": "虽然；尽管；"
+    }
+  ]
+},
+{
+  "word": "avanzado",
+  "phonetic": "[aβan'θaðo]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "先进的；进步的；年迈的；"
+    }
+  ]
+},
+{
+  "word": "avanzada",
+  "phonetic": "[aβan'θaða]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "先头部队；尖兵"
+    }
+  ]
+},
+{
+  "word": "informar",
+  "phonetic": "[iɱfoɾ'maɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "通知；报告；答辩；使成形；"
+    },
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "调查；得知；获悉"
+    }
+  ]
+},
+{
+  "word": "actualidad",
+  "phonetic": "[aktwali'ðað]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "目前，现实，现状，时事"
+    }
+  ]
+},
+{
+  "word": "familiar",
+  "phonetic": "[fami'ljaɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "家庭的；家族的；熟悉的；不拘泥形式的；随便的；通俗的；"
+    },
+    {
+      "partOfSpeech": "m.,f.",
+      "translation": "家属；亲属"
+    }
+  ]
+},
+{
+  "word": "visitar",
+  "phonetic": "[bis̺i'taɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "拜访；参观；(医生)看病；出诊；视察；巡视；朝拜(庙宇、圣地等)；"
+    },
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "(病人)看病"
+    }
+  ]
+},
+{
+  "word": "conversar",
+  "phonetic": "[kombeɾ's̺aɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "intr.",
+      "translation": "交谈；交往；同居；"
+    },
+    {
+      "partOfSpeech": "tr.",
+      "translation": "讲述，叙述；"
+    }
+  ]
+},
+{
+  "word": "salvar",
+  "phonetic": "[s̺al'βaɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "拯救；救助；使摆脱；克服；走完；高出；把 …排除在外；"
+    },
+    {
+      "partOfSpeech": "intr.",
+      "translation": "(为帝王)尝饭菜；"
+    },
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "获救"
+    }
+  ]
+},
+{
+  "word": "cierto",
+  "phonetic": "['θjeɾto]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "真实的；确信的；某个；某些(用在名词前)；有点；"
+    },
+    {
+      "partOfSpeech": "adv.",
+      "translation": "对；确实"
+    }
+  ]
+},
+{
+  "word": "inconveniente",
+  "phonetic": "[iŋkombe'njente]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "不合适的；不适宜的；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "不方便；障碍；不利"
+    }
+  ]
+},
+{
+  "word": "lentamente",
+  "phonetic": "[lenta'mente]",
+  "translations": [
+    {
+      "partOfSpeech": "",
+      "translation": "慢"
+    }
+  ]
+},
+{
+  "word": "tratar",
+  "phonetic": "[tɾa'taɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "对待，接待，招待，处置，治疗，交往，称呼；"
+    },
+    {
+      "partOfSpeech": "intr.",
+      "translation": "谈论，涉及；做买卖；试图；"
+    },
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "举止表现；说的是，指的是"
+    }
+  ]
+},
+{
+  "word": "paciencia",
+  "phonetic": "[pa'θjenθja]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "耐心；忍耐；缓慢；"
+    },
+    {
+      "partOfSpeech": "interj.",
+      "translation": "耐心点，忍耐点吧"
+    }
+  ]
+},
+{
+  "word": "acompañar",
+  "phonetic": "[akompa'ɲaɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "伴同；随行；附加；具有；分享；分担；伴奏；"
+    },
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "会商"
+    }
+  ]
+},
+{
+  "word": "visitante",
+  "phonetic": "[bis̺i'tante]",
+  "translations": [
+    {
+      "partOfSpeech": "m.,f.",
+      "translation": "来访者；来客；参观者；游览者；观光者"
+    }
+  ]
+},
+{
+  "word": "voz",
+  "phonetic": "[boθ]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "声音；嗓音；音值；喊叫"
+    }
+  ]
+},
+{
+  "word": "bajo",
+  "phonetic": "['baχo]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "低的，矮的，低洼的；"
+    },
+    {
+      "partOfSpeech": "adv.",
+      "translation": "在下面，低声的；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "低处，低层；"
+    },
+    {
+      "partOfSpeech": "prep.",
+      "translation": "在...之下"
+    }
+  ]
+},
+{
+  "word": "saludar",
+  "phonetic": "[s̺alu'ðaɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "招呼，致意，庆贺"
+    }
+  ]
+},
+{
+  "word": "guapo",
+  "phonetic": "['gwapo]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "漂亮的；好看的；勇敢的；"
+    },
+    {
+      "partOfSpeech": "m.,f.",
+      "translation": "帅哥；美女"
+    }
+  ]
+},
+{
+  "word": "campo",
+  "phonetic": "['kampo]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "旷野；农村；平川；田地；庄稼；场地；领域；范围"
+    }
+  ]
+},
+{
+  "word": "débil",
+  "phonetic": "['deβil]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "虚弱的，体弱的，懦弱的；"
+    },
+    {
+      "partOfSpeech": "m., f.",
+      "translation": "弱者，软弱的人"
+    }
+  ]
+},
+{
+  "word": "difícil",
+  "phonetic": "[di'ﬁθil]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "困难的"
+    }
+  ]
+},
+{
+  "word": "enfermo",
+  "phonetic": "[eɱ'feɾmo]",
+  "translations": [
+    {
+      "partOfSpeech": "m., f.",
+      "translation": "病人，患者；"
+    },
+    {
+      "partOfSpeech": "adj.",
+      "translation": "有病的，生病的"
+    }
+  ]
+},
+{
+  "word": "escuchar",
+  "phonetic": "[es̺ku'ʧaɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "听；倾听；听从；"
+    },
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "得意地讲话"
+    }
+  ]
+},
+{
+  "word": "gen",
+  "phonetic": "['χen]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "基因"
+    }
+  ]
+},
+{
+  "word": "moreno",
+  "phonetic": "[mo'ɾeno]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "褐色的；棕色的；黝黑的；(白种人中)皮肤黝黑的；黑发的；黑种的；"
+    },
+    {
+      "partOfSpeech": "m.,f.",
+      "translation": "黑种人"
+    }
+  ]
+},
+{
+  "word": "serio",
+  "phonetic": "['s̺eɾjo]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "严肃的；认真的；当真的；严重的；令人担心的；重要的；"
+    }
+  ]
+},
+{
+  "word": "simpático",
+  "phonetic": "[s̺im'patiko]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "同情的；使人有好感的；可亲的"
+    }
+  ]
+},
+{
+  "word": "despedida",
+  "phonetic": "[des̺pe'ðiða]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "告别；送别；欢送会；辞别的话；(民歌的)结尾"
+    }
+  ]
+},
+{
+  "word": "irse",
+  "phonetic": "['iɾs̺e]",
+  "translations": [
+    {
+      "partOfSpeech": "intr.",
+      "translation": "走开；走掉；离去"
+    }
+  ]
+},
+{
+  "word": "triste",
+  "phonetic": "['tɾis̺te]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "悲伤的，忧伤的，凄凉的，悲惨的，阴暗的"
+    }
+  ]
+},
+{
+  "word": "graduarse",
+  "phonetic": "[gɾa'ðwaɾs̺e]",
+  "translations": [
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "毕业"
+    }
+  ]
+},
+{
+  "word": "cargo",
+  "phonetic": "['kaɾɣo]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "装载；负担；职务；借方；义务；指责；管理"
+    }
+  ]
+},
+{
+  "word": "ministerio",
+  "phonetic": "[minis̺'teɾjo]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "职务；职能；(政府的)部；办公大楼；部长职务"
+    }
+  ]
+},
+{
+  "word": "relación",
+  "phonetic": "[rela'θjon]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "关系；交往；叙述；熟人"
+    }
+  ]
+},
+{
+  "word": "exterior",
+  "phonetic": "[eks̺te'ɾjoɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "外部的；外表的；对外的；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "外部；外表；容貌；外国；(电影)外景"
+    }
+  ]
+},
+{
+  "word": "Bolivia",
+  "phonetic": "[bo'liβja]",
+  "translations": [
+    {
+      "partOfSpeech": "专有名词",
+      "translation": "玻利维亚"
+    }
+  ]
+},
+{
+  "word": "funcionario",
+  "phonetic": "[funθjo'naɾjo]",
+  "translations": [
+    {
+      "partOfSpeech": "m.,f.",
+      "translation": "官员；公务员"
+    }
+  ]
+},
+{
+  "word": "embajada",
+  "phonetic": "[emba'χaða]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "函件；大使职务；大使馆；大使馆全体成员；恼人的事"
+    }
+  ]
+},
+{
+  "word": "acreditado",
+  "phonetic": "[akɾeði'taðo]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "信誉卓著的；有名气的；被派驻的；被委任的；"
+    }
+  ]
+},
+{
+  "word": "La Paz",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "",
+      "translation": "拉巴斯（玻利维亚首都）"
+    }
+  ]
+},
+{
+  "word": "oportunidad",
+  "phonetic": "[opoɾtuni'ðað]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "及时性，适时性；合宜性，适当性；时机，机会"
+    }
+  ]
+},
+{
+  "word": "forma",
+  "phonetic": "['foɾma]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "形状；形式；方式；模子；字体；体型；"
+    }
+  ]
+},
+{
+  "word": "directo",
+  "phonetic": "[di'ɾekto]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "直的；直接的；直截了当的；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "(拳击的)正面击"
+    }
+  ]
+},
+{
+  "word": "costumbre",
+  "phonetic": "[kos̺'tumbɾe]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "习惯；习俗；常规"
+    }
+  ]
+},
+{
+  "word": "práctica",
+  "phonetic": "['pɾaktika]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "实践；练习；实习；熟练；习惯；"
+    }
+  ]
+},
+{
+  "word": "aprender",
+  "phonetic": "[apɾen'deɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "学习；学会；记住；觉察"
+    }
+  ]
+},
+{
+  "word": "envidiar",
+  "phonetic": "[embi'ðjaɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "妒忌；羡慕"
+    }
+  ]
+},
+{
+  "word": "desear",
+  "phonetic": "[des̺e'aɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "想要；希望；要求；祝愿；"
+    }
+  ]
+},
+{
+  "word": "tocar",
+  "phonetic": "[to'kaɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "摸，触，弹，奏，敲，打，吹，拉，碰；"
+    },
+    {
+      "partOfSpeech": "intr.",
+      "translation": "轮到；摊到；该是(做…)的时候了；有亲戚关系；涉及；"
+    },
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "盖住头部"
+    }
+  ]
+},
+{
+  "word": "suerte",
+  "phonetic": "['s̺weɾte]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "运气；命运；巧合；抽签；算命；彩票；等级"
+    }
+  ]
+},
+{
+  "word": "carrera",
+  "phonetic": "[ka'reɾa]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "跑；碎步；赶紧；赛跑；轨道"
+    }
+  ]
+},
+{
+  "word": "diplomacia",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "外交；外交界；交际手段"
+    }
+  ]
+},
+{
+  "word": "mientras",
+  "phonetic": "['mjentɾas̺]",
+  "translations": [
+    {
+      "partOfSpeech": "adv.",
+      "translation": "与 … 同时；当 …… 时候；只要"
+    }
+  ]
+},
+{
+  "word": "aeropuerto",
+  "phonetic": "[aeɾo'pweɾto]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "机场；航空港；"
+    }
+  ]
+},
+{
+  "word": "adiós",
+  "phonetic": "[a'ðjos̺]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "告别；分别；离别；"
+    },
+    {
+      "partOfSpeech": "interj.",
+      "translation": "再见! ；天啊! ；见鬼!"
+    }
+  ]
+},
+{
+  "word": "penoso",
+  "phonetic": "[pe'nos̺o]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "艰苦的，令人难忘的，害羞的"
+    }
+  ]
+},
+{
+  "word": "motivo",
+  "phonetic": "[mo'tiβo]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "使动的，能动的；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "动机；目的；借口；(文艺作品的)主题；旋律"
+    }
+  ]
+},
+{
+  "word": "iniciar",
+  "phonetic": "[ini'θjaɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "开始，开创；启蒙；接收（某人）参加（秘密团体、活动等)"
+    }
+  ]
+},
+{
+  "word": "animar",
+  "phonetic": "[ani'maɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "使有生命；鼓舞；使有精神；使活跃；使生动；"
+    },
+    {
+      "partOfSpeech": "intr.",
+      "translation": "生活，生存；"
+    },
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "鼓起勇气；振作；高兴"
+    }
+  ]
+},
+{
+  "word": "prometer",
+  "phonetic": "[pɾome'teɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "许诺；保证；肯定，断言；预示；"
+    },
+    {
+      "partOfSpeech": "intr.",
+      "translation": "有出息；"
+    },
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "期望；允婚"
+    }
+  ]
+},
+{
+  "word": "impresión",
+  "phonetic": "[impɾe's̺jon]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "印刷；印刷品；痕迹；感受"
+    }
+  ]
+},
+{
+  "word": "divertirse",
+  "phonetic": "[diβeɾ'tiɾs̺e]",
+  "translations": [
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "娱乐"
+    }
+  ]
+},
+{
+  "word": "promesa",
+  "phonetic": "[pɾo'mes̺a]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "许诺；诺言；保证；吉兆；"
+    }
+  ]
+},
+{
+  "word": "mandar",
+  "phonetic": "[man'daɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "命令；指挥；委托；寄送；派遣；遗赠；"
+    },
+    {
+      "partOfSpeech": "intr.",
+      "translation": "管理；治理；"
+    },
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "(病人)自理；(房间)相通"
+    }
+  ]
+},
+{
+  "word": "postal",
+  "phonetic": "[pos̺'tal]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "邮政的；"
+    },
+    {
+      "partOfSpeech": "f.",
+      "translation": "明信片"
+    }
+  ]
+},
+{
+  "word": "típico",
+  "phonetic": "['tipiko]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "典型的；代表性的；独特的；特有的；"
+    }
+  ]
+},
+{
+  "word": "paisaje",
+  "phonetic": "[paj's̺aχe]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "风景，景色，景物；田野；扇面；风景画"
+    }
+  ]
+},
+{
+  "word": "altiplano",
+  "phonetic": "[alti'plano]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "高原"
+    }
+  ]
+},
+{
+  "word": "boliviano",
+  "phonetic": "[boli'βjano]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "玻利维亚；"
+    },
+    {
+      "partOfSpeech": "m.,f.",
+      "translation": "玻利维亚人"
+    }
+  ]
+},
+{
+  "word": "deuda",
+  "phonetic": "['dewða]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "债务；欠款；未偿；罪过"
+    }
+  ]
+},
+{
+  "word": "deudor",
+  "phonetic": "[dew'ðoɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "欠债的；"
+    },
+    {
+      "partOfSpeech": "m.,f.",
+      "translation": "欠债人"
+    }
+  ]
+},
+{
+  "word": "anunciar",
+  "phonetic": "[anun'θjaɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "通知；预示；为 …作广告"
+    }
+  ]
+},
+{
+  "word": "salida",
+  "phonetic": "[s̺a'liða]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "出去，出来；出口，出口处；"
+    }
+  ]
+},
+{
+  "word": "avión",
+  "phonetic": "[a'βjon]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "飞机"
+    }
+  ]
+},
+{
+  "word": "vuelo",
+  "phonetic": "['bwelo]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "飞；飞行距离；(飞机)航程；航班；(翼羽；伸出部分"
+    }
+  ]
+},
+{
+  "word": "retraso",
+  "phonetic": "[re'tɾas̺o]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "迟到；晚点；延误；走慢；落后"
+    }
+  ]
+},
+{
+  "word": "raro",
+  "phonetic": "['raɾo]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "稀疏的；少有的；罕见的；奇特的；杰出的；古怪的；"
+    }
+  ]
+},
+{
+  "word": "ojalá",
+  "phonetic": "[oχa'la]",
+  "translations": [
+    {
+      "partOfSpeech": "",
+      "translation": "但愿；仅管"
+    }
+  ]
+},
+{
+  "word": "caracas",
+  "phonetic": "[ka'ɾakas̺]",
+  "translations": [
+    {
+      "partOfSpeech": "",
+      "translation": "加拉加斯（委内瑞拉首都）"
+    }
+  ]
+},
+{
+  "word": "preocuparse",
+  "phonetic": "[pɾeoku'paɾs̺e]",
+  "translations": [
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "关心，注意，担心"
+    }
+  ]
+},
+{
+  "word": "imaginarse",
+  "phonetic": "[imaχi'naɾs̺e]",
+  "translations": [
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "想象，以为，料想"
+    }
+  ]
+},
+{
+  "word": "negocio",
+  "phonetic": "[ne'ɣoθjo]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "生意；有利可图的事；事务；利润"
+    }
+  ]
+},
+{
+  "word": "asunto",
+  "phonetic": "[a's̺unto]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "事情；主题；生意；手段"
+    }
+  ]
+},
+{
+  "word": "desconocido",
+  "phonetic": "[des̺kono'θiðo]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "不认识的；不知名的；变化大的"
+    }
+  ]
+},
+{
+  "word": "discurso",
+  "phonetic": "[dis̺'kuɾs̺o]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "谈话；演讲；论文；祈祷文；思考；(时间的)推移"
+    }
+  ]
+},
+{
+  "word": "misión",
+  "phonetic": "[mi's̺jon]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "派遣；使命；职责；使团；传教；考察团"
+    }
+  ]
+},
+{
+  "word": "grato",
+  "phonetic": "['gɾato]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "令人高兴的；讨人喜欢的；感激的；感谢的"
+    }
+  ]
+},
+{
+  "word": "recién",
+  "phonetic": "[re'θjen]",
+  "translations": [
+    {
+      "partOfSpeech": "adv.",
+      "translation": "(用于过去分词之前)刚刚；不久前；新近"
+    }
+  ]
+},
+{
+  "word": "sorprender",
+  "phonetic": "[s̺oɾpɾen'deɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "使惊奇；撞见；捉住；发现"
+    }
+  ]
+},
+{
+  "word": "modernidad",
+  "phonetic": "[moðeɾni'ðað]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "现代性；现代特色；"
+    }
+  ]
+},
+{
+  "word": "urbano",
+  "phonetic": "[uɾ'βano]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "城市的；都市的；有礼貌的，有教养的"
+    }
+  ]
+},
+{
+  "word": "especialista",
+  "phonetic": "[es̺peθja'lis̺ta]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "专门的；专家的；"
+    },
+    {
+      "partOfSpeech": "m.,f.",
+      "translation": "专家"
+    }
+  ]
+},
+{
+  "word": "enseñanza",
+  "phonetic": "[ens̺e'ɲanθa]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "教育；教学；教训；教导"
+    }
+  ]
+},
+{
+  "word": "experiencia",
+  "phonetic": "[eks̺pe'ɾjenθja]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "经验；经历，阅历"
+    }
+  ]
+},
+{
+  "word": "Francia",
+  "phonetic": "['fɾanθja]",
+  "translations": [
+    {
+      "partOfSpeech": "n.",
+      "translation": "法国"
+    }
+  ]
+},
+{
+  "word": "docente",
+  "phonetic": "[do'θente]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "教育的，从事教育工作的"
+    }
+  ]
+},
+{
+  "word": "cultural",
+  "phonetic": "[kultu'ɾal]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "文化的；文明的；"
+    }
+  ]
+},
+{
+  "word": "diferente",
+  "phonetic": "[dife'ɾente]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "不同的；另外的；若干的"
+    }
+  ]
+},
+{
+  "word": "dominar",
+  "phonetic": "[domi'naɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "统治；支配；制止；抑制；掌握；精通；耸立；俯视；"
+    },
+    {
+      "partOfSpeech": "intr.",
+      "translation": "突出；占优势；"
+    },
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "抑制；自制"
+    }
+  ]
+},
+{
+  "word": "además",
+  "phonetic": "[aðe'mas̺]",
+  "translations": [
+    {
+      "partOfSpeech": "adv.",
+      "translation": "此外；而且；还；又"
+    }
+  ]
+},
+{
+  "word": "francés",
+  "phonetic": "[fɾan'θes̺]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "法国的；"
+    },
+    {
+      "partOfSpeech": "m.,f.",
+      "translation": "法国人"
+    }
+  ]
+},
+{
+  "word": "propósito",
+  "phonetic": "[pɾo'pos̺ito]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "企图，意图；目的，目标；题目，论题"
+    }
+  ]
+},
+{
+  "word": "ﬁn",
+  "phonetic": "[ﬁn]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "结束；目的；"
+    }
+  ]
+},
+{
+  "word": "semana",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "星期；周薪；周工资；七日(周、年、世纪)"
+    }
+  ]
+},
+{
+  "word": "historia",
+  "phonetic": "[is̺'toɾja]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "历史；史书；经历；故事；历史画；闲话"
+    }
+  ]
+},
+{
+  "word": "precolombino",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "哥伦布到达美洲以前的"
+    }
+  ]
+},
+{
+  "word": "inca",
+  "phonetic": "['iŋka]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "印加王公；"
+    },
+    {
+      "partOfSpeech": "m.,f.",
+      "translation": "印加人"
+    }
+  ]
+},
+{
+  "word": "maya",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "玛雅的；"
+    },
+    {
+      "partOfSpeech": "m.,f.",
+      "translation": "玛雅人；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "玛雅语；"
+    },
+    {
+      "partOfSpeech": "f.",
+      "translation": "（五朔节的）皇后；雏菊；穿滑稽服装的人"
+    }
+  ]
+},
+{
+  "word": "azteca",
+  "phonetic": "[aθ'teka]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "阿兹特克人的；阿兹特克语的；"
+    },
+    {
+      "partOfSpeech": "m.,f.",
+      "translation": "阿兹特克人；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "阿兹特克语"
+    }
+  ]
+},
+{
+  "word": "provechoso",
+  "phonetic": "[pɾoβe'ʧos̺o]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "有益的；有利的；有用的；"
+    }
+  ]
+},
+{
+  "word": "información",
+  "phonetic": "[iɱfoɾma'θjon]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "通知；报告；消息；情报；"
+    }
+  ]
+},
+{
+  "word": "profesional",
+  "phonetic": "[pɾofes̺jo'nal]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "职业的；职业性的；一贯的；"
+    },
+    {
+      "partOfSpeech": "m.,f.",
+      "translation": "从业人员"
+    }
+  ]
+},
+{
+  "word": "brazo",
+  "phonetic": "['bɾaθo]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "臂，手臂；前肢，前爪；扶手"
+    }
+  ]
+},
+{
+  "word": "Colombia",
+  "phonetic": "[ko'lombja]",
+  "translations": [
+    {
+      "partOfSpeech": "",
+      "translation": "哥伦比亚"
+    }
+  ]
+},
+{
+  "word": "dictar",
+  "phonetic": "[dik'taɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "口述；授意；启示；颁布；强加"
+    }
+  ]
+},
+{
+  "word": "plantear",
+  "phonetic": "[plante'aɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "筹划；建立；制定；提出；挑起；"
+    }
+  ]
+},
+{
+  "word": "decano",
+  "phonetic": "[de'kano]",
+  "translations": [
+    {
+      "partOfSpeech": "m.,f.",
+      "translation": "系主任；（社团等的）元老"
+    }
+  ]
+},
+{
+  "word": "asignar",
+  "phonetic": "[as̺iɣ'naɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "分配；指定；委派"
+    }
+  ]
+},
+{
+  "word": "fascinante",
+  "phonetic": "[fas̺θi'nante]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "迷人的；有极大吸引力的；"
+    }
+  ]
+},
+{
+  "word": "comienzo",
+  "phonetic": "[ko'mjenθo]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "开始；起源；"
+    }
+  ]
+},
+{
+  "word": "novato",
+  "phonetic": "[no'βato]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "新的；初到的；"
+    },
+    {
+      "partOfSpeech": "m.,f.",
+      "translation": "新手；生手；"
+    }
+  ]
+},
+{
+  "word": "semestre",
+  "phonetic": "[s̺e'mes̺tɾe]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "半年；学期；半年薪；半年汇编；"
+    }
+  ]
+},
+{
+  "word": "importar",
+  "phonetic": "[impoɾ'taɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "输入；进口；"
+    },
+    {
+      "partOfSpeech": "intr.",
+      "translation": "重要，奏紧，关系重大；"
+    }
+  ]
+},
+{
+  "word": "enriquecedor",
+  "phonetic": "[enrikeθe'ðoɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "使丰富的；使富裕的；"
+    }
+  ]
+},
+{
+  "word": "ponerse",
+  "phonetic": "[po'neɾs̺e]",
+  "translations": [
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "穿，戴；打扮；"
+    }
+  ]
+},
+{
+  "word": "nervioso",
+  "phonetic": "[neɾ'βjos̺o]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "神经的；神经质的；紧张不安的；多叶脉的"
+    }
+  ]
+},
+{
+  "word": "de todos modos",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "",
+      "translation": "无论如何；不管怎样"
+    }
+  ]
+},
+{
+  "word": "explicar",
+  "phonetic": "[eks̺pli'kaɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "解释；讲解；"
+    },
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "解释；明白；表达；"
+    }
+  ]
+},
+{
+  "word": "imposible",
+  "phonetic": "[impo's̺iβle]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "不可能的；难以实现的；无法交往的；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "不可能的事"
+    }
+  ]
+},
+{
+  "word": "inicio",
+  "phonetic": "[i'niθjo]",
+  "translations": [
+    {
+      "partOfSpeech": "",
+      "translation": "开端，起始"
+    }
+  ]
+},
+{
+  "word": "malo",
+  "phonetic": "['malo]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "坏的；有害的；损坏的；有病的；令人不快的；令人不舒服的；顽皮的；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "魔鬼"
+    }
+  ]
+},
+{
+  "word": "necesario",
+  "phonetic": "[neθe's̺aɾjo]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "必要的，必需的；必然的，必定的；"
+    }
+  ]
+},
+{
+  "word": "nombre",
+  "phonetic": "['nombɾe]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "名字；名称；名声"
+    }
+  ]
+},
+{
+  "word": "profesión",
+  "phonetic": "[pɾofe's̺jon]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "信奉；职业；"
+    }
+  ]
+},
+{
+  "word": "reunirse",
+  "phonetic": "[rew'niɾs̺e]",
+  "translations": [
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "会合；开会"
+    }
+  ]
+},
+{
+  "word": "útil",
+  "phonetic": "['util]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "有用的；能用的；有效的；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "用途；益处；用具；工具；"
+    }
+  ]
+},
+{
+  "word": "casado",
+  "phonetic": "[ka's̺aðo]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "已婚的"
+    },
+    {
+      "partOfSpeech": "m., f.",
+      "translation": "已婚者"
+    }
+  ]
+},
+{
+  "word": "inteligente",
+  "phonetic": "[inteli'χente]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "聪明的，有才智的；"
+    },
+    {
+      "partOfSpeech": "m.,f.",
+      "translation": "聪明人"
+    }
+  ]
+},
+{
+  "word": "formar",
+  "phonetic": "[foɾ'maɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "组织；组成；培养；"
+    },
+    {
+      "partOfSpeech": "intr.",
+      "translation": "在 …之列；"
+    },
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "成长"
+    }
+  ]
+},
+{
+  "word": "matrimonio",
+  "phonetic": "[matɾi'monjo]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "婚姻；夫妻；"
+    }
+  ]
+},
+{
+  "word": "público",
+  "phonetic": "['puβliko]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "公开的，人所共知的；公有的；公立的；公共的，公用的；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "公众，听众，观众"
+    }
+  ]
+},
+{
+  "word": "farmacéutico",
+  "phonetic": "[faɾma'θewtiko]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "药物的，药物学的；药用的，制药的；"
+    },
+    {
+      "partOfSpeech": "m.,f.",
+      "translation": "药剂师，药剂员；药商"
+    }
+  ]
+},
+{
+  "word": "administrar",
+  "phonetic": "[aðminis̺'tɾaɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "管理；治理；施行；给药；用药；给予(打击)；"
+    },
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "料理得当"
+    }
+  ]
+},
+{
+  "word": "farmacia",
+  "phonetic": "[faɾ'maθja]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "药物学；制药业；药房"
+    }
+  ]
+},
+{
+  "word": "pareja",
+  "phonetic": "[pa'ɾeχa]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "对，双；夫妻；伴侣，同伴"
+    }
+  ]
+},
+{
+  "word": "distinto",
+  "phonetic": "[dis̺'tinto]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "不相同的，不一样的，明显的"
+    }
+  ]
+},
+{
+  "word": "junto",
+  "phonetic": "['χunto]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "一起的，整个的，相接的，聚拢的；"
+    },
+    {
+      "partOfSpeech": "adv.",
+      "translation": "同时"
+    }
+  ]
+},
+{
+  "word": "junta",
+  "phonetic": "['χunta]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "会议；委员会；接口；接合处；(管道接合处或机件间的)衬垫"
+    }
+  ]
+},
+{
+  "word": "cualquiera",
+  "phonetic": "[kwal'kjeɾa]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.-pron. indet.",
+      "translation": "任何一个"
+    }
+  ]
+},
+{
+  "word": "doméstico",
+  "phonetic": "[do'mes̺tiko]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "家庭的；家养的；"
+    }
+  ]
+},
+{
+  "word": "cambiarse",
+  "phonetic": "[kam'bjaɾs̺e]",
+  "translations": [
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "换（衣服）"
+    }
+  ]
+},
+{
+  "word": "arreglar",
+  "phonetic": "[are'ɣlaɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "使遵照(规则)；使整洁；布置；打扮；处理；安排；商定；确定；解决；"
+    },
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "安排好；梳洗打扮；满足；设法对付；相处；按照…行事"
+    }
+  ]
+},
+{
+  "word": "reluciente",
+  "phonetic": "[relu'θjente]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "发光的；闪亮的；容光焕发的；"
+    }
+  ]
+},
+{
+  "word": "cansancio",
+  "phonetic": "[kan's̺anθjo]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "疲倦；劳累；厌烦；厌倦；"
+    }
+  ]
+},
+{
+  "word": "sonreír",
+  "phonetic": "[s̺onre'iɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "intr.",
+      "translation": "微笑；(生活、前途等)美满"
+    }
+  ]
+},
+{
+  "word": "satisfacción",
+  "phonetic": "[s̺atis̺fak'θjon]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "满意；满足；高兴；赔礼；赎罪；"
+    }
+  ]
+},
+{
+  "word": "aliñar",
+  "phonetic": "[ali'ɲaɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "妆扮；加调料，加作料"
+    }
+  ]
+},
+{
+  "word": "cacharro",
+  "phonetic": "[ka'ʧaro]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "（粗糙的)器具，盆盒罐罐；日用器物，家什，不值钱的东西；破烂货"
+    }
+  ]
+},
+{
+  "word": "utensilio",
+  "phonetic": "[uten's̺iljo]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "用具；器具；"
+    }
+  ]
+},
+{
+  "word": "sitio",
+  "phonetic": "['s̺itjo]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "地方；位置；包围；"
+    }
+  ]
+},
+{
+  "word": "fuego",
+  "phonetic": "['fweɣo]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "火；火灾；火力；烽火；灯塔；住户；热情；"
+    }
+  ]
+},
+{
+  "word": "cocinar",
+  "phonetic": "[koθi'naɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "烹饪；谋划"
+    }
+  ]
+},
+{
+  "word": "frase",
+  "phonetic": "['fɾas̺e]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "句子；短语；词组；习语；警句"
+    }
+  ]
+},
+{
+  "word": "repetir",
+  "phonetic": "[repe'tiɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "重复；重做；重说；仿效；"
+    },
+    {
+      "partOfSpeech": "intr.",
+      "translation": "再吃；(吃过的食物)留有余味"
+    }
+  ]
+},
+{
+  "word": "retrasarse",
+  "phonetic": "[retɾa's̺aɾs̺e]",
+  "translations": [
+    {
+      "partOfSpeech": "",
+      "translation": "迟延"
+    }
+  ]
+},
+{
+  "word": "pan",
+  "phonetic": "[pan]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "面包，馒头；面团；面包状物"
+    }
+  ]
+},
+{
+  "word": "pocilga",
+  "phonetic": "[po'θilɣa]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "猪圈；肮脏的地方"
+    }
+  ]
+},
+{
+  "word": "tranquilo",
+  "phonetic": "[tɾaŋ'kilo]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "平静的；安静的；宁静的；镇静的；漫不经心的；"
+    }
+  ]
+},
+{
+  "word": "cama",
+  "phonetic": "['kama]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "床；床位；窝"
+    }
+  ]
+},
+{
+  "word": "baño",
+  "phonetic": "['baɲo]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "洗澡；洗澡水；澡盆；溶液；糖衣"
+    }
+  ]
+},
+{
+  "word": "sábana",
+  "phonetic": "['s̺aβana]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "床单；被单；"
+    }
+  ]
+},
+{
+  "word": "toalla",
+  "phonetic": "[to'aʎa]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "毛巾；枕巾；毛巾布"
+    }
+  ]
+},
+{
+  "word": "tender",
+  "phonetic": "[ten'deɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "摊开；晾晒(湿衣服)；铺设；伸展；"
+    },
+    {
+      "partOfSpeech": "intr.",
+      "translation": "倾向；趋向；近似；"
+    },
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "平躺；奔驰；(庄稼)倒伏"
+    }
+  ]
+},
+{
+  "word": "seco",
+  "phonetic": "['s̺eko]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "干的；干燥的；干旱的；干枯的"
+    }
+  ]
+},
+{
+  "word": "seca",
+  "phonetic": "['s̺eka]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "干旱；旱季；沙滩，沙洲；结痂期；梗塞"
+    }
+  ]
+},
+{
+  "word": "estropear",
+  "phonetic": "[es̺tɾope'aɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "损坏；使难看；使失败；"
+    }
+  ]
+},
+{
+  "word": "especial",
+  "phonetic": "[es̺pe'θjal]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "特殊的；不同一般的；"
+    }
+  ]
+},
+{
+  "word": "receta",
+  "phonetic": "[re'θeta]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "药方；配方；办法；"
+    }
+  ]
+},
+{
+  "word": "olor",
+  "phonetic": "[o'loɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "气味；迹象；"
+    }
+  ]
+},
+{
+  "word": "agradable",
+  "phonetic": "[aɣɾa'ðaβle]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "令人愉快的；舒适的"
+    }
+  ]
+},
+{
+  "word": "sabor",
+  "phonetic": "[s̺a'βoɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "味道；香料，调料"
+    }
+  ]
+},
+{
+  "word": "chupar",
+  "phonetic": "[ʧu'paɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "吸；吸收；吮吸；逐渐消耗；"
+    },
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "消瘦；忍受"
+    }
+  ]
+},
+{
+  "word": "chuparse",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "吸；吸收；吮吸；逐渐消耗；"
+    },
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "消瘦；忍受；"
+    }
+  ]
+},
+{
+  "word": "dedo",
+  "phonetic": "['deðo]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "手指；脚趾；"
+    }
+  ]
+},
+{
+  "word": "encanto",
+  "phonetic": "[eŋ'kanto]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "着魔；魅力；讨人喜爱的人"
+    }
+  ]
+},
+{
+  "word": "cansar",
+  "phonetic": "[kan's̺aɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "使疲倦；使厌烦；使耗尽肥力；"
+    },
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "疲倦；厌倦"
+    }
+  ]
+},
+{
+  "word": "cansarse",
+  "phonetic": "[kan's̺aɾs̺e]",
+  "translations": [
+    {
+      "partOfSpeech": "",
+      "translation": "| → prnl. « de, con » 1.疲倦，疲劳，疲惫：  Se c..."
+    }
+  ]
+},
+{
+  "word": "desagradable",
+  "phonetic": "[des̺aɣɾa'ðaβle]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "令人不快的；难看的；"
+    }
+  ]
+},
+{
+  "word": "fruta",
+  "phonetic": "['fɾuta]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "水果"
+    }
+  ]
+},
+{
+  "word": "secar",
+  "phonetic": "[s̺e'kaɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "使干；弄干；擦干；使干枯；使干涸；"
+    },
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "消瘦；精神失常；干渴；"
+    }
+  ]
+},
+{
+  "word": "secarse",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "使干；弄干；擦干；使干枯；使干涸；"
+    },
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "消瘦；精神失常；干渴；"
+    }
+  ]
+},
+{
+  "word": "reparar",
+  "phonetic": "[repa'ɾaɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "修理；补救；挽回；恢复；"
+    },
+    {
+      "partOfSpeech": "intr.",
+      "translation": "停留；考虑；注意到；觉察；想起"
+    }
+  ]
+},
+{
+  "word": "Elena",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "n.",
+      "translation": "艾蕾娜（女子名）"
+    }
+  ]
+},
+{
+  "word": "novio",
+  "phonetic": "['noβjo]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "未婚夫，男朋友"
+    }
+  ]
+},
+{
+  "word": "qué va",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "",
+      "translation": "哪里，哪呦"
+    }
+  ]
+},
+{
+  "word": "solo",
+  "phonetic": "['s̺olo]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "唯一的；单独的；孤独的；"
+    },
+    {
+      "partOfSpeech": "adv.",
+      "translation": "仅仅；"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "独唱；独奏；独舞；"
+    }
+  ]
+},
+{
+  "word": "por la tarde",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "",
+      "translation": "下午；在下午"
+    }
+  ]
+},
+{
+  "word": "deporte",
+  "phonetic": "[de'poɾte]",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "体育运动"
+    }
+  ]
+},
+{
+  "word": "por la noche",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "adv.",
+      "translation": "晚上；在晚上"
+    }
+  ]
+},
+{
+  "word": "trabajo de casa",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "",
+      "translation": "作业"
+    }
+  ]
+},
+{
+  "word": "acostarse",
+  "phonetic": "[akos̺'taɾs̺e]",
+  "translations": [
+    {
+      "partOfSpeech": "intr.",
+      "translation": "躺在床上；卧病在床；"
+    },
+    {
+      "partOfSpeech": "adj.",
+      "translation": "卧床的；"
+    }
+  ]
+},
+{
+  "word": "once",
+  "phonetic": "['onθe]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "十一"
+    },
+    {
+      "partOfSpeech": "m.",
+      "translation": "足球队"
+    }
+  ]
+},
+{
+  "word": "estudiantil",
+  "phonetic": "[es̺tuðjan'til]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "学生的"
+    }
+  ]
+},
+{
+  "word": "aunque",
+  "phonetic": "['awŋke]",
+  "translations": [
+    {
+      "partOfSpeech": "conj.",
+      "translation": "虽然，尽管，即使"
+    }
+  ]
+},
+{
+  "word": "terminar",
+  "phonetic": "[teɾmi'naɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "结束；"
+    },
+    {
+      "partOfSpeech": "intr.",
+      "translation": "终于；(疾病)进入后期"
+    }
+  ]
+},
+{
+  "word": "cansado",
+  "phonetic": "[kan's̺aðo]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "疲劳的；厌烦的；使人疲劳的"
+    }
+  ]
+},
+{
+  "word": "todo el mundo",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "m.",
+      "translation": "所有人；全世界"
+    }
+  ]
+},
+{
+  "word": "copa",
+  "phonetic": "['kopa]",
+  "translations": [
+    {
+      "partOfSpeech": "f.",
+      "translation": "高脚杯，酒杯；奖杯"
+    }
+  ]
+},
+{
+  "word": "brindar",
+  "phonetic": "[bɾin'daɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "intr.",
+      "translation": "为 …祝酒；为 …干杯；奉献；"
+    },
+    {
+      "partOfSpeech": "tr.",
+      "translation": "给予；提供；"
+    },
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "自告奋勇"
+    }
+  ]
+},
+{
+  "word": "prestar",
+  "phonetic": "[pɾes̺'taɾ]",
+  "translations": [
+    {
+      "partOfSpeech": "tr.",
+      "translation": "借给；传染；提供；加以，予以；"
+    },
+    {
+      "partOfSpeech": "intr.",
+      "translation": "有用；够用；可以伸展；"
+    },
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "自愿；同意；可供"
+    }
+  ]
+},
+{
+  "word": "surtido",
+  "phonetic": "[s̺uɾ'tiðo]",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "得到供应的，各种各样的"
+    }
+  ]
+},
+{
+  "word": "hacer compras",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "",
+      "translation": "购物"
+    },
+    {
+      "partOfSpeech": "",
+      "translation": "买东西"
+    }
+  ]
+},
+{
+  "word": "en especial",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "",
+      "translation": "特别是，尤其是"
+    }
+  ]
+},
+{
+  "word": "al mismo tiempo",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "adv.",
+      "translation": "同时；一齐；"
+    },
+    {
+      "partOfSpeech": "conj.",
+      "translation": "而且；并且；"
+    }
+  ]
+},
+{
+  "word": "por ejemplo",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "",
+      "translation": "例如"
+    }
+  ]
+},
+{
+  "word": "prestar atención a",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "v.",
+      "translation": "注意；重视"
+    }
+  ]
+},
+{
+  "word": "tomar en cuenta",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "",
+      "translation": "销账；重视，着重"
+    }
+  ]
+},
+{
+  "word": "de modo que",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "",
+      "translation": "因此"
+    }
+  ]
+},
+{
+  "word": "ahora mismo",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "adv.",
+      "translation": "立即；马上；"
+    }
+  ]
+},
+{
+  "word": "de buenas a primeras",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "",
+      "translation": "一开始就；一下子就"
+    }
+  ]
+},
+{
+  "word": "por el momento",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "adv.",
+      "translation": "眼下；暂时"
+    }
+  ]
+},
+{
+  "word": "por ningún motivo",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "adv.",
+      "translation": "任何情况下不得"
+    }
+  ]
+},
+{
+  "word": "ni mucho menos",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "",
+      "translation": "更不要 ……"
+    }
+  ]
+},
+{
+  "word": "de ninguna manera",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "",
+      "translation": "无论如何不要 ……"
+    }
+  ]
+},
+{
+  "word": "así que",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "adv.",
+      "translation": "因此；所以；"
+    }
+  ]
+},
+{
+  "word": "tan pronto como",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "",
+      "translation": "一 ……就"
+    }
+  ]
+},
+{
+  "word": "disponer de",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "",
+      "translation": "拥有，支配"
+    }
+  ]
+},
+{
+  "word": "cada cual",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "每个"
+    },
+    {
+      "partOfSpeech": "pron.",
+      "translation": "每个人"
+    }
+  ]
+},
+{
+  "word": "instalarse",
+  "phonetic": "[ins̺ta'laɾs̺e]",
+  "translations": [
+    {
+      "partOfSpeech": "prnl.",
+      "translation": "安家，定居"
+    }
+  ]
+},
+{
+  "word": "por lo menos",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "adv.",
+      "translation": "至少；起码"
+    }
+  ]
+},
+{
+  "word": "raras veces",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "",
+      "translation": "很少几次"
+    }
+  ]
+},
+{
+  "word": "mayor parte",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "",
+      "translation": "大部分"
+    }
+  ]
+},
+{
+  "word": "en orden",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "adj.",
+      "translation": "整齐；有秩序"
+    }
+  ]
+},
+{
+  "word": "a punto",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "",
+      "translation": "准备就绪；及时地，恰是时候地"
+    }
+  ]
+},
+{
+  "word": "hacer falta",
+  "phonetic": "",
+  "translations": [
+    {
+      "partOfSpeech": "v.",
+      "translation": "必须；需要"
+    }
+  ]
+},
+{
+  "word": "",
+  "phonetic": "",
+  "translations": []
+}]
